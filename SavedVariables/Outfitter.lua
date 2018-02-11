@@ -9,9 +9,9 @@ gOutfitter_Settings = {
 		},
 		[3] = {
 			["Items"] = {
-				["Finger0Slot"] = {
-					["Name"] = "Rosewine Circle",
-					["Code"] = 13178,
+				["WristSlot"] = {
+					["Name"] = "Bracers of Ten Storms",
+					["Code"] = 16943,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -45,9 +45,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ChestSlot"] = {
-					["Name"] = "Breastplate of Ten Storms",
-					["Code"] = 16950,
+				["RangedSlot"] = {
+					["Name"] = "Totem of Sustaining",
+					["Code"] = 23200,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -69,9 +69,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["LegsSlot"] = {
-					["Name"] = "Empowered Leggings",
-					["Code"] = 19385,
+				["HandsSlot"] = {
+					["Name"] = "Taut Dragonhide Gloves",
+					["Code"] = 19390,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -81,15 +81,21 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["NeckSlot"] = {
-					["Name"] = "Tooth of Gnarr",
-					["Code"] = 13141,
+				["ShoulderSlot"] = {
+					["Name"] = "Earthfury Epaulets",
+					["Code"] = 16844,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["RangedSlot"] = {
-					["Name"] = "Totem of Sustaining",
-					["Code"] = 23200,
+				["ChestSlot"] = {
+					["Name"] = "Breastplate of Ten Storms",
+					["Code"] = 16950,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["Finger0Slot"] = {
+					["Name"] = "Rosewine Circle",
+					["Code"] = 13178,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -99,21 +105,15 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["WristSlot"] = {
-					["Name"] = "Bracers of Ten Storms",
-					["Code"] = 16943,
+				["NeckSlot"] = {
+					["Name"] = "Tooth of Gnarr",
+					["Code"] = 13141,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ShoulderSlot"] = {
-					["Name"] = "Earthfury Epaulets",
-					["Code"] = 16844,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["HandsSlot"] = {
-					["Name"] = "Taut Dragonhide Gloves",
-					["Code"] = 19390,
+				["LegsSlot"] = {
+					["Name"] = "Empowered Leggings",
+					["Code"] = 19385,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -124,10 +124,10 @@ gOutfitter_Settings = {
 		},
 		[5] = {
 			["Items"] = {
-				["Finger0Slot"] = {
-					["Name"] = "Rosewine Circle",
-					["Code"] = 13178,
-					["SubCode"] = 0,
+				["WristSlot"] = {
+					["Name"] = "Feral Bindings of the Whale",
+					["Code"] = 15306,
+					["SubCode"] = 1012,
 					["EnchantCode"] = 0,
 				},
 				["BackSlot"] = {
@@ -160,9 +160,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ChestSlot"] = {
-					["Name"] = "Embossed Leather Vest",
-					["Code"] = 2300,
+				["RangedSlot"] = {
+					["Name"] = "Small Throwing Knife",
+					["Code"] = 2947,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -184,9 +184,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["WaistSlot"] = {
-					["Name"] = "Mystic's Belt",
-					["Code"] = 14025,
+				["NeckSlot"] = {
+					["Name"] = "Tooth of Gnarr",
+					["Code"] = 13141,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -196,15 +196,21 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["LegsSlot"] = {
-					["Name"] = "Dredgemire Leggings",
-					["Code"] = 15450,
+				["ShoulderSlot"] = {
+					["Name"] = "Earthfury Epaulets",
+					["Code"] = 16844,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["RangedSlot"] = {
-					["Name"] = "Small Throwing Knife",
-					["Code"] = 2947,
+				["ChestSlot"] = {
+					["Name"] = "Embossed Leather Vest",
+					["Code"] = 2300,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["Finger0Slot"] = {
+					["Name"] = "Rosewine Circle",
+					["Code"] = 13178,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -214,21 +220,15 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["WristSlot"] = {
-					["Name"] = "Feral Bindings of the Whale",
-					["Code"] = 15306,
-					["SubCode"] = 1012,
-					["EnchantCode"] = 0,
-				},
-				["ShoulderSlot"] = {
-					["Name"] = "Earthfury Epaulets",
-					["Code"] = 16844,
+				["LegsSlot"] = {
+					["Name"] = "Dredgemire Leggings",
+					["Code"] = 15450,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["NeckSlot"] = {
-					["Name"] = "Tooth of Gnarr",
-					["Code"] = 13141,
+				["WaistSlot"] = {
+					["Name"] = "Mystic's Belt",
+					["Code"] = 14025,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -272,9 +272,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ChestSlot"] = {
-					["Name"] = "Embossed Leather Vest",
-					["Code"] = 2300,
+				["RangedSlot"] = {
+					["Name"] = "Small Throwing Knife",
+					["Code"] = 2947,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -296,39 +296,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ShoulderSlot"] = {
-					["Name"] = "Earthfury Epaulets",
-					["Code"] = 16844,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["SecondaryHandSlot"] = {
-					["Name"] = "Jambiya",
-					["Code"] = 2207,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["NeckSlot"] = {
-					["Name"] = "Tooth of Gnarr",
-					["Code"] = 13141,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["RangedSlot"] = {
-					["Name"] = "Small Throwing Knife",
-					["Code"] = 2947,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["WristSlot"] = {
-					["Name"] = "Feral Bindings of the Whale",
-					["Code"] = 15306,
-					["SubCode"] = 1012,
-					["EnchantCode"] = 0,
-				},
-				["LegsSlot"] = {
-					["Name"] = "Zombie Skin Leggings",
-					["Code"] = 3272,
+				["WaistSlot"] = {
+					["Name"] = "Mystic's Belt",
+					["Code"] = 14025,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -338,9 +308,39 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["WaistSlot"] = {
-					["Name"] = "Mystic's Belt",
-					["Code"] = 14025,
+				["SecondaryHandSlot"] = {
+					["Name"] = "Jambiya",
+					["Code"] = 2207,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["ChestSlot"] = {
+					["Name"] = "Embossed Leather Vest",
+					["Code"] = 2300,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["LegsSlot"] = {
+					["Name"] = "Zombie Skin Leggings",
+					["Code"] = 3272,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["WristSlot"] = {
+					["Name"] = "Feral Bindings of the Whale",
+					["Code"] = 15306,
+					["SubCode"] = 1012,
+					["EnchantCode"] = 0,
+				},
+				["NeckSlot"] = {
+					["Name"] = "Tooth of Gnarr",
+					["Code"] = 13141,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["ShoulderSlot"] = {
+					["Name"] = "Earthfury Epaulets",
+					["Code"] = 16844,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -384,9 +384,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["RangedSlot"] = {
-					["Name"] = "Totem of Life",
-					["Code"] = 22396,
+				["ChestSlot"] = {
+					["Name"] = "Breastplate of Ten Storms",
+					["Code"] = 16950,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -408,9 +408,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["HandsSlot"] = {
-					["Name"] = "Taut Dragonhide Gloves",
-					["Code"] = 19390,
+				["WaistSlot"] = {
+					["Name"] = "Grasp of the Old God",
+					["Code"] = 21582,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -420,21 +420,15 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["HeadSlot"] = {
-					["Name"] = "Stormcaller's Diadem",
-					["Code"] = 21372,
+				["LegsSlot"] = {
+					["Name"] = "Empowered Leggings",
+					["Code"] = 19385,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ChestSlot"] = {
-					["Name"] = "Breastplate of Ten Storms",
-					["Code"] = 16950,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["Finger0Slot"] = {
-					["Name"] = "Rosewine Circle",
-					["Code"] = 13178,
+				["RangedSlot"] = {
+					["Name"] = "Totem of Life",
+					["Code"] = 22396,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -444,15 +438,21 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["LegsSlot"] = {
-					["Name"] = "Empowered Leggings",
-					["Code"] = 19385,
+				["Finger0Slot"] = {
+					["Name"] = "Rosewine Circle",
+					["Code"] = 13178,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["WaistSlot"] = {
-					["Name"] = "Grasp of the Old God",
-					["Code"] = 21582,
+				["HeadSlot"] = {
+					["Name"] = "Stormcaller's Diadem",
+					["Code"] = 21372,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["HandsSlot"] = {
+					["Name"] = "Taut Dragonhide Gloves",
+					["Code"] = 19390,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -460,9 +460,9 @@ gOutfitter_Settings = {
 		},
 		[8] = {
 			["Items"] = {
-				["WristSlot"] = {
-					["Name"] = "Bracers of Ten Storms",
-					["Code"] = 16943,
+				["Finger0Slot"] = {
+					["Name"] = "Rosewine Circle",
+					["Code"] = 13178,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -496,9 +496,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ChestSlot"] = {
-					["Name"] = "Breastplate of Ten Storms",
-					["Code"] = 16950,
+				["RangedSlot"] = {
+					["Name"] = "Totem of Life",
+					["Code"] = 22396,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -520,9 +520,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["WaistSlot"] = {
-					["Name"] = "Grasp of the Old God",
-					["Code"] = 21582,
+				["HeadSlot"] = {
+					["Name"] = "Helmet of Ten Storms",
+					["Code"] = 16947,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -532,15 +532,21 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["LegsSlot"] = {
-					["Name"] = "Empowered Leggings",
-					["Code"] = 19385,
+				["HandsSlot"] = {
+					["Name"] = "Taut Dragonhide Gloves",
+					["Code"] = 19390,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["RangedSlot"] = {
-					["Name"] = "Totem of Life",
-					["Code"] = 22396,
+				["ChestSlot"] = {
+					["Name"] = "Breastplate of Ten Storms",
+					["Code"] = 16950,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["WristSlot"] = {
+					["Name"] = "Bracers of Ten Storms",
+					["Code"] = 16943,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -550,21 +556,15 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["Finger0Slot"] = {
-					["Name"] = "Rosewine Circle",
-					["Code"] = 13178,
+				["LegsSlot"] = {
+					["Name"] = "Empowered Leggings",
+					["Code"] = 19385,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["HandsSlot"] = {
-					["Name"] = "Taut Dragonhide Gloves",
-					["Code"] = 19390,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["HeadSlot"] = {
-					["Name"] = "Helmet of Ten Storms",
-					["Code"] = 16947,
+				["WaistSlot"] = {
+					["Name"] = "Grasp of the Old God",
+					["Code"] = 21582,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -608,9 +608,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["RangedSlot"] = {
-					["Name"] = "Totem of Life",
-					["Code"] = 22396,
+				["ChestSlot"] = {
+					["Name"] = "Breastplate of Ten Storms",
+					["Code"] = 16950,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -632,9 +632,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["HeadSlot"] = {
-					["Name"] = "Stormcaller's Diadem",
-					["Code"] = 21372,
+				["LegsSlot"] = {
+					["Name"] = "Empowered Leggings",
+					["Code"] = 19385,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -644,21 +644,15 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["HandsSlot"] = {
-					["Name"] = "Taut Dragonhide Gloves",
-					["Code"] = 19390,
+				["NeckSlot"] = {
+					["Name"] = "Amulet of the Fallen God",
+					["Code"] = 21712,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ChestSlot"] = {
-					["Name"] = "Breastplate of Ten Storms",
-					["Code"] = 16950,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["WristSlot"] = {
-					["Name"] = "Bracers of Ten Storms",
-					["Code"] = 16943,
+				["RangedSlot"] = {
+					["Name"] = "Totem of Life",
+					["Code"] = 22396,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -668,15 +662,21 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["NeckSlot"] = {
-					["Name"] = "Amulet of the Fallen God",
-					["Code"] = 21712,
+				["WristSlot"] = {
+					["Name"] = "Bracers of Ten Storms",
+					["Code"] = 16943,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["LegsSlot"] = {
-					["Name"] = "Empowered Leggings",
-					["Code"] = 19385,
+				["HandsSlot"] = {
+					["Name"] = "Taut Dragonhide Gloves",
+					["Code"] = 19390,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["HeadSlot"] = {
+					["Name"] = "Stormcaller's Diadem",
+					["Code"] = 21372,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -684,9 +684,9 @@ gOutfitter_Settings = {
 		},
 		[10] = {
 			["Items"] = {
-				["WristSlot"] = {
-					["Name"] = "Zombie Skin Bracers",
-					["Code"] = 3435,
+				["Finger0Slot"] = {
+					["Name"] = "",
+					["Code"] = 0,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -720,9 +720,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["RangedSlot"] = {
-					["Name"] = "Small Throwing Knife",
-					["Code"] = 2947,
+				["ChestSlot"] = {
+					["Name"] = "Scavenger Tunic",
+					["Code"] = 11851,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -744,9 +744,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["WaistSlot"] = {
-					["Name"] = "Old Leather Belt",
-					["Code"] = 2173,
+				["HeadSlot"] = {
+					["Name"] = "",
+					["Code"] = 0,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -756,15 +756,21 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["HandsSlot"] = {
-					["Name"] = "Flax Gloves",
-					["Code"] = 3275,
+				["NeckSlot"] = {
+					["Name"] = "",
+					["Code"] = 0,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ChestSlot"] = {
-					["Name"] = "Scavenger Tunic",
-					["Code"] = 11851,
+				["RangedSlot"] = {
+					["Name"] = "Small Throwing Knife",
+					["Code"] = 2947,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["WristSlot"] = {
+					["Name"] = "Zombie Skin Bracers",
+					["Code"] = 3435,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -774,21 +780,15 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["Finger0Slot"] = {
-					["Name"] = "",
-					["Code"] = 0,
+				["HandsSlot"] = {
+					["Name"] = "Flax Gloves",
+					["Code"] = 3275,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["NeckSlot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["HeadSlot"] = {
-					["Name"] = "",
-					["Code"] = 0,
+				["WaistSlot"] = {
+					["Name"] = "Old Leather Belt",
+					["Code"] = 2173,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -796,10 +796,10 @@ gOutfitter_Settings = {
 		},
 		[11] = {
 			["Items"] = {
-				["WristSlot"] = {
-					["Name"] = "Feral Bindings of the Whale",
-					["Code"] = 15306,
-					["SubCode"] = 1012,
+				["Finger0Slot"] = {
+					["Name"] = "",
+					["Code"] = 0,
+					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
 				["BackSlot"] = {
@@ -832,9 +832,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["RangedSlot"] = {
-					["Name"] = "Small Throwing Knife",
-					["Code"] = 2947,
+				["ChestSlot"] = {
+					["Name"] = "Scavenger Tunic",
+					["Code"] = 11851,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -856,39 +856,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["WaistSlot"] = {
-					["Name"] = "Lupine Cord of the Bear",
-					["Code"] = 15011,
-					["SubCode"] = 1181,
-					["EnchantCode"] = 0,
-				},
-				["ShirtSlot"] = {
-					["Name"] = "Thug Shirt",
-					["Code"] = 2105,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["HeadSlot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["ChestSlot"] = {
-					["Name"] = "Scavenger Tunic",
-					["Code"] = 11851,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["NeckSlot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["Finger0Slot"] = {
-					["Name"] = "",
-					["Code"] = 0,
+				["HandsSlot"] = {
+					["Name"] = "Flax Gloves",
+					["Code"] = 3275,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -898,10 +868,40 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["HandsSlot"] = {
-					["Name"] = "Flax Gloves",
-					["Code"] = 3275,
+				["ShirtSlot"] = {
+					["Name"] = "Thug Shirt",
+					["Code"] = 2105,
 					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["RangedSlot"] = {
+					["Name"] = "Small Throwing Knife",
+					["Code"] = 2947,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["WristSlot"] = {
+					["Name"] = "Feral Bindings of the Whale",
+					["Code"] = 15306,
+					["SubCode"] = 1012,
+					["EnchantCode"] = 0,
+				},
+				["NeckSlot"] = {
+					["Name"] = "",
+					["Code"] = 0,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["HeadSlot"] = {
+					["Name"] = "",
+					["Code"] = 0,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["WaistSlot"] = {
+					["Name"] = "Lupine Cord of the Bear",
+					["Code"] = 15011,
+					["SubCode"] = 1181,
 					["EnchantCode"] = 0,
 				},
 			},
@@ -944,9 +944,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ChestSlot"] = {
-					["Name"] = "Embossed Leather Vest",
-					["Code"] = 2300,
+				["RangedSlot"] = {
+					["Name"] = "Small Throwing Knife",
+					["Code"] = 2947,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -968,39 +968,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["NeckSlot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["SecondaryHandSlot"] = {
-					["Name"] = "Stiletto",
-					["Code"] = 2494,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["HeadSlot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["RangedSlot"] = {
-					["Name"] = "Small Throwing Knife",
-					["Code"] = 2947,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["Finger0Slot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["WaistSlot"] = {
-					["Name"] = "Mystic's Belt",
-					["Code"] = 14025,
+				["HandsSlot"] = {
+					["Name"] = "Flax Gloves",
+					["Code"] = 3275,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -1010,9 +980,39 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["HandsSlot"] = {
-					["Name"] = "Flax Gloves",
-					["Code"] = 3275,
+				["SecondaryHandSlot"] = {
+					["Name"] = "Stiletto",
+					["Code"] = 2494,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["ChestSlot"] = {
+					["Name"] = "Embossed Leather Vest",
+					["Code"] = 2300,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["WaistSlot"] = {
+					["Name"] = "Mystic's Belt",
+					["Code"] = 14025,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["Finger0Slot"] = {
+					["Name"] = "",
+					["Code"] = 0,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["HeadSlot"] = {
+					["Name"] = "",
+					["Code"] = 0,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["NeckSlot"] = {
+					["Name"] = "",
+					["Code"] = 0,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -1020,10 +1020,10 @@ gOutfitter_Settings = {
 		},
 		[13] = {
 			["Items"] = {
-				["Finger0Slot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
+				["WristSlot"] = {
+					["Name"] = "Feral Bindings of the Whale",
+					["Code"] = 15306,
+					["SubCode"] = 1012,
 					["EnchantCode"] = 0,
 				},
 				["BackSlot"] = {
@@ -1056,9 +1056,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["RangedSlot"] = {
-					["Name"] = "Small Throwing Knife",
-					["Code"] = 2947,
+				["ChestSlot"] = {
+					["Name"] = "Embossed Leather Vest",
+					["Code"] = 2300,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -1080,9 +1080,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["HandsSlot"] = {
-					["Name"] = "Gloves of the Fang",
-					["Code"] = 10413,
+				["NeckSlot"] = {
+					["Name"] = "",
+					["Code"] = 0,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -1092,79 +1092,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["SecondaryHandSlot"] = {
-					["Name"] = "Tail Spike",
-					["Code"] = 6448,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["ChestSlot"] = {
-					["Name"] = "Embossed Leather Vest",
-					["Code"] = 2300,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["WaistSlot"] = {
-					["Name"] = "Mystic's Belt",
-					["Code"] = 14025,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["WristSlot"] = {
-					["Name"] = "Feral Bindings of the Whale",
-					["Code"] = 15306,
-					["SubCode"] = 1012,
-					["EnchantCode"] = 0,
-				},
 				["HeadSlot"] = {
 					["Name"] = "",
 					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["NeckSlot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-			},
-		},
-		[14] = {
-			["Items"] = {
-				["Finger0Slot"] = {
-					["Name"] = "Forest Hoop of the Tiger",
-					["Code"] = 12011,
-					["SubCode"] = 684,
-					["EnchantCode"] = 0,
-				},
-				["BackSlot"] = {
-					["Name"] = "Cutthroat's Cape of the Monkey",
-					["Code"] = 15135,
-					["SubCode"] = 593,
-					["EnchantCode"] = 0,
-				},
-				["Trinket0Slot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["FeetSlot"] = {
-					["Name"] = "Excelsior Boots",
-					["Code"] = 4109,
-					["SubCode"] = 0,
-					["EnchantCode"] = 849,
-				},
-				["LegsSlot"] = {
-					["Name"] = "Panther Hunter Leggings",
-					["Code"] = 4108,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["Finger1Slot"] = {
-					["Name"] = "Seal of Sylvanas",
-					["Code"] = 6414,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -1174,80 +1104,38 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["Trinket1Slot"] = {
+				["Finger0Slot"] = {
 					["Name"] = "",
 					["Code"] = 0,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ShoulderSlot"] = {
-					["Name"] = "Archer's Shoulderpads of the Falcon",
-					["Code"] = 9863,
-					["SubCode"] = 254,
-					["EnchantCode"] = 0,
-				},
-				["MainHandSlot"] = {
-					["Name"] = "Sword of Hammerfall",
-					["Code"] = 4977,
+				["WaistSlot"] = {
+					["Name"] = "Mystic's Belt",
+					["Code"] = 14025,
 					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["NeckSlot"] = {
-					["Name"] = "Forest Pendant of the Wolf",
-					["Code"] = 12040,
-					["SubCode"] = 513,
 					["EnchantCode"] = 0,
 				},
 				["SecondaryHandSlot"] = {
-					["Name"] = "Swinetusk Shank",
-					["Code"] = 6691,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["ShirtSlot"] = {
-					["Name"] = "Thug Shirt",
-					["Code"] = 2105,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["ChestSlot"] = {
-					["Name"] = "Emblazoned Chestpiece",
-					["Code"] = 6396,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["HeadSlot"] = {
-					["Name"] = "Twilight Cowl of the Wolf",
-					["Code"] = 7432,
-					["SubCode"] = 525,
-					["EnchantCode"] = 0,
-				},
-				["WristSlot"] = {
-					["Name"] = "Glyphed Bracers",
-					["Code"] = 4059,
+					["Name"] = "Tail Spike",
+					["Code"] = 6448,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
 				["HandsSlot"] = {
-					["Name"] = "Tiger Hunter Gloves",
-					["Code"] = 4107,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["WaistSlot"] = {
-					["Name"] = "Ringtail Girdle",
-					["Code"] = 15587,
+					["Name"] = "Gloves of the Fang",
+					["Code"] = 10413,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
 			},
 		},
-		[15] = {
+		[14] = {
 			["Items"] = {
-				["Finger0Slot"] = {
-					["Name"] = "Forest Hoop of the Tiger",
-					["Code"] = 12011,
-					["SubCode"] = 684,
+				["WristSlot"] = {
+					["Name"] = "Glyphed Bracers",
+					["Code"] = 4059,
+					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
 				["BackSlot"] = {
@@ -1317,27 +1205,27 @@ gOutfitter_Settings = {
 					["EnchantCode"] = 0,
 				},
 				["HandsSlot"] = {
-					["Name"] = "Shadowskin Gloves",
-					["Code"] = 18238,
+					["Name"] = "Tiger Hunter Gloves",
+					["Code"] = 4107,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
 				["RangedSlot"] = {
-					["Name"] = "Wicked Throwing Dagger",
-					["Code"] = 15327,
+					["Name"] = "Small Throwing Knife",
+					["Code"] = 2947,
 					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["Finger0Slot"] = {
+					["Name"] = "Forest Hoop of the Tiger",
+					["Code"] = 12011,
+					["SubCode"] = 684,
 					["EnchantCode"] = 0,
 				},
 				["HeadSlot"] = {
 					["Name"] = "Twilight Cowl of the Wolf",
 					["Code"] = 7432,
 					["SubCode"] = 525,
-					["EnchantCode"] = 0,
-				},
-				["WristSlot"] = {
-					["Name"] = "Glyphed Bracers",
-					["Code"] = 4059,
-					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
 				["ShirtSlot"] = {
@@ -1354,12 +1242,124 @@ gOutfitter_Settings = {
 				},
 			},
 		},
+		[15] = {
+			["Items"] = {
+				["WristSlot"] = {
+					["Name"] = "Glyphed Bracers",
+					["Code"] = 4059,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["BackSlot"] = {
+					["Name"] = "Cutthroat's Cape of the Monkey",
+					["Code"] = 15135,
+					["SubCode"] = 593,
+					["EnchantCode"] = 0,
+				},
+				["Trinket0Slot"] = {
+					["Name"] = "",
+					["Code"] = 0,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["FeetSlot"] = {
+					["Name"] = "Excelsior Boots",
+					["Code"] = 4109,
+					["SubCode"] = 0,
+					["EnchantCode"] = 849,
+				},
+				["LegsSlot"] = {
+					["Name"] = "Panther Hunter Leggings",
+					["Code"] = 4108,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["Finger1Slot"] = {
+					["Name"] = "Seal of Sylvanas",
+					["Code"] = 6414,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["RangedSlot"] = {
+					["Name"] = "Wicked Throwing Dagger",
+					["Code"] = 15327,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["Trinket1Slot"] = {
+					["Name"] = "",
+					["Code"] = 0,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["ShoulderSlot"] = {
+					["Name"] = "Archer's Shoulderpads of the Falcon",
+					["Code"] = 9863,
+					["SubCode"] = 254,
+					["EnchantCode"] = 0,
+				},
+				["MainHandSlot"] = {
+					["Name"] = "Sword of Hammerfall",
+					["Code"] = 4977,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["NeckSlot"] = {
+					["Name"] = "Forest Pendant of the Wolf",
+					["Code"] = 12040,
+					["SubCode"] = 513,
+					["EnchantCode"] = 0,
+				},
+				["ShirtSlot"] = {
+					["Name"] = "Thug Shirt",
+					["Code"] = 2105,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["SecondaryHandSlot"] = {
+					["Name"] = "Swinetusk Shank",
+					["Code"] = 6691,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["ChestSlot"] = {
+					["Name"] = "Emblazoned Chestpiece",
+					["Code"] = 6396,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["Finger0Slot"] = {
+					["Name"] = "Forest Hoop of the Tiger",
+					["Code"] = 12011,
+					["SubCode"] = 684,
+					["EnchantCode"] = 0,
+				},
+				["HeadSlot"] = {
+					["Name"] = "Twilight Cowl of the Wolf",
+					["Code"] = 7432,
+					["SubCode"] = 525,
+					["EnchantCode"] = 0,
+				},
+				["HandsSlot"] = {
+					["Name"] = "Shadowskin Gloves",
+					["Code"] = 18238,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["WaistSlot"] = {
+					["Name"] = "Ringtail Girdle",
+					["Code"] = 15587,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+			},
+		},
 		[16] = {
 			["Name"] = "Rogue: Stealth",
 		},
 		[17] = {
 			["Items"] = {
-				["WristSlot"] = {
+				["Finger0Slot"] = {
 					["Name"] = "",
 					["Code"] = 0,
 					["SubCode"] = 0,
@@ -1389,9 +1389,9 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["ChestSlot"] = {
-					["Name"] = "Apprentice's Robe",
-					["Code"] = 6140,
+				["RangedSlot"] = {
+					["Name"] = "",
+					["Code"] = 0,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
@@ -1407,43 +1407,13 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
-				["RangedSlot"] = {
-					["Name"] = "",
-					["Code"] = 0,
+				["ChestSlot"] = {
+					["Name"] = "Apprentice's Robe",
+					["Code"] = 6140,
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
 				["SecondaryHandSlot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["LegsSlot"] = {
-					["Name"] = "Apprentice's Pants",
-					["Code"] = 1395,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["Finger0Slot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["NeckSlot"] = {
-					["Name"] = "",
-					["Code"] = 0,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["ShirtSlot"] = {
-					["Name"] = "Apprentice's Shirt",
-					["Code"] = 6096,
-					["SubCode"] = 0,
-					["EnchantCode"] = 0,
-				},
-				["ShoulderSlot"] = {
 					["Name"] = "",
 					["Code"] = 0,
 					["SubCode"] = 0,
@@ -1455,13 +1425,51 @@ gOutfitter_Settings = {
 					["SubCode"] = 0,
 					["EnchantCode"] = 0,
 				},
+				["WristSlot"] = {
+					["Name"] = "",
+					["Code"] = 0,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["ShoulderSlot"] = {
+					["Name"] = "",
+					["Code"] = 0,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["ShirtSlot"] = {
+					["Name"] = "Apprentice's Shirt",
+					["Code"] = 6096,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["NeckSlot"] = {
+					["Name"] = "",
+					["Code"] = 0,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
+				["LegsSlot"] = {
+					["Name"] = "Apprentice's Pants",
+					["Code"] = 1395,
+					["SubCode"] = 0,
+					["EnchantCode"] = 0,
+				},
 			},
 		},
 	},
+	["Version"] = 7,
 	["Options"] = {
 		["MinimapButtonAngle"] = -1.491355636964025,
 	},
-	["Version"] = 7,
+	["HideHelm"] = {
+		[16667] = false,
+		[13390] = false,
+		[12960] = true,
+		[16947] = true,
+		[7048] = true,
+		[0] = false,
+	},
 	["Outfits"] = {
 		["Partial"] = {
 			[1] = {
@@ -1470,21 +1478,21 @@ gOutfitter_Settings = {
 						["Name"] = "Tribal War Feathers of Fire Resistance",
 						["Code"] = 12960,
 						["SubCode"] = 1412,
-						["FireResist"] = 14,
 						["EnchantCode"] = 0,
+						["FireResist"] = 14,
 					},
 				},
 				["StatID"] = "FireResist",
-				["Name"] = "Fire Resist",
 				["CategoryID"] = "Partial",
+				["Name"] = "Fire Resist",
 			},
 			[2] = {
 				["Items"] = {
-					["WristSlot"] = {
-						["Name"] = "Loomguard Armbraces",
-						["Code"] = 13969,
+					["Finger0Slot"] = {
+						["Name"] = "Band of Mending",
+						["Code"] = 22334,
 						["SubCode"] = 0,
-						["Healing"] = 33,
+						["Healing"] = 31,
 						["EnchantCode"] = 0,
 					},
 					["BackSlot"] = {
@@ -1550,32 +1558,11 @@ gOutfitter_Settings = {
 						["Healing"] = 26,
 						["EnchantCode"] = 0,
 					},
-					["Finger0Slot"] = {
-						["Name"] = "Band of Mending",
-						["Code"] = 22334,
+					["WristSlot"] = {
+						["Name"] = "Loomguard Armbraces",
+						["Code"] = 13969,
 						["SubCode"] = 0,
-						["Healing"] = 31,
-						["EnchantCode"] = 0,
-					},
-					["ShoulderSlot"] = {
-						["Name"] = "Mantle of Lost Hope",
-						["Code"] = 22234,
-						["SubCode"] = 0,
-						["Healing"] = 26,
-						["EnchantCode"] = 0,
-					},
-					["WaistSlot"] = {
-						["Name"] = "Eyestalk Cord",
-						["Code"] = 18391,
-						["SubCode"] = 0,
-						["Healing"] = 35,
-						["EnchantCode"] = 0,
-					},
-					["LegsSlot"] = {
-						["Name"] = "Silvermoon Leggings",
-						["Code"] = 18378,
-						["SubCode"] = 0,
-						["Healing"] = 18,
+						["Healing"] = 33,
 						["EnchantCode"] = 0,
 					},
 					["NeckSlot"] = {
@@ -1585,10 +1572,31 @@ gOutfitter_Settings = {
 						["Healing"] = 33,
 						["EnchantCode"] = 0,
 					},
+					["LegsSlot"] = {
+						["Name"] = "Silvermoon Leggings",
+						["Code"] = 18378,
+						["SubCode"] = 0,
+						["Healing"] = 18,
+						["EnchantCode"] = 0,
+					},
+					["WaistSlot"] = {
+						["Name"] = "Eyestalk Cord",
+						["Code"] = 18391,
+						["SubCode"] = 0,
+						["Healing"] = 35,
+						["EnchantCode"] = 0,
+					},
+					["ShoulderSlot"] = {
+						["Name"] = "Mantle of Lost Hope",
+						["Code"] = 22234,
+						["SubCode"] = 0,
+						["Healing"] = 26,
+						["EnchantCode"] = 0,
+					},
 				},
 				["StatID"] = "Healing",
-				["CategoryID"] = "Partial",
 				["Name"] = "Max Healing",
+				["CategoryID"] = "Partial",
 			},
 			[3] = {
 				["Items"] = {
@@ -1613,10 +1621,10 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["HeadSlot"] = {
-						["ManaRegen"] = 6.25,
-						["Name"] = "The Postmaster's Band",
-						["Code"] = 13390,
+					["ShoulderSlot"] = {
+						["ManaRegen"] = 3,
+						["Name"] = "Mantle of Lost Hope",
+						["Code"] = 22234,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
@@ -1634,24 +1642,10 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["ShoulderSlot"] = {
-						["ManaRegen"] = 3,
-						["Name"] = "Mantle of Lost Hope",
-						["Code"] = 22234,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["LegsSlot"] = {
-						["ManaRegen"] = 6,
-						["Name"] = "Padre's Trousers",
-						["Code"] = 18386,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["HandsSlot"] = {
-						["ManaRegen"] = 4,
-						["Name"] = "Gilded Gauntlets",
-						["Code"] = 13244,
+					["HeadSlot"] = {
+						["ManaRegen"] = 6.25,
+						["Name"] = "The Postmaster's Band",
+						["Code"] = 13390,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
@@ -1669,6 +1663,20 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
+					["HandsSlot"] = {
+						["ManaRegen"] = 4,
+						["Name"] = "Gilded Gauntlets",
+						["Code"] = 13244,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
+					["LegsSlot"] = {
+						["ManaRegen"] = 6,
+						["Name"] = "Padre's Trousers",
+						["Code"] = 18386,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
 					["Finger1Slot"] = {
 						["ManaRegen"] = 5,
 						["Name"] = "Rosewine Circle",
@@ -1678,12 +1686,12 @@ gOutfitter_Settings = {
 					},
 				},
 				["StatID"] = "ManaRegen",
-				["CategoryID"] = "Partial",
 				["Name"] = "MaxMP5",
+				["CategoryID"] = "Partial",
 			},
 			[4] = {
 				["Items"] = {
-					["WristSlot"] = {
+					["Finger0Slot"] = {
 						["Name"] = "",
 						["Code"] = 0,
 						["SubCode"] = 0,
@@ -1719,7 +1727,7 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["ChestSlot"] = {
+					["RangedSlot"] = {
 						["Name"] = "",
 						["Code"] = 0,
 						["SubCode"] = 0,
@@ -1749,25 +1757,13 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["ShoulderSlot"] = {
+					["HandsSlot"] = {
 						["Name"] = "",
 						["Code"] = 0,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["RangedSlot"] = {
-						["Name"] = "",
-						["Code"] = 0,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["LegsSlot"] = {
-						["Name"] = "",
-						["Code"] = 0,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["Finger0Slot"] = {
+					["ChestSlot"] = {
 						["Name"] = "",
 						["Code"] = 0,
 						["SubCode"] = 0,
@@ -1779,15 +1775,27 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["HandsSlot"] = {
+					["WristSlot"] = {
+						["Name"] = "",
+						["Code"] = 0,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
+					["LegsSlot"] = {
+						["Name"] = "",
+						["Code"] = 0,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
+					["ShoulderSlot"] = {
 						["Name"] = "",
 						["Code"] = 0,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
 				},
-				["Name"] = "Nothing",
 				["CategoryID"] = "Partial",
+				["Name"] = "Nothing",
 			},
 		},
 		["Accessory"] = {
@@ -1797,8 +1805,8 @@ gOutfitter_Settings = {
 				["Items"] = {
 				},
 				["StatID"] = "ArgentDawn",
-				["Name"] = "Argent Dawn",
 				["CategoryID"] = "Special",
+				["Name"] = "Argent Dawn",
 				["SpecialID"] = "ArgentDawn",
 			},
 			[2] = {
@@ -1847,8 +1855,8 @@ gOutfitter_Settings = {
 				["Items"] = {
 				},
 				["StatID"] = "Riding",
-				["Name"] = "Riding",
 				["CategoryID"] = "Special",
+				["Name"] = "Riding",
 				["BGDisabled"] = true,
 				["SpecialID"] = "Riding",
 			},
@@ -1943,45 +1951,9 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["ShoulderSlot"] = {
-						["Name"] = "Earthfury Epaulets",
-						["Code"] = 16844,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["SecondaryHandSlot"] = {
-						["Name"] = "Master Dragonslayer's Orb",
-						["Code"] = 19366,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["ShirtSlot"] = {
-						["Name"] = "",
-						["Code"] = 0,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["Finger0Slot"] = {
-						["Name"] = "Rosewine Circle",
-						["Code"] = 13178,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["ChestSlot"] = {
-						["Name"] = "Robes of the Exalted",
-						["Code"] = 13346,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["NeckSlot"] = {
-						["Name"] = "Tooth of Gnarr",
-						["Code"] = 13141,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["AmmoSlot"] = {
-						["Name"] = "",
-						["Code"] = 0,
+					["WaistSlot"] = {
+						["Name"] = "Zandalar Augur's Belt",
+						["Code"] = 19829,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
@@ -1991,21 +1963,57 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["WaistSlot"] = {
-						["Name"] = "Zandalar Augur's Belt",
-						["Code"] = 19829,
+					["ShirtSlot"] = {
+						["Name"] = "",
+						["Code"] = 0,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
+					["AmmoSlot"] = {
+						["Name"] = "",
+						["Code"] = 0,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
+					["NeckSlot"] = {
+						["Name"] = "Tooth of Gnarr",
+						["Code"] = 13141,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
+					["ChestSlot"] = {
+						["Name"] = "Robes of the Exalted",
+						["Code"] = 13346,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
+					["Finger0Slot"] = {
+						["Name"] = "Rosewine Circle",
+						["Code"] = 13178,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
+					["SecondaryHandSlot"] = {
+						["Name"] = "Master Dragonslayer's Orb",
+						["Code"] = 19366,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
+					["ShoulderSlot"] = {
+						["Name"] = "Earthfury Epaulets",
+						["Code"] = 16844,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
 				},
-				["CategoryID"] = "Complete",
 				["Name"] = "Birthday Suit",
+				["CategoryID"] = "Complete",
 			},
 			[2] = {
 				["Items"] = {
-					["WristSlot"] = {
-						["Name"] = "Bracers of Ten Storms",
-						["Code"] = 16943,
+					["Finger0Slot"] = {
+						["Name"] = "Rosewine Circle",
+						["Code"] = 13178,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
@@ -2045,9 +2053,9 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["RangedSlot"] = {
-						["Name"] = "Totem of Sustaining",
-						["Code"] = 23200,
+					["ChestSlot"] = {
+						["Name"] = "Robes of the Exalted",
+						["Code"] = 13346,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
@@ -2069,15 +2077,9 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["WaistSlot"] = {
-						["Name"] = "Zandalar Augur's Belt",
-						["Code"] = 19829,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["LegsSlot"] = {
-						["Name"] = "Padre's Trousers",
-						["Code"] = 18386,
+					["ShoulderSlot"] = {
+						["Name"] = "Earthfury Epaulets",
+						["Code"] = 16844,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
@@ -2087,9 +2089,21 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["AmmoSlot"] = {
-						["Name"] = "",
-						["Code"] = 0,
+					["SecondaryHandSlot"] = {
+						["Name"] = "Master Dragonslayer's Orb",
+						["Code"] = 19366,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
+					["WristSlot"] = {
+						["Name"] = "Bracers of Ten Storms",
+						["Code"] = 16943,
+						["SubCode"] = 0,
+						["EnchantCode"] = 0,
+					},
+					["RangedSlot"] = {
+						["Name"] = "Totem of Sustaining",
+						["Code"] = 23200,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
@@ -2099,43 +2113,29 @@ gOutfitter_Settings = {
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["ChestSlot"] = {
-						["Name"] = "Robes of the Exalted",
-						["Code"] = 13346,
+					["AmmoSlot"] = {
+						["Name"] = "",
+						["Code"] = 0,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["Finger0Slot"] = {
-						["Name"] = "Rosewine Circle",
-						["Code"] = 13178,
+					["LegsSlot"] = {
+						["Name"] = "Padre's Trousers",
+						["Code"] = 18386,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
-					["SecondaryHandSlot"] = {
-						["Name"] = "Master Dragonslayer's Orb",
-						["Code"] = 19366,
-						["SubCode"] = 0,
-						["EnchantCode"] = 0,
-					},
-					["ShoulderSlot"] = {
-						["Name"] = "Earthfury Epaulets",
-						["Code"] = 16844,
+					["WaistSlot"] = {
+						["Name"] = "Zandalar Augur's Belt",
+						["Code"] = 19829,
 						["SubCode"] = 0,
 						["EnchantCode"] = 0,
 					},
 				},
-				["Name"] = "Heal",
 				["CategoryID"] = "Complete",
+				["Name"] = "Heal",
 			},
 		},
-	},
-	["HideHelm"] = {
-		[16667] = false,
-		[13390] = false,
-		[12960] = true,
-		[0] = false,
-		[7048] = true,
-		[16947] = true,
 	},
 	["HideCloak"] = {
 		[18389] = true,

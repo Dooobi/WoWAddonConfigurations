@@ -18,6 +18,15 @@ TheoryCraft_Settings = {
 	["FontPath"] = "Fonts\\ArialN.TTF",
 	["dontresist"] = true,
 	["CustomOutfit"] = {
+		["intellect"] = 0,
+		["newstat"] = {
+		},
+		["strength"] = 0,
+		["agility"] = 0,
+		["name"] = "Naked",
+		["stamina"] = 0,
+		["wear"] = {
+		},
 		["destat"] = {
 			[1] = "Head",
 			[2] = "Neck",
@@ -39,18 +48,9 @@ TheoryCraft_Settings = {
 			[18] = "Tabard",
 			[19] = "Ammo",
 		},
-		["newstat"] = {
-		},
-		["strength"] = 0,
-		["agility"] = 0,
-		["name"] = "Naked",
+		["spirit"] = 0,
 		["slots"] = {
 		},
-		["wear"] = {
-		},
-		["intellect"] = 0,
-		["spirit"] = 0,
-		["stamina"] = 0,
 	},
 	["critchancedata"] = {
 		["239:6"] = {
@@ -61,13 +61,13 @@ TheoryCraft_Settings = {
 			["casts"] = 251,
 			["crits"] = 44,
 		},
-		["270:6"] = {
-			["casts"] = 290,
-			["crits"] = 41,
+		["119:6"] = {
+			["casts"] = 3,
+			["crits"] = 0,
 		},
-		["289:8"] = {
-			["casts"] = 88,
-			["crits"] = 16,
+		["299:6"] = {
+			["casts"] = 147,
+			["crits"] = 15,
 		},
 		["296:6"] = {
 			["casts"] = 46,
@@ -129,9 +129,9 @@ TheoryCraft_Settings = {
 			["casts"] = 198,
 			["crits"] = 32,
 		},
-		["299:8"] = {
-			["casts"] = 110,
-			["crits"] = 22,
+		["282:10"] = {
+			["casts"] = 1,
+			["crits"] = 0,
 		},
 		["282:7"] = {
 			["casts"] = 236,
@@ -149,59 +149,59 @@ TheoryCraft_Settings = {
 			["casts"] = 253,
 			["crits"] = 34,
 		},
-		["119:6"] = {
-			["casts"] = 3,
-			["crits"] = 0,
+		["270:6"] = {
+			["casts"] = 290,
+			["crits"] = 41,
 		},
-		["317:7"] = {
-			["casts"] = 4,
-			["crits"] = 1,
+		["289:8"] = {
+			["casts"] = 88,
+			["crits"] = 16,
 		},
-		["274:6"] = {
-			["casts"] = 37,
-			["crits"] = 5,
-		},
-		["294:6"] = {
-			["casts"] = 32,
-			["crits"] = 2,
+		["299:8"] = {
+			["casts"] = 110,
+			["crits"] = 22,
 		},
 		["300:8"] = {
 			["casts"] = 44,
 			["crits"] = 8,
 		},
-		["282:10"] = {
-			["casts"] = 1,
-			["crits"] = 0,
+		["294:6"] = {
+			["casts"] = 32,
+			["crits"] = 2,
 		},
-		["299:6"] = {
-			["casts"] = 147,
-			["crits"] = 15,
+		["274:6"] = {
+			["casts"] = 37,
+			["crits"] = 5,
+		},
+		["317:7"] = {
+			["casts"] = 4,
+			["crits"] = 1,
 		},
 	},
 	["combinedot"] = true,
 	["mana"] = true,
 	["ColG2"] = 1,
 	["hpm"] = true,
-	["max"] = true,
+	["crit"] = true,
 	["ColB"] = 1,
-	["buttontextx"] = 1.11100267934368,
+	["max"] = true,
 	["tryfirst"] = "averagedam",
 	["dataversion"] = "1.06",
 	["dameff"] = true,
 	["tryfirstsfg"] = 0,
 	["hps"] = true,
-	["buttontexty"] = 10.21999915063047,
-	["ColB2"] = 0.6862745098039216,
-	["buttontext"] = true,
-	["dps"] = true,
-	["trysecond"] = "hpm",
-	["titles"] = true,
-	["plusdam"] = true,
-	["dpsdam"] = true,
 	["GenerateList"] = "",
 	["averagedam"] = true,
 	["damfinal"] = true,
-	["crit"] = true,
+	["dps"] = true,
+	["trysecond"] = "hpm",
+	["dpsdam"] = true,
+	["titles"] = true,
+	["buttontext"] = true,
+	["plusdam"] = true,
+	["ColB2"] = 0.6862745098039216,
+	["buttontexty"] = 10.21999915063047,
+	["buttontextx"] = 1.11100267934368,
 	["embed"] = true,
 	["healanddamage"] = true,
 }

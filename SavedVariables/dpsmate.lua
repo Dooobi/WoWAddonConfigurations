@@ -123,8 +123,8 @@ DPSMateUser = {
 	["Drudheal"] = {
 		[1] = 170,
 	},
-	["Jouninkauppa"] = {
-		[1] = 12739,
+	["Akhalla"] = {
+		[1] = 7810,
 	},
 	["Hordepig"] = {
 		[1] = 6587,
@@ -544,8 +544,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 35,
 	},
-	["Harambe"] = {
-		[1] = 11637,
+	["Fourbillion"] = {
+		[1] = 7983,
 	},
 	["Ctex"] = {
 		[1] = 1878,
@@ -556,8 +556,8 @@ DPSMateUser = {
 	["Chromaggus"] = {
 		[1] = 1099,
 	},
-	["Lied"] = {
-		[1] = 5950,
+	["Bananagang"] = {
+		[1] = 11882,
 	},
 	["Ravenclaw Slave"] = {
 		[1] = 8606,
@@ -738,14 +738,14 @@ DPSMateUser = {
 	["Keblappo"] = {
 		[1] = 8262,
 	},
-	["Panzerfaust"] = {
-		[1] = 2704,
+	["Swagerino"] = {
+		[1] = 1843,
 	},
 	["Zatherion"] = {
 		[1] = 4852,
 	},
-	["Keiffer"] = {
-		[1] = 5141,
+	["Zum"] = {
+		[1] = 688,
 	},
 	["Cynas"] = {
 		[1] = 1359,
@@ -881,8 +881,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 35,
 	},
-	["Ksvwolf"] = {
-		[1] = 11917,
+	["Matlenq"] = {
+		[1] = 1905,
 	},
 	["Sargrave"] = {
 		[1] = 11005,
@@ -917,8 +917,8 @@ DPSMateUser = {
 	["Starving Bonepaw"] = {
 		[1] = 10838,
 	},
-	["Capoera"] = {
-		[1] = 12051,
+	["Strength of Earth Totem III"] = {
+		[1] = 12492,
 	},
 	["Spskdass"] = {
 		[1] = 11341,
@@ -984,8 +984,8 @@ DPSMateUser = {
 		[7] = "The Laughing Inn",
 		[8] = 24,
 	},
-	["Hitomii"] = {
-		[1] = 10973,
+	["Devthz"] = {
+		[1] = 3930,
 	},
 	["Jaktai"] = {
 		[1] = 6306,
@@ -1044,14 +1044,17 @@ DPSMateUser = {
 	["Zillop"] = {
 		[1] = 3334,
 	},
-	["Tsunate"] = {
-		[1] = 12628,
+	["Alyonushka"] = {
+		[1] = 9898,
 	},
 	["Murkshallow Softshell"] = {
 		[1] = 9020,
 	},
-	["Slitherblade Sorceress"] = {
-		[1] = 12876,
+	["Mentionable"] = {
+		[1] = 10639,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 34,
 	},
 	["Trexor"] = {
 		[1] = 3188,
@@ -1071,11 +1074,8 @@ DPSMateUser = {
 	["Sardawn"] = {
 		[1] = 4688,
 	},
-	["Snusbritta"] = {
-		[1] = 12475,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 38,
+	["Neochrome"] = {
+		[1] = 2332,
 	},
 	["Luckyman"] = {
 		[1] = 10817,
@@ -1107,8 +1107,8 @@ DPSMateUser = {
 	["Paranormalx"] = {
 		[1] = 6876,
 	},
-	["Mortviu"] = {
-		[1] = 6855,
+	["Peachy"] = {
+		[1] = 1868,
 	},
 	["Kalthulus"] = {
 		[1] = 3160,
@@ -1176,8 +1176,11 @@ DPSMateUser = {
 	["Razorfen Groundshaker"] = {
 		[1] = 9358,
 	},
-	["Bandito"] = {
-		[1] = 4916,
+	["Vvarxul"] = {
+		[1] = 13367,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 3,
 	},
 	["Emiraldlol"] = {
 		[1] = 11121,
@@ -1206,8 +1209,13 @@ DPSMateUser = {
 	["Promode"] = {
 		[1] = 8304,
 	},
-	["Realfans"] = {
-		[1] = 3126,
+	["Bienouvert"] = {
+		[1] = 9718,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[7] = "Ruines",
+		[8] = 28,
 	},
 	["Zamorak"] = {
 		[1] = 1991,
@@ -1224,11 +1232,16 @@ DPSMateUser = {
 	["Keklke"] = {
 		[1] = 11966,
 	},
-	["Lazjub"] = {
-		[1] = 4808,
+	["Saevic"] = {
+		[1] = 7266,
 	},
-	["Verminermax"] = {
-		[1] = 10672,
+	["Zlatanz"] = {
+		[1] = 301,
+		[2] = "warrior",
+		[3] = 1,
+		[4] = false,
+		[7] = "Cosa Nostra",
+		[8] = 60,
 	},
 	["Refill"] = {
 		[1] = 853,
@@ -1254,8 +1267,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 33,
 	},
-	["Shoar"] = {
-		[1] = 9541,
+	["Brother Karman"] = {
+		[1] = 1046,
 	},
 	["Javardo"] = {
 		[1] = 10717,
@@ -1278,11 +1291,11 @@ DPSMateUser = {
 	["Rsync"] = {
 		[1] = 8826,
 	},
-	["Lost One Hunter"] = {
-		[1] = 13328,
+	["Mercuryrain"] = {
+		[1] = 4200,
 	},
-	["Pastoroff"] = {
-		[1] = 10146,
+	["Aheadfour"] = {
+		[1] = 1222,
 	},
 	["Requeim"] = {
 		[1] = 6998,
@@ -1352,8 +1365,8 @@ DPSMateUser = {
 	["Karuya"] = {
 		[1] = 5709,
 	},
-	["Vaust"] = {
-		[1] = 12205,
+	["Snapjaw Crocolisk"] = {
+		[1] = 11642,
 	},
 	["Tleilaxy"] = {
 		[1] = 12920,
@@ -1364,14 +1377,14 @@ DPSMateUser = {
 	["Terroristi"] = {
 		[1] = 5439,
 	},
-	["Icecraft"] = {
-		[1] = 11591,
+	["Apig"] = {
+		[1] = 7276,
 	},
 	["Boppetybobb"] = {
 		[1] = 2822,
 	},
-	["Cheere"] = {
-		[1] = 3383,
+	["Jansky"] = {
+		[1] = 7147,
 	},
 	["Dalynna"] = {
 		[1] = 7834,
@@ -1391,8 +1404,8 @@ DPSMateUser = {
 	["Akrioss"] = {
 		[1] = 1710,
 	},
-	["Pipnip"] = {
-		[1] = 1855,
+	["Zangmon"] = {
+		[1] = 11465,
 	},
 	["Smokie"] = {
 		[1] = 1323,
@@ -1418,17 +1431,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 28,
 	},
-	["Laodrivers"] = {
-		[1] = 5999,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 10,
+	["Sabric"] = {
+		[1] = 3965,
 	},
-	["Sunsetdrunk"] = {
-		[1] = 10667,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 36,
+	["Deletee"] = {
+		[1] = 12243,
 	},
 	["Fwizz"] = {
 		[1] = 745,
@@ -1442,8 +1449,8 @@ DPSMateUser = {
 	["Vurtnesfs"] = {
 		[1] = 9897,
 	},
-	["Hammer"] = {
-		[1] = 7849,
+	["Xelence"] = {
+		[1] = 11544,
 	},
 	["Panzijin"] = {
 		[1] = 10051,
@@ -1496,16 +1503,11 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Murloock"] = {
-		[1] = 7102,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[7] = "Dawn of the Horde",
-		[8] = 18,
+	["RapThor"] = {
+		[1] = 5911,
 	},
-	["Cold Eye Basilisk"] = {
-		[1] = 11682,
+	["Datboi"] = {
+		[1] = 2397,
 	},
 	["Grizmatik"] = {
 		[1] = 1503,
@@ -1519,18 +1521,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Lesser Infernal"] = {
-		[1] = 12893,
+	["Giveroflive"] = {
+		[1] = 482,
 	},
 	["Onlyniu"] = {
 		[1] = 12384,
 	},
-	["Lancelut"] = {
-		[1] = 5273,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[8] = 12,
+	["Syndicate Shadow Mage"] = {
+		[1] = 12526,
 	},
 	["Gneel"] = {
 		[1] = 784,
@@ -1562,8 +1560,8 @@ DPSMateUser = {
 	["Holyliight"] = {
 		[1] = 2894,
 	},
-	["Azunay"] = {
-		[1] = 53,
+	["Sneakebruh"] = {
+		[1] = 6753,
 	},
 	["Dexorr"] = {
 		[1] = 10105,
@@ -1593,8 +1591,10 @@ DPSMateUser = {
 	["Juggerdots"] = {
 		[1] = 10256,
 	},
-	["Aranogh"] = {
-		[1] = 7047,
+	["Jaklop"] = {
+		[1] = 5261,
+		[4] = true,
+		[6] = 5260,
 	},
 	["Nitely"] = {
 		[1] = 10410,
@@ -1602,8 +1602,8 @@ DPSMateUser = {
 	["Fuchsia"] = {
 		[1] = 6312,
 	},
-	["Awenorra"] = {
-		[1] = 1282,
+	["Orcrow"] = {
+		[1] = 11342,
 	},
 	["Nakedknives"] = {
 		[1] = 8903,
@@ -1614,8 +1614,8 @@ DPSMateUser = {
 	["Dudda"] = {
 		[1] = 2470,
 	},
-	["Zmey"] = {
-		[1] = 1062,
+	["Nissagamers"] = {
+		[1] = 4704,
 	},
 	["Myrzilkin"] = {
 		[1] = 11640,
@@ -1650,8 +1650,11 @@ DPSMateUser = {
 	["Sansuro"] = {
 		[1] = 12760,
 	},
-	["Bunilla"] = {
-		[1] = 2265,
+	["Destined"] = {
+		[1] = 10876,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 26,
 	},
 	["Hermanne"] = {
 		[1] = 8693,
@@ -1665,11 +1668,8 @@ DPSMateUser = {
 	["Kordrax"] = {
 		[1] = 4686,
 	},
-	["Mazgar"] = {
-		[1] = 12415,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 40,
+	["Hairo"] = {
+		[1] = 1402,
 	},
 	["Ipokeandrun"] = {
 		[1] = 4779,
@@ -1703,11 +1703,11 @@ DPSMateUser = {
 	["Stealit"] = {
 		[1] = 12991,
 	},
-	["Vinxen"] = {
-		[1] = 8440,
+	["Nelfurion"] = {
+		[1] = 10055,
 	},
-	["Gem"] = {
-		[1] = 2548,
+	["Nodeath"] = {
+		[1] = 10275,
 	},
 	["Kazuss"] = {
 		[1] = 1195,
@@ -1730,8 +1730,8 @@ DPSMateUser = {
 	["Regnuza"] = {
 		[1] = 85,
 	},
-	["Sheep"] = {
-		[1] = 10640,
+	["Kaja"] = {
+		[1] = 8790,
 	},
 	["Magnummantis"] = {
 		[1] = 7683,
@@ -1745,14 +1745,17 @@ DPSMateUser = {
 	["Swizz"] = {
 		[1] = 1001,
 	},
-	["Outcast Necromancer"] = {
-		[1] = 12903,
+	["Onlychance"] = {
+		[1] = 5858,
 	},
-	["Pruttare"] = {
-		[1] = 1365,
+	["Laugh"] = {
+		[1] = 3392,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 1,
 	},
-	["Ricom"] = {
-		[1] = 4079,
+	["Alphadead"] = {
+		[1] = 13092,
 	},
 	["Grasshugger"] = {
 		[1] = 8650,
@@ -1760,11 +1763,11 @@ DPSMateUser = {
 	["Gloryy"] = {
 		[1] = 8870,
 	},
-	["Koftagy"] = {
-		[1] = 759,
+	["Thenidiel"] = {
+		[1] = 9026,
 	},
-	["Liuwanglong"] = {
-		[1] = 2536,
+	["Venomous Cloud Serpent"] = {
+		[1] = 9307,
 	},
 	["Okaradun"] = {
 		[1] = 6371,
@@ -1796,8 +1799,8 @@ DPSMateUser = {
 	["Hurpulies"] = {
 		[1] = 5232,
 	},
-	["Tuturuokarin"] = {
-		[1] = 4505,
+	["Blockjk"] = {
+		[1] = 4201,
 	},
 	["Mahes"] = {
 		[1] = 13254,
@@ -1882,11 +1885,11 @@ DPSMateUser = {
 	["Warriorsong"] = {
 		[1] = 1326,
 	},
-	["Clm"] = {
-		[1] = 11109,
+	["Loxven"] = {
+		[1] = 10381,
 	},
-	["Boomboomin"] = {
-		[1] = 2062,
+	["Splinz"] = {
+		[1] = 5952,
 	},
 	["Feraks"] = {
 		[1] = 9318,
@@ -1936,8 +1939,10 @@ DPSMateUser = {
 	["Cauldronborn"] = {
 		[1] = 5145,
 	},
-	["Haxxion"] = {
-		[1] = 4862,
+	["Flanger"] = {
+		[1] = 11175,
+		[2] = "rogue",
+		[3] = 1,
 	},
 	["Valtek"] = {
 		[1] = 2399,
@@ -1951,8 +1956,8 @@ DPSMateUser = {
 	["Ghin"] = {
 		[1] = 1666,
 	},
-	["Exomist"] = {
-		[1] = 1021,
+	["Polyc"] = {
+		[1] = 6984,
 	},
 	["Frohike"] = {
 		[1] = 10274,
@@ -2035,11 +2040,14 @@ DPSMateUser = {
 	["Twilight Aquamancer"] = {
 		[1] = 9008,
 	},
-	["Risen Deathknight"] = {
-		[1] = 2329,
+	["Silverlo"] = {
+		[1] = 9057,
 	},
-	["Kakedeigen"] = {
-		[1] = 12216,
+	["Jonpeli"] = {
+		[1] = 10934,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Warlockeras"] = {
 		[1] = 4790,
@@ -2056,8 +2064,8 @@ DPSMateUser = {
 	["Beljuk"] = {
 		[1] = 5712,
 	},
-	["Neoxeo"] = {
-		[1] = 3967,
+	["Versed"] = {
+		[1] = 2936,
 	},
 	["Crazylantern"] = {
 		[1] = 12354,
@@ -2136,11 +2144,11 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 25,
 	},
-	["Gaktik"] = {
-		[1] = 568,
+	["Breakums"] = {
+		[1] = 10571,
 	},
-	["Deer"] = {
-		[1] = 8245,
+	["Llaman"] = {
+		[1] = 1501,
 	},
 	["Triggerpig"] = {
 		[1] = 6603,
@@ -2160,8 +2168,8 @@ DPSMateUser = {
 	["Tidestick"] = {
 		[1] = 11662,
 	},
-	["Minkus"] = {
-		[1] = 10729,
+	["Wailing Banshee"] = {
+		[1] = 2139,
 	},
 	["Sodesinai"] = {
 		[1] = 12730,
@@ -2175,17 +2183,17 @@ DPSMateUser = {
 	["Lxtao"] = {
 		[1] = 7919,
 	},
-	["Nifnafnuf"] = {
-		[1] = 10282,
+	["Allspotter"] = {
+		[1] = 5445,
 	},
 	["Tholos"] = {
 		[1] = 5440,
 	},
-	["Icedbank"] = {
-		[1] = 10380,
+	["Heimo"] = {
+		[1] = 8739,
 	},
-	["Ravenclaw Servant"] = {
-		[1] = 12544,
+	["Ugigyg"] = {
+		[1] = 465,
 	},
 	["Xdembe"] = {
 		[1] = 5615,
@@ -2235,8 +2243,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 13,
 	},
-	["Malivis"] = {
-		[1] = 140,
+	["Buru Egg"] = {
+		[1] = 885,
 	},
 	["Terax"] = {
 		[1] = 2643,
@@ -2282,26 +2290,23 @@ DPSMateUser = {
 	["Noggerr"] = {
 		[1] = 4490,
 	},
-	["Tannek"] = {
-		[1] = 5746,
+	["Kivan"] = {
+		[1] = 2714,
 	},
 	["Siffyn"] = {
 		[1] = 1989,
 	},
-	["Hoahoa"] = {
-		[1] = 6668,
+	["Testnren"] = {
+		[1] = 10700,
 	},
 	["Makwowgragan"] = {
 		[1] = 11234,
 	},
-	["Erer"] = {
-		[1] = 2252,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 60,
+	["Fridrick"] = {
+		[1] = 3486,
 	},
-	["Totemba"] = {
-		[1] = 10739,
+	["Diaperbutt"] = {
+		[1] = 7431,
 	},
 	["Gorlock"] = {
 		[1] = 10267,
@@ -2312,8 +2317,8 @@ DPSMateUser = {
 	["Lughnasad"] = {
 		[1] = 1782,
 	},
-	["Calderazero"] = {
-		[1] = 690,
+	["Leninlives"] = {
+		[1] = 10804,
 	},
 	["Kuutar"] = {
 		[1] = 7011,
@@ -2324,11 +2329,8 @@ DPSMateUser = {
 	["Bloodtalon Scythemaw"] = {
 		[1] = 5476,
 	},
-	["Gutsygypsy"] = {
-		[1] = 5416,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 11,
+	["Yutozz"] = {
+		[1] = 3396,
 	},
 	["Sakury"] = {
 		[1] = 10668,
@@ -2364,8 +2366,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Checkpoint"] = {
-		[1] = 1705,
+	["Strongestrac"] = {
+		[1] = 2630,
 	},
 	["Lyonscar"] = {
 		[1] = 9780,
@@ -2376,20 +2378,17 @@ DPSMateUser = {
 	["Gorishen"] = {
 		[1] = 12613,
 	},
-	["Iroyp"] = {
-		[1] = 9292,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 28,
+	["Nekromorphe"] = {
+		[1] = 3464,
 	},
-	["Holyshield"] = {
-		[1] = 5832,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 60,
+	["Waviestalive"] = {
+		[1] = 12930,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 34,
 	},
-	["Akirasev"] = {
-		[1] = 12019,
+	["Deathfiend"] = {
+		[1] = 12968,
 	},
 	["Lcl"] = {
 		[1] = 2241,
@@ -2427,14 +2426,14 @@ DPSMateUser = {
 	["Voskresensk"] = {
 		[1] = 3879,
 	},
-	["Zigpep"] = {
-		[1] = 9433,
+	["Snusnus"] = {
+		[1] = 2915,
 	},
 	["Forsaken Infiltrator"] = {
 		[1] = 9800,
 	},
-	["Thommip"] = {
-		[1] = 3052,
+	["Adder"] = {
+		[1] = 5779,
 	},
 	["Thulza"] = {
 		[1] = 9055,
@@ -2448,8 +2447,8 @@ DPSMateUser = {
 	["Therroc"] = {
 		[1] = 9095,
 	},
-	["Montzi"] = {
-		[1] = 6918,
+	["Tezziboii"] = {
+		[1] = 11996,
 	},
 	["Obscuritas"] = {
 		[1] = 2540,
@@ -2460,11 +2459,8 @@ DPSMateUser = {
 	["Slimeshell Makrura"] = {
 		[1] = 7309,
 	},
-	["Gorlash"] = {
-		[1] = 7828,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 22,
+	["Grums"] = {
+		[1] = 1164,
 	},
 	["Alfazeta"] = {
 		[1] = 6146,
@@ -2518,8 +2514,8 @@ DPSMateUser = {
 	["Vurtneincn"] = {
 		[1] = 1671,
 	},
-	["acer"] = {
-		[1] = 12525,
+	["Lapsi"] = {
+		[1] = 7260,
 	},
 	["Pedotank"] = {
 		[1] = 165,
@@ -2530,8 +2526,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Berithia"] = {
-		[1] = 13032,
+	["Motane"] = {
+		[1] = 12666,
 	},
 	["Edrusba"] = {
 		[1] = 10409,
@@ -2544,8 +2540,10 @@ DPSMateUser = {
 		[7] = "Leveling Guild",
 		[8] = 37,
 	},
-	["Englandery"] = {
-		[1] = 4266,
+	["Loukasbest"] = {
+		[1] = 10882,
+		[2] = "warlock",
+		[3] = 1,
 	},
 	["Amnomious"] = {
 		[1] = 1642,
@@ -2579,8 +2577,8 @@ DPSMateUser = {
 	["Giant Plains Creeper"] = {
 		[1] = 10498,
 	},
-	["Dread Ripper"] = {
-		[1] = 12926,
+	["Dagkol"] = {
+		[1] = 5215,
 	},
 	["Swolab"] = {
 		[1] = 893,
@@ -2603,8 +2601,8 @@ DPSMateUser = {
 	["Ruikin"] = {
 		[1] = 4789,
 	},
-	["Nyhum"] = {
-		[1] = 5350,
+	["Chillsome"] = {
+		[1] = 6752,
 	},
 	["Scorcherz"] = {
 		[1] = 2019,
@@ -2621,8 +2619,8 @@ DPSMateUser = {
 	["Scamaz"] = {
 		[1] = 1112,
 	},
-	["Paranomiks"] = {
-		[1] = 7674,
+	["Aliez"] = {
+		[1] = 1643,
 	},
 	["Hazelnute"] = {
 		[1] = 5357,
@@ -2668,8 +2666,8 @@ DPSMateUser = {
 	["Showbiz"] = {
 		[1] = 3679,
 	},
-	["Rodzaevsky"] = {
-		[1] = 8364,
+	["Buzzrandzo"] = {
+		[1] = 1104,
 	},
 	["Daltharion"] = {
 		[1] = 6188,
@@ -2680,8 +2678,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 17,
 	},
-	["Freeice"] = {
-		[1] = 940,
+	["Skig"] = {
+		[1] = 9918,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 11,
 	},
 	["Dethryn"] = {
 		[1] = 4886,
@@ -2695,8 +2696,8 @@ DPSMateUser = {
 	["Abicei"] = {
 		[1] = 12395,
 	},
-	["Etxrogue"] = {
-		[1] = 3425,
+	["Blackvoid"] = {
+		[1] = 5826,
 	},
 	["Rolf"] = {
 		[1] = 8771,
@@ -2704,8 +2705,8 @@ DPSMateUser = {
 	["Liquidsnake"] = {
 		[1] = 12747,
 	},
-	["Bofo"] = {
-		[1] = 3716,
+	["Shig"] = {
+		[1] = 10277,
 	},
 	["Crazybull"] = {
 		[1] = 12971,
@@ -2734,11 +2735,14 @@ DPSMateUser = {
 	["Shank"] = {
 		[1] = 10318,
 	},
-	["Emmey"] = {
-		[1] = 10992,
+	["Demonji"] = {
+		[1] = 10981,
 	},
-	["Dalaran Protector"] = {
-		[1] = 8580,
+	["Anuslessness"] = {
+		[1] = 11331,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 25,
 	},
 	["Exxom"] = {
 		[1] = 3478,
@@ -2767,8 +2771,8 @@ DPSMateUser = {
 	["Deadhit"] = {
 		[1] = 2270,
 	},
-	["Nachtelf"] = {
-		[1] = 192,
+	["Illtrumpyou"] = {
+		[1] = 394,
 	},
 	["Hotsdotsnfun"] = {
 		[1] = 7315,
@@ -2789,8 +2793,8 @@ DPSMateUser = {
 		[7] = "Life Horde",
 		[8] = 17,
 	},
-	["Synmsting"] = {
-		[1] = 9873,
+	["Lasti"] = {
+		[1] = 7504,
 	},
 	["Junglecat"] = {
 		[1] = 467,
@@ -2863,8 +2867,8 @@ DPSMateUser = {
 	["Adiva"] = {
 		[1] = 6174,
 	},
-	["Thetwohand"] = {
-		[1] = 9916,
+	["Razzashi Broodwidow"] = {
+		[1] = 337,
 	},
 	["Ilder"] = {
 		[1] = 9483,
@@ -2920,8 +2924,11 @@ DPSMateUser = {
 	["Spinachdip"] = {
 		[1] = 8675,
 	},
-	["Zargrozen"] = {
-		[1] = 7608,
+	["Roulio"] = {
+		[1] = 5719,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 10,
 	},
 	["Nonezki"] = {
 		[1] = 3767,
@@ -2950,26 +2957,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 21,
 	},
-	["Strength of Earth Totem II"] = {
-		[1] = 10205,
+	["Papafrick"] = {
+		[1] = 6652,
 	},
-	["Eycore"] = {
-		[1] = 4025,
+	["Linnyx"] = {
+		[1] = 1714,
 	},
-	["Powergloove"] = {
-		[1] = 9548,
+	["Kashazi"] = {
+		[1] = 9904,
 	},
-	["Koradon"] = {
-		[1] = 5836,
+	["Hammerteem"] = {
+		[1] = 2242,
 	},
-	["Freezsly"] = {
-		[1] = 7832,
+	["Spleenless"] = {
+		[1] = 12533,
 	},
 	["Kenar"] = {
 		[1] = 2799,
 	},
-	["Nokmir"] = {
-		[1] = 13375,
+	["Infetado"] = {
+		[1] = 7831,
 	},
 	["Grytlocket"] = {
 		[1] = 3227,
@@ -2983,11 +2990,8 @@ DPSMateUser = {
 	["Tenshy"] = {
 		[1] = 12732,
 	},
-	["Cazic"] = {
-		[1] = 12877,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 37,
+	["Mufasta"] = {
+		[1] = 9782,
 	},
 	["Kalinro"] = {
 		[1] = 6880,
@@ -3007,8 +3011,11 @@ DPSMateUser = {
 	["Zondra"] = {
 		[1] = 5014,
 	},
-	["Rucus"] = {
-		[1] = 8863,
+	["Jeest"] = {
+		[1] = 3076,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 3,
 	},
 	["Dreaddlock"] = {
 		[1] = 8409,
@@ -3019,11 +3026,14 @@ DPSMateUser = {
 	["Highland"] = {
 		[1] = 12113,
 	},
-	["Swaggoxx"] = {
-		[1] = 12670,
+	["Doahx"] = {
+		[1] = 7025,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 33,
 	},
-	["Burning Blade Summoner"] = {
-		[1] = 12929,
+	["Goldenshine"] = {
+		[1] = 3959,
 	},
 	["Lawlstep"] = {
 		[1] = 4934,
@@ -3034,11 +3044,8 @@ DPSMateUser = {
 	["Ayeayeron"] = {
 		[1] = 12811,
 	},
-	["Puzic"] = {
-		[1] = 5772,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 13,
+	["Tamed Hyena"] = {
+		[1] = 9360,
 	},
 	["Lolliie"] = {
 		[1] = 13069,
@@ -3052,8 +3059,8 @@ DPSMateUser = {
 	["Dsid"] = {
 		[1] = 4426,
 	},
-	["Lingzi"] = {
-		[1] = 7603,
+	["Reedness"] = {
+		[1] = 12234,
 	},
 	["Movel"] = {
 		[1] = 4747,
@@ -3088,8 +3095,8 @@ DPSMateUser = {
 	["Netschott"] = {
 		[1] = 9079,
 	},
-	["Mylya"] = {
-		[1] = 6759,
+	["Kengax"] = {
+		[1] = 1828,
 	},
 	["Hongye"] = {
 		[1] = 5070,
@@ -3100,8 +3107,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Joxbe"] = {
-		[1] = 4761,
+	["Tankovich"] = {
+		[1] = 2313,
 	},
 	["Hazzardino"] = {
 		[1] = 4515,
@@ -3118,8 +3125,8 @@ DPSMateUser = {
 	["Bizqua"] = {
 		[1] = 4153,
 	},
-	["Miaoyi"] = {
-		[1] = 4715,
+	["Vyriis"] = {
+		[1] = 5126,
 	},
 	["Dvizor"] = {
 		[1] = 10430,
@@ -3142,8 +3149,8 @@ DPSMateUser = {
 	["Vonharlet"] = {
 		[1] = 5155,
 	},
-	["TRUMP"] = {
-		[1] = 11826,
+	["Drowzzy"] = {
+		[1] = 6612,
 	},
 	["Aludey"] = {
 		[1] = 3907,
@@ -3185,8 +3192,8 @@ DPSMateUser = {
 	["Homedepot"] = {
 		[1] = 6830,
 	},
-	["Convict"] = {
-		[1] = 2376,
+	["Schah"] = {
+		[1] = 13125,
 	},
 	["Yxcvb"] = {
 		[1] = 1066,
@@ -3224,8 +3231,8 @@ DPSMateUser = {
 	["Hoiz"] = {
 		[1] = 29,
 	},
-	["Mistixsa"] = {
-		[1] = 3745,
+	["Zarakynel"] = {
+		[1] = 11087,
 	},
 	["Ikarosu"] = {
 		[1] = 8369,
@@ -3242,8 +3249,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 21,
 	},
-	["Freeshots"] = {
-		[1] = 994,
+	["Fuskaren"] = {
+		[1] = 5738,
+		[2] = "hunter",
+		[3] = -1,
+		[4] = false,
+		[5] = "Gandalf",
+		[7] = "Swedish Jazz Orchestra",
+		[8] = 19,
 	},
 	["Noskiin"] = {
 		[1] = 5259,
@@ -3359,8 +3372,8 @@ DPSMateUser = {
 	["Sixgorillons"] = {
 		[1] = 4591,
 	},
-	["Braduljica"] = {
-		[1] = 2404,
+	["Seamount"] = {
+		[1] = 4622,
 	},
 	["Sqampi"] = {
 		[1] = 12199,
@@ -3389,8 +3402,8 @@ DPSMateUser = {
 	["Erannor"] = {
 		[1] = 7744,
 	},
-	["Hakkari Priest"] = {
-		[1] = 325,
+	["Ghostlysong"] = {
+		[1] = 3168,
 	},
 	["Oreilly"] = {
 		[1] = 201,
@@ -3425,8 +3438,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Kuhnahr"] = {
-		[1] = 4362,
+	["Absalom"] = {
+		[1] = 4367,
 	},
 	["Justamuggle"] = {
 		[1] = 10096,
@@ -3449,8 +3462,8 @@ DPSMateUser = {
 	["Gennai"] = {
 		[1] = 9404,
 	},
-	["Hypnotoad"] = {
-		[1] = 11526,
+	["Chonip"] = {
+		[1] = 7860,
 	},
 	["Swottofty"] = {
 		[1] = 2473,
@@ -3482,20 +3495,20 @@ DPSMateUser = {
 	["Flameguard"] = {
 		[1] = 967,
 	},
-	["Kozzy"] = {
-		[1] = 8376,
-		[2] = "warlock",
+	["Hellyo"] = {
+		[1] = 13216,
+		[2] = "rogue",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Oggleflint"] = {
-		[1] = 6349,
+	["Lavasummer"] = {
+		[1] = 5814,
 	},
 	["Wolfguard Worg"] = {
 		[1] = 8633,
 	},
-	["Piztik"] = {
-		[1] = 105,
+	["Kandy"] = {
+		[1] = 1030,
 	},
 	["Tayzer"] = {
 		[1] = 6366,
@@ -3508,23 +3521,20 @@ DPSMateUser = {
 	["Cortillion"] = {
 		[1] = 4774,
 	},
-	["Milzen"] = {
-		[1] = 11316,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Bondelkramer"] = {
+		[1] = 10309,
 	},
 	["Tsure"] = {
 		[1] = 7212,
 	},
-	["Charthak"] = {
-		[1] = 9349,
+	["Xorb"] = {
+		[1] = 9823,
 	},
 	["Julielavraie"] = {
 		[1] = 5910,
 	},
-	["Pedre"] = {
-		[1] = 5677,
+	["Serthren"] = {
+		[1] = 12956,
 	},
 	["Tijux"] = {
 		[1] = 2360,
@@ -3538,11 +3548,11 @@ DPSMateUser = {
 	["Locktide"] = {
 		[1] = 33,
 	},
-	["Stonelash Flayer"] = {
-		[1] = 2616,
+	["Sebiaminoff"] = {
+		[1] = 11317,
 	},
-	["Lxsir"] = {
-		[1] = 12042,
+	["Chillyace"] = {
+		[1] = 11294,
 	},
 	["Imember"] = {
 		[1] = 7088,
@@ -3562,8 +3572,8 @@ DPSMateUser = {
 	["Bandela"] = {
 		[1] = 9408,
 	},
-	["Handless"] = {
-		[1] = 3456,
+	["Bile Retcher"] = {
+		[1] = 2740,
 	},
 	["Sanosagara"] = {
 		[1] = 12135,
@@ -3577,8 +3587,8 @@ DPSMateUser = {
 	["Squirrel"] = {
 		[1] = 8147,
 	},
-	["Dekumoney"] = {
-		[1] = 12211,
+	["Gladdoss"] = {
+		[1] = 10093,
 	},
 	["Dryll"] = {
 		[1] = 8567,
@@ -3589,29 +3599,26 @@ DPSMateUser = {
 	["Satanismo"] = {
 		[1] = 10880,
 	},
-	["Tacobanana"] = {
-		[1] = 8691,
-		[2] = "rogue",
+	["Subzeera"] = {
+		[1] = 4740,
+		[2] = "priest",
 		[3] = -1,
-		[8] = 60,
+		[8] = 5,
 	},
-	["Blackfathom Oracle"] = {
-		[1] = 8982,
+	["Hautreiner"] = {
+		[1] = 4404,
 	},
 	["Bravedead"] = {
 		[1] = 5211,
 	},
-	["Candycan"] = {
-		[1] = 12095,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 36,
+	["Ragefire Trogg"] = {
+		[1] = 6112,
 	},
 	["Tildi"] = {
 		[1] = 3591,
 	},
-	["Stinker"] = {
-		[1] = 2350,
+	["Deepmoss Creeper"] = {
+		[1] = 8084,
 	},
 	["Kragnak"] = {
 		[1] = 12925,
@@ -3688,14 +3695,17 @@ DPSMateUser = {
 	["Tasticyo"] = {
 		[1] = 10763,
 	},
-	["Chullo"] = {
-		[1] = 895,
+	["Zultax"] = {
+		[1] = 2843,
 	},
 	["Darkdant"] = {
 		[1] = 4710,
 	},
-	["Hecklefang Stalker"] = {
-		[1] = 8322,
+	["Troolzor"] = {
+		[1] = 5803,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 18,
 	},
 	["Enduranc"] = {
 		[1] = 11876,
@@ -3710,8 +3720,8 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 4,
 	},
-	["Delgarot"] = {
-		[1] = 5133,
+	["Desdemonah"] = {
+		[1] = 13043,
 	},
 	["BigW"] = {
 		[1] = 10359,
@@ -3734,11 +3744,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 16,
 	},
-	["Qiuduiyou"] = {
-		[1] = 2255,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 60,
+	["Richslayer"] = {
+		[1] = 12593,
 	},
 	["Raypanda"] = {
 		[1] = 4619,
@@ -3755,17 +3762,17 @@ DPSMateUser = {
 	["Daydreaminge"] = {
 		[1] = 3640,
 	},
-	["Gobkol"] = {
-		[1] = 9186,
-	},
-	["Flammenherz"] = {
-		[1] = 1110,
-	},
-	["Dvzz"] = {
-		[1] = 9228,
-		[2] = "mage",
+	["Sarisun"] = {
+		[1] = 9249,
+		[2] = "hunter",
 		[3] = -1,
 		[8] = 20,
+	},
+	["Blackfathom Myrmidon"] = {
+		[1] = 8997,
+	},
+	["Halibutt"] = {
+		[1] = 6182,
 	},
 	["Bayernmunic"] = {
 		[1] = 7841,
@@ -3773,8 +3780,11 @@ DPSMateUser = {
 	["Voorez"] = {
 		[1] = 9546,
 	},
-	["Bullshnikes"] = {
-		[1] = 6123,
+	["Snoke"] = {
+		[1] = 3386,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 18,
 	},
 	["Arsunat"] = {
 		[1] = 12105,
@@ -3794,8 +3804,11 @@ DPSMateUser = {
 	["Todesser"] = {
 		[1] = 4039,
 	},
-	["Alexandrus"] = {
-		[1] = 9575,
+	["En√∂ltack"] = {
+		[1] = 150,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Trolled"] = {
 		[1] = 12027,
@@ -3874,8 +3887,10 @@ DPSMateUser = {
 	["Panacea"] = {
 		[1] = 13316,
 	},
-	["Melkiades"] = {
-		[1] = 3166,
+	["Donaldrumphf"] = {
+		[1] = 9629,
+		[2] = "rogue",
+		[3] = 1,
 	},
 	["Custin"] = {
 		[1] = 8294,
@@ -3883,8 +3898,8 @@ DPSMateUser = {
 	["Zleng"] = {
 		[1] = 4209,
 	},
-	["Ruirot"] = {
-		[1] = 2385,
+	["Fatalk"] = {
+		[1] = 10720,
 	},
 	["Stickdeath"] = {
 		[1] = 9658,
@@ -3919,14 +3934,14 @@ DPSMateUser = {
 	["Spaceey"] = {
 		[1] = 2240,
 	},
-	["Noonefamous"] = {
-		[1] = 7296,
+	["Nsofd"] = {
+		[1] = 3369,
 	},
 	["Niuyingjun"] = {
 		[1] = 2995,
 	},
-	["Cardinalkaos"] = {
-		[1] = 10488,
+	["Green Wyrmkin"] = {
+		[1] = 13349,
 	},
 	["Exendia"] = {
 		[1] = 1428,
@@ -3959,11 +3974,11 @@ DPSMateUser = {
 	["Wufawutian"] = {
 		[1] = 3056,
 	},
-	["Cloctonim"] = {
-		[1] = 9551,
+	["Guldrakhz"] = {
+		[1] = 6364,
 	},
-	["Iil"] = {
-		[1] = 11223,
+	["Szeretlekcic"] = {
+		[1] = 1206,
 	},
 	["Anxkel"] = {
 		[1] = 11101,
@@ -4002,14 +4017,11 @@ DPSMateUser = {
 	["Rultai"] = {
 		[1] = 5472,
 	},
-	["Notalife"] = {
-		[1] = 4691,
+	["Hive'Zara Wasp"] = {
+		[1] = 866,
 	},
-	["Bigbb"] = {
-		[1] = 10844,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 30,
+	["Jlampo"] = {
+		[1] = 3874,
 	},
 	["Kyni"] = {
 		[1] = 10334,
@@ -4020,8 +4032,8 @@ DPSMateUser = {
 	["Bigdoor"] = {
 		[1] = 11001,
 	},
-	["Amumux"] = {
-		[1] = 4621,
+	["Eliphaz"] = {
+		[1] = 4402,
 	},
 	["Smangler"] = {
 		[1] = 3257,
@@ -4044,8 +4056,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Karrigen"] = {
-		[1] = 10035,
+	["Klaufi"] = {
+		[1] = 10375,
 	},
 	["Boulcrew"] = {
 		[1] = 7135,
@@ -4065,17 +4077,17 @@ DPSMateUser = {
 	["Deadbearpig"] = {
 		[1] = 4164,
 	},
-	["Mulkutappaja"] = {
-		[1] = 4551,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 1,
+	["Krixx"] = {
+		[1] = 2874,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Alexpalretro"] = {
 		[1] = 2771,
 	},
-	["Llawnroc"] = {
-		[1] = 12002,
+	["Igelkott"] = {
+		[1] = 4281,
 	},
 	["Onye"] = {
 		[1] = 11989,
@@ -4115,11 +4127,8 @@ DPSMateUser = {
 	["Softmachine"] = {
 		[1] = 6585,
 	},
-	["Seedo"] = {
-		[1] = 5161,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 11,
+	["Abcsang"] = {
+		[1] = 4003,
 	},
 	["Oggster"] = {
 		[1] = 4411,
@@ -4127,8 +4136,8 @@ DPSMateUser = {
 	["Yazlop"] = {
 		[1] = 5018,
 	},
-	["Captain Fairmount"] = {
-		[1] = 7869,
+	["Balgorth"] = {
+		[1] = 5634,
 	},
 	["Golovaezik"] = {
 		[1] = 9755,
@@ -4220,8 +4229,11 @@ DPSMateUser = {
 	["Teeleh"] = {
 		[1] = 55,
 	},
-	["Elteubes"] = {
-		[1] = 3988,
+	["Karav"] = {
+		[1] = 13240,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 42,
 	},
 	["Kraggron"] = {
 		[1] = 7162,
@@ -4231,8 +4243,8 @@ DPSMateUser = {
 	["Raxel"] = {
 		[1] = 1253,
 	},
-	["Doushika"] = {
-		[1] = 2003,
+	["Durumu"] = {
+		[1] = 12796,
 	},
 	["Duel"] = {
 		[1] = 9537,
@@ -4363,8 +4375,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 39,
 	},
-	["Msxiaohuozi"] = {
-		[1] = 3728,
+	["Kari"] = {
+		[1] = 4340,
 	},
 	["Vivadax"] = {
 		[1] = 2937,
@@ -4444,8 +4456,8 @@ DPSMateUser = {
 	["Mastinnan"] = {
 		[1] = 12228,
 	},
-	["Sosyopat"] = {
-		[1] = 12999,
+	["Monsterfence"] = {
+		[1] = 91,
 	},
 	["Judnshn"] = {
 		[1] = 6939,
@@ -4528,8 +4540,8 @@ DPSMateUser = {
 	["Berjan"] = {
 		[1] = 3362,
 	},
-	["Melaira"] = {
-		[1] = 3702,
+	["Pauls"] = {
+		[1] = 2925,
 	},
 	["Jakobinsey"] = {
 		[1] = 10303,
@@ -4537,11 +4549,8 @@ DPSMateUser = {
 	["Lady Anacondra"] = {
 		[1] = 7521,
 	},
-	["Vnuchka"] = {
-		[1] = 11403,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 30,
+	["Mistixa"] = {
+		[1] = 12750,
 	},
 	["Dudui"] = {
 		[1] = 2500,
@@ -4561,8 +4570,8 @@ DPSMateUser = {
 	["Bonesnatcher"] = {
 		[1] = 10414,
 	},
-	["Maestro"] = {
-		[1] = 12625,
+	["Pasted"] = {
+		[1] = 9659,
 	},
 	["Mulber"] = {
 		[1] = 9935,
@@ -4570,11 +4579,8 @@ DPSMateUser = {
 	["Loemen"] = {
 		[1] = 9535,
 	},
-	["Fistpain"] = {
-		[1] = 12923,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 38,
+	["Ferengi"] = {
+		[1] = 138,
 	},
 	["Protbuns"] = {
 		[1] = 978,
@@ -4606,8 +4612,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 32,
 	},
-	["Lakland"] = {
-		[1] = 10197,
+	["Trichomona"] = {
+		[1] = 13301,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 27,
 	},
 	["Dawgzilla"] = {
 		[1] = 5485,
@@ -4615,11 +4624,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Pokeandrun"] = {
-		[1] = 5040,
-		[2] = "warlock",
+	["Sickmik"] = {
+		[1] = 10477,
+		[2] = "druid",
 		[3] = -1,
-		[8] = 10,
+		[8] = 27,
 	},
 	["Boogster"] = {
 		[1] = 7840,
@@ -4667,8 +4676,10 @@ DPSMateUser = {
 	["Rebee"] = {
 		[1] = 6232,
 	},
-	["Illakajl"] = {
-		[1] = 10298,
+	["Elunaih"] = {
+		[1] = 10836,
+		[2] = "druid",
+		[3] = 1,
 	},
 	["Littlepwny"] = {
 		[1] = 3260,
@@ -4747,11 +4758,8 @@ DPSMateUser = {
 	["Rumraisin"] = {
 		[1] = 1547,
 	},
-	["Descendh"] = {
-		[1] = 2947,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 38,
+	["Nians"] = {
+		[1] = 1674,
 	},
 	["Leandri"] = {
 		[1] = 11089,
@@ -4774,13 +4782,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 22,
 	},
-	["Prokkaza"] = {
-		[1] = 1481,
-		[2] = "warlock",
-		[3] = -1,
-		[4] = false,
-		[5] = "Abatog",
-		[8] = 60,
+	["Eitiano"] = {
+		[1] = 852,
 	},
 	["Takajeesus"] = {
 		[1] = 10456,
@@ -4788,8 +4791,8 @@ DPSMateUser = {
 	["Phol"] = {
 		[1] = 2736,
 	},
-	["Secret"] = {
-		[1] = 8379,
+	["Toxikoz"] = {
+		[1] = 12804,
 	},
 	["Gotchabish"] = {
 		[1] = 11163,
@@ -4814,8 +4817,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 39,
 	},
-	["Santoro"] = {
-		[1] = 12634,
+	["Gaaru"] = {
+		[1] = 771,
 	},
 	["Zinkis"] = {
 		[1] = 8004,
@@ -4838,8 +4841,8 @@ DPSMateUser = {
 	["Zigyap"] = {
 		[1] = 3132,
 	},
-	["Tebodo"] = {
-		[1] = 7717,
+	["Vori"] = {
+		[1] = 168,
 	},
 	["Formicacid"] = {
 		[1] = 491,
@@ -4870,14 +4873,17 @@ DPSMateUser = {
 	["Verdantine Tree Warder"] = {
 		[1] = 1607,
 	},
-	["Ponyewest"] = {
-		[1] = 10102,
+	["Maxlansky"] = {
+		[1] = 9316,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 27,
 	},
 	["Meishizuogs"] = {
 		[1] = 12507,
 	},
-	["Zottomate"] = {
-		[1] = 417,
+	["Mengxiaoyu"] = {
+		[1] = 12394,
 	},
 	["Merofuruya"] = {
 		[1] = 8975,
@@ -4885,8 +4891,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 25,
 	},
-	["Gunther Arcanus"] = {
-		[1] = 5419,
+	["RANOOOOO"] = {
+		[1] = 9645,
 	},
 	["Phangarth"] = {
 		[1] = 5691,
@@ -4897,8 +4903,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 15,
 	},
-	["Witchwing Windcaller"] = {
-		[1] = 6905,
+	["Chillveins"] = {
+		[1] = 9879,
 	},
 	["Huyobushek"] = {
 		[1] = 12446,
@@ -4909,8 +4915,11 @@ DPSMateUser = {
 	["Hargor"] = {
 		[1] = 9777,
 	},
-	["Siikkeri"] = {
-		[1] = 3617,
+	["Miumiui"] = {
+		[1] = 5877,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Sylvanasfeng"] = {
 		[1] = 10389,
@@ -4943,8 +4952,8 @@ DPSMateUser = {
 	["Mtwhitecamel"] = {
 		[1] = 6844,
 	},
-	["Bloodscalp Witch Doctor"] = {
-		[1] = 11833,
+	["Blood Seeker"] = {
+		[1] = 8622,
 	},
 	["Matix"] = {
 		[1] = 11530,
@@ -5063,8 +5072,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Guplazeely"] = {
-		[1] = 12052,
+	["Zhulek"] = {
+		[1] = 7273,
 	},
 	["Kaaern"] = {
 		[1] = 9672,
@@ -5117,8 +5126,8 @@ DPSMateUser = {
 	["Xanthaes"] = {
 		[1] = 7199,
 	},
-	["Momosunny"] = {
-		[1] = 9846,
+	["Dunkraft"] = {
+		[1] = 5764,
 	},
 	["Bertlock"] = {
 		[1] = 10694,
@@ -5141,11 +5150,8 @@ DPSMateUser = {
 	["Mctub"] = {
 		[1] = 6672,
 	},
-	["Naliah"] = {
-		[1] = 11146,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 44,
+	["Banananoid"] = {
+		[1] = 7111,
 	},
 	["Ahs"] = {
 		[1] = 12000,
@@ -5198,8 +5204,8 @@ DPSMateUser = {
 	["Amazingz"] = {
 		[1] = 10005,
 	},
-	["Imao"] = {
-		[1] = 8848,
+	["Azurakitsune"] = {
+		[1] = 8413,
 	},
 	["Choobii"] = {
 		[1] = 3082,
@@ -5222,11 +5228,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 37,
 	},
-	["Slimhoof"] = {
-		[1] = 5977,
+	["Jehovas"] = {
+		[1] = 2841,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Kippetio"] = {
-		[1] = 5547,
+	["Elhardyz"] = {
+		[1] = 84,
 	},
 	["Lisdeci"] = {
 		[1] = 11814,
@@ -5258,11 +5267,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 11,
 	},
-	["Benkvarmer"] = {
-		[1] = 9835,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 33,
+	["Furax"] = {
+		[1] = 11534,
 	},
 	["Xmc"] = {
 		[1] = 10254,
@@ -5276,8 +5282,8 @@ DPSMateUser = {
 	["Durax"] = {
 		[1] = 10400,
 	},
-	["Trevils"] = {
-		[1] = 4152,
+	["Magaidh"] = {
+		[1] = 8649,
 	},
 	["Mmc"] = {
 		[1] = 3405,
@@ -5291,8 +5297,8 @@ DPSMateUser = {
 	["Kor'gresh Coldrage"] = {
 		[1] = 12162,
 	},
-	["Xcynic"] = {
-		[1] = 3601,
+	["Puppamelo"] = {
+		[1] = 10643,
 	},
 	["Grothe"] = {
 		[1] = 12516,
@@ -5303,11 +5309,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 29,
 	},
-	["Triangle"] = {
-		[1] = 11837,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 37,
+	["Laruen"] = {
+		[1] = 12618,
 	},
 	["Krapik"] = {
 		[1] = 3287,
@@ -5330,11 +5333,11 @@ DPSMateUser = {
 	["Hunterzibbar"] = {
 		[1] = 10928,
 	},
-	["Vedeeo"] = {
-		[1] = 3191,
+	["Igs"] = {
+		[1] = 3688,
 	},
-	["Peacesells"] = {
-		[1] = 9748,
+	["Darnammius"] = {
+		[1] = 3993,
 	},
 	["Matta"] = {
 		[1] = 1035,
@@ -5353,8 +5356,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 20,
 	},
-	["WirtWigglar"] = {
-		[1] = 8522,
+	["Beramount"] = {
+		[1] = 6221,
 	},
 	["Panteliya"] = {
 		[1] = 13108,
@@ -5385,14 +5388,14 @@ DPSMateUser = {
 	["Corrupted Blue Whelp"] = {
 		[1] = 1084,
 	},
-	["Chappychi"] = {
-		[1] = 6701,
+	["Pajox"] = {
+		[1] = 5324,
 	},
 	["Phyleria"] = {
 		[1] = 7918,
 	},
-	["Ogkushed"] = {
-		[1] = 654,
+	["Arcanist Doan"] = {
+		[1] = 10596,
 	},
 	["Aznam"] = {
 		[1] = 4629,
@@ -5400,8 +5403,8 @@ DPSMateUser = {
 	["Kragvhug"] = {
 		[1] = 11669,
 	},
-	["Setsuna"] = {
-		[1] = 4771,
+	["Mandrey"] = {
+		[1] = 4329,
 	},
 	["Curaro"] = {
 		[1] = 9271,
@@ -5418,8 +5421,8 @@ DPSMateUser = {
 	["Pullike"] = {
 		[1] = 4030,
 	},
-	["Baron Silverlaine"] = {
-		[1] = 8619,
+	["Syrea"] = {
+		[1] = 2817,
 	},
 	["Auc"] = {
 		[1] = 2778,
@@ -5499,8 +5502,11 @@ DPSMateUser = {
 	["Musky"] = {
 		[1] = 5281,
 	},
-	["Benbendi"] = {
-		[1] = 7894,
+	["Thrassan"] = {
+		[1] = 10809,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 30,
 	},
 	["Imperial"] = {
 		[1] = 5822,
@@ -5535,11 +5541,8 @@ DPSMateUser = {
 	["Xorfiend"] = {
 		[1] = 13072,
 	},
-	["Kabanero"] = {
-		[1] = 11254,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 39,
+	["Flatbuwsh"] = {
+		[1] = 9210,
 	},
 	["Dawn"] = {
 		[1] = 6343,
@@ -5598,11 +5601,8 @@ DPSMateUser = {
 	["Kultarr"] = {
 		[1] = 8708,
 	},
-	["Boomshakkala"] = {
-		[1] = 10354,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 33,
+	["Commander Springvale"] = {
+		[1] = 8620,
 	},
 	["Alexice"] = {
 		[1] = 12737,
@@ -5625,8 +5625,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 9,
 	},
-	["Shamhero"] = {
-		[1] = 6169,
+	["Bairka"] = {
+		[1] = 6943,
 	},
 	["Grimtotem Reaver"] = {
 		[1] = 9828,
@@ -5637,13 +5637,8 @@ DPSMateUser = {
 	["Rot Hide Mongrel"] = {
 		[1] = 4905,
 	},
-	["Zxc"] = {
-		[1] = 7364,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[7] = "The love of daddy",
-		[8] = 14,
+	["Bloodscalp Berserker"] = {
+		[1] = 388,
 	},
 	["Cykelmage"] = {
 		[1] = 11264,
@@ -5689,8 +5684,10 @@ DPSMateUser = {
 	["Diipadaapa"] = {
 		[1] = 9222,
 	},
-	["Drekto"] = {
-		[1] = 914,
+	["°Ïd"] = {
+		[1] = 1920,
+		[4] = true,
+		[6] = 1896,
 	},
 	["Gorjax"] = {
 		[1] = 5467,
@@ -5712,10 +5709,11 @@ DPSMateUser = {
 		[7] = "USA Bubbled Europe Twice",
 		[8] = 60,
 	},
-	["Kritmix"] = {
-		[1] = 12317,
-		[2] = "mage",
-		[3] = 1,
+	["Terminotaure"] = {
+		[1] = 5588,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 23,
 	},
 	["Edoritas"] = {
 		[1] = 4819,
@@ -5723,8 +5721,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 6,
 	},
-	["Bbakaa"] = {
-		[1] = 10923,
+	["Medlvh"] = {
+		[1] = 7013,
 	},
 	["Frostcentric"] = {
 		[1] = 8079,
@@ -5735,8 +5733,8 @@ DPSMateUser = {
 	["Redweiler"] = {
 		[1] = 4888,
 	},
-	["Raptor"] = {
-		[1] = 299,
+	["Devore"] = {
+		[1] = 12947,
 	},
 	["Felinsky"] = {
 		[1] = 4549,
@@ -5744,8 +5742,8 @@ DPSMateUser = {
 	["Bluebird"] = {
 		[1] = 6414,
 	},
-	["Phiji"] = {
-		[1] = 5536,
+	["Wrathtail Myrmidon"] = {
+		[1] = 8990,
 	},
 	["Hairylegz"] = {
 		[1] = 2534,
@@ -5819,8 +5817,8 @@ DPSMateUser = {
 	["Whiteli"] = {
 		[1] = 12343,
 	},
-	["Sockerbarn"] = {
-		[1] = 6655,
+	["Shadow Panther"] = {
+		[1] = 13353,
 	},
 	["Deviate"] = {
 		[1] = 7540,
@@ -5864,8 +5862,11 @@ DPSMateUser = {
 		[7] = "BLACKLIST MAFIA",
 		[8] = 60,
 	},
-	["Fylla"] = {
-		[1] = 12756,
+	["Snigglefritz"] = {
+		[1] = 11961,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 16,
 	},
 	["Tesosadro"] = {
 		[1] = 12802,
@@ -5888,8 +5889,8 @@ DPSMateUser = {
 	["Thundering Exile"] = {
 		[1] = 12173,
 	},
-	["Zizizizizi"] = {
-		[1] = 12252,
+	["Rubmytotemzz"] = {
+		[1] = 13128,
 	},
 	["Rufflaren"] = {
 		[1] = 8243,
@@ -5897,8 +5898,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 23,
 	},
-	["Wind Howler"] = {
-		[1] = 9361,
+	["Coachella"] = {
+		[1] = 8537,
 	},
 	["Seeckt"] = {
 		[1] = 5941,
@@ -5930,8 +5931,8 @@ DPSMateUser = {
 	["Comia"] = {
 		[1] = 10563,
 	},
-	["Mchaos"] = {
-		[1] = 9278,
+	["Bigbravo"] = {
+		[1] = 8357,
 	},
 	["Fyreofficial"] = {
 		[1] = 4845,
@@ -5948,8 +5949,8 @@ DPSMateUser = {
 	["Maggot Eye"] = {
 		[1] = 4931,
 	},
-	["Sizestorm"] = {
-		[1] = 12657,
+	["Yezzee"] = {
+		[1] = 413,
 	},
 	["Woorstfinger"] = {
 		[1] = 10070,
@@ -5990,20 +5991,20 @@ DPSMateUser = {
 	["Omegaplus"] = {
 		[1] = 4371,
 	},
-	["Kankero"] = {
-		[1] = 9643,
+	["Paragonaxiom"] = {
+		[1] = 8103,
 	},
 	["Elder Mottled Boar"] = {
 		[1] = 5614,
 	},
-	["Wiings"] = {
-		[1] = 543,
+	["Nivx"] = {
+		[1] = 8891,
 	},
 	["Somnus"] = {
 		[1] = 13350,
 	},
-	["Azzanoth"] = {
-		[1] = 7396,
+	["Gladz"] = {
+		[1] = 9452,
 	},
 	["Shishaz"] = {
 		[1] = 11383,
@@ -6080,11 +6081,8 @@ DPSMateUser = {
 	["Witherbark Troll"] = {
 		[1] = 12139,
 	},
-	["Laoyer"] = {
-		[1] = 10295,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 26,
+	["Ironcladvlad"] = {
+		[1] = 10976,
 	},
 	["Firstwp"] = {
 		[1] = 7079,
@@ -6120,14 +6118,11 @@ DPSMateUser = {
 	["Pentagrammi"] = {
 		[1] = 12012,
 	},
-	["Pendrokar"] = {
-		[1] = 12087,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 30,
+	["Jamode"] = {
+		[1] = 1712,
 	},
-	["Garnetmoon"] = {
-		[1] = 10950,
+	["Bloodfury Slayer"] = {
+		[1] = 8193,
 	},
 	["Istop"] = {
 		[1] = 5027,
@@ -6225,11 +6220,8 @@ DPSMateUser = {
 	["Tyuiou"] = {
 		[1] = 12685,
 	},
-	["Kervian"] = {
-		[1] = 3409,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 3,
+	["Deyeah"] = {
+		[1] = 11546,
 	},
 	["Poppzie"] = {
 		[1] = 11290,
@@ -6240,14 +6232,14 @@ DPSMateUser = {
 	["Akuzetsu"] = {
 		[1] = 3555,
 	},
-	["Coffeefreak"] = {
-		[1] = 4075,
+	["Rakshasith"] = {
+		[1] = 5745,
 	},
-	["Nabopolasar"] = {
-		[1] = 8922,
+	["Grifftah"] = {
+		[1] = 2357,
 	},
-	["Assbringers"] = {
-		[1] = 2307,
+	["Haukkasuo"] = {
+		[1] = 46,
 	},
 	["Kongevez"] = {
 		[1] = 11043,
@@ -6339,13 +6331,8 @@ DPSMateUser = {
 	["Clagg"] = {
 		[1] = 4021,
 	},
-	["Nightwiish"] = {
-		[1] = 5898,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[7] = "Life Horde",
-		[8] = 39,
+	["Ezn"] = {
+		[1] = 1758,
 	},
 	["Schniblor"] = {
 		[1] = 3975,
@@ -6359,11 +6346,8 @@ DPSMateUser = {
 	["Lemongrab"] = {
 		[1] = 8553,
 	},
-	["Pissonnlgger"] = {
-		[1] = 10583,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 35,
+	["Duallit"] = {
+		[1] = 4511,
 	},
 	["Shillus"] = {
 		[1] = 4187,
@@ -6371,8 +6355,8 @@ DPSMateUser = {
 	["Krin"] = {
 		[1] = 1872,
 	},
-	["Noxins"] = {
-		[1] = 9906,
+	["Hypnotherapy"] = {
+		[1] = 7833,
 	},
 	["Zangdoc"] = {
 		[1] = 5721,
@@ -6404,8 +6388,8 @@ DPSMateUser = {
 	["Sakyamuni"] = {
 		[1] = 5122,
 	},
-	["Latanga"] = {
-		[1] = 11742,
+	["Linyuan"] = {
+		[1] = 10678,
 	},
 	["Bebeck"] = {
 		[1] = 11820,
@@ -6433,14 +6417,11 @@ DPSMateUser = {
 		[2] = "hunter",
 		[3] = 1,
 	},
-	["Belligerant"] = {
-		[1] = 7516,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 20,
+	["Goraj"] = {
+		[1] = 8486,
 	},
-	["dath"] = {
-		[1] = 68,
+	["Deb"] = {
+		[1] = 10980,
 	},
 	["Folia"] = {
 		[1] = 12798,
@@ -6451,8 +6432,8 @@ DPSMateUser = {
 	["Belnip"] = {
 		[1] = 6303,
 	},
-	["Zennie"] = {
-		[1] = 4739,
+	["Traadeboy"] = {
+		[1] = 9564,
 	},
 	["Catchmifucan"] = {
 		[1] = 12600,
@@ -6496,8 +6477,8 @@ DPSMateUser = {
 	["Tjueni"] = {
 		[1] = 10147,
 	},
-	["Hakkari Shadow Hunter"] = {
-		[1] = 352,
+	["Jevs"] = {
+		[1] = 2230,
 	},
 	["Riggexd"] = {
 		[1] = 8118,
@@ -6517,8 +6498,8 @@ DPSMateUser = {
 	["Chiguoguo"] = {
 		[1] = 7256,
 	},
-	["Lazors"] = {
-		[1] = 1325,
+	["Sorkkarauta"] = {
+		[1] = 4000,
 	},
 	["Shpilevka"] = {
 		[1] = 12939,
@@ -6550,11 +6531,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 13,
 	},
-	["Xiaoniude"] = {
-		[1] = 6801,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 17,
+	["Baldosavini"] = {
+		[1] = 12300,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 16,
 	},
 	["Hemrot"] = {
 		[1] = 13194,
@@ -6562,8 +6543,8 @@ DPSMateUser = {
 	["Hulahula"] = {
 		[1] = 424,
 	},
-	["Amonymous"] = {
-		[1] = 7225,
+	["Mathaus"] = {
+		[1] = 6491,
 	},
 	["Dalouu"] = {
 		[1] = 5743,
@@ -6586,11 +6567,13 @@ DPSMateUser = {
 	["Sotor"] = {
 		[1] = 9088,
 	},
-	["Deadwizzarrd"] = {
-		[1] = 10528,
+	["Feelthefaint"] = {
+		[1] = 10357,
+		[2] = "rogue",
+		[3] = 1,
 	},
-	["Xdhehe"] = {
-		[1] = 10422,
+	["Qqmm"] = {
+		[1] = 10206,
 	},
 	["Deadguys"] = {
 		[1] = 10078,
@@ -6601,8 +6584,8 @@ DPSMateUser = {
 	["Habi"] = {
 		[1] = 1143,
 	},
-	["Werdos"] = {
-		[1] = 3934,
+	["Ralkor"] = {
+		[1] = 3803,
 	},
 	["Mscrabtree"] = {
 		[1] = 5413,
@@ -6610,8 +6593,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 46,
 	},
-	["Lilil"] = {
-		[1] = 1004,
+	["Taburiss"] = {
+		[1] = 5881,
 	},
 	["Solora"] = {
 		[1] = 7690,
@@ -6622,14 +6605,11 @@ DPSMateUser = {
 	["Stalematee"] = {
 		[1] = 9424,
 	},
-	["Prevail"] = {
-		[1] = 2509,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 60,
+	["Infectious Ghoul"] = {
+		[1] = 2755,
 	},
-	["Herrmossa"] = {
-		[1] = 4128,
+	["Ichnix"] = {
+		[1] = 3721,
 	},
 	["Glaciattion"] = {
 		[1] = 9675,
@@ -6646,8 +6626,11 @@ DPSMateUser = {
 	["Saboura"] = {
 		[1] = 12648,
 	},
-	["Jayseric"] = {
-		[1] = 8833,
+	["Kittymanatee"] = {
+		[1] = 9143,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Linzy"] = {
 		[1] = 4084,
@@ -6700,8 +6683,14 @@ DPSMateUser = {
 	["Kikker"] = {
 		[1] = 1572,
 	},
-	["Melind"] = {
-		[1] = 10120,
+	["Allubot"] = {
+		[1] = 6766,
+		[2] = "hunter",
+		[3] = -1,
+		[4] = false,
+		[5] = "asd",
+		[7] = "Mellakka",
+		[8] = 15,
 	},
 	["Jib"] = {
 		[1] = 3430,
@@ -6721,8 +6710,8 @@ DPSMateUser = {
 	["Dr√§ngen"] = {
 		[1] = 985,
 	},
-	["Bigdealnheal"] = {
-		[1] = 1842,
+	["Loreta"] = {
+		[1] = 6028,
 	},
 	["Soloo"] = {
 		[1] = 4383,
@@ -6736,12 +6725,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 11,
 	},
-	["Knek"] = {
-		[1] = 1448,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Crazyradarm"] = {
+		[1] = 649,
 	},
 	["Klekel"] = {
 		[1] = 2461,
@@ -6761,8 +6746,8 @@ DPSMateUser = {
 	["Ashenvale Bear"] = {
 		[1] = 8365,
 	},
-	["Damentis"] = {
-		[1] = 8270,
+	["Kal'doc"] = {
+		[1] = 6789,
 	},
 	["kun"] = {
 		[1] = 1471,
@@ -6790,8 +6775,8 @@ DPSMateUser = {
 	["Deadde"] = {
 		[1] = 11314,
 	},
-	["Ravenclaw Raider"] = {
-		[1] = 8607,
+	["Tubessbm"] = {
+		[1] = 6643,
 	},
 	["Sewage Slime"] = {
 		[1] = 2741,
@@ -6829,8 +6814,8 @@ DPSMateUser = {
 	["Kaylassa"] = {
 		[1] = 207,
 	},
-	["Bornos"] = {
-		[1] = 4043,
+	["Miraklet"] = {
+		[1] = 3744,
 	},
 	["PYSHA"] = {
 		[1] = 11198,
@@ -6856,14 +6841,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 10,
 	},
-	["Bloodscalp Axe Thrower"] = {
-		[1] = 11023,
+	["Verymuchyes"] = {
+		[1] = 2988,
 	},
 	["Edgemaster"] = {
 		[1] = 2808,
 	},
-	["Bobbyshmurda"] = {
-		[1] = 11610,
+	["Hive'Zara Stinger"] = {
+		[1] = 865,
 	},
 	["Aitvaras"] = {
 		[1] = 8575,
@@ -6880,8 +6865,11 @@ DPSMateUser = {
 	["Voodimir"] = {
 		[1] = 6269,
 	},
-	["Xerliath"] = {
-		[1] = 11481,
+	["Annecarrie"] = {
+		[1] = 12413,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 41,
 	},
 	["Viperis"] = {
 		[1] = 9603,
@@ -6901,16 +6889,22 @@ DPSMateUser = {
 	["Hmfrank"] = {
 		[1] = 12649,
 	},
-	["Firebuddy"] = {
-		[1] = 4302,
+	["Mythology"] = {
+		[1] = 12327,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Fakeyoux"] = {
-		[1] = 11247,
-		[2] = "warlock",
-		[3] = 1,
+	["Ferian"] = {
+		[1] = 11532,
 	},
-	["Straponh"] = {
-		[1] = 3140,
+	["Corteez"] = {
+		[1] = 6698,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[7] = "Crucial Focus",
+		[8] = 11,
 	},
 	["Onth"] = {
 		[1] = 10151,
@@ -6934,11 +6928,8 @@ DPSMateUser = {
 	["Jin'do the Hexxer"] = {
 		[1] = 361,
 	},
-	["Lukashi"] = {
-		[1] = 5175,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 10,
+	["Jadoba"] = {
+		[1] = 10901,
 	},
 	["Stvka"] = {
 		[1] = 4384,
@@ -6967,8 +6958,13 @@ DPSMateUser = {
 	["Pimienta"] = {
 		[1] = 2969,
 	},
-	["Merzul"] = {
-		[1] = 9022,
+	["Aggromgmt"] = {
+		[1] = 9229,
+		[2] = "warrior",
+		[3] = -1,
+		[4] = false,
+		[7] = "World Boss",
+		[8] = 22,
 	},
 	["Buffroidz"] = {
 		[1] = 9397,
@@ -6976,8 +6972,8 @@ DPSMateUser = {
 	["Ayuzawa"] = {
 		[1] = 2912,
 	},
-	["Engel"] = {
-		[1] = 3578,
+	["Crazyshuno"] = {
+		[1] = 8756,
 	},
 	["Ellynore"] = {
 		[1] = 13307,
@@ -7006,11 +7002,8 @@ DPSMateUser = {
 		[7] = "The Undead Army",
 		[8] = 24,
 	},
-	["Alexgrist"] = {
-		[1] = 10661,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 35,
+	["Spawny"] = {
+		[1] = 5596,
 	},
 	["Imposible"] = {
 		[1] = 2087,
@@ -7066,11 +7059,11 @@ DPSMateUser = {
 	["Bhoernchen"] = {
 		[1] = 197,
 	},
-	["Memerealm"] = {
-		[1] = 1838,
+	["kuja"] = {
+		[1] = 12146,
 	},
-	["Applazy"] = {
-		[1] = 4070,
+	["Happygrind"] = {
+		[1] = 5531,
 	},
 	["Zhar'gore"] = {
 		[1] = 6496,
@@ -7093,8 +7086,8 @@ DPSMateUser = {
 	["Greater Duskbat"] = {
 		[1] = 4784,
 	},
-	["Zezze"] = {
-		[1] = 5075,
+	["Fyllhund"] = {
+		[1] = 11605,
 	},
 	["Earthbind"] = {
 		[1] = 2302,
@@ -7140,8 +7133,8 @@ DPSMateUser = {
 	["Fleshflayer Ghoul"] = {
 		[1] = 2143,
 	},
-	["Chinaa"] = {
-		[1] = 8945,
+	["Qiraj"] = {
+		[1] = 2356,
 	},
 	["Neok"] = {
 		[1] = 3258,
@@ -7158,11 +7151,11 @@ DPSMateUser = {
 	["Saneyn"] = {
 		[1] = 1816,
 	},
-	["Lilterry"] = {
-		[1] = 7736,
+	["Rastamon"] = {
+		[1] = 10276,
 	},
-	["Wyvern"] = {
-		[1] = 1349,
+	["Dagrot"] = {
+		[1] = 3466,
 	},
 	["Atlanti"] = {
 		[1] = 3375,
@@ -7246,8 +7239,8 @@ DPSMateUser = {
 	["Yurialpha"] = {
 		[1] = 10540,
 	},
-	["Artamis"] = {
-		[1] = 4993,
+	["Tonyjah"] = {
+		[1] = 11813,
 	},
 	["Eclipztank"] = {
 		[1] = 8673,
@@ -7258,8 +7251,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 39,
 	},
-	["Cowvalry"] = {
-		[1] = 6745,
+	["Saliz"] = {
+		[1] = 7084,
 	},
 	["Baozhaluoli"] = {
 		[1] = 11195,
@@ -7285,8 +7278,8 @@ DPSMateUser = {
 	["Ssons"] = {
 		[1] = 11094,
 	},
-	["Raviencraft"] = {
-		[1] = 3669,
+	["Marnu"] = {
+		[1] = 7746,
 	},
 	["Mutewo"] = {
 		[1] = 5023,
@@ -7297,8 +7290,8 @@ DPSMateUser = {
 	["Redcorr"] = {
 		[1] = 9730,
 	},
-	["Zilpep"] = {
-		[1] = 6214,
+	["Burning Destroyer"] = {
+		[1] = 10160,
 	},
 	["Maltex"] = {
 		[1] = 10297,
@@ -7306,8 +7299,11 @@ DPSMateUser = {
 	["Haapnum"] = {
 		[1] = 2359,
 	},
-	["Wootte"] = {
-		[1] = 850,
+	["Fusketa"] = {
+		[1] = 7842,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 33,
 	},
 	["Hercrac"] = {
 		[1] = 2401,
@@ -7315,8 +7311,13 @@ DPSMateUser = {
 	["Karru"] = {
 		[1] = 10727,
 	},
-	["Twilight Runner"] = {
-		[1] = 8228,
+	["Hamanzi"] = {
+		[1] = 506,
+		[2] = "hunter",
+		[3] = -1,
+		[4] = false,
+		[5] = "@@d",
+		[8] = 60,
 	},
 	["Needles"] = {
 		[1] = 9726,
@@ -7378,8 +7379,8 @@ DPSMateUser = {
 	["Wolfenstein"] = {
 		[1] = 2204,
 	},
-	["Cissen"] = {
-		[1] = 6467,
+	["Spiritripper"] = {
+		[1] = 4821,
 	},
 	["Lost One Mudlurker"] = {
 		[1] = 13331,
@@ -7405,11 +7406,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 22,
 	},
-	["Bolsamierda"] = {
-		[1] = 8190,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 28,
+	["Enraged Wyvern"] = {
+		[1] = 11134,
 	},
 	["Babagalya"] = {
 		[1] = 2798,
@@ -7450,8 +7448,11 @@ DPSMateUser = {
 	["Wretched"] = {
 		[1] = 3838,
 	},
-	["Shprict"] = {
-		[1] = 11301,
+	["Velwind"] = {
+		[1] = 13291,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 37,
 	},
 	["Muckluck"] = {
 		[1] = 8731,
@@ -7462,11 +7463,8 @@ DPSMateUser = {
 	["Elmagus"] = {
 		[1] = 5082,
 	},
-	["Presumption"] = {
-		[1] = 7195,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 25,
+	["Pegatasxd"] = {
+		[1] = 3301,
 	},
 	["Gamercindo"] = {
 		[1] = 5782,
@@ -7498,10 +7496,8 @@ DPSMateUser = {
 	["Itachi"] = {
 		[1] = 6915,
 	},
-	["Khiimyn"] = {
-		[1] = 1916,
-		[4] = true,
-		[6] = 1860,
+	["Netchayev"] = {
+		[1] = 5500,
 	},
 	["Ppimpp"] = {
 		[1] = 9871,
@@ -7631,14 +7627,14 @@ DPSMateUser = {
 	["Fyteme"] = {
 		[1] = 1020,
 	},
-	["Smileyface"] = {
-		[1] = 13278,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 34,
+	["Seneks"] = {
+		[1] = 3605,
 	},
-	["Holybubbles"] = {
-		[1] = 1954,
+	["Larzful"] = {
+		[1] = 11153,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 50,
 	},
 	["Sneibi"] = {
 		[1] = 2623,
@@ -7726,8 +7722,8 @@ DPSMateUser = {
 	["Stormcrack"] = {
 		[1] = 9406,
 	},
-	["Zos"] = {
-		[1] = 12866,
+	["Farmmage"] = {
+		[1] = 2521,
 	},
 	["Ledark"] = {
 		[1] = 12574,
@@ -7735,8 +7731,8 @@ DPSMateUser = {
 	["GPFDonkey"] = {
 		[1] = 10040,
 	},
-	["Vihn"] = {
-		[1] = 2104,
+	["Splinter"] = {
+		[1] = 3589,
 	},
 	["Rastawoman"] = {
 		[1] = 11566,
@@ -7775,8 +7771,8 @@ DPSMateUser = {
 	["Savannah Matriarch"] = {
 		[1] = 6684,
 	},
-	["Pissuglycow"] = {
-		[1] = 2352,
+	["Chuugaraka"] = {
+		[1] = 8299,
 	},
 	["SPARKLES"] = {
 		[1] = 1892,
@@ -7802,17 +7798,14 @@ DPSMateUser = {
 	["Veizel"] = {
 		[1] = 3498,
 	},
-	["Frontex"] = {
-		[1] = 11173,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 31,
+	["EUdirtbag"] = {
+		[1] = 7379,
 	},
 	["Risky"] = {
 		[1] = 8932,
 	},
-	["Bebegay"] = {
-		[1] = 2117,
+	["Poppytee"] = {
+		[1] = 12928,
 	},
 	["Marreta"] = {
 		[1] = 10379,
@@ -7823,8 +7816,8 @@ DPSMateUser = {
 	["Nheedrom"] = {
 		[1] = 2303,
 	},
-	["Pslsimo"] = {
-		[1] = 1191,
+	["Tutmanik"] = {
+		[1] = 4396,
 	},
 	["Digin"] = {
 		[1] = 11990,
@@ -7847,11 +7840,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Abnoosh"] = {
-		[1] = 12096,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 32,
+	["Blackkusa"] = {
+		[1] = 4744,
 	},
 	["Alex"] = {
 		[1] = 6733,
@@ -7859,11 +7849,8 @@ DPSMateUser = {
 	["Alauden"] = {
 		[1] = 5257,
 	},
-	["Taijma"] = {
-		[1] = 11753,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 18,
+	["Sylvania"] = {
+		[1] = 5648,
 	},
 	["BoarGrills"] = {
 		[1] = 6523,
@@ -7898,8 +7885,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 6,
 	},
-	["Waagle"] = {
-		[1] = 10461,
+	["Akicha"] = {
+		[1] = 2187,
 	},
 	["Maugzy"] = {
 		[1] = 9100,
@@ -7916,11 +7903,8 @@ DPSMateUser = {
 	["Looga"] = {
 		[1] = 9526,
 	},
-	["Djbuddyfox"] = {
-		[1] = 9581,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 32,
+	["Moscfield"] = {
+		[1] = 8356,
 	},
 	["Asadien"] = {
 		[1] = 11241,
@@ -7931,8 +7915,8 @@ DPSMateUser = {
 	["Kanshik"] = {
 		[1] = 5942,
 	},
-	["Modest"] = {
-		[1] = 11729,
+	["Syick"] = {
+		[1] = 12279,
 	},
 	["Kemires"] = {
 		[1] = 5442,
@@ -7970,8 +7954,8 @@ DPSMateUser = {
 	["Stranglethorn Raptor"] = {
 		[1] = 11392,
 	},
-	["HARAM"] = {
-		[1] = 6872,
+	["Sneezdat"] = {
+		[1] = 2290,
 	},
 	["Olivercrooks"] = {
 		[1] = 4743,
@@ -8057,8 +8041,8 @@ DPSMateUser = {
 	["Windzorn"] = {
 		[1] = 4958,
 	},
-	["Mordecai"] = {
-		[1] = 4885,
+	["Masul"] = {
+		[1] = 6073,
 	},
 	["Bloodbelch"] = {
 		[1] = 1043,
@@ -8080,11 +8064,8 @@ DPSMateUser = {
 	["Parnthe"] = {
 		[1] = 9123,
 	},
-	["Twinkboy"] = {
-		[1] = 12910,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 36,
+	["Memnoche"] = {
+		[1] = 8832,
 	},
 	["Crazyeyes"] = {
 		[1] = 2312,
@@ -8095,8 +8076,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 33,
 	},
-	["Holiander"] = {
-		[1] = 13021,
+	["Dellarocco"] = {
+		[1] = 1480,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Shadowshade"] = {
 		[1] = 211,
@@ -8106,11 +8090,10 @@ DPSMateUser = {
 		[4] = true,
 		[6] = 9230,
 	},
-	["Pingguos"] = {
-		[1] = 3068,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 1,
+	["Ormthyk"] = {
+		[1] = 11656,
+		[4] = true,
+		[6] = 11310,
 	},
 	["Fattymcfap"] = {
 		[1] = 4882,
@@ -8169,8 +8152,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 39,
 	},
-	["Weezyfbaby"] = {
-		[1] = 5668,
+	["Ophelila"] = {
+		[1] = 430,
 	},
 	["Filoteo"] = {
 		[1] = 3275,
@@ -8199,15 +8182,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Achilius"] = {
-		[1] = 10239,
+	["Dreamhunterr"] = {
+		[1] = 4380,
 	},
-	["Ifarmch"] = {
-		[1] = 2111,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Gakrin"] = {
+		[1] = 5063,
 	},
 	["Ramparts"] = {
 		[1] = 2391,
@@ -8271,8 +8250,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 34,
 	},
-	["Kolkar Mauler"] = {
-		[1] = 12849,
+	["Soopersaiyan"] = {
+		[1] = 3500,
 	},
 	["Evr"] = {
 		[1] = 12812,
@@ -8319,14 +8298,11 @@ DPSMateUser = {
 	["Whitepac"] = {
 		[1] = 6448,
 	},
-	["Fire Nova Totem V"] = {
-		[1] = 346,
+	["Pizzalover"] = {
+		[1] = 9504,
 	},
-	["Celdoir"] = {
-		[1] = 5188,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 9,
+	["Crimrock"] = {
+		[1] = 8488,
 	},
 	["Punkestet"] = {
 		[1] = 10083,
@@ -8337,8 +8313,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Aogodie"] = {
-		[1] = 4586,
+	["Rubberfist"] = {
+		[1] = 8798,
 	},
 	["Darksoul"] = {
 		[1] = 11759,
@@ -8419,26 +8395,26 @@ DPSMateUser = {
 	["Hopika"] = {
 		[1] = 3230,
 	},
-	["Tastypotato"] = {
-		[1] = 3249,
+	["Oldmiu"] = {
+		[1] = 7568,
 	},
 	["Healing Stream Totem"] = {
 		[1] = 7075,
 	},
-	["Krameed"] = {
-		[1] = 6176,
+	["Elregath"] = {
+		[1] = 3906,
 	},
 	["Kobold Vermin"] = {
 		[1] = 4855,
 	},
-	["Evinak"] = {
-		[1] = 4890,
+	["Canal Frenzy"] = {
+		[1] = 876,
 	},
 	["Nimzy"] = {
 		[1] = 11499,
 	},
-	["Hubak"] = {
-		[1] = 12765,
+	["Whiskyonice"] = {
+		[1] = 3135,
 	},
 	["Undeadheal"] = {
 		[1] = 12752,
@@ -8555,8 +8531,11 @@ DPSMateUser = {
 	["Baigui"] = {
 		[1] = 13112,
 	},
-	["Hammond"] = {
-		[1] = 891,
+	["Moonz"] = {
+		[1] = 8375,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 25,
 	},
 	["Fzr"] = {
 		[1] = 1534,
@@ -8618,8 +8597,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 37,
 	},
-	["Venture Co. Lookout"] = {
-		[1] = 7948,
+	["Bokalbo"] = {
+		[1] = 1173,
 	},
 	["Karlinto"] = {
 		[1] = 5990,
@@ -8636,8 +8615,11 @@ DPSMateUser = {
 	["Cheater"] = {
 		[1] = 12363,
 	},
-	["Skragg"] = {
-		[1] = 2902,
+	["Saervek"] = {
+		[1] = 5521,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 14,
 	},
 	["Xiaotianxia"] = {
 		[1] = 12064,
@@ -8666,8 +8648,11 @@ DPSMateUser = {
 	["Nablya"] = {
 		[1] = 3908,
 	},
-	["Reflectio"] = {
-		[1] = 11265,
+	["Joburn"] = {
+		[1] = 11128,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 30,
 	},
 	["Bakugou"] = {
 		[1] = 5785,
@@ -8717,14 +8702,11 @@ DPSMateUser = {
 	["Storhund"] = {
 		[1] = 6451,
 	},
-	["Ulthalesh"] = {
-		[1] = 2186,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 60,
+	["Qzell"] = {
+		[1] = 3742,
 	},
-	["Soft"] = {
-		[1] = 12744,
+	["Soyud"] = {
+		[1] = 10846,
 	},
 	["Searing Totem"] = {
 		[1] = 5528,
@@ -8797,8 +8779,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 33,
 	},
-	["Ridge Stalker Patriarch"] = {
-		[1] = 13229,
+	["Phantamisque"] = {
+		[1] = 3849,
 	},
 	["Bloodfury Harpy"] = {
 		[1] = 8179,
@@ -8812,11 +8794,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 29,
 	},
-	["Mayze"] = {
-		[1] = 8121,
+	["Moobilly"] = {
+		[1] = 10200,
 	},
-	["Beluri"] = {
-		[1] = 4670,
+	["Redbringer"] = {
+		[1] = 12249,
 	},
 	["Avoidlol"] = {
 		[1] = 8796,
@@ -8830,8 +8812,8 @@ DPSMateUser = {
 	["Lukam"] = {
 		[1] = 1840,
 	},
-	["Lotharogar"] = {
-		[1] = 1263,
+	["Izzeh"] = {
+		[1] = 5651,
 	},
 	["Undeatth"] = {
 		[1] = 9985,
@@ -8860,11 +8842,8 @@ DPSMateUser = {
 	["Bukam"] = {
 		[1] = 13010,
 	},
-	["Cherryplum"] = {
-		[1] = 11262,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 32,
+	["Filenos"] = {
+		[1] = 4479,
 	},
 	["Stardustpowa"] = {
 		[1] = 5278,
@@ -8878,8 +8857,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 51,
 	},
-	["Ugluku"] = {
-		[1] = 1756,
+	["Coffin"] = {
+		[1] = 4476,
 	},
 	["Nahmaste"] = {
 		[1] = 4330,
@@ -8903,8 +8882,8 @@ DPSMateUser = {
 	["Rift"] = {
 		[1] = 5140,
 	},
-	["Cowhombre"] = {
-		[1] = 7003,
+	["Nopulp"] = {
+		[1] = 12622,
 	},
 	["Macuwater"] = {
 		[1] = 10782,
@@ -8962,8 +8941,8 @@ DPSMateUser = {
 	["Bungarus"] = {
 		[1] = 7723,
 	},
-	["Rngftwgghfgl"] = {
-		[1] = 9559,
+	["Makzi"] = {
+		[1] = 10737,
 	},
 	["Ahnica"] = {
 		[1] = 2512,
@@ -9001,8 +8980,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Paae"] = {
-		[1] = 2182,
+	["Lobstersauce"] = {
+		[1] = 12402,
 	},
 	["Woshisheshou"] = {
 		[1] = 12450,
@@ -9022,8 +9001,11 @@ DPSMateUser = {
 	["Lurtz"] = {
 		[1] = 4416,
 	},
-	["Zarra"] = {
-		[1] = 2035,
+	["Xtech"] = {
+		[1] = 8353,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 16,
 	},
 	["smallcat"] = {
 		[1] = 13273,
@@ -9141,17 +9123,17 @@ DPSMateUser = {
 	["Klouksy"] = {
 		[1] = 4352,
 	},
-	["Krawnzkick"] = {
-		[1] = 2468,
+	["Hove"] = {
+		[1] = 9050,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 35,
 	},
 	["Kleskisback"] = {
 		[1] = 8602,
 	},
-	["Zlax"] = {
-		[1] = 12302,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 13,
+	["Zardell"] = {
+		[1] = 3681,
 	},
 	["St√°rshinez"] = {
 		[1] = 2394,
@@ -9175,8 +9157,8 @@ DPSMateUser = {
 	["Young Night Web Spider"] = {
 		[1] = 4545,
 	},
-	["Brookcee"] = {
-		[1] = 10072,
+	["Manica"] = {
+		[1] = 514,
 	},
 	["Retlok"] = {
 		[1] = 1216,
@@ -9209,8 +9191,8 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 60,
 	},
-	["Lostlling"] = {
-		[1] = 4496,
+	["Danksmite"] = {
+		[1] = 5945,
 	},
 	["Rawste"] = {
 		[1] = 2263,
@@ -9233,11 +9215,11 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 32,
 	},
-	["Kessiamath"] = {
-		[1] = 12979,
+	["Shinrog"] = {
+		[1] = 3112,
 	},
-	["Infras"] = {
-		[1] = 2970,
+	["Kcolock"] = {
+		[1] = 13201,
 	},
 	["Jiesus"] = {
 		[1] = 12594,
@@ -9278,8 +9260,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 31,
 	},
-	["Ezzi"] = {
-		[1] = 5049,
+	["Beerfish"] = {
+		[1] = 13049,
 	},
 	["skrewezizgay"] = {
 		[1] = 10670,
@@ -9320,11 +9302,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 7,
 	},
-	["Wistfully"] = {
-		[1] = 4826,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 8,
+	["Tummygrumble"] = {
+		[1] = 9686,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 32,
 	},
 	["Thormanu"] = {
 		[1] = 11623,
@@ -9362,8 +9344,11 @@ DPSMateUser = {
 	["Sheeran"] = {
 		[1] = 12774,
 	},
-	["Knoxfall"] = {
-		[1] = 5240,
+	["Frysenlel"] = {
+		[1] = 11225,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 38,
 	},
 	["Mamae"] = {
 		[1] = 799,
@@ -9377,8 +9362,8 @@ DPSMateUser = {
 	["Paabllo"] = {
 		[1] = 8116,
 	},
-	["Ventarn"] = {
-		[1] = 8484,
+	["Thurman Agamand"] = {
+		[1] = 5283,
 	},
 	["Broeki"] = {
 		[1] = 6385,
@@ -9392,11 +9377,8 @@ DPSMateUser = {
 	["Bllamm"] = {
 		[1] = 8028,
 	},
-	["Maronis"] = {
-		[1] = 8968,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 29,
+	["Richardo"] = {
+		[1] = 80,
 	},
 	["Floopa"] = {
 		[1] = 707,
@@ -9419,11 +9401,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Froncho"] = {
-		[1] = 11539,
+	["Flippoflappo"] = {
+		[1] = 9446,
 	},
-	["Dotitup"] = {
-		[1] = 7385,
+	["Zuldgrim"] = {
+		[1] = 5275,
 	},
 	["Healingpowa"] = {
 		[1] = 11278,
@@ -9436,8 +9418,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 28,
 	},
-	["Extremoduro"] = {
-		[1] = 2161,
+	["Margeree"] = {
+		[1] = 82,
 	},
 	["Corvisha"] = {
 		[1] = 11599,
@@ -9475,23 +9457,23 @@ DPSMateUser = {
 	["Nazzih"] = {
 		[1] = 3651,
 	},
-	["Monchichi"] = {
-		[1] = 10823,
+	["Fireman"] = {
+		[1] = 4994,
 	},
 	["Angryalways"] = {
 		[1] = 1127,
 	},
-	["Witherbark Speaker"] = {
-		[1] = 341,
+	["Freedomsky"] = {
+		[1] = 13099,
 	},
 	["Hatchers"] = {
 		[1] = 6666,
 	},
-	["Rajaux"] = {
-		[1] = 12213,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 20,
+	["Kaidasd"] = {
+		[1] = 2434,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Bestcowever"] = {
 		[1] = 8458,
@@ -9523,11 +9505,11 @@ DPSMateUser = {
 	["Behind"] = {
 		[1] = 2973,
 	},
-	["Titanikus"] = {
-		[1] = 12110,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 40,
+	["Shahman"] = {
+		[1] = 7694,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 20,
 	},
 	["Tremor Totem"] = {
 		[1] = 1425,
@@ -9541,8 +9523,11 @@ DPSMateUser = {
 	["Syndicate Prowler"] = {
 		[1] = 12433,
 	},
-	["Carthew"] = {
-		[1] = 10728,
+	["Darkkroth"] = {
+		[1] = 2046,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Gingerz"] = {
 		[1] = 9331,
@@ -9579,8 +9564,8 @@ DPSMateUser = {
 	["Verydangerus"] = {
 		[1] = 6447,
 	},
-	["Diaoren"] = {
-		[1] = 4052,
+	["Firewfire"] = {
+		[1] = 2696,
 	},
 	["Sivert"] = {
 		[1] = 8231,
@@ -9604,11 +9589,8 @@ DPSMateUser = {
 	["Dagnam"] = {
 		[1] = 2301,
 	},
-	["Smalljoker"] = {
-		[1] = 12335,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Deecon"] = {
+		[1] = 8874,
 	},
 	["Gelsworn"] = {
 		[1] = 2517,
@@ -9622,8 +9604,8 @@ DPSMateUser = {
 	["Elrocco"] = {
 		[1] = 7467,
 	},
-	["Ehq"] = {
-		[1] = 4825,
+	["Zager"] = {
+		[1] = 8269,
 	},
 	["Jeetkunedot"] = {
 		[1] = 11523,
@@ -9706,14 +9688,11 @@ DPSMateUser = {
 	["Thoruh"] = {
 		[1] = 8893,
 	},
-	["Chuvachock"] = {
-		[1] = 10302,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 10,
+	["Nannochka"] = {
+		[1] = 13272,
 	},
-	["Odman"] = {
-		[1] = 7588,
+	["Nancy Vishas"] = {
+		[1] = 10612,
 	},
 	["LM"] = {
 		[1] = 7549,
@@ -9793,20 +9772,14 @@ DPSMateUser = {
 	["Evtanazia"] = {
 		[1] = 12206,
 	},
-	["Verdum"] = {
-		[1] = 11180,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 33,
+	["Luanostra"] = {
+		[1] = 3144,
 	},
-	["Ganna"] = {
-		[1] = 9818,
+	["Deadnox"] = {
+		[1] = 3793,
 	},
-	["Luzhit"] = {
-		[1] = 11058,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 34,
+	["Lilwyte"] = {
+		[1] = 10352,
 	},
 	["Wericia"] = {
 		[1] = 9801,
@@ -9856,8 +9829,8 @@ DPSMateUser = {
 	["Gelihast"] = {
 		[1] = 9003,
 	},
-	["Kenir"] = {
-		[1] = 10425,
+	["Bristar"] = {
+		[1] = 7493,
 	},
 	["Calianq"] = {
 		[1] = 4532,
@@ -9880,8 +9853,8 @@ DPSMateUser = {
 	["Arucado"] = {
 		[1] = 22,
 	},
-	["Ruluri"] = {
-		[1] = 6317,
+	["Overseer Glibby"] = {
+		[1] = 6947,
 	},
 	["Garrylol"] = {
 		[1] = 11571,
@@ -9898,11 +9871,11 @@ DPSMateUser = {
 	["Ryanlockwood"] = {
 		[1] = 3941,
 	},
-	["Androm"] = {
-		[1] = 5908,
+	["Casanovababy"] = {
+		[1] = 11056,
 		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+		[3] = 1,
+		[8] = 38,
 	},
 	["Globalelite"] = {
 		[1] = 7706,
@@ -9964,8 +9937,8 @@ DPSMateUser = {
 	["Morfitblitz"] = {
 		[1] = 4575,
 	},
-	["Doksa"] = {
-		[1] = 4197,
+	["Kta"] = {
+		[1] = 13379,
 	},
 	["Swaggerino"] = {
 		[1] = 2695,
@@ -10091,11 +10064,11 @@ DPSMateUser = {
 	["Mordenai"] = {
 		[1] = 11090,
 	},
-	["Diabloowjob"] = {
-		[1] = 10268,
+	["Zeddicus"] = {
+		[1] = 1994,
 	},
-	["Necho"] = {
-		[1] = 6226,
+	["Young Stranglethorn Raptor"] = {
+		[1] = 11396,
 	},
 	["Hanzoi"] = {
 		[1] = 9953,
@@ -10127,8 +10100,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Fathertime"] = {
-		[1] = 790,
+	["Hakuziinha"] = {
+		[1] = 4618,
 	},
 	["Kwiiblo"] = {
 		[1] = 5343,
@@ -10157,8 +10130,8 @@ DPSMateUser = {
 	["Elder Crag Coyote"] = {
 		[1] = 12404,
 	},
-	["Gootseye"] = {
-		[1] = 515,
+	["Flodinepve"] = {
+		[1] = 78,
 	},
 	["Plains Creeper"] = {
 		[1] = 10338,
@@ -10226,8 +10199,8 @@ DPSMateUser = {
 	["Spasmerkrull"] = {
 		[1] = 4638,
 	},
-	["Doobeh"] = {
-		[1] = 6561,
+	["Spiritmouse"] = {
+		[1] = 12934,
 	},
 	["Shatty"] = {
 		[1] = 11922,
@@ -10292,8 +10265,11 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 37,
 	},
-	["Deeksi"] = {
-		[1] = 3893,
+	["Tartaar"] = {
+		[1] = 5519,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 12,
 	},
 	["Ruminyan"] = {
 		[1] = 8802,
@@ -10346,8 +10322,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Akim"] = {
-		[1] = 2906,
+	["Severad"] = {
+		[1] = 11336,
 	},
 	["Hantylolzz"] = {
 		[1] = 11902,
@@ -10367,10 +10343,8 @@ DPSMateUser = {
 	["Lograx"] = {
 		[1] = 7391,
 	},
-	["Lorakain"] = {
-		[1] = 12310,
-		[2] = "rogue",
-		[3] = 1,
+	["Mirandaa"] = {
+		[1] = 12870,
 	},
 	["Specklecow"] = {
 		[1] = 12601,
@@ -10378,8 +10352,8 @@ DPSMateUser = {
 	["Fupa"] = {
 		[1] = 5688,
 	},
-	["Tebrex"] = {
-		[1] = 5389,
+	["Gabbys"] = {
+		[1] = 1367,
 	},
 	["Pulodemoore"] = {
 		[1] = 10671,
@@ -10444,8 +10418,8 @@ DPSMateUser = {
 	["Syyrjx"] = {
 		[1] = 10904,
 	},
-	["Sampthechamp"] = {
-		[1] = 8202,
+	["Steadyaim"] = {
+		[1] = 10956,
 	},
 	["Dromedarius"] = {
 		[1] = 273,
@@ -10459,11 +10433,8 @@ DPSMateUser = {
 	["Nolat"] = {
 		[1] = 6180,
 	},
-	["Ic"] = {
-		[1] = 12071,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 35,
+	["Shibilay"] = {
+		[1] = 6195,
 	},
 	["Inher"] = {
 		[1] = 6646,
@@ -10480,8 +10451,11 @@ DPSMateUser = {
 	["That"] = {
 		[1] = 5975,
 	},
-	["Hordeheadthr"] = {
-		[1] = 1187,
+	["Warave"] = {
+		[1] = 8605,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 11,
 	},
 	["Zornam"] = {
 		[1] = 4781,
@@ -10524,8 +10498,11 @@ DPSMateUser = {
 	["Young Stranglethorn Tiger"] = {
 		[1] = 382,
 	},
-	["Syndicate Saboteur"] = {
-		[1] = 10615,
+	["Crazix"] = {
+		[1] = 5520,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 12,
 	},
 	["Trotta"] = {
 		[1] = 6958,
@@ -10574,8 +10551,8 @@ DPSMateUser = {
 	["Iwantname"] = {
 		[1] = 7083,
 	},
-	["Overnb"] = {
-		[1] = 12777,
+	["Unicornffs"] = {
+		[1] = 5979,
 	},
 	["Samugarg"] = {
 		[1] = 1932,
@@ -10600,11 +10577,14 @@ DPSMateUser = {
 	["farfelkuegel"] = {
 		[1] = 9778,
 	},
-	["Tercan"] = {
-		[1] = 1381,
+	["Zimomo"] = {
+		[1] = 11003,
 	},
-	["Da"] = {
-		[1] = 412,
+	["Gearslime"] = {
+		[1] = 5329,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 10,
 	},
 	["Lulubobo"] = {
 		[1] = 13056,
@@ -10657,11 +10637,8 @@ DPSMateUser = {
 	["Fearmyboner"] = {
 		[1] = 3060,
 	},
-	["Shukah"] = {
-		[1] = 8963,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 22,
+	["Quzrin"] = {
+		[1] = 5209,
 	},
 	["Atwosmile"] = {
 		[1] = 4049,
@@ -10714,8 +10691,11 @@ DPSMateUser = {
 		[7] = "Conspiracy",
 		[8] = 18,
 	},
-	["Blistexx"] = {
-		[1] = 12714,
+	["Hunnin"] = {
+		[1] = 10471,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 7,
 	},
 	["Pilesons"] = {
 		[1] = 6542,
@@ -10730,14 +10710,17 @@ DPSMateUser = {
 	["Grouvy"] = {
 		[1] = 4248,
 	},
-	["Xxanas"] = {
-		[1] = 12020,
+	["Asphyxy"] = {
+		[1] = 6333,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 12,
 	},
 	["Nomorecast"] = {
 		[1] = 620,
 	},
-	["Goldsword"] = {
-		[1] = 9988,
+	["Hakkari Shadowcaster"] = {
+		[1] = 339,
 	},
 	["Siln Skychaser"] = {
 		[1] = 10212,
@@ -10770,14 +10753,14 @@ DPSMateUser = {
 	["Popa"] = {
 		[1] = 721,
 	},
-	["Weakst"] = {
-		[1] = 10603,
+	["Nocturnality"] = {
+		[1] = 4275,
 	},
 	["Horde Guard"] = {
 		[1] = 5711,
 	},
-	["Abeaumont"] = {
-		[1] = 9760,
+	["Rogueshka"] = {
+		[1] = 657,
 	},
 	["Popito"] = {
 		[1] = 1197,
@@ -10788,20 +10771,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 16,
 	},
-	["Oceome"] = {
-		[1] = 11613,
+	["Veign"] = {
+		[1] = 2098,
 	},
 	["Kzaag"] = {
 		[1] = 4765,
 	},
-	["Chenshishi"] = {
-		[1] = 7887,
+	["Moona"] = {
+		[1] = 3610,
 	},
 	["Fapfapfap"] = {
 		[1] = 10459,
 	},
-	["Aurosa"] = {
-		[1] = 1371,
+	["Bigdambush"] = {
+		[1] = 7224,
 	},
 	["Liryc"] = {
 		[1] = 4693,
@@ -10815,8 +10798,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Itsreal"] = {
-		[1] = 5433,
+	["Vajumuh"] = {
+		[1] = 2823,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Nahkasarvi"] = {
 		[1] = 1969,
@@ -10833,11 +10819,11 @@ DPSMateUser = {
 	["Cowstar"] = {
 		[1] = 410,
 	},
-	["Giggle"] = {
-		[1] = 3980,
+	["Cmyrius"] = {
+		[1] = 11524,
 	},
-	["Deaddrifter"] = {
-		[1] = 10520,
+	["Stillalive"] = {
+		[1] = 6397,
 	},
 	["Pao'ka"] = {
 		[1] = 9727,
@@ -10845,17 +10831,14 @@ DPSMateUser = {
 	["Leofender"] = {
 		[1] = 7984,
 	},
-	["Haderac"] = {
-		[1] = 6944,
+	["Narwal"] = {
+		[1] = 10126,
 	},
 	["Morrd"] = {
 		[1] = 7624,
 	},
-	["Ailaroc"] = {
-		[1] = 7140,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 25,
+	["Ravinos"] = {
+		[1] = 7433,
 	},
 	["Archibald"] = {
 		[1] = 12983,
@@ -10869,11 +10852,11 @@ DPSMateUser = {
 	["Maikelele"] = {
 		[1] = 6231,
 	},
-	["Becausevette"] = {
-		[1] = 13366,
-		[2] = "priest",
+	["Salfe"] = {
+		[1] = 3186,
+		[2] = "warlock",
 		[3] = -1,
-		[8] = 5,
+		[8] = 2,
 	},
 	["Gan'zulah"] = {
 		[1] = 11839,
@@ -10887,11 +10870,8 @@ DPSMateUser = {
 	["Xiaozhiu"] = {
 		[1] = 12882,
 	},
-	["Fnatic"] = {
-		[1] = 5235,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 8,
+	["Mahikosan"] = {
+		[1] = 4047,
 	},
 	["Mystxrivl"] = {
 		[1] = 1033,
@@ -10907,8 +10887,8 @@ DPSMateUser = {
 		[7] = "NO GNOMO",
 		[8] = 35,
 	},
-	["Vile Fin Minor Oracle"] = {
-		[1] = 4858,
+	["Charleetz"] = {
+		[1] = 11244,
 	},
 	["Warriorvsyou"] = {
 		[1] = 11780,
@@ -10937,8 +10917,8 @@ DPSMateUser = {
 	["Coimbraw"] = {
 		[1] = 3138,
 	},
-	["Kappaclaus"] = {
-		[1] = 3050,
+	["Switchyy"] = {
+		[1] = 1267,
 	},
 	["Namz"] = {
 		[1] = 8824,
@@ -10955,11 +10935,8 @@ DPSMateUser = {
 	["Wangjjyy"] = {
 		[1] = 9986,
 	},
-	["Velgrimm"] = {
-		[1] = 6778,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 17,
+	["Doomhummer"] = {
+		[1] = 10733,
 	},
 	["Elementastic"] = {
 		[1] = 1665,
@@ -10975,10 +10952,8 @@ DPSMateUser = {
 		[7] = "Made By Nature",
 		[8] = 30,
 	},
-	["khamuy"] = {
-		[1] = 9717,
-		[4] = true,
-		[6] = 7777,
+	["Soswit"] = {
+		[1] = 3228,
 	},
 	["Fishyfish"] = {
 		[1] = 8547,
@@ -10988,29 +10963,23 @@ DPSMateUser = {
 		[2] = "warrior",
 		[3] = 1,
 	},
-	["Doombasher"] = {
-		[1] = 11819,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 36,
+	["Fallenroot Rogue"] = {
+		[1] = 8983,
 	},
-	["Slamboo"] = {
-		[1] = 7004,
+	["Gangly"] = {
+		[1] = 8457,
 	},
 	["Keffmaestro"] = {
 		[1] = 4412,
 	},
-	["Portinari"] = {
-		[1] = 10663,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 31,
+	["Siyl"] = {
+		[1] = 5973,
 	},
 	["Powell"] = {
 		[1] = 2379,
 	},
-	["Blockthis"] = {
-		[1] = 8861,
+	["Lolv"] = {
+		[1] = 1961,
 	},
 	["Lost Barrens Kodo"] = {
 		[1] = 6518,
@@ -11020,8 +10989,8 @@ DPSMateUser = {
 		[2] = "hunter",
 		[3] = 1,
 	},
-	["Papapalol"] = {
-		[1] = 7544,
+	["Agadava"] = {
+		[1] = 2355,
 	},
 	["Mefedros"] = {
 		[1] = 7848,
@@ -11032,14 +11001,11 @@ DPSMateUser = {
 	["Reduced"] = {
 		[1] = 7228,
 	},
-	["Deviate Moccasin"] = {
-		[1] = 7541,
+	["Drysnap Crawler"] = {
+		[1] = 12814,
 	},
-	["Ovenmitt"] = {
-		[1] = 10237,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 26,
+	["Kraxkalle"] = {
+		[1] = 5859,
 	},
 	["Theulex"] = {
 		[1] = 3058,
@@ -11047,8 +11013,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 2,
 	},
-	["Hamingjagunn"] = {
-		[1] = 9739,
+	["Terlyia"] = {
+		[1] = 1167,
 	},
 	["Khamuy"] = {
 		[1] = 12143,
@@ -11074,11 +11040,11 @@ DPSMateUser = {
 	["Sligoth"] = {
 		[1] = 4040,
 	},
-	["Durie"] = {
-		[1] = 7494,
+	["Caug"] = {
+		[1] = 11786,
 	},
-	["Arwoo"] = {
-		[1] = 4492,
+	["Arcage"] = {
+		[1] = 11035,
 	},
 	["Elder Mistvale Gorilla"] = {
 		[1] = 11149,
@@ -11101,11 +11067,8 @@ DPSMateUser = {
 	["Wafflesbaby"] = {
 		[1] = 8097,
 	},
-	["Brainlock"] = {
-		[1] = 5171,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 9,
+	["Getkuk"] = {
+		[1] = 6975,
 	},
 	["Tixis"] = {
 		[1] = 10569,
@@ -11116,8 +11079,8 @@ DPSMateUser = {
 	["Shamanole"] = {
 		[1] = 11636,
 	},
-	["Jubmat"] = {
-		[1] = 12679,
+	["Lightwave"] = {
+		[1] = 2532,
 	},
 	["Sazan"] = {
 		[1] = 7901,
@@ -11140,8 +11103,8 @@ DPSMateUser = {
 	["Fluggah"] = {
 		[1] = 10647,
 	},
-	["Lazan"] = {
-		[1] = 3119,
+	["Jimb"] = {
+		[1] = 12762,
 	},
 	["Benjinews"] = {
 		[1] = 2762,
@@ -11152,14 +11115,11 @@ DPSMateUser = {
 	["Acelius"] = {
 		[1] = 11486,
 	},
-	["Steveaoki"] = {
-		[1] = 11406,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 36,
+	["Higaide"] = {
+		[1] = 11142,
 	},
-	["Sacle"] = {
-		[1] = 5195,
+	["Baruth"] = {
+		[1] = 7965,
 	},
 	["Rulpit"] = {
 		[1] = 4725,
@@ -11188,10 +11148,11 @@ DPSMateUser = {
 	["Single"] = {
 		[1] = 12717,
 	},
-	["Abatog"] = {
-		[1] = 1484,
-		[4] = true,
-		[6] = 1481,
+	["Krugeth"] = {
+		[1] = 10560,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 11,
 	},
 	["Deviate Creeper"] = {
 		[1] = 7065,
@@ -11219,11 +11180,8 @@ DPSMateUser = {
 	["Lygaia"] = {
 		[1] = 10311,
 	},
-	["Dafckinghunt"] = {
-		[1] = 6520,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 12,
+	["Burning Ravager"] = {
+		[1] = 8191,
 	},
 	["Zjay"] = {
 		[1] = 9185,
@@ -11285,8 +11243,8 @@ DPSMateUser = {
 	["Worstt"] = {
 		[1] = 8696,
 	},
-	["Gymteacher"] = {
-		[1] = 1506,
+	["Youaremine"] = {
+		[1] = 113,
 	},
 	["Hertlasjr"] = {
 		[1] = 7411,
@@ -11306,8 +11264,8 @@ DPSMateUser = {
 	["Donshad"] = {
 		[1] = 9600,
 	},
-	["Zqsm"] = {
-		[1] = 9994,
+	["Timodius"] = {
+		[1] = 3771,
 	},
 	["Jelud"] = {
 		[1] = 742,
@@ -11321,8 +11279,11 @@ DPSMateUser = {
 	["Gondoob"] = {
 		[1] = 4061,
 	},
-	["Nerub'enkan"] = {
-		[1] = 2150,
+	["Biomancy"] = {
+		[1] = 579,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Bruvip"] = {
 		[1] = 2474,
@@ -11333,11 +11294,19 @@ DPSMateUser = {
 	["Virgosakya"] = {
 		[1] = 11986,
 	},
-	["Humlemaggie"] = {
-		[1] = 3102,
+	["Dabluff"] = {
+		[1] = 7853,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[7] = "Elysium Feminist Society",
+		[8] = 17,
 	},
-	["Bianco"] = {
-		[1] = 4154,
+	["Steelrwheelr"] = {
+		[1] = 8363,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 20,
 	},
 	["Iwara"] = {
 		[1] = 11967,
@@ -11369,8 +11338,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Summoned Succubus"] = {
-		[1] = 6276,
+	["Ashirlenet"] = {
+		[1] = 133,
 	},
 	["Necro Stalker"] = {
 		[1] = 2753,
@@ -11378,8 +11347,8 @@ DPSMateUser = {
 	["Bolqrka"] = {
 		[1] = 1727,
 	},
-	["Janaise"] = {
-		[1] = 773,
+	["Jordans"] = {
+		[1] = 1512,
 	},
 	["Zeliphos"] = {
 		[1] = 7095,
@@ -11390,8 +11359,8 @@ DPSMateUser = {
 	["Chaosbolt"] = {
 		[1] = 3816,
 	},
-	["Babawo"] = {
-		[1] = 1597,
+	["Cheatcodes"] = {
+		[1] = 13152,
 	},
 	["Koybeen"] = {
 		[1] = 8026,
@@ -11448,11 +11417,8 @@ DPSMateUser = {
 	["Firemaw"] = {
 		[1] = 1092,
 	},
-	["Neskind"] = {
-		[1] = 13365,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 1,
+	["Saiber"] = {
+		[1] = 12488,
 	},
 	["Zeidaidai"] = {
 		[1] = 7662,
@@ -11484,8 +11450,8 @@ DPSMateUser = {
 	["Healzgood"] = {
 		[1] = 8027,
 	},
-	["Os"] = {
-		[1] = 10213,
+	["Eliizubeth"] = {
+		[1] = 3035,
 	},
 	["Bownietyler"] = {
 		[1] = 7757,
@@ -11502,8 +11468,8 @@ DPSMateUser = {
 	["Pedofka"] = {
 		[1] = 10494,
 	},
-	["Rep"] = {
-		[1] = 9813,
+	["Vuijen"] = {
+		[1] = 8810,
 	},
 	["Lysergicacid"] = {
 		[1] = 1327,
@@ -11561,8 +11527,8 @@ DPSMateUser = {
 	["Xeetrov"] = {
 		[1] = 9493,
 	},
-	["Wyhwzlt"] = {
-		[1] = 8507,
+	["Xenone"] = {
+		[1] = 11596,
 	},
 	["Hugetit"] = {
 		[1] = 12322,
@@ -11602,8 +11568,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 19,
 	},
-	["Fjfn"] = {
-		[1] = 2177,
+	["Flashback"] = {
+		[1] = 1974,
 	},
 	["Dolanduk"] = {
 		[1] = 6788,
@@ -11635,8 +11601,8 @@ DPSMateUser = {
 	["Stikem"] = {
 		[1] = 3259,
 	},
-	["Doubletree"] = {
-		[1] = 6822,
+	["Vatnik"] = {
+		[1] = 2678,
 	},
 	["Cq"] = {
 		[1] = 4602,
@@ -11659,11 +11625,13 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 25,
 	},
-	["Diplexbee"] = {
-		[1] = 3543,
+	["Alinary"] = {
+		[1] = 10582,
+		[2] = "rogue",
+		[3] = 1,
 	},
-	["Tary"] = {
-		[1] = 3156,
+	["Dooze"] = {
+		[1] = 13122,
 	},
 	["Briefcasejoe"] = {
 		[1] = 7128,
@@ -11674,11 +11642,11 @@ DPSMateUser = {
 	["Duumbledor"] = {
 		[1] = 11511,
 	},
-	["Dotvendor"] = {
-		[1] = 12172,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 35,
+	["Myrde"] = {
+		[1] = 9219,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 23,
 	},
 	["Clawclaw"] = {
 		[1] = 544,
@@ -11704,11 +11672,8 @@ DPSMateUser = {
 	["Cowry"] = {
 		[1] = 10746,
 	},
-	["Graysmoke"] = {
-		[1] = 5568,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 13,
+	["Minera"] = {
+		[1] = 9171,
 	},
 	["Pao'ka Swiftmountain"] = {
 		[1] = 9326,
@@ -11719,8 +11684,11 @@ DPSMateUser = {
 	["Musqinexgodx"] = {
 		[1] = 13136,
 	},
-	["Shortfuze"] = {
-		[1] = 251,
+	["Oniscrooge"] = {
+		[1] = 11298,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 31,
 	},
 	["Hl"] = {
 		[1] = 6052,
@@ -11740,20 +11708,17 @@ DPSMateUser = {
 	["Grimhammar"] = {
 		[1] = 7713,
 	},
-	["Kelens"] = {
-		[1] = 4522,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 1,
+	["Aip"] = {
+		[1] = 1270,
 	},
 	["Flesh Hunter"] = {
 		[1] = 877,
 	},
-	["Johnnyfalcon"] = {
-		[1] = 5696,
-		[2] = "warrior",
+	["Drupii"] = {
+		[1] = 8153,
+		[2] = "druid",
 		[3] = -1,
-		[8] = 26,
+		[8] = 31,
 	},
 	["Scillax"] = {
 		[1] = 7711,
@@ -11776,14 +11741,14 @@ DPSMateUser = {
 	["Bastur"] = {
 		[1] = 8686,
 	},
-	["Brahtac"] = {
-		[1] = 3913,
+	["Fightsong"] = {
+		[1] = 3508,
 	},
 	["Tip"] = {
 		[1] = 8002,
 	},
-	["Serprah"] = {
-		[1] = 3481,
+	["Wrathtail Wave Rider"] = {
+		[1] = 8939,
 	},
 	["Nazgulz"] = {
 		[1] = 9570,
@@ -11836,11 +11801,8 @@ DPSMateUser = {
 	["Choloz"] = {
 		[1] = 13163,
 	},
-	["Kryzan"] = {
-		[1] = 6096,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 13,
+	["Dirtbreath"] = {
+		[1] = 10050,
 	},
 	["Trenhard"] = {
 		[1] = 1570,
@@ -11872,11 +11834,11 @@ DPSMateUser = {
 	["Azumni"] = {
 		[1] = 2345,
 	},
-	["Bristleback Water Seeker"] = {
-		[1] = 7096,
+	["Majestick"] = {
+		[1] = 58,
 	},
-	["Lnq"] = {
-		[1] = 4077,
+	["Ezance"] = {
+		[1] = 2558,
 	},
 	["Ljwd"] = {
 		[1] = 124,
@@ -11893,8 +11855,8 @@ DPSMateUser = {
 	["Creavus"] = {
 		[1] = 11815,
 	},
-	["BOUBOULINA"] = {
-		[1] = 5623,
+	["Insanejane"] = {
+		[1] = 888,
 	},
 	["Stalingrad"] = {
 		[1] = 145,
@@ -11909,8 +11871,8 @@ DPSMateUser = {
 	["Jarais"] = {
 		[1] = 5613,
 	},
-	["Drone"] = {
-		[1] = 13334,
+	["Truffles"] = {
+		[1] = 9233,
 	},
 	["Odbx"] = {
 		[1] = 4554,
@@ -11918,11 +11880,11 @@ DPSMateUser = {
 	["Angina"] = {
 		[1] = 5057,
 	},
-	["Khoee"] = {
-		[1] = 725,
+	["Dibbuk"] = {
+		[1] = 11503,
 	},
-	["Linova"] = {
-		[1] = 12013,
+	["Atiwarrior"] = {
+		[1] = 56,
 	},
 	["Bubblegumjo"] = {
 		[1] = 7409,
@@ -12029,8 +11991,8 @@ DPSMateUser = {
 	["Scarlet Preserver"] = {
 		[1] = 10566,
 	},
-	["Prestjeveln"] = {
-		[1] = 4328,
+	["Changeover"] = {
+		[1] = 4984,
 	},
 	["Nekrobiose"] = {
 		[1] = 12681,
@@ -12077,8 +12039,8 @@ DPSMateUser = {
 	["Bleakheart Trickster"] = {
 		[1] = 8395,
 	},
-	["Letrox"] = {
-		[1] = 9949,
+	["Muller"] = {
+		[1] = 7513,
 	},
 	["Nozounodie"] = {
 		[1] = 9533,
@@ -12107,12 +12069,8 @@ DPSMateUser = {
 	["Orfidrood"] = {
 		[1] = 8657,
 	},
-	["Murcx"] = {
-		[1] = 3890,
-		[2] = "rogue",
-		[3] = -1,
-		[4] = false,
-		[8] = 24,
+	["Areak"] = {
+		[1] = 5181,
 	},
 	["Pnuki"] = {
 		[1] = 3796,
@@ -12146,8 +12104,8 @@ DPSMateUser = {
 	["Shusto"] = {
 		[1] = 3308,
 	},
-	["Azryzel"] = {
-		[1] = 7200,
+	["Morukai"] = {
+		[1] = 10748,
 	},
 	["Rekem"] = {
 		[1] = 9134,
@@ -12158,8 +12116,8 @@ DPSMateUser = {
 	["Ilikeitrouge"] = {
 		[1] = 10469,
 	},
-	["Nyteterrors"] = {
-		[1] = 13030,
+	["Jebivjetar"] = {
+		[1] = 10037,
 	},
 	["Cronaldoo"] = {
 		[1] = 12418,
@@ -12191,11 +12149,13 @@ DPSMateUser = {
 	["Frnkx"] = {
 		[1] = 12094,
 	},
-	["Tykan"] = {
-		[1] = 10968,
+	["Cmonen"] = {
+		[1] = 9796,
+		[2] = "mage",
+		[3] = 1,
 	},
-	["Cervantes"] = {
-		[1] = 2497,
+	["Celkau"] = {
+		[1] = 8926,
 	},
 	["Ringloos"] = {
 		[1] = 8674,
@@ -12220,11 +12180,8 @@ DPSMateUser = {
 	["Grace"] = {
 		[1] = 1081,
 	},
-	["Kosepus"] = {
-		[1] = 10546,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 20,
+	["Liquidy"] = {
+		[1] = 13095,
 	},
 	["Passivyst"] = {
 		[1] = 6991,
@@ -12267,11 +12224,12 @@ DPSMateUser = {
 	["Sonathernius"] = {
 		[1] = 13121,
 	},
-	["Wildreju"] = {
-		[1] = 11835,
-		[2] = "druid",
+	["Angryminti"] = {
+		[1] = 1454,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 32,
+		[4] = false,
+		[8] = 60,
 	},
 	["Etenia"] = {
 		[1] = 5586,
@@ -12294,8 +12252,8 @@ DPSMateUser = {
 	["Drjoe"] = {
 		[1] = 4299,
 	},
-	["Bambuk"] = {
-		[1] = 6206,
+	["Xazara"] = {
+		[1] = 6071,
 	},
 	["Giftmischer"] = {
 		[1] = 3850,
@@ -12306,8 +12264,11 @@ DPSMateUser = {
 	["Naermoshaman"] = {
 		[1] = 11092,
 	},
-	["·∫ûcancer"] = {
-		[1] = 1867,
+	["Lonestrider"] = {
+		[1] = 11269,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 37,
 	},
 	["Pwnerr"] = {
 		[1] = 9839,
@@ -12331,10 +12292,8 @@ DPSMateUser = {
 	["Lakerok"] = {
 		[1] = 12401,
 	},
-	["\\d"] = {
-		[1] = 1942,
-		[4] = true,
-		[6] = 1221,
+	["Paddo"] = {
+		[1] = 9460,
 	},
 	["Kivesripuli"] = {
 		[1] = 12855,
@@ -12375,8 +12334,8 @@ DPSMateUser = {
 	["Lurikk"] = {
 		[1] = 9324,
 	},
-	["Nalpit"] = {
-		[1] = 7755,
+	["Evolving Ectoplasm"] = {
+		[1] = 7519,
 	},
 	["Oraka"] = {
 		[1] = 3213,
@@ -12426,8 +12385,8 @@ DPSMateUser = {
 	["Abrakadaverr"] = {
 		[1] = 12771,
 	},
-	["Huzong"] = {
-		[1] = 9975,
+	["Gozarian"] = {
+		[1] = 12791,
 	},
 	["Thsain"] = {
 		[1] = 4663,
@@ -12508,8 +12467,11 @@ DPSMateUser = {
 	["Motormoutr"] = {
 		[1] = 4391,
 	},
-	["Deceptoin"] = {
-		[1] = 8561,
+	["Grglmrgl"] = {
+		[1] = 5277,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 11,
 	},
 	["Spinestars"] = {
 		[1] = 9950,
@@ -12523,17 +12485,17 @@ DPSMateUser = {
 	["Qiraji Swarmguard"] = {
 		[1] = 867,
 	},
-	["Nyahow"] = {
-		[1] = 10241,
+	["Beyondbeef"] = {
+		[1] = 10342,
 	},
 	["Patron"] = {
 		[1] = 7761,
 	},
-	["Eriazx"] = {
-		[1] = 6619,
+	["Takamori"] = {
+		[1] = 13191,
 	},
-	["Xanlyai"] = {
-		[1] = 6133,
+	["Fmg"] = {
+		[1] = 8876,
 	},
 	["Snalbert"] = {
 		[1] = 9939,
@@ -12550,8 +12512,8 @@ DPSMateUser = {
 	["Unclesamss"] = {
 		[1] = 11974,
 	},
-	["Rigzone"] = {
-		[1] = 662,
+	["Majestyc"] = {
+		[1] = 4689,
 	},
 	["Manfrett"] = {
 		[1] = 9430,
@@ -12580,8 +12542,11 @@ DPSMateUser = {
 	["Kelusz"] = {
 		[1] = 3518,
 	},
-	["Psiran"] = {
-		[1] = 4495,
+	["Shadowygenu"] = {
+		[1] = 7178,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 18,
 	},
 	["Melana"] = {
 		[1] = 10020,
@@ -12601,8 +12566,8 @@ DPSMateUser = {
 	["Tryharderino"] = {
 		[1] = 5285,
 	},
-	["Kalias"] = {
-		[1] = 257,
+	["Gadabi"] = {
+		[1] = 11441,
 	},
 	["Eggblahh"] = {
 		[1] = 11479,
@@ -12640,8 +12605,8 @@ DPSMateUser = {
 	["Hump"] = {
 		[1] = 1160,
 	},
-	["Zsarkot"] = {
-		[1] = 4991,
+	["Stankpus"] = {
+		[1] = 9467,
 	},
 	["Jetkaka"] = {
 		[1] = 3711,
@@ -12652,8 +12617,8 @@ DPSMateUser = {
 	["Ebonics"] = {
 		[1] = 1003,
 	},
-	["Capricious"] = {
-		[1] = 700,
+	["Syhlas"] = {
+		[1] = 4746,
 	},
 	["Xeneron"] = {
 		[1] = 11809,
@@ -12796,8 +12761,8 @@ DPSMateUser = {
 	["Bitingice"] = {
 		[1] = 7908,
 	},
-	["Kaptenalex"] = {
-		[1] = 6910,
+	["Earthbind Totem"] = {
+		[1] = 1421,
 	},
 	["Lsdknight"] = {
 		[1] = 4188,
@@ -12813,11 +12778,8 @@ DPSMateUser = {
 	["Mythal"] = {
 		[1] = 8551,
 	},
-	["Mhootai"] = {
-		[1] = 6550,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 21,
+	["Fagboi"] = {
+		[1] = 2049,
 	},
 	["Shizi"] = {
 		[1] = 6281,
@@ -12831,8 +12793,8 @@ DPSMateUser = {
 	["Balii"] = {
 		[1] = 2096,
 	},
-	["Troopi"] = {
-		[1] = 1539,
+	["Adorai"] = {
+		[1] = 7015,
 	},
 	["Velora Nitely"] = {
 		[1] = 13080,
@@ -12973,8 +12935,8 @@ DPSMateUser = {
 	["Crumbb"] = {
 		[1] = 6507,
 	},
-	["Oldirtyhippy"] = {
-		[1] = 9909,
+	["Maaik"] = {
+		[1] = 9553,
 	},
 	["Trexa"] = {
 		[1] = 12247,
@@ -13009,8 +12971,8 @@ DPSMateUser = {
 	["Ametaname"] = {
 		[1] = 11734,
 	},
-	["Vekniss Borer"] = {
-		[1] = 2581,
+	["Weenny"] = {
+		[1] = 13139,
 	},
 	["Diabolik"] = {
 		[1] = 3871,
@@ -13027,8 +12989,8 @@ DPSMateUser = {
 	["Madporb"] = {
 		[1] = 3630,
 	},
-	["Mutanus the Devourer's Naralex"] = {
-		[1] = 7543,
+	["Soupy"] = {
+		[1] = 1351,
 	},
 	["Fety"] = {
 		[1] = 1909,
@@ -13045,14 +13007,8 @@ DPSMateUser = {
 	["Nonfiction"] = {
 		[1] = 11436,
 	},
-	["Piglo"] = {
-		[1] = 5138,
-		[2] = "warlock",
-		[3] = -1,
-		[4] = false,
-		[5] = "Grayap",
-		[7] = "WE",
-		[8] = 8,
+	["Magaluf"] = {
+		[1] = 12458,
 	},
 	["Sparkleshell Snapper"] = {
 		[1] = 10775,
@@ -13060,8 +13016,8 @@ DPSMateUser = {
 	["Bizzro"] = {
 		[1] = 6088,
 	},
-	["Leprich"] = {
-		[1] = 12635,
+	["Milo"] = {
+		[1] = 7421,
 	},
 	["Magikao"] = {
 		[1] = 10085,
@@ -13075,8 +13031,11 @@ DPSMateUser = {
 	["Laughingcow"] = {
 		[1] = 12665,
 	},
-	["Rama"] = {
-		[1] = 5322,
+	["Rakhma"] = {
+		[1] = 3183,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 2,
 	},
 	["Genaukol"] = {
 		[1] = 6962,
@@ -13090,25 +13049,36 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 28,
 	},
-	["Liyanjia"] = {
-		[1] = 7781,
+	["Heiligfelsle"] = {
+		[1] = 12304,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 14,
 	},
 	["Chowen"] = {
 		[1] = 11170,
 	},
-	["Tyler"] = {
-		[1] = 5379,
+	["Crimsonrouze"] = {
+		[1] = 11466,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 40,
 	},
 	["Vyler"] = {
 		[1] = 11118,
 		[2] = "mage",
 		[3] = 1,
 	},
-	["Goggeroc"] = {
-		[1] = 8274,
+	["Drvoldemort"] = {
+		[1] = 9381,
+		[2] = "priest",
+		[3] = -1,
+		[4] = false,
+		[7] = "Drunkards and Flagons",
+		[8] = 29,
 	},
-	["Letrem"] = {
-		[1] = 13174,
+	["Pesterhide Hyena"] = {
+		[1] = 9287,
 	},
 	["Barkresh"] = {
 		[1] = 8913,
@@ -13170,8 +13140,8 @@ DPSMateUser = {
 	["Mackmann"] = {
 		[1] = 10419,
 	},
-	["Roguedix"] = {
-		[1] = 2208,
+	["Bganar"] = {
+		[1] = 10476,
 	},
 	["Phamillia"] = {
 		[1] = 12959,
@@ -13209,8 +13179,8 @@ DPSMateUser = {
 	["Furred"] = {
 		[1] = 5595,
 	},
-	["Nyxnyxnyx"] = {
-		[1] = 3935,
+	["Thrasher"] = {
+		[1] = 7921,
 	},
 	["Jackly"] = {
 		[1] = 3328,
@@ -13257,11 +13227,11 @@ DPSMateUser = {
 	["Vekkasha"] = {
 		[1] = 5900,
 	},
-	["Braliscux"] = {
-		[1] = 7069,
+	["Lava Annihilator"] = {
+		[1] = 951,
 	},
-	["Syncedx"] = {
-		[1] = 9704,
+	["Alanbacon"] = {
+		[1] = 12958,
 	},
 	["Arlem"] = {
 		[1] = 7473,
@@ -13297,8 +13267,11 @@ DPSMateUser = {
 	["Otbeska"] = {
 		[1] = 563,
 	},
-	["Rosawhisper"] = {
-		[1] = 9984,
+	["Sygrid"] = {
+		[1] = 11470,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 41,
 	},
 	["Lazzon"] = {
 		[1] = 1051,
@@ -13385,11 +13358,11 @@ DPSMateUser = {
 	["Rultuk"] = {
 		[1] = 6651,
 	},
-	["Abalop"] = {
-		[1] = 5248,
+	["Vyrel"] = {
+		[1] = 4449,
 	},
-	["Mutanus the Devourer"] = {
-		[1] = 7542,
+	["Grummok"] = {
+		[1] = 8030,
 	},
 	["Ingvur"] = {
 		[1] = 4535,
@@ -13520,8 +13493,8 @@ DPSMateUser = {
 	["Viren"] = {
 		[1] = 7401,
 	},
-	["Handupass"] = {
-		[1] = 12748,
+	["Teebao"] = {
+		[1] = 3760,
 	},
 	["Nostracker"] = {
 		[1] = 3435,
@@ -13578,8 +13551,11 @@ DPSMateUser = {
 	["Zhar'gorg"] = {
 		[1] = 7101,
 	},
-	["Marassiopi"] = {
-		[1] = 804,
+	["Twoskillchar"] = {
+		[1] = 1442,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Healpower"] = {
 		[1] = 770,
@@ -13599,8 +13575,8 @@ DPSMateUser = {
 	["Lady Sarevess"] = {
 		[1] = 9000,
 	},
-	["Saltstone Basilisk"] = {
-		[1] = 10786,
+	["Crazyle"] = {
+		[1] = 4409,
 	},
 	["Pdaily"] = {
 		[1] = 12118,
@@ -13635,17 +13611,17 @@ DPSMateUser = {
 	["Iulica"] = {
 		[1] = 3794,
 	},
-	["Swine"] = {
-		[1] = 8757,
+	["Rogim"] = {
+		[1] = 6941,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 17,
 	},
 	["Eewando"] = {
 		[1] = 2428,
 	},
-	["Loove"] = {
-		[1] = 13302,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 23,
+	["Klathkath"] = {
+		[1] = 12436,
 	},
 	["Wooit"] = {
 		[1] = 9047,
@@ -13694,8 +13670,8 @@ DPSMateUser = {
 	["Knulken"] = {
 		[1] = 6051,
 	},
-	["Nicetry"] = {
-		[1] = 11925,
+	["Akamaga"] = {
+		[1] = 12955,
 	},
 	["Sheepbutcher"] = {
 		[1] = 2999,
@@ -13739,8 +13715,8 @@ DPSMateUser = {
 	["Washte Pawne"] = {
 		[1] = 9235,
 	},
-	["Juk'grave"] = {
-		[1] = 4987,
+	["Squattingcat"] = {
+		[1] = 9458,
 	},
 	["Plp"] = {
 		[1] = 12500,
@@ -13748,8 +13724,8 @@ DPSMateUser = {
 	["Syndicate Mercenary"] = {
 		[1] = 10511,
 	},
-	["Tirkar"] = {
-		[1] = 6167,
+	["Taylonn"] = {
+		[1] = 11015,
 	},
 	["Eluny"] = {
 		[1] = 9312,
@@ -13769,11 +13745,11 @@ DPSMateUser = {
 	["Batyagodx"] = {
 		[1] = 3269,
 	},
-	["Granik"] = {
-		[1] = 5157,
+	["Magrami Spectre"] = {
+		[1] = 12911,
 	},
-	["Bjorck"] = {
-		[1] = 10429,
+	["Sooco"] = {
+		[1] = 12952,
 	},
 	["Siberia"] = {
 		[1] = 1585,
@@ -13781,8 +13757,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Ekta"] = {
-		[1] = 7305,
+	["Lesscoolyo"] = {
+		[1] = 4529,
 	},
 	["Sociopathy"] = {
 		[1] = 10179,
@@ -13796,8 +13772,8 @@ DPSMateUser = {
 	["Katyablazer"] = {
 		[1] = 10704,
 	},
-	["Eye of C'Thun"] = {
-		[1] = 2601,
+	["Moomanon"] = {
+		[1] = 7738,
 	},
 	["Ffps"] = {
 		[1] = 998,
@@ -13814,8 +13790,11 @@ DPSMateUser = {
 	["Trumparoo"] = {
 		[1] = 831,
 	},
-	["Mohammadth"] = {
-		[1] = 5713,
+	["Dizqo"] = {
+		[1] = 5020,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 6,
 	},
 	["Nobunada"] = {
 		[1] = 3618,
@@ -13826,11 +13805,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 2,
 	},
+	["Xenop"] = {
+		[1] = 911,
+	},
 	["Kirmmela"] = {
 		[1] = 3251,
 	},
+	["Buzzard"] = {
+		[1] = 12411,
+	},
 	["Mitsokoilias"] = {
 		[1] = 12746,
+	},
+	["Pompyroo"] = {
+		[1] = 1152,
+	},
+	["Imazda"] = {
+		[1] = 11578,
 	},
 	["Draggah"] = {
 		[1] = 1715,
@@ -13838,17 +13829,31 @@ DPSMateUser = {
 	["Basota"] = {
 		[1] = 3416,
 	},
-	["Zeplop"] = {
-		[1] = 13382,
+	["Jasts"] = {
+		[1] = 919,
 	},
-	["Killgunner"] = {
-		[1] = 7971,
+	["Yanhua"] = {
+		[1] = 7584,
 	},
-	["Imazda"] = {
-		[1] = 11578,
+	["Braliscux"] = {
+		[1] = 7069,
 	},
-	["Badtsmaru"] = {
-		[1] = 5199,
+	["Danariel"] = {
+		[1] = 2297,
+		[2] = "warlock",
+		[3] = 1,
+		[4] = false,
+		[5] = "",
+		[8] = 60,
+	},
+	["Xenoxs"] = {
+		[1] = 3932,
+	},
+	["Battlemourne"] = {
+		[1] = 4031,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 5,
 	},
 	["Nukana"] = {
 		[1] = 5189,
@@ -13868,26 +13873,31 @@ DPSMateUser = {
 	["Cenagao"] = {
 		[1] = 3064,
 	},
-	["Emeliss"] = {
-		[1] = 13381,
+	["Boar"] = {
+		[1] = 5,
+		[4] = true,
+		[6] = 506,
 	},
-	["Agfghsrth"] = {
-		[1] = 13380,
+	["Moostag"] = {
+		[1] = 7399,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 18,
 	},
 	["Mynamestaken"] = {
 		[1] = 9947,
 	},
-	["Kta"] = {
-		[1] = 13379,
+	["Guiselle"] = {
+		[1] = 1577,
 	},
-	["Mortecerta"] = {
-		[1] = 9137,
+	["Instantdeath"] = {
+		[1] = 2946,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Nolifette"] = {
-		[1] = 10358,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 33,
+	["Frosthynlol"] = {
+		[1] = 11995,
 	},
 	["Toelickeer"] = {
 		[1] = 5705,
@@ -13931,24 +13941,22 @@ DPSMateUser = {
 	["Allroad"] = {
 		[1] = 4683,
 	},
-	["Karfagenka"] = {
-		[1] = 8478,
+	["Skeletal Berserker"] = {
+		[1] = 2123,
 	},
-	["Dondruid"] = {
-		[1] = 1260,
+	["Hindaril"] = {
+		[1] = 4053,
 	},
 	["riNeko"] = {
 		[1] = 1441,
 		[4] = true,
 		[6] = 114,
 	},
-	["Superpuper"] = {
-		[1] = 6784,
+	["CBblHKA"] = {
+		[1] = 7759,
 	},
-	["Quzjub"] = {
-		[1] = 4661,
-		[4] = true,
-		[6] = 4111,
+	["Diabloeu"] = {
+		[1] = 11484,
 	},
 	["Yjta"] = {
 		[1] = 2530,
@@ -13956,14 +13964,14 @@ DPSMateUser = {
 	["Esdeathya"] = {
 		[1] = 3999,
 	},
-	["Cooldude"] = {
-		[1] = 7028,
+	["Craxtaplow"] = {
+		[1] = 12157,
 	},
 	["Drekitre"] = {
 		[1] = 1041,
 	},
-	["Maromeg"] = {
-		[1] = 10741,
+	["Tonkdonk"] = {
+		[1] = 9932,
 	},
 	["Missnuggets"] = {
 		[1] = 5620,
@@ -13971,11 +13979,15 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Crypt Crawler"] = {
-		[1] = 2148,
+	["Nuggeets"] = {
+		[1] = 8065,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[8] = 17,
 	},
-	["Xenoxs"] = {
-		[1] = 3932,
+	["Yakuzaz"] = {
+		[1] = 8126,
 	},
 	["Qwit"] = {
 		[1] = 4015,
@@ -13983,17 +13995,19 @@ DPSMateUser = {
 	["Apmtst"] = {
 		[1] = 4640,
 	},
-	["Janvanhalst"] = {
-		[1] = 11387,
-		[2] = "rogue",
+	["Ocbjin"] = {
+		[1] = 2486,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Filur"] = {
+		[1] = 2203,
+	},
+	["Bigjump"] = {
+		[1] = 12464,
+		[2] = "druid",
 		[3] = 1,
-		[8] = 36,
-	},
-	["Eimxz"] = {
-		[1] = 11807,
-	},
-	["Soka"] = {
-		[1] = 3837,
 	},
 	["Squashednoob"] = {
 		[1] = 7300,
@@ -14007,17 +14021,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 17,
 	},
-	["Whiskeylime"] = {
-		[1] = 11187,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 35,
+	["Antipater"] = {
+		[1] = 1244,
 	},
 	["Chenfeifei"] = {
 		[1] = 4332,
 	},
-	["Scarlet Beastmaster"] = {
-		[1] = 10591,
+	["Livsik"] = {
+		[1] = 13169,
 	},
 	["Lockabodo"] = {
 		[1] = 1662,
@@ -14030,17 +14041,17 @@ DPSMateUser = {
 		[4] = true,
 		[6] = 9825,
 	},
-	["Hata"] = {
-		[1] = 1388,
+	["Emeliss"] = {
+		[1] = 13381,
 	},
-	["Yaonieyige"] = {
-		[1] = 5060,
+	["Hustleweight"] = {
+		[1] = 11360,
 	},
-	["Tclgamesbr"] = {
-		[1] = 5212,
+	["Taintbraids"] = {
+		[1] = 12680,
 	},
-	["Ohgan"] = {
-		[1] = 349,
+	["Kayzel"] = {
+		[1] = 13019,
 	},
 	["Xarutus"] = {
 		[1] = 6763,
@@ -14049,8 +14060,8 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 13,
 	},
-	["Princcess"] = {
-		[1] = 767,
+	["Krigareen"] = {
+		[1] = 6432,
 	},
 	["Shukri"] = {
 		[1] = 8685,
@@ -14058,11 +14069,11 @@ DPSMateUser = {
 	["Sixstring"] = {
 		[1] = 8406,
 	},
-	["Cain Firesong"] = {
-		[1] = 5000,
+	["Scabeyathrax"] = {
+		[1] = 3133,
 	},
-	["Heymexa"] = {
-		[1] = 660,
+	["Nalpit"] = {
+		[1] = 7755,
 	},
 	["Jahrak"] = {
 		[1] = 6713,
@@ -14073,70 +14084,68 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 32,
 	},
-	["Shoxie"] = {
-		[1] = 11798,
+	["Chopsuey"] = {
+		[1] = 7658,
 	},
 	["Wiguur"] = {
 		[1] = 4999,
 	},
-	["Fatkidcry"] = {
-		[1] = 9221,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 21,
+	["Venture Co. Peon"] = {
+		[1] = 6767,
 	},
-	["Krattz"] = {
-		[1] = 5778,
+	["Fastway"] = {
+		[1] = 2106,
 	},
 	["Kallegan"] = {
 		[1] = 6657,
 	},
-	["Adorai"] = {
-		[1] = 7015,
+	["Zerofia"] = {
+		[1] = 2659,
 	},
 	["Neverforget"] = {
 		[1] = 1760,
 	},
-	["Biggestboss"] = {
-		[1] = 1695,
+	["Dimir"] = {
+		[1] = 2651,
 	},
-	["LaPUISSANCE"] = {
-		[1] = 8069,
+	["Soeazily"] = {
+		[1] = 7630,
 	},
-	["Morefuz"] = {
-		[1] = 12008,
+	["Jasmoon"] = {
+		[1] = 4719,
 	},
-	["Bloodfury Roguefeather"] = {
-		[1] = 8194,
-	},
-	["Zinkzink"] = {
-		[1] = 7423,
-	},
-	["Outcider"] = {
-		[1] = 6048,
+	["Bodiesel"] = {
+		[1] = 9429,
 		[2] = "rogue",
 		[3] = -1,
-		[8] = 24,
+		[8] = 13,
+	},
+	["Irebirth"] = {
+		[1] = 12379,
+	},
+	["Robochobo"] = {
+		[1] = 6030,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Notme"] = {
 		[1] = 6647,
 	},
-	["Syndicate Magus"] = {
-		[1] = 12480,
+	["Fevrhimx"] = {
+		[1] = 2406,
 	},
 	["Starving Mountain Lion"] = {
 		[1] = 8586,
 	},
-	["Bigjump"] = {
-		[1] = 12464,
-		[2] = "druid",
-		[3] = 1,
+	["Neriphos"] = {
+		[1] = 11987,
 	},
 	["Yzloveww"] = {
 		[1] = 11010,
 	},
-	["Zerofia"] = {
-		[1] = 2659,
+	["Vizkid"] = {
+		[1] = 5931,
 	},
 	["Abdulwahab"] = {
 		[1] = 4321,
@@ -14153,11 +14162,11 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 41,
 	},
-	["Kane"] = {
-		[1] = 7446,
+	["Mopi"] = {
+		[1] = 7595,
 	},
-	["Rottenstench"] = {
-		[1] = 11517,
+	["Zyzom"] = {
+		[1] = 8019,
 	},
 	["Shurk"] = {
 		[1] = 1492,
@@ -14173,32 +14182,35 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 35,
 	},
-	["Zanafir"] = {
-		[1] = 6419,
+	["Hggan"] = {
+		[1] = 10784,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 34,
 	},
 	["Zodrina"] = {
 		[1] = 7314,
 	},
-	["Thamud"] = {
-		[1] = 2645,
+	["Taintedmilks"] = {
+		[1] = 10989,
 	},
 	["Avkastad"] = {
 		[1] = 4701,
 	},
-	["Tuiguiguug"] = {
-		[1] = 2059,
+	["Murked"] = {
+		[1] = 8493,
 	},
 	["Ponchoo"] = {
 		[1] = 11933,
 	},
-	["Tyranotauren"] = {
-		[1] = 7087,
+	["Bigpete"] = {
+		[1] = 156,
 	},
 	["Foreverfaded"] = {
 		[1] = 5958,
 	},
-	["Murked"] = {
-		[1] = 8493,
+	["Voodooist"] = {
+		[1] = 12382,
 	},
 	["Windsteed"] = {
 		[1] = 6487,
@@ -14206,29 +14218,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Notituh"] = {
-		[1] = 4687,
+	["Agokka"] = {
+		[1] = 9456,
 	},
 	["Bierdosevier"] = {
 		[1] = 1513,
 	},
-	["Bodiesel"] = {
-		[1] = 9429,
+	["Xxoofashi"] = {
+		[1] = 3964,
+	},
+	["Murdaresxd"] = {
+		[1] = 129,
+	},
+	["Extony"] = {
+		[1] = 10453,
 		[2] = "rogue",
 		[3] = -1,
-		[8] = 13,
+		[8] = 60,
 	},
-	["Twilight Reaver"] = {
-		[1] = 9005,
-	},
-	["Cowthingy"] = {
-		[1] = 6485,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 12,
-	},
-	["Handdsome"] = {
-		[1] = 3516,
+	["Ostrich"] = {
+		[1] = 2653,
 	},
 	["Clerk Horrace Whitesteed"] = {
 		[1] = 10177,
@@ -14236,31 +14245,27 @@ DPSMateUser = {
 	["Giant Yeti"] = {
 		[1] = 10626,
 	},
-	["Stuffywizard"] = {
-		[1] = 13025,
+	["Viandeur"] = {
+		[1] = 9029,
 	},
-	["Soshaku"] = {
-		[1] = 1474,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 60,
+	["Darlandim"] = {
+		[1] = 10321,
 	},
-	["Mullra"] = {
-		[1] = 1423,
-		[2] = "warrior",
-		[3] = 1,
+	["Kozlodoev"] = {
+		[1] = 1464,
+		[2] = "druid",
+		[3] = -1,
 		[4] = false,
-		[7] = "Project Dream",
 		[8] = 60,
 	},
-	["Melanom"] = {
-		[1] = 4026,
+	["Wolf Master Nandos"] = {
+		[1] = 8634,
 	},
 	["Gylo"] = {
 		[1] = 6841,
 	},
-	["Xxoofashi"] = {
-		[1] = 3964,
+	["Stonevault Basher"] = {
+		[1] = 13242,
 	},
 	["Awanu"] = {
 		[1] = 6589,
@@ -14268,14 +14273,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 15,
 	},
-	["Sadx"] = {
-		[1] = 12636,
+	["Prle"] = {
+		[1] = 9427,
 	},
-	["Nagiibatar"] = {
-		[1] = 8476,
+	["Rawer"] = {
+		[1] = 12494,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 27,
 	},
-	["Rogros"] = {
-		[1] = 9745,
+	["Magma"] = {
+		[1] = 282,
 	},
 	["Equinnox"] = {
 		[1] = 7631,
@@ -14286,30 +14294,28 @@ DPSMateUser = {
 	["Banafflock"] = {
 		[1] = 6878,
 	},
-	["Kassii"] = {
-		[1] = 11213,
+	["Wawiestkate"] = {
+		[1] = 12850,
+		[2] = "hunter",
+		[3] = 1,
 	},
-	["Kozlodoev"] = {
-		[1] = 1464,
-		[2] = "druid",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Calsium"] = {
+		[1] = 4005,
 	},
 	["Pizfip"] = {
 		[1] = 215,
 	},
-	["Timetokill"] = {
-		[1] = 10725,
+	["Xmils"] = {
+		[1] = 2666,
 	},
-	["Oldsheepz"] = {
-		[1] = 3748,
+	["Zasor"] = {
+		[1] = 3730,
 	},
-	["Magaluf"] = {
-		[1] = 12458,
+	["Rekindled"] = {
+		[1] = 8930,
 	},
-	["Pulanda"] = {
-		[1] = 8921,
+	["Stephen Bhartec"] = {
+		[1] = 3574,
 	},
 	["Bucur"] = {
 		[1] = 7272,
@@ -14332,29 +14338,29 @@ DPSMateUser = {
 	["Bithia"] = {
 		[1] = 9771,
 	},
-	["Alstadboii"] = {
-		[1] = 4904,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 9,
+	["Whirlwind Stormwalker"] = {
+		[1] = 12823,
 	},
 	["Mantisx"] = {
 		[1] = 484,
 	},
-	["Swagetha"] = {
-		[1] = 9572,
+	["Swagdin"] = {
+		[1] = 754,
 	},
-	["Alutard"] = {
-		[1] = 2964,
+	["Jorko"] = {
+		[1] = 1617,
 	},
 	["Ibuprofano"] = {
 		[1] = 7397,
 	},
-	["Frostedkeks"] = {
-		[1] = 8709,
+	["Undertale"] = {
+		[1] = 4697,
 	},
-	["Dreadless"] = {
-		[1] = 11243,
+	["Feelsmitchel"] = {
+		[1] = 12833,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 34,
 	},
 	["Yanzilol"] = {
 		[1] = 12334,
@@ -14371,20 +14377,17 @@ DPSMateUser = {
 	["Dew"] = {
 		[1] = 1603,
 	},
-	["Lazfip"] = {
-		[1] = 3590,
+	["Litemoron"] = {
+		[1] = 13248,
 	},
-	["Onepieceoh"] = {
-		[1] = 9582,
+	["Ashenvale Outrunner"] = {
+		[1] = 8383,
 	},
-	["Rawer"] = {
-		[1] = 12494,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 27,
+	["Ciaro"] = {
+		[1] = 3180,
 	},
-	["Luchard"] = {
-		[1] = 2256,
+	["Hulkkerrigan"] = {
+		[1] = 7905,
 	},
 	["Woda"] = {
 		[1] = 12808,
@@ -14398,29 +14401,31 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 1,
 	},
-	["Jinxshot"] = {
-		[1] = 5462,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 33,
+	["Trikstah"] = {
+		[1] = 5385,
 	},
-	["Gabasakal"] = {
-		[1] = 10228,
+	["Paladinlee"] = {
+		[1] = 1972,
 	},
-	["Nuketown"] = {
-		[1] = 8241,
+	["Sway"] = {
+		[1] = 11864,
 	},
-	["Chbeb"] = {
-		[1] = 1681,
+	["Kegadin"] = {
+		[1] = 4289,
 	},
-	["Wimbo"] = {
-		[1] = 2944,
+	["Gumijamis"] = {
+		[1] = 3280,
 	},
 	["Lauviah"] = {
 		[1] = 3121,
 	},
-	["HamBone"] = {
-		[1] = 12155,
+	["Aulos"] = {
+		[1] = 1055,
+		[2] = "hunter",
+		[3] = 1,
+		[4] = false,
+		[5] = "AGd",
+		[8] = 60,
 	},
 	["Savannah Prowler"] = {
 		[1] = 6519,
@@ -14428,23 +14433,20 @@ DPSMateUser = {
 	["Kranken"] = {
 		[1] = 4892,
 	},
-	["Wolfblud"] = {
-		[1] = 9847,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 35,
+	["Gotya"] = {
+		[1] = 10687,
 	},
-	["Clainik"] = {
-		[1] = 12674,
+	["Death Talon Overseer"] = {
+		[1] = 1090,
 	},
-	["Carolwheezer"] = {
-		[1] = 11963,
+	["Feshi"] = {
+		[1] = 12034,
 	},
 	["Asuny"] = {
 		[1] = 5328,
 	},
-	["Gumijamis"] = {
-		[1] = 3280,
+	["Curatorx"] = {
+		[1] = 1871,
 	},
 	["ÏÏ"] = {
 		[1] = 1926,
@@ -14459,19 +14461,14 @@ DPSMateUser = {
 		[7] = "TSIXGaming",
 		[8] = 22,
 	},
-	["Endishere"] = {
-		[1] = 11787,
+	["Trots"] = {
+		[1] = 9557,
 	},
-	["Tpeck"] = {
-		[1] = 1896,
-		[2] = "hunter",
-		[3] = 1,
-		[4] = false,
-		[5] = "Ï",
-		[8] = 60,
+	["Thunder Lizard"] = {
+		[1] = 8773,
 	},
-	["Knivmord"] = {
-		[1] = 13081,
+	["Quzrot"] = {
+		[1] = 4658,
 	},
 	["Goopyer"] = {
 		[1] = 2726,
@@ -14479,8 +14476,8 @@ DPSMateUser = {
 	["Antlered Courser"] = {
 		[1] = 8175,
 	},
-	["Murdaresxd"] = {
-		[1] = 129,
+	["Aimaya"] = {
+		[1] = 12353,
 	},
 	["Vncard"] = {
 		[1] = 10859,
@@ -14496,20 +14493,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Todus"] = {
-		[1] = 3489,
+	["Scarlet Beastmaster"] = {
+		[1] = 10591,
 	},
-	["Jorko"] = {
-		[1] = 1617,
+	["Jibbow"] = {
+		[1] = 6229,
 	},
-	["Herculeez"] = {
-		[1] = 9805,
+	["Musimei"] = {
+		[1] = 4432,
 	},
-	["Lenijah"] = {
-		[1] = 12119,
+	["Kayleonora"] = {
+		[1] = 98,
 	},
-	["Shayss"] = {
-		[1] = 6431,
+	["Deviate Python"] = {
+		[1] = 7526,
 	},
 	["Xusty"] = {
 		[1] = 6090,
@@ -14517,11 +14514,14 @@ DPSMateUser = {
 	["Zixzw"] = {
 		[1] = 492,
 	},
-	["Forsaken Dark Stalker"] = {
-		[1] = 8389,
+	["Angrybaron"] = {
+		[1] = 5513,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 12,
 	},
-	["Pizrot"] = {
-		[1] = 3248,
+	["Fershcriben"] = {
+		[1] = 4121,
 	},
 	["Domerock"] = {
 		[1] = 9334,
@@ -14529,29 +14529,35 @@ DPSMateUser = {
 	["Mefistofel"] = {
 		[1] = 9878,
 	},
-	["Curatorx"] = {
-		[1] = 1871,
+	["Cocu"] = {
+		[1] = 1933,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Kroker"] = {
-		[1] = 12579,
+	["Nhoz"] = {
+		[1] = 2485,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Cow"] = {
-		[1] = 10512,
+	["Ensabano"] = {
+		[1] = 9997,
 	},
-	["Dotstyle"] = {
-		[1] = 10047,
+	["Fourwinds"] = {
+		[1] = 10042,
 	},
-	["Ishadye"] = {
-		[1] = 5944,
+	["Mandrius"] = {
+		[1] = 5723,
 	},
-	["Fankriss the Unyielding"] = {
-		[1] = 2592,
+	["Levitra"] = {
+		[1] = 10534,
 	},
-	["Fertei"] = {
-		[1] = 6644,
+	["Disrado"] = {
+		[1] = 8658,
 	},
-	["Dwradoneoone"] = {
-		[1] = 6932,
+	["Reef"] = {
+		[1] = 6621,
 	},
 	["Grindail"] = {
 		[1] = 8071,
@@ -14562,32 +14568,41 @@ DPSMateUser = {
 	["Objectos"] = {
 		[1] = 11141,
 	},
-	["Senthella"] = {
-		[1] = 708,
+	["Drible"] = {
+		[1] = 7061,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 19,
 	},
 	["Modin"] = {
 		[1] = 2378,
 	},
-	["Grace of Air Totem II"] = {
-		[1] = 1088,
+	["Tustalis"] = {
+		[1] = 2221,
 	},
-	["Maksdamage"] = {
-		[1] = 5426,
+	["Aeroc"] = {
+		[1] = 7515,
+	},
+	["Helloyaboi"] = {
+		[1] = 837,
+	},
+	["Mumindalen"] = {
+		[1] = 12496,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 35,
 	},
 	["Smatt"] = {
 		[1] = 11242,
 	},
-	["Justknow"] = {
-		[1] = 10755,
+	["bajie"] = {
+		[1] = 7805,
 	},
-	["Casaras"] = {
-		[1] = 4037,
-	},
-	["Ganikuss"] = {
-		[1] = 134,
-	},
-	["Thassarian"] = {
-		[1] = 4730,
+	["Kurtok"] = {
+		[1] = 5849,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 15,
 	},
 	["Flamehawk"] = {
 		[1] = 8514,
@@ -14615,17 +14630,20 @@ DPSMateUser = {
 	["Mugell"] = {
 		[1] = 9395,
 	},
-	["Zasor"] = {
-		[1] = 3730,
+	["Wrongwang"] = {
+		[1] = 7675,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 18,
 	},
-	["Megalomaniac"] = {
-		[1] = 7600,
+	["Mclovinurmom"] = {
+		[1] = 10393,
 	},
 	["Deadlytricks"] = {
 		[1] = 12218,
 	},
-	["Misoj"] = {
-		[1] = 6818,
+	["Kalahadir"] = {
+		[1] = 11743,
 	},
 	["Nethermoore"] = {
 		[1] = 7726,
@@ -14636,23 +14654,23 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 33,
 	},
-	["Spoouch"] = {
-		[1] = 13129,
+	["Filteria"] = {
+		[1] = 3359,
 	},
-	["Bigtonk"] = {
-		[1] = 178,
+	["Highperch Wyvern"] = {
+		[1] = 9320,
 	},
 	["Flosh"] = {
 		[1] = 4344,
 	},
-	["Verthm"] = {
-		[1] = 10975,
+	["Emilete"] = {
+		[1] = 12385,
 	},
 	["Ngw"] = {
 		[1] = 9774,
 	},
-	["Agraviel"] = {
-		[1] = 1785,
+	["xiuxiu"] = {
+		[1] = 11471,
 	},
 	["Henchman Valik"] = {
 		[1] = 10625,
@@ -14666,23 +14684,31 @@ DPSMateUser = {
 	["Septikh"] = {
 		[1] = 5968,
 	},
-	["Zebrofski"] = {
-		[1] = 3585,
+	["Clis"] = {
+		[1] = 4903,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 5,
 	},
 	["Crazylawyer"] = {
 		[1] = 4268,
 	},
-	["Asandwich"] = {
-		[1] = 10018,
+	["Loumrien"] = {
+		[1] = 454,
 	},
-	["Ephu"] = {
-		[1] = 13054,
+	["Kuanglong"] = {
+		[1] = 10815,
 	},
-	["Mclovinurmom"] = {
-		[1] = 10393,
+	["Musclejacked"] = {
+		[1] = 6321,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[7] = "Big D club",
+		[8] = 21,
 	},
-	["Czaaghun"] = {
-		[1] = 437,
+	["duanya"] = {
+		[1] = 10905,
 	},
 	["Gelfos"] = {
 		[1] = 4806,
@@ -14690,8 +14716,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 10,
 	},
-	["Nagymuter"] = {
-		[1] = 10066,
+	["Caretaker Alaric"] = {
+		[1] = 12510,
 	},
 	["Saldare"] = {
 		[1] = 11162,
@@ -14702,29 +14728,29 @@ DPSMateUser = {
 	["Shenvwushu"] = {
 		[1] = 10121,
 	},
-	["Clis"] = {
-		[1] = 4903,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 5,
+	["Serprah"] = {
+		[1] = 3481,
 	},
 	["Zahreddine"] = {
 		[1] = 10961,
 	},
-	["Cjanogen"] = {
-		[1] = 3799,
+	["Gorzish"] = {
+		[1] = 8290,
 	},
-	["Gimmeflag"] = {
-		[1] = 1992,
+	["Dustbelcher Ogre"] = {
+		[1] = 13232,
 	},
-	["Malixica"] = {
-		[1] = 9886,
+	["Vizubu"] = {
+		[1] = 6738,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 30,
 	},
-	["Tbaws"] = {
-		[1] = 1133,
+	["Ezhun"] = {
+		[1] = 6739,
 	},
-	["Bobor"] = {
-		[1] = 12209,
+	["Feisko"] = {
+		[1] = 12567,
 	},
 	["Hanhihenrik"] = {
 		[1] = 2689,
@@ -14732,8 +14758,11 @@ DPSMateUser = {
 	["Theyearning"] = {
 		[1] = 2773,
 	},
-	["Luckylukk"] = {
-		[1] = 11340,
+	["Buridia"] = {
+		[1] = 2121,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Captnbishop"] = {
 		[1] = 9188,
@@ -14741,23 +14770,26 @@ DPSMateUser = {
 	["B√∂mbsshell"] = {
 		[1] = 936,
 	},
-	["Wowwhing"] = {
-		[1] = 4006,
+	["Granar"] = {
+		[1] = 6200,
 	},
 	["Storpappan"] = {
 		[1] = 1398,
 	},
-	["Madrace"] = {
-		[1] = 3463,
+	["Letrem"] = {
+		[1] = 13174,
 	},
-	["Venture Co. Overseer"] = {
-		[1] = 6793,
+	["Deadlytusk"] = {
+		[1] = 7497,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 26,
 	},
 	["Sorgoth"] = {
 		[1] = 3453,
 	},
-	["Gippsy"] = {
-		[1] = 193,
+	["Zashkwar"] = {
+		[1] = 6982,
 	},
 	["Billcompton"] = {
 		[1] = 8238,
@@ -14783,17 +14815,21 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 4,
 	},
-	["Saka"] = {
-		[1] = 12089,
-		[2] = "hunter",
+	["Luckball"] = {
+		[1] = 8323,
+	},
+	["Soulboost"] = {
+		[1] = 12907,
+		[2] = "rogue",
 		[3] = 1,
-		[8] = 30,
+		[8] = 34,
 	},
-	["Dodson"] = {
-		[1] = 2908,
-	},
-	["Deedrah"] = {
-		[1] = 8960,
+	["Idemker"] = {
+		[1] = 3104,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[8] = 7,
 	},
 	["Jamin"] = {
 		[1] = 9484,
@@ -14813,23 +14849,25 @@ DPSMateUser = {
 	["Sherae"] = {
 		[1] = 11558,
 	},
-	["Fearitup"] = {
-		[1] = 7380,
+	["Jaqeen"] = {
+		[1] = 11131,
 	},
-	["Warbarbiex"] = {
-		[1] = 12033,
+	["Neris"] = {
+		[1] = 607,
 	},
 	["Lowingo"] = {
 		[1] = 10312,
 	},
-	["Granar"] = {
-		[1] = 6200,
+	["Venikk"] = {
+		[1] = 11150,
+		[2] = "mage",
+		[3] = 1,
 	},
 	["Rottenball"] = {
 		[1] = 9523,
 	},
-	["Gharak"] = {
-		[1] = 10284,
+	["Yoka"] = {
+		[1] = 25,
 	},
 	["Syktara"] = {
 		[1] = 3470,
@@ -14837,8 +14875,8 @@ DPSMateUser = {
 	["Sveinnandri"] = {
 		[1] = 4643,
 	},
-	["Gutianle"] = {
-		[1] = 3029,
+	["Lostari"] = {
+		[1] = 12624,
 	},
 	["Lava Surger"] = {
 		[1] = 952,
@@ -14864,35 +14902,46 @@ DPSMateUser = {
 	["River Crocolisk"] = {
 		[1] = 11032,
 	},
-	["Reery"] = {
-		[1] = 7393,
+	["Trollkonst"] = {
+		[1] = 11204,
+		[2] = "mage",
+		[3] = 1,
 	},
-	["Mightydude"] = {
-		[1] = 6067,
+	["Handupass"] = {
+		[1] = 12748,
 	},
-	["Klathkath"] = {
-		[1] = 12436,
+	["Heallena"] = {
+		[1] = 3921,
 	},
-	["Gurubashi Bat Rider"] = {
-		[1] = 321,
+	["Sawky"] = {
+		[1] = 9524,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 43,
 	},
 	["Yahtoast"] = {
 		[1] = 9104,
 	},
-	["Fsdfsefewf"] = {
-		[1] = 4227,
+	["Zhevra Courser"] = {
+		[1] = 7819,
 	},
-	["Burning Blade Reaver"] = {
-		[1] = 12834,
+	["Datrohan"] = {
+		[1] = 2086,
 	},
 	["Narutaky"] = {
 		[1] = 6217,
 	},
-	["Mpj"] = {
-		[1] = 7038,
+	["Bezdna"] = {
+		[1] = 5766,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 13,
 	},
-	["Fourwinds"] = {
-		[1] = 10042,
+	["Pilos"] = {
+		[1] = 9254,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 21,
 	},
 	["Snailhouse"] = {
 		[1] = 4202,
@@ -14900,25 +14949,23 @@ DPSMateUser = {
 	["Milbo"] = {
 		[1] = 5484,
 	},
-	["Trollkonst"] = {
-		[1] = 11204,
-		[2] = "mage",
-		[3] = 1,
+	["Laststand"] = {
+		[1] = 8510,
 	},
-	["Walarys"] = {
-		[1] = 3024,
+	["Pako"] = {
+		[1] = 653,
 	},
-	["Radii"] = {
-		[1] = 10751,
+	["Sstr"] = {
+		[1] = 10115,
 	},
-	["Darkmoore"] = {
-		[1] = 12183,
-		[2] = "rogue",
+	["Felzver"] = {
+		[1] = 6681,
+		[2] = "hunter",
 		[3] = -1,
-		[8] = 10,
+		[8] = 13,
 	},
-	["Arcear"] = {
-		[1] = 10705,
+	["Testbot"] = {
+		[1] = 1749,
 	},
 	["Tahoo"] = {
 		[1] = 11569,
@@ -14926,8 +14973,11 @@ DPSMateUser = {
 	["Nifht"] = {
 		[1] = 4232,
 	},
-	["Flamewaker"] = {
-		[1] = 962,
+	["Emzs"] = {
+		[1] = 12428,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 36,
 	},
 	["@@d"] = {
 		[1] = 1739,
@@ -14937,11 +14987,14 @@ DPSMateUser = {
 	["Hyrumgg"] = {
 		[1] = 4381,
 	},
-	["Jumentaon"] = {
-		[1] = 10868,
+	["Kronprins"] = {
+		[1] = 8234,
 	},
-	["Vhael"] = {
-		[1] = 10570,
+	["Jiuyou"] = {
+		[1] = 12825,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 38,
 	},
 	["Simopala"] = {
 		[1] = 828,
@@ -14949,8 +15002,8 @@ DPSMateUser = {
 	["Pusy"] = {
 		[1] = 685,
 	},
-	["Wachipan"] = {
-		[1] = 1368,
+	["Hvit"] = {
+		[1] = 6248,
 	},
 	["Pingguoku"] = {
 		[1] = 10713,
@@ -14961,26 +15014,26 @@ DPSMateUser = {
 	["Demonsky"] = {
 		[1] = 9956,
 	},
-	["Kovac"] = {
-		[1] = 3084,
+	["Zana"] = {
+		[1] = 1750,
 	},
-	["Pilos"] = {
-		[1] = 9254,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 21,
+	["Skorm"] = {
+		[1] = 10948,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 39,
 	},
-	["Laststand"] = {
-		[1] = 8510,
+	["Abernathy"] = {
+		[1] = 7012,
 	},
-	["Skimmy"] = {
-		[1] = 13140,
+	["Zombieland"] = {
+		[1] = 12700,
 	},
 	["Chael"] = {
 		[1] = 1986,
 	},
-	["Willbull"] = {
-		[1] = 11727,
+	["Anya Maulray"] = {
+		[1] = 13064,
 	},
 	["Rosuzu"] = {
 		[1] = 13212,
@@ -15005,10 +15058,8 @@ DPSMateUser = {
 	["Sanjidaotage"] = {
 		[1] = 13022,
 	},
-	["Spider"] = {
-		[1] = 340,
-		[4] = true,
-		[6] = 7481,
+	["Dukunpelet"] = {
+		[1] = 6035,
 	},
 	["Papech"] = {
 		[1] = 7240,
@@ -15025,49 +15076,50 @@ DPSMateUser = {
 	["Jumble"] = {
 		[1] = 542,
 	},
-	["Hordes"] = {
-		[1] = 6060,
+	["Imperio"] = {
+		[1] = 6033,
 	},
-	["Hygea"] = {
-		[1] = 10559,
+	["Giraffe"] = {
+		[1] = 4666,
 	},
-	["iana"] = {
-		[1] = 1919,
-		[4] = true,
-		[6] = 1914,
+	["Darkmoore"] = {
+		[1] = 12183,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 10,
 	},
-	["Zhevra Courser"] = {
-		[1] = 7819,
+	["Chenbao"] = {
+		[1] = 10069,
 	},
 	["Beltuk"] = {
 		[1] = 50,
 	},
-	["Acidgodx"] = {
-		[1] = 38,
+	["Lestados"] = {
+		[1] = 9464,
 	},
-	["Visnushka"] = {
-		[1] = 5541,
-		[2] = "rogue",
+	["Nolabrew"] = {
+		[1] = 6812,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 12,
+		[8] = 60,
 	},
 	["Corrupta"] = {
 		[1] = 12647,
 	},
-	["Alvedon"] = {
-		[1] = 11660,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 36,
+	["Humdrum"] = {
+		[1] = 10696,
 	},
-	["Trolis"] = {
-		[1] = 9670,
+	["Azakore"] = {
+		[1] = 10418,
 	},
 	["Grebone"] = {
 		[1] = 3546,
 	},
-	["Yofeerlees"] = {
-		[1] = 2083,
+	["Eleventh"] = {
+		[1] = 2959,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 11,
 	},
 	["Pitocada"] = {
 		[1] = 3321,
@@ -15080,40 +15132,38 @@ DPSMateUser = {
 		[2] = "priest",
 		[3] = 1,
 	},
-	["Cancerboss"] = {
-		[1] = 11416,
+	["Dems"] = {
+		[1] = 1063,
 	},
-	["Zestus"] = {
-		[1] = 9647,
+	["Torittanr"] = {
+		[1] = 6161,
 	},
-	["Disrado"] = {
-		[1] = 8658,
+	["Bronwyn"] = {
+		[1] = 2173,
 	},
-	["Jitsuji"] = {
-		[1] = 1310,
+	["Breestole"] = {
+		[1] = 3970,
 	},
 	["Gudunxia"] = {
 		[1] = 7509,
 	},
-	["Lif"] = {
-		[1] = 8445,
+	["Vendigus"] = {
+		[1] = 584,
 	},
-	["Grautper"] = {
-		[1] = 12878,
-		[2] = "rogue",
-		[3] = 1,
+	["Viscidus"] = {
+		[1] = 2595,
 	},
-	["Gandah"] = {
-		[1] = 796,
+	["Karnar"] = {
+		[1] = 5724,
 	},
-	["Kule"] = {
-		[1] = 10839,
+	["Bouguu"] = {
+		[1] = 2165,
 	},
 	["Domigromit"] = {
 		[1] = 8813,
 	},
-	["Deathsreturn"] = {
-		[1] = 10522,
+	["Vordai"] = {
+		[1] = 7942,
 	},
 	["Joido"] = {
 		[1] = 13087,
@@ -15133,11 +15183,11 @@ DPSMateUser = {
 	["Erikorc"] = {
 		[1] = 6718,
 	},
-	["Morrech"] = {
-		[1] = 12563,
+	["Druidfu"] = {
+		[1] = 2526,
 	},
-	["Yiluxiangbei"] = {
-		[1] = 10991,
+	["Preyar"] = {
+		[1] = 12046,
 	},
 	["Bejku"] = {
 		[1] = 7425,
@@ -15154,8 +15204,8 @@ DPSMateUser = {
 	["Kresh"] = {
 		[1] = 7528,
 	},
-	["Induss"] = {
-		[1] = 4879,
+	["Pauli"] = {
+		[1] = 6888,
 	},
 	["Yaroslav"] = {
 		[1] = 11451,
@@ -15163,23 +15213,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Areste"] = {
-		[1] = 13114,
+	["Oxys"] = {
+		[1] = 8823,
 	},
 	["Female Human Captive"] = {
 		[1] = 5377,
 	},
-	["Apenkcheech"] = {
-		[1] = 10038,
+	["Nadeo"] = {
+		[1] = 12583,
 	},
-	["Murra"] = {
-		[1] = 753,
+	["Ganikuss"] = {
+		[1] = 134,
 	},
-	["Karnar"] = {
-		[1] = 5724,
+	["Falaffle"] = {
+		[1] = 5545,
 	},
-	["Xenop"] = {
-		[1] = 911,
+	["Wurstig"] = {
+		[1] = 1059,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Yazuri"] = {
 		[1] = 3831,
@@ -15196,22 +15249,20 @@ DPSMateUser = {
 	["Cinderella"] = {
 		[1] = 2189,
 	},
-	["Raampagee"] = {
-		[1] = 9242,
-		[2] = "warrior",
+	["Wintersolsti"] = {
+		[1] = 6481,
+		[2] = "warlock",
 		[3] = -1,
-		[4] = false,
-		[7] = "BandiTos RU",
-		[8] = 21,
+		[8] = 13,
 	},
-	["Vendigus"] = {
-		[1] = 584,
+	["Sarnar"] = {
+		[1] = 11411,
 	},
-	["Dqdomrazz"] = {
-		[1] = 6614,
+	["Sannia"] = {
+		[1] = 1544,
 	},
-	["Blackwing Spellbinder"] = {
-		[1] = 1094,
+	["Murra"] = {
+		[1] = 753,
 	},
 	["Toruk"] = {
 		[1] = 1028,
@@ -15222,14 +15273,16 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 18,
 	},
-	["Monean"] = {
-		[1] = 11509,
+	["Roruk"] = {
+		[1] = 6790,
 	},
 	["Hillsbrad Foreman"] = {
 		[1] = 9165,
 	},
-	["Mazkin"] = {
-		[1] = 7343,
+	["Spider"] = {
+		[1] = 340,
+		[4] = true,
+		[6] = 7481,
 	},
 	["Narb"] = {
 		[1] = 4504,
@@ -15237,20 +15290,17 @@ DPSMateUser = {
 	["Bigbge"] = {
 		[1] = 3848,
 	},
-	["Zezma"] = {
-		[1] = 7978,
+	["Areste"] = {
+		[1] = 13114,
 	},
-	["Tikke"] = {
-		[1] = 10077,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 15,
+	["Mutated Venture Co. Drone"] = {
+		[1] = 7955,
 	},
 	["Unyielding"] = {
 		[1] = 10447,
 	},
-	["Torittanr"] = {
-		[1] = 6161,
+	["Eskimos"] = {
+		[1] = 1348,
 	},
 	["Rejna"] = {
 		[1] = 9273,
@@ -15258,8 +15308,8 @@ DPSMateUser = {
 	["Quinicky"] = {
 		[1] = 143,
 	},
-	["Jhomgrave"] = {
-		[1] = 8579,
+	["Dondruid"] = {
+		[1] = 1260,
 	},
 	["Eugeniusz"] = {
 		[1] = 4526,
@@ -15270,11 +15320,11 @@ DPSMateUser = {
 	["Altlooter"] = {
 		[1] = 2050,
 	},
-	["Oxys"] = {
-		[1] = 8823,
+	["Shamcheg"] = {
+		[1] = 9435,
 	},
-	["Dwarfzor"] = {
-		[1] = 1685,
+	["Colbornn"] = {
+		[1] = 11029,
 	},
 	["Besseleth"] = {
 		[1] = 8090,
@@ -15282,14 +15332,14 @@ DPSMateUser = {
 	["Imdonaltrump"] = {
 		[1] = 8959,
 	},
-	["Eskimos"] = {
-		[1] = 1348,
+	["Rocknrolly"] = {
+		[1] = 3420,
 	},
-	["Zybaster"] = {
-		[1] = 7733,
+	["Vhael"] = {
+		[1] = 10570,
 	},
-	["Daniel Ulfman"] = {
-		[1] = 3566,
+	["Morrech"] = {
+		[1] = 12563,
 	},
 	["Krakgrave"] = {
 		[1] = 7334,
@@ -15302,26 +15352,26 @@ DPSMateUser = {
 	["Chaser"] = {
 		[1] = 1283,
 	},
-	["Bocy"] = {
-		[1] = 415,
+	["Wongedan"] = {
+		[1] = 9545,
 	},
-	["Dukunpelet"] = {
-		[1] = 6035,
+	["Emplics"] = {
+		[1] = 2929,
 	},
-	["Norrg"] = {
-		[1] = 2167,
+	["Calbe"] = {
+		[1] = 3008,
 	},
-	["Old Serra'kis"] = {
-		[1] = 9013,
+	["Deadmanwalks"] = {
+		[1] = 13090,
 	},
-	["Babycomeon"] = {
-		[1] = 10679,
-	},
-	["Thisismeat"] = {
-		[1] = 5998,
-		[2] = "druid",
+	["Fromtz"] = {
+		[1] = 12425,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 42,
+		[8] = 45,
+	},
+	["Jitsuji"] = {
+		[1] = 1310,
 	},
 	["Nekro"] = {
 		[1] = 13142,
@@ -15329,23 +15379,17 @@ DPSMateUser = {
 	["Flckmepls"] = {
 		[1] = 792,
 	},
-	["Hvit"] = {
-		[1] = 6248,
+	["Rollinbones"] = {
+		[1] = 13071,
 	},
-	["Pitiles"] = {
-		[1] = 11073,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 38,
+	["Handdsome"] = {
+		[1] = 3516,
 	},
-	["Quaggan"] = {
-		[1] = 8927,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 10,
+	["Phill"] = {
+		[1] = 253,
 	},
-	["Blademavis"] = {
-		[1] = 6400,
+	["Toxinia"] = {
+		[1] = 12532,
 	},
 	["Bhunt"] = {
 		[1] = 8210,
@@ -15353,23 +15397,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 21,
 	},
-	["Rocknrolly"] = {
-		[1] = 3420,
+	["Snikefaen"] = {
+		[1] = 3693,
 	},
-	["Feisko"] = {
-		[1] = 12567,
+	["Reecoo"] = {
+		[1] = 10527,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 32,
 	},
-	["Nng"] = {
-		[1] = 6336,
+	["Fullmagister"] = {
+		[1] = 633,
 	},
-	["Gringer"] = {
-		[1] = 11133,
+	["Zezma"] = {
+		[1] = 7978,
 	},
 	["Jumline"] = {
 		[1] = 2258,
 	},
-	["Aimaya"] = {
-		[1] = 12353,
+	["Chnshao"] = {
+		[1] = 3195,
 	},
 	["Rainniar"] = {
 		[1] = 12607,
@@ -15380,8 +15427,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 10,
 	},
-	["Pungent"] = {
-		[1] = 13066,
+	["Neckshot"] = {
+		[1] = 5517,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Slicey"] = {
 		[1] = 1153,
@@ -15392,8 +15442,8 @@ DPSMateUser = {
 	["Barkrit"] = {
 		[1] = 12257,
 	},
-	["Vordai"] = {
-		[1] = 7942,
+	["Xeviscerape"] = {
+		[1] = 4293,
 	},
 	["Oldbigbrothe"] = {
 		[1] = 5059,
@@ -15412,35 +15462,32 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Deviate Lurker"] = {
-		[1] = 7500,
+	["Mhff"] = {
+		[1] = 3612,
 	},
-	["Lestados"] = {
-		[1] = 9464,
+	["Lockdandload"] = {
+		[1] = 5627,
 	},
-	["Skype"] = {
-		[1] = 3282,
+	["Asandwich"] = {
+		[1] = 10018,
 	},
 	["Karpad"] = {
 		[1] = 444,
 	},
-	["Rollinbones"] = {
-		[1] = 13071,
+	["Mckee"] = {
+		[1] = 10899,
 	},
-	["Bowhoe"] = {
-		[1] = 9817,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 60,
+	["Amarant"] = {
+		[1] = 10388,
 	},
-	["Teilc"] = {
-		[1] = 7319,
+	["Qiraji Champion"] = {
+		[1] = 2597,
 	},
 	["Danyiziqing"] = {
 		[1] = 11069,
 	},
-	["Pako"] = {
-		[1] = 653,
+	["Poisoncloud"] = {
+		[1] = 4123,
 	},
 	["Padmasambava"] = {
 		[1] = 13304,
@@ -15451,26 +15498,26 @@ DPSMateUser = {
 	["Lrxxa"] = {
 		[1] = 11970,
 	},
-	["Reecoo"] = {
-		[1] = 10527,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 32,
+	["Arkkyl"] = {
+		[1] = 8477,
 	},
 	["Darkritual"] = {
 		[1] = 8672,
 	},
-	["Zashkwar"] = {
-		[1] = 6982,
+	["Trolis"] = {
+		[1] = 9670,
 	},
-	["Hysel"] = {
-		[1] = 7194,
+	["Orcaddicted"] = {
+		[1] = 7126,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 19,
 	},
 	["Atroxos"] = {
 		[1] = 10526,
 	},
-	["Arkkyl"] = {
-		[1] = 8477,
+	["Justknow"] = {
+		[1] = 10755,
 	},
 	["Cellsleep"] = {
 		[1] = 4186,
@@ -15478,10 +15525,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 6,
 	},
-	["Zeptik"] = {
-		[1] = 4647,
-		[4] = true,
-		[6] = 4097,
+	["Acidgodx"] = {
+		[1] = 38,
 	},
 	["Phuudon"] = {
 		[1] = 1205,
@@ -15498,11 +15543,11 @@ DPSMateUser = {
 	["Haraldhaxx"] = {
 		[1] = 9867,
 	},
-	["Muton"] = {
-		[1] = 6902,
+	["Sayori"] = {
+		[1] = 646,
 	},
-	["Slutzwar"] = {
-		[1] = 1820,
+	["Dwradoneoone"] = {
+		[1] = 6932,
 	},
 	["Gungan"] = {
 		[1] = 6875,
@@ -15519,14 +15564,14 @@ DPSMateUser = {
 	["Thorkar"] = {
 		[1] = 9854,
 	},
-	["Sayori"] = {
-		[1] = 646,
+	["Every"] = {
+		[1] = 5207,
 	},
 	["Mana"] = {
 		[1] = 280,
 	},
-	["Lockhead"] = {
-		[1] = 1895,
+	["Balgur"] = {
+		[1] = 10827,
 	},
 	["Ragezed"] = {
 		[1] = 77,
@@ -15534,38 +15579,38 @@ DPSMateUser = {
 	["Abf"] = {
 		[1] = 9648,
 	},
-	["Thysta"] = {
-		[1] = 11817,
+	["Timbawood"] = {
+		[1] = 2053,
 	},
 	["Jhomnuz"] = {
 		[1] = 9699,
 	},
-	["Citymee"] = {
-		[1] = 13077,
+	["Myrdun"] = {
+		[1] = 5394,
 	},
 	["Cheddabill"] = {
 		[1] = 2505,
 	},
-	["Soils"] = {
-		[1] = 5206,
+	["Tscunami"] = {
+		[1] = 451,
+	},
+	["Stimulantka"] = {
+		[1] = 1668,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Hecklefang Hyena"] = {
 		[1] = 6002,
 	},
-	["Pompyroo"] = {
-		[1] = 1152,
-	},
-	["Skorm"] = {
-		[1] = 10948,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 39,
+	["Sleeby"] = {
+		[1] = 12264,
 	},
 	["Xiaoxianrou"] = {
 		[1] = 5824,
 	},
-	["Grauri"] = {
-		[1] = 683,
+	["Igenigen"] = {
+		[1] = 3676,
 	},
 	["Kholari"] = {
 		[1] = 2783,
@@ -15576,17 +15621,14 @@ DPSMateUser = {
 	["Skegge"] = {
 		[1] = 5037,
 	},
-	["Shmeez"] = {
-		[1] = 3074,
+	["Zerstiren"] = {
+		[1] = 529,
 	},
-	["Buridia"] = {
-		[1] = 2121,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Pyjamaskudde"] = {
+		[1] = 6273,
 	},
-	["Zornik"] = {
-		[1] = 4799,
+	["Northparks"] = {
+		[1] = 10888,
 	},
 	["Zevenhp"] = {
 		[1] = 984,
@@ -15597,11 +15639,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 19,
 	},
-	["Heallena"] = {
-		[1] = 3921,
+	["Sansesn"] = {
+		[1] = 12351,
 	},
-	["Testbot"] = {
-		[1] = 1749,
+	["Vharr"] = {
+		[1] = 11246,
 	},
 	["Moiridis"] = {
 		[1] = 639,
@@ -15636,32 +15678,29 @@ DPSMateUser = {
 	["Feierer"] = {
 		[1] = 11609,
 	},
-	["Phobus"] = {
-		[1] = 2427,
+	["Prestjevel"] = {
+		[1] = 783,
 	},
-	["Orcaddicted"] = {
-		[1] = 7126,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 19,
+	["Chbeb"] = {
+		[1] = 1681,
 	},
 	["Ronanx"] = {
 		[1] = 9889,
 	},
-	["Zoomer"] = {
-		[1] = 6887,
+	["Joselucho"] = {
+		[1] = 7483,
 	},
-	["Slitherblade Naga"] = {
-		[1] = 12874,
+	["Turbosmisk"] = {
+		[1] = 9152,
 	},
-	["Hanyou"] = {
-		[1] = 1862,
+	["Gippsy"] = {
+		[1] = 193,
 	},
 	["pacman"] = {
 		[1] = 13120,
 	},
-	["Hebebe"] = {
-		[1] = 4337,
+	["Nymphedora"] = {
+		[1] = 4160,
 	},
 	["Lechi"] = {
 		[1] = 6410,
@@ -15672,25 +15711,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 24,
 	},
-	["Qsw"] = {
-		[1] = 12250,
+	["Boneymm"] = {
+		[1] = 1564,
 	},
-	["Toxicfunk"] = {
-		[1] = 5058,
-		[2] = "rogue",
+	["Interhill"] = {
+		[1] = 11542,
+	},
+	["Onepieceoh"] = {
+		[1] = 9582,
+	},
+	["Fraudle"] = {
+		[1] = 4308,
+	},
+	["Theshame"] = {
+		[1] = 5622,
+		[2] = "shaman",
 		[3] = -1,
-		[4] = false,
-		[7] = "Immortal Outlaws",
-		[8] = 25,
-	},
-	["Kayleonora"] = {
-		[1] = 98,
-	},
-	["Kalahadir"] = {
-		[1] = 11743,
-	},
-	["Razorfen Defender"] = {
-		[1] = 9356,
+		[8] = 60,
 	},
 	["Petushok"] = {
 		[1] = 6218,
@@ -15719,71 +15756,77 @@ DPSMateUser = {
 	["Warthered"] = {
 		[1] = 73,
 	},
-	["Vildiur"] = {
-		[1] = 3986,
+	["Eidus"] = {
+		[1] = 10955,
 	},
-	["Treant Ally"] = {
-		[1] = 8229,
+	["Noilliz"] = {
+		[1] = 5160,
 	},
-	["Mandrius"] = {
-		[1] = 5723,
+	["Ovenmitt"] = {
+		[1] = 10237,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 26,
 	},
-	["Arantisimus"] = {
-		[1] = 4425,
+	["Fosty"] = {
+		[1] = 1279,
 	},
-	["Zomboner"] = {
-		[1] = 844,
+	["Alstadboii"] = {
+		[1] = 4904,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 9,
 	},
 	["Belphathar"] = {
 		[1] = 4353,
 	},
-	["Dizka"] = {
-		[1] = 11372,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 40,
+	["Blackwing Spellbinder"] = {
+		[1] = 1094,
 	},
-	["Beacuseofyou"] = {
-		[1] = 4754,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 9,
+	["Granik"] = {
+		[1] = 5157,
 	},
 	["Essidaven"] = {
 		[1] = 12785,
 	},
-	["Wrathtail Razortail"] = {
-		[1] = 8938,
+	["Zekn"] = {
+		[1] = 6765,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 12,
 	},
-	["Phill"] = {
-		[1] = 253,
+	["Hygea"] = {
+		[1] = 10559,
 	},
 	["Alcase"] = {
 		[1] = 13199,
 	},
-	["Eidus"] = {
-		[1] = 10955,
+	["Dawnbedabun"] = {
+		[1] = 6620,
 	},
-	["Luckball"] = {
-		[1] = 8323,
-	},
-	["Quzrot"] = {
-		[1] = 4658,
-	},
-	["Moostag"] = {
-		[1] = 7399,
-		[2] = "warrior",
+	["Kosturko"] = {
+		[1] = 2229,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 18,
+		[8] = 60,
+	},
+	["Aherbooze"] = {
+		[1] = 268,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 60,
+	},
+	["Jumentaon"] = {
+		[1] = 10868,
 	},
 	["Forsekan"] = {
 		[1] = 2707,
 	},
-	["Northparks"] = {
-		[1] = 10888,
+	["Effots"] = {
+		[1] = 4364,
 	},
-	["Fosty"] = {
-		[1] = 1279,
+	["Rottenstench"] = {
+		[1] = 11517,
 	},
 	["Cursedaka"] = {
 		[1] = 259,
@@ -15791,68 +15834,58 @@ DPSMateUser = {
 	["Lanfe"] = {
 		[1] = 227,
 	},
-	["Nymphedora"] = {
-		[1] = 4160,
+	["Kovac"] = {
+		[1] = 3084,
 	},
-	["Theshame"] = {
-		[1] = 5622,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Azrugh"] = {
+		[1] = 8502,
 	},
-	["Neckshot"] = {
-		[1] = 5517,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 13,
+	["XDDDDDDDDDDD"] = {
+		[1] = 9023,
 	},
-	["Delivers"] = {
-		[1] = 5459,
+	["Sicarus"] = {
+		[1] = 7275,
 	},
-	["Deadlytusk"] = {
-		[1] = 7497,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 26,
+	["Lockherup"] = {
+		[1] = 5502,
 	},
-	["Fullmagister"] = {
-		[1] = 633,
+	["Roachforte"] = {
+		[1] = 9902,
 	},
-	["Pizuri"] = {
-		[1] = 1303,
+	["Azaobei"] = {
+		[1] = 12121,
 	},
 	["Janylay"] = {
 		[1] = 4588,
 	},
-	["Whitecrowacr"] = {
-		[1] = 4247,
+	["Frogo"] = {
+		[1] = 13238,
 	},
 	["Thylordjcon"] = {
 		[1] = 8169,
 	},
-	["Wentylotor"] = {
-		[1] = 6508,
+	["Yssgood"] = {
+		[1] = 9734,
+		[2] = "hunter",
+		[3] = 1,
+	},
+	["Tabularasa"] = {
+		[1] = 5585,
+	},
+	["Icastfear"] = {
+		[1] = 2857,
+	},
+	["Cindory"] = {
+		[1] = 11741,
+	},
+	["Antothedy"] = {
+		[1] = 3583,
+	},
+	["Fatkidcry"] = {
+		[1] = 9221,
 		[2] = "warrior",
 		[3] = -1,
-		[8] = 17,
-	},
-	["Dualmatrix"] = {
-		[1] = 4106,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 5,
-	},
-	["Tomise"] = {
-		[1] = 10421,
-	},
-	["Muller"] = {
-		[1] = 7513,
-	},
-	["Thren"] = {
-		[1] = 2315,
-	},
-	["Markudjicko"] = {
-		[1] = 5387,
+		[8] = 21,
 	},
 	["Malignia"] = {
 		[1] = 12767,
@@ -15869,17 +15902,16 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 52,
 	},
-	["Zyzom"] = {
-		[1] = 8019,
+	["Quzjub"] = {
+		[1] = 4661,
+		[4] = true,
+		[6] = 4111,
 	},
-	["Rogim"] = {
-		[1] = 6941,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 17,
+	["Renergy"] = {
+		[1] = 1819,
 	},
-	["Irebirth"] = {
-		[1] = 12379,
+	["Princcess"] = {
+		[1] = 767,
 	},
 	["Missyoux"] = {
 		[1] = 7837,
@@ -15887,17 +15919,17 @@ DPSMateUser = {
 	["Crazykg"] = {
 		[1] = 7806,
 	},
-	["Skelna"] = {
-		[1] = 11732,
+	["Kepaza"] = {
+		[1] = 5375,
 	},
 	["Boriskal"] = {
 		[1] = 8015,
 	},
-	["Pauli"] = {
-		[1] = 6888,
+	["Burning Blade Reaver"] = {
+		[1] = 12834,
 	},
-	["Jestas"] = {
-		[1] = 4456,
+	["Ongongall"] = {
+		[1] = 2479,
 	},
 	["Golmit"] = {
 		[1] = 7232,
@@ -15907,8 +15939,8 @@ DPSMateUser = {
 		[4] = true,
 		[6] = 5203,
 	},
-	["Embalming Slime"] = {
-		[1] = 2742,
+	["Felraediantz"] = {
+		[1] = 8543,
 	},
 	["Rekktt"] = {
 		[1] = 1688,
@@ -15928,11 +15960,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 33,
 	},
-	["David Trias"] = {
-		[1] = 4236,
+	["Thulkrast"] = {
+		[1] = 10623,
 	},
-	["Guiselle"] = {
-		[1] = 1577,
+	["Nolifette"] = {
+		[1] = 10358,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 33,
 	},
 	["Meisterodin"] = {
 		[1] = 912,
@@ -15940,29 +15975,29 @@ DPSMateUser = {
 	["Muudbutt"] = {
 		[1] = 9418,
 	},
-	["Fevrhimx"] = {
-		[1] = 2406,
+	["Schmooks"] = {
+		[1] = 549,
 	},
 	["Jychara"] = {
 		[1] = 3629,
 	},
-	["Venture Co. Peon"] = {
-		[1] = 6767,
+	["Buldren"] = {
+		[1] = 5600,
 	},
-	["Roachforte"] = {
-		[1] = 9902,
+	["Shinronu"] = {
+		[1] = 3840,
 	},
 	["Dupz"] = {
 		[1] = 11525,
 	},
-	["Slutzlock"] = {
-		[1] = 1948,
+	["Badtsmaru"] = {
+		[1] = 5199,
 	},
-	["Antothedy"] = {
-		[1] = 3583,
+	["Kaukos"] = {
+		[1] = 2982,
 	},
-	["Ostrich"] = {
-		[1] = 2653,
+	["Killgunner"] = {
+		[1] = 7971,
 	},
 	["Mana Spring Totem II"] = {
 		[1] = 12490,
@@ -15985,11 +16020,8 @@ DPSMateUser = {
 	["Zepnip"] = {
 		[1] = 6143,
 	},
-	["Weider"] = {
-		[1] = 11464,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 44,
+	["Observation"] = {
+		[1] = 7207,
 	},
 	["Searing Ghoul"] = {
 		[1] = 10486,
@@ -16009,41 +16041,44 @@ DPSMateUser = {
 	["Akumaprodigy"] = {
 		[1] = 12016,
 	},
-	["Dodgeydave"] = {
-		[1] = 10781,
+	["Mohammadth"] = {
+		[1] = 5713,
 	},
 	["Hymens"] = {
 		[1] = 6228,
 	},
-	["Bouguu"] = {
-		[1] = 2165,
+	["Actea"] = {
+		[1] = 11286,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 17,
 	},
 	["Mormur"] = {
 		[1] = 1517,
 	},
-	["Yuqqie"] = {
-		[1] = 12359,
+	["Uhhokehtuu"] = {
+		[1] = 9431,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 24,
 	},
 	["Neriakied"] = {
 		[1] = 5443,
 	},
-	["Felraediantz"] = {
-		[1] = 8543,
+	["Cryx"] = {
+		[1] = 7202,
 	},
-	["Schmooks"] = {
-		[1] = 549,
+	["Syzurpz"] = {
+		[1] = 9264,
 	},
-	["Etoss"] = {
-		[1] = 6863,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 12,
+	["Souloho"] = {
+		[1] = 9628,
 	},
 	["Fatalie"] = {
 		[1] = 11781,
 	},
-	["Jeps"] = {
-		[1] = 5903,
+	["Bmmaster"] = {
+		[1] = 1384,
 	},
 	["Your Arugal"] = {
 		[1] = 8630,
@@ -16051,14 +16086,14 @@ DPSMateUser = {
 	["Revebarrel"] = {
 		[1] = 10701,
 	},
-	["Kaukos"] = {
-		[1] = 2982,
+	["Euphan"] = {
+		[1] = 4475,
 	},
-	["Jynnerso"] = {
-		[1] = 7708,
+	["Flixxlol"] = {
+		[1] = 3117,
 	},
-	["Skinth"] = {
-		[1] = 9607,
+	["Throwinbolts"] = {
+		[1] = 838,
 	},
 	["Lockheart"] = {
 		[1] = 6798,
@@ -16069,11 +16104,11 @@ DPSMateUser = {
 	["Goosegrey"] = {
 		[1] = 4606,
 	},
-	["Firekeeper"] = {
-		[1] = 2780,
+	["Eye of C'Thun"] = {
+		[1] = 2601,
 	},
-	["Syzurpz"] = {
-		[1] = 9264,
+	["Tirkar"] = {
+		[1] = 6167,
 	},
 	["Juiceboi"] = {
 		[1] = 12914,
@@ -16081,14 +16116,11 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 36,
 	},
-	["Eleventh"] = {
-		[1] = 2959,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 11,
+	["Wiederkehrer"] = {
+		[1] = 10022,
 	},
-	["Barbeque"] = {
-		[1] = 1680,
+	["Reainess"] = {
+		[1] = 12693,
 	},
 	["Sovenka"] = {
 		[1] = 11273,
@@ -16096,20 +16128,23 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 34,
 	},
-	["Eixz"] = {
-		[1] = 8359,
+	["Bullboss"] = {
+		[1] = 7150,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 19,
 	},
-	["Souloho"] = {
-		[1] = 9628,
+	["Nicetry"] = {
+		[1] = 11925,
 	},
-	["Moomanon"] = {
-		[1] = 7738,
+	["Yuqqie"] = {
+		[1] = 12359,
 	},
 	["Steropotame"] = {
 		[1] = 8804,
 	},
-	["Theboneless"] = {
-		[1] = 8034,
+	["Cjanogen"] = {
+		[1] = 3799,
 	},
 	["Comeonfeet"] = {
 		[1] = 6708,
@@ -16123,11 +16158,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 35,
 	},
-	["Wildstabby"] = {
-		[1] = 10835,
-		[2] = "rogue",
+	["Torrien"] = {
+		[1] = 3364,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 37,
+		[8] = 1,
 	},
 	["Kuailema"] = {
 		[1] = 9163,
@@ -16138,26 +16173,29 @@ DPSMateUser = {
 	["Riznix"] = {
 		[1] = 2609,
 	},
-	["Lesscoolyo"] = {
-		[1] = 4529,
+	["Jetrel"] = {
+		[1] = 3864,
 	},
-	["Sooco"] = {
-		[1] = 12952,
+	["Shasilla"] = {
+		[1] = 4780,
 	},
-	["Dunzo"] = {
-		[1] = 9666,
+	["Brewsko"] = {
+		[1] = 12967,
 	},
-	["Magrami Spectre"] = {
-		[1] = 12911,
+	["Ducalion"] = {
+		[1] = 946,
 	},
 	["Xatyr"] = {
 		[1] = 3530,
 	},
-	["Squattingcat"] = {
-		[1] = 9458,
+	["Shayss"] = {
+		[1] = 6431,
 	},
-	["Ponni"] = {
-		[1] = 2306,
+	["Menaron"] = {
+		[1] = 7143,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 19,
 	},
 	["Dumblledore"] = {
 		[1] = 6636,
@@ -16165,8 +16203,8 @@ DPSMateUser = {
 	["Yysb"] = {
 		[1] = 3085,
 	},
-	["Reainess"] = {
-		[1] = 12693,
+	["Qqdaren"] = {
+		[1] = 12392,
 	},
 	["Rotzbremse"] = {
 		[1] = 5421,
@@ -16174,12 +16212,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Tecueme"] = {
-		[1] = 8948,
-		[2] = "shaman",
+	["Mikka"] = {
+		[1] = 396,
+		[2] = "mage",
 		[3] = -1,
-		[4] = false,
-		[8] = 28,
+		[8] = 60,
 	},
 	["Paperstacks"] = {
 		[1] = 4840,
@@ -16193,31 +16230,29 @@ DPSMateUser = {
 	["Magistrate Burnside"] = {
 		[1] = 10181,
 	},
-	["Akamaga"] = {
-		[1] = 12955,
-	},
-	["Shasilla"] = {
-		[1] = 4780,
-	},
-	["bajie"] = {
-		[1] = 7805,
-	},
-	["Piprai"] = {
-		[1] = 3948,
-		[4] = true,
-		[6] = 2965,
-	},
 	["Kitoko"] = {
 		[1] = 10470,
 	},
-	["Montrey"] = {
-		[1] = 2195,
+	["Dottys"] = {
+		[1] = 12794,
+	},
+	["Willbull"] = {
+		[1] = 11727,
+	},
+	["Supahtroopah"] = {
+		[1] = 10204,
+	},
+	["Aeoshi"] = {
+		[1] = 11415,
+	},
+	["Token"] = {
+		[1] = 6137,
 	},
 	["Arikara"] = {
 		[1] = 9827,
 	},
-	["Rsto"] = {
-		[1] = 10143,
+	["Mc"] = {
+		[1] = 9881,
 	},
 	["Kayneithia"] = {
 		[1] = 8305,
@@ -16228,11 +16263,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 57,
 	},
-	["Ghoul Ravener"] = {
-		[1] = 2144,
+	["Kayneff"] = {
+		[1] = 762,
 	},
-	["Frosttitute"] = {
-		[1] = 9261,
+	["Vandrammon"] = {
+		[1] = 5192,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 26,
 	},
 	["Sanctity"] = {
 		[1] = 76,
@@ -16240,38 +16278,41 @@ DPSMateUser = {
 	["Plague Ghoul"] = {
 		[1] = 2128,
 	},
-	["Xarthor"] = {
-		[1] = 12456,
+	["Cancerboss"] = {
+		[1] = 11416,
 	},
-	["Gleeman"] = {
-		[1] = 7567,
+	["Indoel"] = {
+		[1] = 10406,
 	},
 	["Gaden"] = {
 		[1] = 464,
 	},
-	["Dottys"] = {
-		[1] = 12794,
+	["Huntertusk"] = {
+		[1] = 1243,
 	},
 	["Death Talon Hatcher"] = {
 		[1] = 1082,
 	},
-	["Binglengyuwu"] = {
-		[1] = 9597,
+	["Byzc"] = {
+		[1] = 12159,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 35,
 	},
-	["Kayneff"] = {
-		[1] = 762,
+	["Grimthyk"] = {
+		[1] = 6302,
 	},
 	["Holdmyshots"] = {
 		[1] = 11723,
 	},
-	["Kissas"] = {
-		[1] = 1256,
+	["Laflaym"] = {
+		[1] = 10345,
 	},
 	["Dakaa"] = {
 		[1] = 2824,
 	},
-	["Bagistrike"] = {
-		[1] = 3497,
+	["Valerdia"] = {
+		[1] = 1864,
 	},
 	["Sundist"] = {
 		[1] = 10396,
@@ -16283,14 +16324,18 @@ DPSMateUser = {
 	["Vampys"] = {
 		[1] = 2348,
 	},
-	["Chenbao"] = {
-		[1] = 10069,
+	["Dormrac"] = {
+		[1] = 979,
 	},
-	["Interrobang"] = {
-		[1] = 9664,
+	["Alpowell"] = {
+		[1] = 8532,
 	},
-	["Edwardi"] = {
-		[1] = 13038,
+	["Tecueme"] = {
+		[1] = 8948,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[8] = 28,
 	},
 	["Lotsofmilk"] = {
 		[1] = 10244,
@@ -16301,11 +16346,8 @@ DPSMateUser = {
 	["Wazzarda"] = {
 		[1] = 6426,
 	},
-	["Oolacile"] = {
-		[1] = 11122,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 5,
+	["Deivanz"] = {
+		[1] = 3885,
 	},
 	["Zhotadam"] = {
 		[1] = 4097,
@@ -16333,32 +16375,26 @@ DPSMateUser = {
 	["Slitherblade Tidehunter"] = {
 		[1] = 12887,
 	},
-	["Pink"] = {
-		[1] = 598,
+	["Deviate Stinglash"] = {
+		[1] = 7506,
 	},
 	["bbq"] = {
 		[1] = 2881,
 	},
-	["Gniewosz"] = {
-		[1] = 7947,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 20,
+	["Discop"] = {
+		[1] = 2732,
 	},
 	["Muchpain"] = {
 		[1] = 9894,
 	},
-	["Deivanz"] = {
-		[1] = 3885,
+	["Daddydrool"] = {
+		[1] = 5095,
 	},
 	["Tanglos"] = {
 		[1] = 12865,
 	},
-	["Evenflow"] = {
-		[1] = 2546,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Blackened Ancient"] = {
+		[1] = 10170,
 	},
 	["Angryshat"] = {
 		[1] = 5516,
@@ -16366,14 +16402,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Musimei"] = {
-		[1] = 4432,
+	["Ephu"] = {
+		[1] = 13054,
 	},
-	["Link"] = {
-		[1] = 11618,
+	["Ambulanse"] = {
+		[1] = 9447,
 	},
-	["Jaqeen"] = {
-		[1] = 11131,
+	["Gutianle"] = {
+		[1] = 3029,
 	},
 	["Scarvi"] = {
 		[1] = 10824,
@@ -16381,14 +16417,14 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 33,
 	},
-	["Thundaga"] = {
-		[1] = 2786,
+	["Kebinax"] = {
+		[1] = 10811,
 	},
-	["Kcohs"] = {
-		[1] = 1999,
+	["Saba"] = {
+		[1] = 627,
 	},
-	["Deviate Python"] = {
-		[1] = 7526,
+	["Bobor"] = {
+		[1] = 12209,
 	},
 	["Bjgg"] = {
 		[1] = 8374,
@@ -16399,32 +16435,26 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 22,
 	},
-	["Heyokay"] = {
-		[1] = 4035,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 38,
+	["Ultramanjack"] = {
+		[1] = 5813,
 	},
-	["Grummok"] = {
-		[1] = 8030,
+	["Rosawhisper"] = {
+		[1] = 9984,
 	},
-	["Saba"] = {
-		[1] = 627,
+	["Pulsare"] = {
+		[1] = 5985,
 	},
 	["Marsh Oracle"] = {
 		[1] = 13355,
 	},
-	["Jeanecolo"] = {
-		[1] = 11370,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 39,
+	["Mutanus the Devourer"] = {
+		[1] = 7542,
 	},
 	["Fuhry"] = {
 		[1] = 7137,
 	},
-	["Lava Annihilator"] = {
-		[1] = 951,
+	["Abalop"] = {
+		[1] = 5248,
 	},
 	["Gagagagragae"] = {
 		[1] = 2511,
@@ -16432,29 +16462,26 @@ DPSMateUser = {
 	["Diogenes"] = {
 		[1] = 8843,
 	},
-	["Filett"] = {
-		[1] = 1745,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 60,
+	["Loveaway"] = {
+		[1] = 9977,
 	},
-	["Afrael"] = {
-		[1] = 6842,
+	["Memimetizzo"] = {
+		[1] = 11968,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 25,
 	},
-	["Brussell"] = {
-		[1] = 11692,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 37,
+	["Searing Totem III"] = {
+		[1] = 10516,
 	},
 	["Qina"] = {
 		[1] = 1067,
 	},
-	["Vyrel"] = {
-		[1] = 4449,
+	["Drmeakin"] = {
+		[1] = 9599,
 	},
-	["Kebinax"] = {
-		[1] = 10811,
+	["Gurthuk"] = {
+		[1] = 6396,
 	},
 	["Sneakyswe"] = {
 		[1] = 8877,
@@ -16462,29 +16489,29 @@ DPSMateUser = {
 	["Stoneclaw Totem III"] = {
 		[1] = 8984,
 	},
-	["Dracarys"] = {
-		[1] = 505,
+	["Nyxnyxnyx"] = {
+		[1] = 3935,
 	},
-	["Laflaym"] = {
-		[1] = 10345,
+	["Foello"] = {
+		[1] = 3855,
 	},
-	["Khan Dez'hepah"] = {
-		[1] = 12852,
+	["Kavalera"] = {
+		[1] = 11860,
 	},
 	["Liberta"] = {
 		[1] = 7417,
 	},
-	["Babnik"] = {
-		[1] = 11295,
+	["Mianwo"] = {
+		[1] = 13040,
 	},
 	["Panatomax"] = {
 		[1] = 3358,
 	},
-	["Roruk"] = {
-		[1] = 6790,
+	["Fusa"] = {
+		[1] = 13170,
 	},
-	["Loveaway"] = {
-		[1] = 9977,
+	["Bianco"] = {
+		[1] = 4154,
 	},
 	["Slayter"] = {
 		[1] = 9285,
@@ -16504,11 +16531,14 @@ DPSMateUser = {
 	["Snesh"] = {
 		[1] = 2955,
 	},
-	["Deathyee"] = {
-		[1] = 1315,
+	["Ninjastepsky"] = {
+		[1] = 10841,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 33,
 	},
-	["Darkdamage"] = {
-		[1] = 3940,
+	["Feral Crag Coyote"] = {
+		[1] = 12407,
 	},
 	["Shamademons"] = {
 		[1] = 625,
@@ -16528,59 +16558,64 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 36,
 	},
-	["Rensi"] = {
-		[1] = 2452,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Pbt"] = {
+		[1] = 10985,
 	},
-	["Alanbacon"] = {
-		[1] = 12958,
+	["Roguedix"] = {
+		[1] = 2208,
 	},
 	["Dokro"] = {
 		[1] = 7663,
 	},
-	["duanya"] = {
-		[1] = 10905,
+	["Todus"] = {
+		[1] = 3489,
 	},
-	["Feral Crag Coyote"] = {
-		[1] = 12407,
+	["Tauntd"] = {
+		[1] = 622,
 	},
-	["Memimetizzo"] = {
-		[1] = 11968,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 25,
+	["Tyler"] = {
+		[1] = 5379,
 	},
-	["Highperch Wyvern"] = {
-		[1] = 9320,
+	["Tpeck"] = {
+		[1] = 1896,
+		[2] = "hunter",
+		[3] = 1,
+		[4] = false,
+		[5] = "Ï",
+		[8] = 60,
 	},
-	["Trikstah"] = {
-		[1] = 5385,
+	["Kroker"] = {
+		[1] = 12579,
 	},
-	["Filteria"] = {
-		[1] = 3359,
+	["Grillwarlock"] = {
+		[1] = 6300,
 	},
-	["Kuanglong"] = {
-		[1] = 10815,
+	["Endishere"] = {
+		[1] = 11787,
 	},
 	["Lykahenko"] = {
 		[1] = 904,
 	},
-	["Darkberud"] = {
-		[1] = 4180,
+	["Yorven"] = {
+		[1] = 934,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Charlga Razorflank"] = {
 		[1] = 9386,
 	},
-	["Varga"] = {
-		[1] = 1600,
+	["Motuelious"] = {
+		[1] = 3792,
 	},
 	["Laydiiboner"] = {
 		[1] = 4713,
 	},
-	["Tagas"] = {
-		[1] = 4212,
+	["Epix"] = {
+		[1] = 4627,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 4,
 	},
 	["Trengu"] = {
 		[1] = 6016,
@@ -16588,17 +16623,20 @@ DPSMateUser = {
 	["Makpoh"] = {
 		[1] = 7980,
 	},
-	["Pesterhide Hyena"] = {
-		[1] = 9287,
+	["Liyanjia"] = {
+		[1] = 7781,
 	},
-	["Litemoron"] = {
-		[1] = 13248,
+	["Wolfblud"] = {
+		[1] = 9847,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 35,
 	},
 	["Venture Co. Logger"] = {
 		[1] = 8104,
 	},
-	["Bganar"] = {
-		[1] = 10476,
+	["Menelo"] = {
+		[1] = 3789,
 	},
 	["Randezvous"] = {
 		[1] = 10489,
@@ -16606,8 +16644,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 35,
 	},
-	["Whaeva"] = {
-		[1] = 2390,
+	["HamBone"] = {
+		[1] = 12155,
 	},
 	["Astypalaea"] = {
 		[1] = 2568,
@@ -16615,28 +16653,22 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["nikka"] = {
-		[1] = 27,
+	["Rama"] = {
+		[1] = 5322,
 	},
 	["Cina"] = {
 		[1] = 5258,
 	},
-	["Ninjastepsky"] = {
-		[1] = 10841,
+	["Leprich"] = {
+		[1] = 12635,
+	},
+	["Holomir"] = {
+		[1] = 11475,
 		[2] = "mage",
 		[3] = 1,
-		[8] = 33,
 	},
-	["Menelo"] = {
-		[1] = 3789,
-	},
-	["Drvoldemort"] = {
-		[1] = 9381,
-		[2] = "priest",
-		[3] = -1,
-		[4] = false,
-		[7] = "Drunkards and Flagons",
-		[8] = 29,
+	["Iso"] = {
+		[1] = 1629,
 	},
 	["Orido"] = {
 		[1] = 8208,
@@ -16647,41 +16679,35 @@ DPSMateUser = {
 	["Domo"] = {
 		[1] = 7873,
 	},
-	["Heiligfelsle"] = {
-		[1] = 12304,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 14,
+	["Krilla"] = {
+		[1] = 10887,
 	},
 	["Kronck"] = {
 		[1] = 6999,
 	},
-	["Phibb"] = {
-		[1] = 5537,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 20,
+	["Vekniss Borer"] = {
+		[1] = 2581,
 	},
-	["Bobbybone"] = {
-		[1] = 13202,
+	["Howcan"] = {
+		[1] = 6972,
 	},
-	["Tustalis"] = {
-		[1] = 2221,
+	["Tusiak"] = {
+		[1] = 7660,
 	},
-	["Gogger Stonepounder"] = {
-		[1] = 8275,
+	["Obsidian Eradicator"] = {
+		[1] = 2577,
 	},
-	["Yahonti"] = {
-		[1] = 478,
+	["Helnuz"] = {
+		[1] = 9030,
 	},
-	["Leall"] = {
-		[1] = 9905,
+	["Oldirtyhippy"] = {
+		[1] = 9909,
 	},
 	["Willich"] = {
 		[1] = 3467,
 	},
-	["Helnuz"] = {
-		[1] = 9030,
+	["Willian"] = {
+		[1] = 3674,
 	},
 	["Torusher"] = {
 		[1] = 5971,
@@ -16689,11 +16715,8 @@ DPSMateUser = {
 	["Efterfesten"] = {
 		[1] = 8816,
 	},
-	["Byzc"] = {
-		[1] = 12159,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 35,
+	["Khan Dez'hepah"] = {
+		[1] = 12852,
 	},
 	["Makavelli"] = {
 		[1] = 6250,
@@ -16701,20 +16724,23 @@ DPSMateUser = {
 	["Gloriusjihad"] = {
 		[1] = 11356,
 	},
-	["Aeroc"] = {
-		[1] = 7515,
+	["Raath"] = {
+		[1] = 9335,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 34,
 	},
-	["Howcan"] = {
-		[1] = 6972,
+	["Dcode"] = {
+		[1] = 4343,
 	},
-	["Schmalensee"] = {
-		[1] = 13033,
+	["Yungjezus"] = {
+		[1] = 246,
 	},
-	["Exanimo"] = {
-		[1] = 4259,
+	["Vrouwke"] = {
+		[1] = 8676,
 	},
-	["Filur"] = {
-		[1] = 2203,
+	["Mothafucka"] = {
+		[1] = 8988,
 	},
 	["Lilioo"] = {
 		[1] = 7839,
@@ -16722,11 +16748,11 @@ DPSMateUser = {
 	["Dirtytoast"] = {
 		[1] = 6633,
 	},
-	["Soupy"] = {
-		[1] = 1351,
+	["Dawedaf"] = {
+		[1] = 12,
 	},
-	["Nyeons"] = {
-		[1] = 11846,
+	["Csontix"] = {
+		[1] = 3231,
 	},
 	["Pahrvati"] = {
 		[1] = 8556,
@@ -16734,87 +16760,86 @@ DPSMateUser = {
 	["Janguin"] = {
 		[1] = 4182,
 	},
-	["Marma"] = {
-		[1] = 11445,
-	},
-	["Menothus"] = {
-		[1] = 11211,
-	},
-	["Vrouwke"] = {
-		[1] = 8676,
-	},
-	["Amelli"] = {
-		[1] = 3526,
-		[2] = "priest",
-		[3] = -1,
-		[4] = false,
-		[8] = 5,
-	},
-	["bucket"] = {
-		[1] = 10485,
-	},
 	["Ayaah"] = {
 		[1] = 11038,
 		[2] = "priest",
 		[3] = 1,
 		[8] = 36,
 	},
+	["Titanikus"] = {
+		[1] = 12110,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 40,
+	},
+	["Sickkness"] = {
+		[1] = 7997,
+	},
+	["Oxsana"] = {
+		[1] = 10401,
+	},
+	["bucket"] = {
+		[1] = 10485,
+	},
+	["Troopi"] = {
+		[1] = 1539,
+	},
 	["Nachozzing"] = {
 		[1] = 9967,
 	},
-	["Willian"] = {
-		[1] = 3674,
+	["Witherbark Speaker"] = {
+		[1] = 341,
 	},
 	["Archy"] = {
 		[1] = 1765,
 	},
-	["Nogavanus"] = {
-		[1] = 13233,
+	["Speectum"] = {
+		[1] = 3491,
 	},
 	["Twoedge"] = {
 		[1] = 9268,
 	},
-	["Viandeur"] = {
-		[1] = 9029,
+	["Rekra"] = {
+		[1] = 13264,
 	},
-	["Vedus"] = {
-		[1] = 9978,
+	["Bloodraver"] = {
+		[1] = 12772,
 	},
-	["Turbostreak"] = {
-		[1] = 296,
+	["LaPUISSANCE"] = {
+		[1] = 8069,
 	},
-	["Slayzer"] = {
-		[1] = 11220,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 38,
+	["Shamanica"] = {
+		[1] = 5641,
 	},
 	["Yaksa"] = {
 		[1] = 3829,
 	},
-	["Verymuchyes"] = {
-		[1] = 2988,
+	["Bloodfury Roguefeather"] = {
+		[1] = 8194,
 	},
-	["Hogger"] = {
-		[1] = 10680,
+	["Imadorable"] = {
+		[1] = 5034,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 5,
 	},
 	["Telperiel"] = {
 		[1] = 3968,
 	},
-	["Earthbind Totem"] = {
-		[1] = 1421,
+	["Oldsheepz"] = {
+		[1] = 3748,
 	},
 	["Pridewing Wyvern"] = {
 		[1] = 8174,
 	},
-	["Freener"] = {
-		[1] = 11881,
+	["Instabilis"] = {
+		[1] = 7852,
 	},
-	["Scarlet Augur"] = {
-		[1] = 10587,
+	["Tripaloski"] = {
+		[1] = 8077,
 	},
-	["Sartura"] = {
-		[1] = 2587,
+	["Blademavis"] = {
+		[1] = 6400,
 	},
 	["Warrog"] = {
 		[1] = 2803,
@@ -16837,8 +16862,8 @@ DPSMateUser = {
 	["Stratholme Courier"] = {
 		[1] = 2133,
 	},
-	["Speectum"] = {
-		[1] = 3491,
+	["Onlyhehexd"] = {
+		[1] = 9337,
 	},
 	["Molyria"] = {
 		[1] = 8402,
@@ -16846,19 +16871,17 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 27,
 	},
-	["Gasjews"] = {
-		[1] = 5301,
+	["Vmjv"] = {
+		[1] = 3477,
 	},
 	["Hktbenson"] = {
 		[1] = 8094,
 	},
-	["Wawiestkate"] = {
-		[1] = 12850,
-		[2] = "hunter",
-		[3] = 1,
+	["Frostedkeks"] = {
+		[1] = 8709,
 	},
-	["Pulsare"] = {
-		[1] = 5985,
+	["Slitherblade Razortail"] = {
+		[1] = 12888,
 	},
 	["Pipmir"] = {
 		[1] = 750,
@@ -16866,31 +16889,35 @@ DPSMateUser = {
 	["Nokrin"] = {
 		[1] = 5077,
 	},
-	["Stonevault Basher"] = {
-		[1] = 13242,
+	["Liily"] = {
+		[1] = 11039,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 32,
 	},
-	["Baseltwo"] = {
-		[1] = 408,
+	["Peanuthouse"] = {
+		[1] = 12735,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Fagboi"] = {
-		[1] = 2049,
+	["Maronis"] = {
+		[1] = 8968,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 29,
 	},
 	["Frozek"] = {
 		[1] = 11556,
 	},
-	["Punksnotdead"] = {
-		[1] = 6956,
-		[2] = "priest",
-		[3] = 1,
+	["Feignlife"] = {
+		[1] = 5591,
 	},
-	["Tristanu"] = {
-		[1] = 6166,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 15,
+	["Zoomer"] = {
+		[1] = 6887,
 	},
-	["Thulkrast"] = {
-		[1] = 10623,
+	["Capricious"] = {
+		[1] = 700,
 	},
 	["Parmenides"] = {
 		[1] = 5879,
@@ -16901,38 +16928,41 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 17,
 	},
-	["Hrona"] = {
-		[1] = 4787,
+	["Pump"] = {
+		[1] = 5578,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Hdkn"] = {
 		[1] = 9586,
 	},
-	["Morphzz"] = {
-		[1] = 8951,
+	["Kolkar Battle Lord"] = {
+		[1] = 12847,
 	},
-	["Peanuthouse"] = {
-		[1] = 12735,
-		[2] = "hunter",
+	["Evenflow"] = {
+		[1] = 2546,
+		[2] = "warrior",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Piritoimii"] = {
-		[1] = 10895,
+	["Necromantic"] = {
+		[1] = 9492,
 	},
 	["Bloodscalp Mystic"] = {
 		[1] = 384,
 	},
-	["Swagdin"] = {
-		[1] = 754,
+	["Burning Blade Felsworn"] = {
+		[1] = 12826,
 	},
-	["Zykablyat"] = {
-		[1] = 13062,
+	["Xiaoange"] = {
+		[1] = 10917,
 	},
 	["Gonder"] = {
 		[1] = 2361,
 	},
-	["Amarant"] = {
-		[1] = 10388,
+	["Rogros"] = {
+		[1] = 9745,
 	},
 	["Stewbeecee"] = {
 		[1] = 13308,
@@ -16943,14 +16973,14 @@ DPSMateUser = {
 	["Wangyuchen"] = {
 		[1] = 13020,
 	},
-	["Thundering Boulderkin"] = {
-		[1] = 9728,
+	["Vekniss Hive Crawler"] = {
+		[1] = 2591,
 	},
-	["Stankpus"] = {
-		[1] = 9467,
+	["Zykablyat"] = {
+		[1] = 13062,
 	},
-	["Pakana"] = {
-		[1] = 12932,
+	["Impregnator"] = {
+		[1] = 5751,
 	},
 	["Sweetdancer"] = {
 		[1] = 7614,
@@ -16958,11 +16988,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Echostage"] = {
-		[1] = 849,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Booty Bay Bruiser"] = {
+		[1] = 10945,
 	},
 	["Velk"] = {
 		[1] = 9604,
@@ -16975,26 +17002,23 @@ DPSMateUser = {
 	["Kungsmarken"] = {
 		[1] = 7020,
 	},
-	["Pehpow"] = {
-		[1] = 10644,
+	["Lazfip"] = {
+		[1] = 3590,
 	},
 	["Imessi"] = {
 		[1] = 10721,
 	},
-	["Jonnsnow"] = {
-		[1] = 7865,
+	["Griefmeister"] = {
+		[1] = 4467,
 	},
 	["Federoska"] = {
 		[1] = 11081,
 	},
-	["Prisma"] = {
-		[1] = 2114,
+	["Notituh"] = {
+		[1] = 4687,
 	},
-	["Pump"] = {
-		[1] = 5578,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 13,
+	["Nissa Agamand"] = {
+		[1] = 5183,
 	},
 	["Levuk"] = {
 		[1] = 644,
@@ -17002,8 +17026,8 @@ DPSMateUser = {
 	["Vaelastrasz the Corrupt"] = {
 		[1] = 1077,
 	},
-	["Voodooist"] = {
-		[1] = 12382,
+	["Severed Keeper"] = {
+		[1] = 9797,
 	},
 	["Hawkwood"] = {
 		[1] = 12886,
@@ -17014,14 +17038,17 @@ DPSMateUser = {
 	["Hukthanita"] = {
 		[1] = 6151,
 	},
-	["Xiaoange"] = {
-		[1] = 10917,
+	["Kozeh"] = {
+		[1] = 7883,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Ryujin"] = {
 		[1] = 6638,
 	},
-	["Taintedmilks"] = {
-		[1] = 10989,
+	["Twilight Reaver"] = {
+		[1] = 9005,
 	},
 	["Cuttooth"] = {
 		[1] = 12851,
@@ -17029,29 +17056,29 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 37,
 	},
-	["Jiliuss"] = {
-		[1] = 4235,
+	["Mymitrol"] = {
+		[1] = 4318,
 	},
-	["Whissara"] = {
-		[1] = 2849,
+	["Eriazx"] = {
+		[1] = 6619,
 	},
 	["Thuzadin Shadowcaster"] = {
 		[1] = 2147,
 	},
-	["Jasmoon"] = {
-		[1] = 4719,
+	["Flamewaker"] = {
+		[1] = 962,
 	},
 	["Rihannsu"] = {
 		[1] = 7491,
 	},
-	["Manica"] = {
-		[1] = 514,
+	["Jakgup"] = {
+		[1] = 4977,
 	},
-	["Nyonblack"] = {
-		[1] = 3522,
+	["Nyahow"] = {
+		[1] = 10241,
 	},
-	["Tootiming"] = {
-		[1] = 3734,
+	["Phobus"] = {
+		[1] = 2427,
 	},
 	["Freezeup"] = {
 		[1] = 12860,
@@ -17064,20 +17091,14 @@ DPSMateUser = {
 		[2] = "priest",
 		[3] = 1,
 	},
-	["Shadowygenu"] = {
-		[1] = 7178,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 18,
+	["Rigzone"] = {
+		[1] = 662,
 	},
-	["Styggo"] = {
-		[1] = 11426,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 32,
+	["Xanlyai"] = {
+		[1] = 6133,
 	},
-	["Siecy"] = {
-		[1] = 10079,
+	["Easyhood"] = {
+		[1] = 11887,
 	},
 	["Alisster"] = {
 		[1] = 7048,
@@ -17085,32 +17106,35 @@ DPSMateUser = {
 	["Znail"] = {
 		[1] = 2153,
 	},
-	["Padryyn"] = {
-		[1] = 2277,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 60,
+	["Eskmo"] = {
+		[1] = 6675,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 20,
 	},
-	["Crazyle"] = {
-		[1] = 4409,
+	["Deceives"] = {
+		[1] = 10886,
 	},
-	["Stinkbeer"] = {
-		[1] = 12868,
+	["Hazyshadow"] = {
+		[1] = 9925,
 	},
 	["Optigal"] = {
 		[1] = 1337,
 	},
-	["Majestyc"] = {
-		[1] = 4689,
+	["Nefridyum"] = {
+		[1] = 1508,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 23,
 	},
 	["Mytora"] = {
 		[1] = 11079,
 	},
-	["Valkyrieinin"] = {
-		[1] = 13186,
+	["Grayan"] = {
+		[1] = 11321,
 	},
-	["Dotturd"] = {
-		[1] = 6750,
+	["Kalothos"] = {
+		[1] = 4166,
 	},
 	["Oolath"] = {
 		[1] = 5722,
@@ -17136,55 +17160,54 @@ DPSMateUser = {
 	["Enwah"] = {
 		[1] = 3963,
 	},
-	["Balgur"] = {
-		[1] = 10827,
+	["Merkez"] = {
+		[1] = 1526,
 	},
-	["Kentakongo"] = {
-		[1] = 12652,
+	["Deceptoin"] = {
+		[1] = 8561,
 	},
-	["Bigbabysweet"] = {
-		[1] = 2611,
+	["Dexrog"] = {
+		[1] = 3432,
 	},
 	["Holyshlt"] = {
 		[1] = 10702,
-	},
-	["Ambulanse"] = {
-		[1] = 9447,
-	},
-	["Moonsand"] = {
-		[1] = 9485,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 42,
-	},
-	["Lovebacon"] = {
-		[1] = 3370,
-	},
-	["Fastway"] = {
-		[1] = 2106,
-	},
-	["Choz"] = {
-		[1] = 9193,
 	},
 	["Rigsregsrugs"] = {
 		[1] = 11672,
 		[2] = "hunter",
 		[3] = 1,
 	},
+	["Wuki"] = {
+		[1] = 12455,
+	},
+	["Nielsbohr"] = {
+		[1] = 6025,
+	},
+	["Tyranotauren"] = {
+		[1] = 7087,
+	},
+	["Choz"] = {
+		[1] = 9193,
+	},
+	["Goggeroc"] = {
+		[1] = 8274,
+	},
 	["Gelkis Rumbler"] = {
 		[1] = 12820,
 	},
-	["Rezidentevil"] = {
-		[1] = 7478,
+	["\\d"] = {
+		[1] = 1942,
+		[4] = true,
+		[6] = 1221,
 	},
 	["Rynerlute"] = {
 		[1] = 4355,
 	},
-	["Silvermane Stalker"] = {
-		[1] = 1611,
+	["·∫ûcancer"] = {
+		[1] = 1867,
 	},
-	["Xetoz"] = {
-		[1] = 752,
+	["Beatty"] = {
+		[1] = 12336,
 	},
 	["Rotting Slime"] = {
 		[1] = 8384,
@@ -17192,11 +17215,14 @@ DPSMateUser = {
 	["Hugmanitees"] = {
 		[1] = 9757,
 	},
-	["Djkj"] = {
-		[1] = 11761,
+	["Oolacile"] = {
+		[1] = 11122,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 5,
 	},
-	["Fu"] = {
-		[1] = 5748,
+	["Patchwork Golem"] = {
+		[1] = 2739,
 	},
 	["Krapiva"] = {
 		[1] = 6505,
@@ -17216,11 +17242,11 @@ DPSMateUser = {
 	["Lord Cobrahn"] = {
 		[1] = 7527,
 	},
-	["Gozarian"] = {
-		[1] = 12791,
+	["Ayakashi"] = {
+		[1] = 1893,
 	},
-	["Livsik"] = {
-		[1] = 13169,
+	["Zanafir"] = {
+		[1] = 6419,
 	},
 	["Serihilde"] = {
 		[1] = 3305,
@@ -17245,24 +17271,20 @@ DPSMateUser = {
 	["Christis"] = {
 		[1] = 9082,
 	},
-	["Enteryx"] = {
-		[1] = 1940,
-		[2] = "warrior",
-		[3] = 1,
-		[4] = false,
-		[8] = 60,
-	},
-	["Yiggi"] = {
-		[1] = 10384,
-	},
-	["Pottehunt"] = {
-		[1] = 7620,
-	},
-	["Hoodlych"] = {
-		[1] = 7952,
-		[2] = "rogue",
+	["Wildreju"] = {
+		[1] = 11835,
+		[2] = "druid",
 		[3] = -1,
-		[8] = 25,
+		[8] = 32,
+	},
+	["Cowhombre"] = {
+		[1] = 7003,
+	},
+	["Razzik"] = {
+		[1] = 12623,
+	},
+	["Aamun"] = {
+		[1] = 7594,
 	},
 	["Pewpewucry"] = {
 		[1] = 1027,
@@ -17273,23 +17295,26 @@ DPSMateUser = {
 	["Belrath"] = {
 		[1] = 9877,
 	},
-	["Aamun"] = {
-		[1] = 7594,
+	["Cherryplum"] = {
+		[1] = 11262,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 32,
 	},
-	["Alfix"] = {
-		[1] = 3769,
+	["Grauri"] = {
+		[1] = 683,
 	},
-	["Xazara"] = {
-		[1] = 6071,
+	["Cervantes"] = {
+		[1] = 2497,
 	},
-	["Simowarr"] = {
-		[1] = 406,
+	["Chongxin"] = {
+		[1] = 2957,
 	},
 	["Bumazhka"] = {
 		[1] = 11492,
 	},
-	["Loudox"] = {
-		[1] = 513,
+	["Capotasto"] = {
+		[1] = 12792,
 	},
 	["Toracko"] = {
 		[1] = 1555,
@@ -17297,8 +17322,8 @@ DPSMateUser = {
 	["Frostyze"] = {
 		[1] = 7830,
 	},
-	["Qdscx"] = {
-		[1] = 8388,
+	["Tykan"] = {
+		[1] = 10968,
 	},
 	["Shaddy"] = {
 		[1] = 6408,
@@ -17312,32 +17337,32 @@ DPSMateUser = {
 	["Graz'moth"] = {
 		[1] = 6548,
 	},
-	["Shadowfang Whitescalp"] = {
-		[1] = 8573,
+	["Yourtime"] = {
+		[1] = 6011,
+	},
+	["Kilingly"] = {
+		[1] = 7592,
 	},
 	["Frodius"] = {
 		[1] = 12284,
 	},
+	["Windom"] = {
+		[1] = 5882,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Ugluku"] = {
+		[1] = 1756,
+	},
+	["Hypnocia"] = {
+		[1] = 6337,
+	},
 	["Piztal"] = {
 		[1] = 4863,
 	},
-	["Renku"] = {
-		[1] = 9206,
-	},
-	["Razzik"] = {
-		[1] = 12623,
-	},
-	["Yourtime"] = {
-		[1] = 6011,
-	},
-	["Flixxlol"] = {
-		[1] = 3117,
-	},
-	["Robochobo"] = {
-		[1] = 6030,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Getezlo"] = {
+		[1] = 10712,
 	},
 	["Csoul"] = {
 		[1] = 6714,
@@ -17349,38 +17374,32 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 60,
 	},
-	["Neriphos"] = {
-		[1] = 11987,
+	["Undead Postman"] = {
+		[1] = 2132,
 	},
-	["Jebivjetar"] = {
-		[1] = 10037,
+	["Renku"] = {
+		[1] = 9206,
 	},
 	["Anyzee"] = {
 		[1] = 5373,
 	},
-	["Rosjin"] = {
-		[1] = 11685,
+	["Razorfen Defender"] = {
+		[1] = 9356,
 	},
-	["Kronprins"] = {
-		[1] = 8234,
+	["Tahra"] = {
+		[1] = 12758,
 	},
-	["Venth"] = {
-		[1] = 8570,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 14,
+	["Ghostpaw Runner"] = {
+		[1] = 8366,
 	},
-	["Kepaza"] = {
-		[1] = 5375,
+	["Heymexa"] = {
+		[1] = 660,
 	},
 	["Razormane Pathfinder"] = {
 		[1] = 8308,
 	},
-	["Icefirese"] = {
-		[1] = 11918,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 36,
+	["Krampos"] = {
+		[1] = 9742,
 	},
 	["Dorokhar"] = {
 		[1] = 7037,
@@ -17400,14 +17419,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 8,
 	},
-	["Yurhor"] = {
-		[1] = 3825,
+	["Shredmachine"] = {
+		[1] = 2475,
 	},
 	["Zujkl"] = {
 		[1] = 2421,
 	},
-	["Hypnocia"] = {
-		[1] = 6337,
+	["Keepw"] = {
+		[1] = 371,
 	},
 	["Calim"] = {
 		[1] = 2905,
@@ -17415,17 +17434,14 @@ DPSMateUser = {
 	["Foresttiger"] = {
 		[1] = 7571,
 	},
-	["Sajan"] = {
-		[1] = 3588,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 2,
+	["Nska"] = {
+		[1] = 4802,
 	},
-	["Morukai"] = {
-		[1] = 10748,
+	["Gringer"] = {
+		[1] = 11133,
 	},
-	["Xeviscerape"] = {
-		[1] = 4293,
+	["Belroc"] = {
+		[1] = 9158,
 	},
 	["Abeliks"] = {
 		[1] = 4810,
@@ -17433,8 +17449,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 7,
 	},
-	["Tahra"] = {
-		[1] = 12758,
+	["Ponni"] = {
+		[1] = 2306,
 	},
 	["Mivmiiv"] = {
 		[1] = 7330,
@@ -17442,23 +17458,23 @@ DPSMateUser = {
 	["Kalim"] = {
 		[1] = 7019,
 	},
-	["Ghostpaw Runner"] = {
-		[1] = 8366,
+	["Diacist"] = {
+		[1] = 12775,
 	},
-	["Furtv"] = {
-		[1] = 9217,
+	["Sharebear"] = {
+		[1] = 12493,
 	},
 	["Prolixus"] = {
 		[1] = 8862,
 	},
-	["Evrron"] = {
-		[1] = 7740,
+	["Razormane Warfrenzy"] = {
+		[1] = 9223,
 	},
 	["Pioute"] = {
 		[1] = 5408,
 	},
-	["Sharebear"] = {
-		[1] = 12493,
+	["Rosjin"] = {
+		[1] = 11685,
 	},
 	["Linktothepas"] = {
 		[1] = 9723,
@@ -17477,17 +17493,17 @@ DPSMateUser = {
 	["Hashcake"] = {
 		[1] = 723,
 	},
-	["Drannykus"] = {
-		[1] = 3962,
+	["Peone"] = {
+		[1] = 4985,
 	},
-	["Rekindled"] = {
-		[1] = 8930,
+	["Youmou"] = {
+		[1] = 10211,
 	},
 	["Shoko"] = {
 		[1] = 10943,
 	},
-	["Aldaur"] = {
-		[1] = 3129,
+	["Azryzel"] = {
+		[1] = 7200,
 	},
 	["Nezzani"] = {
 		[1] = 9811,
@@ -17513,14 +17529,17 @@ DPSMateUser = {
 	["Spettekaka"] = {
 		[1] = 11852,
 	},
-	["Visionz"] = {
-		[1] = 2669,
+	["Prestjeveln"] = {
+		[1] = 4328,
 	},
-	["Ifindyou"] = {
-		[1] = 3059,
+	["Clouzi"] = {
+		[1] = 7563,
 	},
-	["Calsium"] = {
-		[1] = 4005,
+	["Dhashara"] = {
+		[1] = 1655,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Saty"] = {
 		[1] = 8899,
@@ -17534,16 +17553,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 14,
 	},
-	["Aulos"] = {
-		[1] = 1055,
+	["Jinxshot"] = {
+		[1] = 5462,
 		[2] = "hunter",
-		[3] = 1,
-		[4] = false,
-		[5] = "AGd",
-		[8] = 60,
+		[3] = -1,
+		[8] = 33,
 	},
-	["Skeletal Berserker"] = {
-		[1] = 2123,
+	["Gabasakal"] = {
+		[1] = 10228,
 	},
 	["Wazyp"] = {
 		[1] = 7977,
@@ -17560,17 +17577,17 @@ DPSMateUser = {
 	["Pow"] = {
 		[1] = 5611,
 	},
-	["Peone"] = {
-		[1] = 4985,
+	["Kuhlege"] = {
+		[1] = 6001,
 	},
-	["Thuzin"] = {
-		[1] = 3735,
-	},
-	["Fromtz"] = {
-		[1] = 12425,
-		[2] = "mage",
+	["Sajan"] = {
+		[1] = 3588,
+		[2] = "priest",
 		[3] = -1,
-		[8] = 45,
+		[8] = 2,
+	},
+	["Jubrai"] = {
+		[1] = 6185,
 	},
 	["Crypt Beast"] = {
 		[1] = 2140,
@@ -17581,34 +17598,37 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 24,
 	},
-	["Felimist"] = {
-		[1] = 5092,
+	["Furtv"] = {
+		[1] = 9217,
 	},
 	["Jhazdoc"] = {
 		[1] = 6158,
 		[4] = true,
 		[6] = 6142,
 	},
-	["Kuhlege"] = {
-		[1] = 6001,
+	["Cone"] = {
+		[1] = 5594,
 	},
-	["Grezea"] = {
-		[1] = 435,
+	["Aceaceace"] = {
+		[1] = 11831,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 31,
 	},
-	["Vekniss Hatchling"] = {
-		[1] = 2593,
+	["Kalam"] = {
+		[1] = 12153,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 37,
 	},
-	["Baltharen"] = {
-		[1] = 3345,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 7,
+	["Mahowk"] = {
+		[1] = 11113,
 	},
 	["Shadowfang Wolfguard"] = {
 		[1] = 8637,
 	},
-	["Buff"] = {
-		[1] = 8393,
+	["Kikedaddyto"] = {
+		[1] = 6936,
 	},
 	["Naahl"] = {
 		[1] = 3865,
@@ -17619,14 +17639,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 33,
 	},
-	["Thunder Lizard"] = {
-		[1] = 8773,
+	["Wandwandwand"] = {
+		[1] = 10530,
 	},
 	["Bizrot"] = {
 		[1] = 5233,
 	},
-	["Shamefully"] = {
-		[1] = 12691,
+	["Maksdamage"] = {
+		[1] = 5426,
 	},
 	["Ezmo"] = {
 		[1] = 8343,
@@ -17634,26 +17654,23 @@ DPSMateUser = {
 	["Hankules"] = {
 		[1] = 12646,
 	},
-	["Arkanos"] = {
-		[1] = 3677,
+	["Taikuriz"] = {
+		[1] = 9304,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 28,
 	},
-	["Kalam"] = {
-		[1] = 12153,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 37,
+	["Wrathtail Razortail"] = {
+		[1] = 8938,
 	},
 	["Stone Rumbler"] = {
 		[1] = 9354,
 	},
-	["Muchobueno"] = {
-		[1] = 5714,
+	["Shahtata"] = {
+		[1] = 2365,
 	},
-	["Holow"] = {
-		[1] = 5422,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 60,
+	["Darkdamage"] = {
+		[1] = 3940,
 	},
 	["Bulsar"] = {
 		[1] = 2784,
@@ -17664,8 +17681,11 @@ DPSMateUser = {
 	["Syndicate Pathstalker"] = {
 		[1] = 10510,
 	},
-	["Fershcriben"] = {
-		[1] = 4121,
+	["Choko"] = {
+		[1] = 6893,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 15,
 	},
 	["Laserda"] = {
 		[1] = 9998,
@@ -17673,38 +17693,35 @@ DPSMateUser = {
 	["Messermackie"] = {
 		[1] = 8204,
 	},
-	["Congobank"] = {
-		[1] = 11594,
+	["linux"] = {
+		[1] = 8348,
 	},
-	["Tantepopsy"] = {
-		[1] = 3402,
+	["Khoee"] = {
+		[1] = 725,
 	},
-	["Jeremix"] = {
-		[1] = 9,
+	["Ioo"] = {
+		[1] = 1285,
 	},
 	["Tanikorr"] = {
 		[1] = 2196,
 	},
-	["Jahba"] = {
-		[1] = 6577,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 39,
+	["Sergeibarov"] = {
+		[1] = 11712,
 	},
 	["Zombieadde"] = {
 		[1] = 10416,
 	},
-	["Truffles"] = {
-		[1] = 9233,
+	["Felimist"] = {
+		[1] = 5092,
 	},
-	["Atiwarrior"] = {
-		[1] = 56,
+	["Grezea"] = {
+		[1] = 435,
 	},
 	["Foleyaxel"] = {
 		[1] = 1979,
 	},
-	["Rockwing Gargoyle"] = {
-		[1] = 2141,
+	["Delivers"] = {
+		[1] = 5459,
 	},
 	["Walkert"] = {
 		[1] = 843,
@@ -17712,8 +17729,8 @@ DPSMateUser = {
 	["Iphi"] = {
 		[1] = 6292,
 	},
-	["Insanejane"] = {
-		[1] = 888,
+	["Vekniss Hatchling"] = {
+		[1] = 2593,
 	},
 	["Longdliliang"] = {
 		[1] = 6043,
@@ -17721,32 +17738,32 @@ DPSMateUser = {
 	["Kidneyd"] = {
 		[1] = 1324,
 	},
-	["Ezance"] = {
-		[1] = 2558,
+	["Evinak"] = {
+		[1] = 4890,
 	},
 	["Mitaly"] = {
 		[1] = 12388,
 	},
-	["Sendrake"] = {
-		[1] = 5737,
-		[2] = "mage",
+	["Zebrofski"] = {
+		[1] = 3585,
+	},
+	["Shabbyceecee"] = {
+		[1] = 10362,
+		[2] = "priest",
 		[3] = -1,
-		[8] = 10,
+		[8] = 36,
 	},
-	["Majestick"] = {
-		[1] = 58,
-	},
-	["Aenrir"] = {
-		[1] = 9457,
+	["Kryzan"] = {
+		[1] = 6096,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Ultimate"] = {
 		[1] = 600,
 	},
-	["Wrongwang"] = {
-		[1] = 7675,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 18,
+	["Dommeil"] = {
+		[1] = 13132,
 	},
 	["Cvxcvcx"] = {
 		[1] = 1144,
@@ -17754,14 +17771,14 @@ DPSMateUser = {
 	["Bigtoast"] = {
 		[1] = 6105,
 	},
-	["Whiiny"] = {
-		[1] = 10175,
+	["Drannykus"] = {
+		[1] = 3962,
 	},
 	["Bullgrim"] = {
 		[1] = 1560,
 	},
-	["Pookierawr"] = {
-		[1] = 3773,
+	["Agolosis"] = {
+		[1] = 7023,
 	},
 	["Palych"] = {
 		[1] = 1732,
@@ -17770,8 +17787,12 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 60,
 	},
-	["Bichez"] = {
-		[1] = 1968,
+	["Zhizha"] = {
+		[1] = 1478,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[8] = 60,
 	},
 	["Delpan"] = {
 		[1] = 5367,
@@ -17779,26 +17800,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Chakotay"] = {
-		[1] = 12906,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 37,
+	["Malixica"] = {
+		[1] = 9886,
 	},
-	["Chrs"] = {
-		[1] = 10291,
+	["Alistale"] = {
+		[1] = 6388,
 	},
-	["Gholoz"] = {
-		[1] = 4711,
+	["Echostage"] = {
+		[1] = 849,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Highkick"] = {
-		[1] = 8120,
+	["Tikke"] = {
+		[1] = 10077,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 15,
 	},
 	["Tamed Battleboar"] = {
 		[1] = 9351,
 	},
-	["Azrugh"] = {
-		[1] = 8502,
+	["BOUBOULINA"] = {
+		[1] = 5623,
 	},
 	["Platta"] = {
 		[1] = 5869,
@@ -17806,11 +17830,11 @@ DPSMateUser = {
 	["Syrup"] = {
 		[1] = 5341,
 	},
-	["Haydut"] = {
-		[1] = 8128,
+	["Fire Nova Totem V"] = {
+		[1] = 346,
 	},
-	["Chula"] = {
-		[1] = 217,
+	["Bristleback Water Seeker"] = {
+		[1] = 7096,
 	},
 	["Scv"] = {
 		[1] = 11277,
@@ -17818,19 +17842,23 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 32,
 	},
-	["Motorhead"] = {
-		[1] = 2553,
+	["Johnnyfalcon"] = {
+		[1] = 5696,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 26,
 	},
-	["Klaththyk"] = {
-		[1] = 12419,
-		[4] = true,
-		[6] = 12418,
+	["Aenrir"] = {
+		[1] = 9457,
 	},
-	["Silass"] = {
-		[1] = 6147,
+	["Kelens"] = {
+		[1] = 4522,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 1,
 	},
-	["Zeifur"] = {
-		[1] = 9636,
+	["Loat"] = {
+		[1] = 1313,
 	},
 	["Vewich"] = {
 		[1] = 10442,
@@ -17844,14 +17872,11 @@ DPSMateUser = {
 	["Darkbones"] = {
 		[1] = 3243,
 	},
-	["Wrathtail Wave Rider"] = {
-		[1] = 8939,
+	["Lmaolululu"] = {
+		[1] = 120,
 	},
-	["Vizubu"] = {
-		[1] = 6738,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 30,
+	["Deep Pool Threshfin"] = {
+		[1] = 9010,
 	},
 	["Lolabellas"] = {
 		[1] = 3580,
@@ -17862,14 +17887,14 @@ DPSMateUser = {
 	["Tearmorph"] = {
 		[1] = 3460,
 	},
-	["Fightsong"] = {
-		[1] = 3508,
+	["Biggwood"] = {
+		[1] = 12875,
 	},
-	["Klathgore"] = {
-		[1] = 6772,
+	["Gholoz"] = {
+		[1] = 4711,
 	},
-	["Edente"] = {
-		[1] = 12711,
+	["Kfbewhjbfewk"] = {
+		[1] = 2792,
 	},
 	["Brothas"] = {
 		[1] = 5300,
@@ -17877,8 +17902,11 @@ DPSMateUser = {
 	["Frizzerxoxo"] = {
 		[1] = 10995,
 	},
-	["Xary"] = {
-		[1] = 255,
+	["Graysmoke"] = {
+		[1] = 5568,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Hakjin"] = {
 		[1] = 12049,
@@ -17892,17 +17920,14 @@ DPSMateUser = {
 	["Shockmania"] = {
 		[1] = 10445,
 	},
-	["Oniscrooge"] = {
-		[1] = 11298,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 31,
+	["Pookierawr"] = {
+		[1] = 3773,
 	},
-	["Paoka"] = {
-		[1] = 9142,
-		[2] = "shaman",
+	["Dotvendor"] = {
+		[1] = 12172,
+		[2] = "warlock",
 		[3] = -1,
-		[8] = 45,
+		[8] = 35,
 	},
 	["Popomonster"] = {
 		[1] = 2052,
@@ -17910,14 +17935,14 @@ DPSMateUser = {
 	["Mursoc"] = {
 		[1] = 3062,
 	},
-	["Graoch"] = {
-		[1] = 7269,
+	["Tary"] = {
+		[1] = 3156,
 	},
-	["Soulcry"] = {
-		[1] = 12389,
+	["Diplexbee"] = {
+		[1] = 3543,
 	},
-	["Qhte"] = {
-		[1] = 13006,
+	["Mightydude"] = {
+		[1] = 6067,
 	},
 	["Ryllan"] = {
 		[1] = 5356,
@@ -17931,8 +17956,13 @@ DPSMateUser = {
 	["Kazjin"] = {
 		[1] = 7394,
 	},
-	["Gadabi"] = {
-		[1] = 11441,
+	["Camarila"] = {
+		[1] = 11352,
+		[2] = "priest",
+		[3] = -1,
+		[4] = false,
+		[7] = "Drunkards and Flagons",
+		[8] = 36,
 	},
 	["Sarriana"] = {
 		[1] = 1915,
@@ -17942,8 +17972,10 @@ DPSMateUser = {
 	["Karbeul"] = {
 		[1] = 7146,
 	},
-	["Koksu"] = {
-		[1] = 1109,
+	["Klaththyk"] = {
+		[1] = 12419,
+		[4] = true,
+		[6] = 12418,
 	},
 	["Audy"] = {
 		[1] = 3403,
@@ -17957,52 +17989,53 @@ DPSMateUser = {
 	["Ratut"] = {
 		[1] = 8043,
 	},
-	["Yazzuh"] = {
-		[1] = 9184,
+	["Shortfuze"] = {
+		[1] = 251,
 	},
-	["Camarila"] = {
-		[1] = 11352,
-		[2] = "priest",
-		[3] = -1,
-		[4] = false,
-		[7] = "Drunkards and Flagons",
-		[8] = 36,
+	["Chula"] = {
+		[1] = 217,
 	},
-	["Bruxobr"] = {
-		[1] = 3080,
+	["Fjfn"] = {
+		[1] = 2177,
+	},
+	["Yofeerlees"] = {
+		[1] = 2083,
+	},
+	["Shuriken"] = {
+		[1] = 125,
+	},
+	["Chrs"] = {
+		[1] = 10291,
 	},
 	["Youyaoqi"] = {
 		[1] = 7645,
 	},
-	["Secreted"] = {
-		[1] = 12015,
-	},
-	["Porsha"] = {
-		[1] = 2662,
-	},
-	["Operaator"] = {
-		[1] = 3699,
-	},
 	["Horde Defender"] = {
 		[1] = 6543,
 	},
-	["Maaik"] = {
-		[1] = 9553,
+	["Vivkek"] = {
+		[1] = 2074,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Sielentx"] = {
 		[1] = 3391,
 	},
-	["Avendis"] = {
-		[1] = 6156,
+	["Lesser Rock Elemental"] = {
+		[1] = 12318,
 	},
-	["Xenone"] = {
-		[1] = 11596,
+	["Hotaber"] = {
+		[1] = 8911,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 9,
 	},
-	["Chuikin"] = {
-		[1] = 7760,
+	["Theddy"] = {
+		[1] = 9275,
 	},
-	["Anya Maulray"] = {
-		[1] = 13064,
+	["Determine"] = {
+		[1] = 4566,
 	},
 	["Inofensive"] = {
 		[1] = 2699,
@@ -18022,23 +18055,26 @@ DPSMateUser = {
 	["Saucey"] = {
 		[1] = 1199,
 	},
-	["Tazzroc"] = {
-		[1] = 6653,
+	["Alvedon"] = {
+		[1] = 11660,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 36,
 	},
-	["Determine"] = {
-		[1] = 4566,
+	["Porsha"] = {
+		[1] = 2662,
 	},
 	["Piv"] = {
 		[1] = 502,
 	},
-	["Sansesn"] = {
-		[1] = 12351,
+	["Faygard"] = {
+		[1] = 13036,
 	},
-	["Mhff"] = {
-		[1] = 3612,
+	["nikka"] = {
+		[1] = 27,
 	},
-	["Riski"] = {
-		[1] = 7339,
+	["Quehecut"] = {
+		[1] = 5177,
 	},
 	["Kupmir"] = {
 		[1] = 5191,
@@ -18046,23 +18082,23 @@ DPSMateUser = {
 	["Shadeway"] = {
 		[1] = 5271,
 	},
-	["Vuijen"] = {
-		[1] = 8810,
+	["Stickan"] = {
+		[1] = 11939,
 	},
 	["Boneplague"] = {
 		[1] = 4980,
 	},
-	["Nolabrew"] = {
-		[1] = 6812,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Dizka"] = {
+		[1] = 11372,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 40,
 	},
 	["Darkplaya"] = {
 		[1] = 6858,
 	},
-	["Mosshorn"] = {
-		[1] = 9872,
+	["Adioni"] = {
+		[1] = 11045,
 	},
 	["Venture Co. Geologist"] = {
 		[1] = 11649,
@@ -18073,13 +18109,8 @@ DPSMateUser = {
 	["Ardy"] = {
 		[1] = 18,
 	},
-	["Toby"] = {
-		[1] = 8315,
-		[2] = "shaman",
-		[3] = -1,
-		[4] = false,
-		[7] = "Deathly Hallows",
-		[8] = 22,
+	["Mesmart"] = {
+		[1] = 9132,
 	},
 	["Woodro"] = {
 		[1] = 1039,
@@ -18087,58 +18118,51 @@ DPSMateUser = {
 	["Doomgaurd"] = {
 		[1] = 839,
 	},
-	["Bronwyn"] = {
-		[1] = 2173,
+	["Ssnow"] = {
+		[1] = 11439,
 	},
-	["Scorn"] = {
-		[1] = 6870,
+	["Rep"] = {
+		[1] = 9813,
 	},
 	["Vitalremainz"] = {
 		[1] = 10412,
 	},
-	["Tackar"] = {
-		[1] = 10483,
+	["Tomise"] = {
+		[1] = 10421,
 	},
 	["Bubunko"] = {
 		[1] = 6579,
 	},
-	["Zwidawurzn"] = {
-		[1] = 11784,
-		[2] = "priest",
-		[3] = 1,
-	},
-	["Casserf"] = {
-		[1] = 10818,
-		[2] = "priest",
+	["Ifarmch"] = {
+		[1] = 2111,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 29,
+		[4] = false,
+		[8] = 60,
 	},
-	["Gif"] = {
-		[1] = 12985,
+	["Scarlet Scout"] = {
+		[1] = 10562,
 	},
-	["Rakhma"] = {
-		[1] = 3183,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 2,
+	["Stereopony"] = {
+		[1] = 10080,
+	},
+	["Scorn"] = {
+		[1] = 6870,
 	},
 	["Krasenon"] = {
 		[1] = 7900,
 	},
-	["Zhangong"] = {
-		[1] = 11811,
+	["Kolkar Marauder"] = {
+		[1] = 6670,
 	},
-	["Fluba"] = {
-		[1] = 4971,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 7,
+	["Avendis"] = {
+		[1] = 6156,
 	},
 	["Yazkin"] = {
 		[1] = 3648,
 	},
-	["Druidfu"] = {
-		[1] = 2526,
+	["Jaggz"] = {
+		[1] = 5487,
 	},
 	["Aredelle"] = {
 		[1] = 11135,
@@ -18146,17 +18170,16 @@ DPSMateUser = {
 	["Blueyouth"] = {
 		[1] = 5664,
 	},
-	["Mikka"] = {
-		[1] = 396,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Mazkin"] = {
+		[1] = 7343,
 	},
 	["Owato"] = {
 		[1] = 4194,
 	},
-	["Azakore"] = {
-		[1] = 10418,
+	["Zwidawurzn"] = {
+		[1] = 11784,
+		[2] = "priest",
+		[3] = 1,
 	},
 	["Huknuz"] = {
 		[1] = 1252,
@@ -18164,8 +18187,8 @@ DPSMateUser = {
 	["Vilux"] = {
 		[1] = 6694,
 	},
-	["Mustasch"] = {
-		[1] = 768,
+	["Superlean"] = {
+		[1] = 8048,
 	},
 	["Vynumm"] = {
 		[1] = 1320,
@@ -18179,8 +18202,8 @@ DPSMateUser = {
 	["Kenzakahba"] = {
 		[1] = 7261,
 	},
-	["Blackened Ancient"] = {
-		[1] = 10170,
+	["Bonfire"] = {
+		[1] = 932,
 	},
 	["Opacho"] = {
 		[1] = 586,
@@ -18191,20 +18214,23 @@ DPSMateUser = {
 	["Extak"] = {
 		[1] = 3368,
 	},
-	["Maquthree"] = {
-		[1] = 4108,
+	["Wyhwzlt"] = {
+		[1] = 8507,
+	},
+	["Fluba"] = {
+		[1] = 4971,
 		[2] = "warlock",
 		[3] = -1,
-		[8] = 4,
+		[8] = 7,
 	},
-	["Chnshao"] = {
-		[1] = 3195,
+	["Cv"] = {
+		[1] = 3942,
 	},
-	["Steficamper"] = {
-		[1] = 2166,
-	},
-	["Atal'ai Mistress"] = {
-		[1] = 359,
+	["Suntaotao"] = {
+		[1] = 4788,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 6,
 	},
 	["Markovis"] = {
 		[1] = 3637,
@@ -18212,29 +18238,29 @@ DPSMateUser = {
 	["Schtefan"] = {
 		[1] = 11984,
 	},
-	["Hale"] = {
-		[1] = 1850,
+	["Snovavdele"] = {
+		[1] = 12664,
 	},
-	["Wongedan"] = {
-		[1] = 9545,
+	["Pyris"] = {
+		[1] = 11739,
 	},
-	["Jordans"] = {
-		[1] = 1512,
+	["Senzor"] = {
+		[1] = 10250,
 	},
-	["Snaxo"] = {
-		[1] = 12669,
+	["Neskind"] = {
+		[1] = 13365,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 1,
 	},
-	["Pwndmachine"] = {
-		[1] = 5163,
+	["Gurness"] = {
+		[1] = 8057,
 	},
 	["Chigik"] = {
 		[1] = 1451,
 	},
-	["Steelrwheelr"] = {
-		[1] = 8363,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 20,
+	["Doubletree"] = {
+		[1] = 6822,
 	},
 	["Lillen"] = {
 		[1] = 6289,
@@ -18242,23 +18268,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 23,
 	},
-	["Goatdestroy"] = {
-		[1] = 5736,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 17,
+	["Colek"] = {
+		[1] = 244,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Deadmanwalks"] = {
-		[1] = 13090,
+	["Fontall"] = {
+		[1] = 11020,
 	},
-	["Dawnbedabun"] = {
-		[1] = 6620,
+	["Kehle"] = {
+		[1] = 1165,
 	},
 	["Numbr"] = {
 		[1] = 8690,
 	},
-	["Carolette"] = {
-		[1] = 7313,
+	["Twinkboy"] = {
+		[1] = 12910,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 36,
 	},
 	["Ozogewd"] = {
 		[1] = 1664,
@@ -18266,23 +18295,23 @@ DPSMateUser = {
 	["Sogoth"] = {
 		[1] = 3536,
 	},
-	["Esdesu"] = {
-		[1] = 11695,
+	["Boar Spirit"] = {
+		[1] = 9365,
 	},
 	["Porkbutt"] = {
 		[1] = 7754,
 	},
-	["Bathoria"] = {
-		[1] = 6721,
-	},
-	["Kurggu"] = {
-		[1] = 8089,
-		[2] = "shaman",
+	["Gniewosz"] = {
+		[1] = 7947,
+		[2] = "rogue",
 		[3] = -1,
 		[8] = 20,
 	},
-	["Retchid"] = {
-		[1] = 709,
+	["Deviate Lurker"] = {
+		[1] = 7500,
+	},
+	["Geemo"] = {
+		[1] = 7851,
 	},
 	["Guacala"] = {
 		[1] = 1736,
@@ -18291,19 +18320,17 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 60,
 	},
-	["Boneymm"] = {
-		[1] = 1564,
-	},
-	["Razjah"] = {
-		[1] = 12177,
-	},
-	["Dabluff"] = {
-		[1] = 7853,
-		[2] = "shaman",
+	["Bowhoe"] = {
+		[1] = 9817,
+		[2] = "hunter",
 		[3] = -1,
-		[4] = false,
-		[7] = "Elysium Feminist Society",
-		[8] = 17,
+		[8] = 60,
+	},
+	["Rivalit"] = {
+		[1] = 2296,
+	},
+	["Janaise"] = {
+		[1] = 773,
 	},
 	["Kriinz"] = {
 		[1] = 12818,
@@ -18311,11 +18338,8 @@ DPSMateUser = {
 	["Larratt"] = {
 		[1] = 4394,
 	},
-	["Bestchoise"] = {
-		[1] = 12966,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 58,
+	["Summoned Succubus"] = {
+		[1] = 6276,
 	},
 	["Ohonesixone"] = {
 		[1] = 13118,
@@ -18323,29 +18347,26 @@ DPSMateUser = {
 	["Hadres"] = {
 		[1] = 6199,
 	},
-	["Somali"] = {
-		[1] = 10875,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 11,
+	["Vj"] = {
+		[1] = 7463,
 	},
-	["Mixiam"] = {
-		[1] = 2683,
+	["Danwan"] = {
+		[1] = 2257,
 	},
 	["Poutsed"] = {
 		[1] = 1810,
 	},
-	["Jedelor"] = {
-		[1] = 9226,
+	["Retchid"] = {
+		[1] = 709,
 	},
-	["Maniton"] = {
-		[1] = 9719,
+	["Hatefury Betrayer"] = {
+		[1] = 10857,
 	},
-	["Bloodysabbat"] = {
-		[1] = 6544,
+	["Mixiam"] = {
+		[1] = 2683,
 	},
-	["Youmou"] = {
-		[1] = 10211,
+	["Nerub'enkan"] = {
+		[1] = 2150,
 	},
 	["Ygv"] = {
 		[1] = 13135,
@@ -18356,14 +18377,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 45,
 	},
-	["Darkfive"] = {
-		[1] = 204,
+	["Akunlan"] = {
+		[1] = 3646,
 	},
-	["Hoggelreim"] = {
-		[1] = 11232,
-		[2] = "mage",
+	["Nausea"] = {
+		[1] = 9149,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 32,
+		[8] = 24,
 	},
 	["Hakoo"] = {
 		[1] = 6235,
@@ -18371,20 +18392,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 33,
 	},
-	["Holte"] = {
-		[1] = 235,
+	["Borboriska"] = {
+		[1] = 6541,
 	},
-	["Krakmoth"] = {
-		[1] = 6792,
+	["Azorce"] = {
+		[1] = 4115,
 	},
-	["Yenrut"] = {
-		[1] = 6015,
+	["Shmeez"] = {
+		[1] = 3074,
 	},
-	["Krugeth"] = {
-		[1] = 10560,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 11,
+	["Carolette"] = {
+		[1] = 7313,
 	},
 	["Vicent"] = {
 		[1] = 12857,
@@ -18395,20 +18413,21 @@ DPSMateUser = {
 	["Qqrages"] = {
 		[1] = 3428,
 	},
-	["Plastekan"] = {
-		[1] = 5640,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Steficamper"] = {
+		[1] = 2166,
 	},
-	["Higaide"] = {
-		[1] = 11142,
+	["Magda"] = {
+		[1] = 463,
 	},
 	["Saderize"] = {
 		[1] = 8717,
 	},
-	["Hazyshadow"] = {
-		[1] = 9925,
+	["Amelli"] = {
+		[1] = 3526,
+		[2] = "priest",
+		[3] = -1,
+		[4] = false,
+		[8] = 5,
 	},
 	["Zorpad"] = {
 		[1] = 4625,
@@ -18428,41 +18447,35 @@ DPSMateUser = {
 	["Bissurdo"] = {
 		[1] = 836,
 	},
-	["Pyjamaskudde"] = {
-		[1] = 6273,
+	["Sceram"] = {
+		[1] = 10929,
 	},
 	["Valdru"] = {
 		[1] = 6634,
 	},
-	["Margeree"] = {
-		[1] = 82,
+	["Cadetkanker"] = {
+		[1] = 393,
 	},
-	["Akunlan"] = {
-		[1] = 3646,
-	},
-	["Patchwork Golem"] = {
-		[1] = 2739,
-	},
-	["Jinjiil"] = {
-		[1] = 9241,
+	["Dafckinghunt"] = {
+		[1] = 6520,
 		[2] = "hunter",
 		[3] = -1,
-		[4] = false,
-		[5] = "Manncica",
-		[7] = "Remember the Scrubwell",
-		[8] = 27,
+		[8] = 12,
 	},
-	["Klinta"] = {
-		[1] = 4178,
+	["Duckfat"] = {
+		[1] = 5566,
 	},
-	["Baruth"] = {
-		[1] = 7965,
+	["Proskater"] = {
+		[1] = 4034,
 	},
-	["Aezzen"] = {
-		[1] = 2769,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 23,
+	["Daughter of Cenarius"] = {
+		[1] = 8224,
+	},
+	["Bloodysabbat"] = {
+		[1] = 6544,
+	},
+	["Malakoii"] = {
+		[1] = 4022,
 	},
 	["Stabbicted"] = {
 		[1] = 8732,
@@ -18470,17 +18483,17 @@ DPSMateUser = {
 	["Wakening"] = {
 		[1] = 7712,
 	},
-	["Gordinay"] = {
-		[1] = 7843,
+	["Zebashi"] = {
+		[1] = 8154,
 	},
-	["Mcscofield"] = {
-		[1] = 12038,
+	["Treant Ally"] = {
+		[1] = 8229,
 	},
-	["Krampos"] = {
-		[1] = 9742,
+	["Mylanlan"] = {
+		[1] = 5021,
 	},
-	["Youaremine"] = {
-		[1] = 113,
+	["Doksa"] = {
+		[1] = 4197,
 	},
 	["Dreadmaw Crocolisk"] = {
 		[1] = 5506,
@@ -18488,23 +18501,35 @@ DPSMateUser = {
 	["Hornyannie"] = {
 		[1] = 11270,
 	},
-	["Drysnap Crawler"] = {
-		[1] = 12814,
+	["Bestchoise"] = {
+		[1] = 12966,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 58,
 	},
-	["Smitta"] = {
-		[1] = 7014,
+	["Lazan"] = {
+		[1] = 3119,
 	},
 	["Eloz"] = {
 		[1] = 7279,
 	},
-	["Samurairx"] = {
-		[1] = 9907,
+	["Xasu"] = {
+		[1] = 9622,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 29,
 	},
-	["Lightwave"] = {
-		[1] = 2532,
+	["Adget"] = {
+		[1] = 11176,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 32,
 	},
-	["Skeletal Guardian"] = {
-		[1] = 2124,
+	["Wildstabby"] = {
+		[1] = 10835,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 37,
 	},
 	["Stinkydinky"] = {
 		[1] = 9479,
@@ -18518,59 +18543,47 @@ DPSMateUser = {
 	["Elefant"] = {
 		[1] = 2668,
 	},
-	["Martinl"] = {
-		[1] = 10481,
+	["Sleggefett"] = {
+		[1] = 10894,
 	},
-	["Getkuk"] = {
-		[1] = 6975,
+	["Nagymuter"] = {
+		[1] = 10066,
 	},
 	["Hardheart"] = {
 		[1] = 11884,
 	},
-	["Wowerror"] = {
-		[1] = 1211,
+	["Shadowfang Whitescalp"] = {
+		[1] = 8573,
 	},
 	["Triihardd"] = {
 		[1] = 6937,
 	},
-	["Pigofjap"] = {
-		[1] = 8733,
+	["Swagetha"] = {
+		[1] = 9572,
 	},
-	["Azurecore"] = {
-		[1] = 6270,
-		[2] = "rogue",
-		[3] = -1,
-		[4] = false,
-		[7] = "lol and wow",
-		[8] = 20,
+	["Arwoo"] = {
+		[1] = 4492,
 	},
-	["Effots"] = {
-		[1] = 4364,
+	["Youdienao"] = {
+		[1] = 2017,
 	},
-	["Xanaxd"] = {
-		[1] = 10225,
+	["Durie"] = {
+		[1] = 7494,
 	},
 	["Ironisk"] = {
 		[1] = 1145,
 	},
-	["Reef"] = {
-		[1] = 6621,
+	["Jubmat"] = {
+		[1] = 12679,
 	},
-	["Vivkek"] = {
-		[1] = 2074,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 60,
+	["Pizuri"] = {
+		[1] = 1303,
 	},
-	["Takamura"] = {
-		[1] = 3700,
-		[2] = "rogue",
-		[3] = -1,
-		[4] = false,
-		[8] = 5,
+	["Mpj"] = {
+		[1] = 7038,
 	},
-	["Lxzx"] = {
-		[1] = 12948,
+	["Ministre"] = {
+		[1] = 789,
 	},
 	["Lampros"] = {
 		[1] = 2885,
@@ -18578,8 +18591,13 @@ DPSMateUser = {
 	["Pignik"] = {
 		[1] = 5799,
 	},
-	["Docoo"] = {
-		[1] = 3363,
+	["Kheis"] = {
+		[1] = 4565,
+		[2] = "warlock",
+		[3] = -1,
+		[4] = false,
+		[5] = "Bellop",
+		[8] = 4,
 	},
 	["Empiric"] = {
 		[1] = 6959,
@@ -18587,8 +18605,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 13,
 	},
-	["Evolving Ectoplasm"] = {
-		[1] = 7519,
+	["Rorin"] = {
+		[1] = 976,
 	},
 	["mate"] = {
 		[1] = 9874,
@@ -18596,17 +18614,14 @@ DPSMateUser = {
 	["Bebere"] = {
 		[1] = 9272,
 	},
-	["Boar Spirit"] = {
-		[1] = 9365,
+	["Kaben"] = {
+		[1] = 5828,
 	},
-	["Ministre"] = {
-		[1] = 789,
+	["Snorky"] = {
+		[1] = 1601,
 	},
-	["Shoker"] = {
-		[1] = 455,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Ddvill"] = {
+		[1] = 2032,
 	},
 	["Manhatan"] = {
 		[1] = 8483,
@@ -18617,8 +18632,8 @@ DPSMateUser = {
 	["Riparian"] = {
 		[1] = 7565,
 	},
-	["Hatefury Betrayer"] = {
-		[1] = 10857,
+	["Roninm"] = {
+		[1] = 13288,
 	},
 	["Kinzington"] = {
 		[1] = 1672,
@@ -18629,28 +18644,32 @@ DPSMateUser = {
 	["Xohtoz"] = {
 		[1] = 3311,
 	},
-	["Doomhummer"] = {
-		[1] = 10733,
+	["Beacuseofyou"] = {
+		[1] = 4754,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 9,
 	},
-	["Cmyrius"] = {
-		[1] = 11524,
+	["Deviate Moccasin"] = {
+		[1] = 7541,
 	},
-	["Stereopony"] = {
-		[1] = 10080,
+	["Baseltwo"] = {
+		[1] = 408,
 	},
-	["Ettern"] = {
-		[1] = 11106,
+	["Blockthis"] = {
+		[1] = 8861,
 	},
-	["Proskater"] = {
-		[1] = 4034,
+	["Portinari"] = {
+		[1] = 10663,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 31,
 	},
 	["Gyousaskha"] = {
 		[1] = 12590,
 	},
-	["Ud"] = {
-		[1] = 1447,
-		[4] = true,
-		[6] = 1446,
+	["Slamboo"] = {
+		[1] = 7004,
 	},
 	["puma"] = {
 		[1] = 8558,
@@ -18661,23 +18680,25 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Sorin"] = {
-		[1] = 3070,
+	["khamuy"] = {
+		[1] = 9717,
+		[4] = true,
+		[6] = 7777,
 	},
-	["Qrith"] = {
-		[1] = 13280,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 35,
+	["Tanggrave"] = {
+		[1] = 5771,
 	},
-	["Ssnow"] = {
-		[1] = 11439,
+	["Velgrimm"] = {
+		[1] = 6778,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 17,
 	},
-	["Agokka"] = {
-		[1] = 9456,
+	["Djzates"] = {
+		[1] = 13198,
 	},
-	["Moona"] = {
-		[1] = 3610,
+	["Savannah Cub"] = {
+		[1] = 6683,
 	},
 	["Fozruk"] = {
 		[1] = 12262,
@@ -18685,11 +18706,11 @@ DPSMateUser = {
 	["Marlor"] = {
 		[1] = 7575,
 	},
-	["Mahikosan"] = {
-		[1] = 4047,
+	["Ettern"] = {
+		[1] = 11106,
 	},
-	["Amenofus"] = {
-		[1] = 9743,
+	["Gurubashi Warrior"] = {
+		[1] = 381,
 	},
 	["Greenheir"] = {
 		[1] = 7665,
@@ -18703,24 +18724,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 20,
 	},
-	["Yojimb"] = {
-		[1] = 8683,
+	["Belkaworld"] = {
+		[1] = 5980,
 	},
-	["Nocturnality"] = {
-		[1] = 4275,
+	["Fungeye"] = {
+		[1] = 8535,
 	},
-	["Exstro"] = {
-		[1] = 12515,
+	["Kopfeule"] = {
+		[1] = 10635,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 31,
 	},
-	["Alexxs"] = {
-		[1] = 11875,
+	["Samurairx"] = {
+		[1] = 9907,
 	},
-	["Vinni"] = {
-		[1] = 8180,
-		[2] = "shaman",
+	["Becausevette"] = {
+		[1] = 13366,
+		[2] = "priest",
 		[3] = -1,
-		[4] = false,
-		[8] = 25,
+		[8] = 5,
 	},
 	["Onnslaught"] = {
 		[1] = 6039,
@@ -18728,26 +18751,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Sorcerertony"] = {
-		[1] = 4626,
+	["Bwat"] = {
+		[1] = 2575,
 	},
-	["Justforfunny"] = {
-		[1] = 10030,
+	["Twothehard"] = {
+		[1] = 4669,
 	},
-	["Shtoorman"] = {
-		[1] = 3958,
+	["Stoggi"] = {
+		[1] = 4452,
 	},
-	["Domlan"] = {
-		[1] = 1777,
+	["Aux"] = {
+		[1] = 2635,
 	},
-	["Melke"] = {
-		[1] = 457,
+	["Chenshishi"] = {
+		[1] = 7887,
 	},
 	["Nofear"] = {
 		[1] = 4952,
 	},
-	["Shmellybelly"] = {
-		[1] = 4091,
+	["Melke"] = {
+		[1] = 457,
 	},
 	["Hirohong"] = {
 		[1] = 10915,
@@ -18764,35 +18787,45 @@ DPSMateUser = {
 	["Keeyos"] = {
 		[1] = 4358,
 	},
-	["Cryptik"] = {
-		[1] = 7597,
+	["Ailaroc"] = {
+		[1] = 7140,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 25,
 	},
-	["Dapao"] = {
-		[1] = 2768,
+	["Haderac"] = {
+		[1] = 6944,
 	},
 	["Neshtekaka"] = {
 		[1] = 2493,
 	},
-	["Hoakey"] = {
-		[1] = 7981,
+	["Deaddrifter"] = {
+		[1] = 10520,
 	},
-	["Unicornffs"] = {
-		[1] = 5979,
+	["Vinni"] = {
+		[1] = 8180,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[8] = 25,
 	},
-	["Owarlock"] = {
-		[1] = 5108,
+	["Itsreal"] = {
+		[1] = 5433,
 	},
-	["Swarlock"] = {
-		[1] = 5017,
+	["Aurosa"] = {
+		[1] = 1371,
 	},
-	["Whitesilence"] = {
-		[1] = 8417,
+	["Docoo"] = {
+		[1] = 3363,
 	},
-	["Southsea Cannoneer"] = {
-		[1] = 7301,
+	["Tartog"] = {
+		[1] = 5016,
 	},
-	["Quzrin"] = {
-		[1] = 5209,
+	["Warriorex"] = {
+		[1] = 6890,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 12,
 	},
 	["Ceeci"] = {
 		[1] = 7812,
@@ -18802,14 +18835,14 @@ DPSMateUser = {
 		[7] = "Ice and Fire",
 		[8] = 18,
 	},
-	["Healyourbutt"] = {
-		[1] = 6036,
+	["Abeaumont"] = {
+		[1] = 9760,
 	},
-	["Hf"] = {
-		[1] = 1815,
+	["Yuanfei"] = {
+		[1] = 10215,
 	},
-	["Baedric"] = {
-		[1] = 8464,
+	["Shmellybelly"] = {
+		[1] = 4091,
 	},
 	["Pristzlo"] = {
 		[1] = 3237,
@@ -18817,41 +18850,35 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Stitched Horror"] = {
-		[1] = 2122,
+	["Msforyaaizk"] = {
+		[1] = 1487,
 	},
-	["Elementus"] = {
-		[1] = 1540,
+	["Goldsword"] = {
+		[1] = 9988,
 	},
 	["Nymx"] = {
 		[1] = 3332,
 	},
-	["Goldenknight"] = {
-		[1] = 5924,
+	["Hoakey"] = {
+		[1] = 7981,
 	},
-	["Warave"] = {
-		[1] = 8605,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 11,
+	["Blistexx"] = {
+		[1] = 12714,
 	},
-	["Savannah Cub"] = {
-		[1] = 6683,
+	["Zorkha"] = {
+		[1] = 12960,
 	},
 	["Dezert"] = {
 		[1] = 11455,
 	},
-	["Duracislove"] = {
-		[1] = 7123,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 22,
+	["Nikikiti"] = {
+		[1] = 9398,
 	},
 	["Katzy"] = {
 		[1] = 1228,
 	},
-	["Manticore"] = {
-		[1] = 10431,
+	["Cowerboy"] = {
+		[1] = 7569,
 	},
 	["Cenobita"] = {
 		[1] = 6012,
@@ -18874,10 +18901,8 @@ DPSMateUser = {
 	["Juckrebel"] = {
 		[1] = 12472,
 	},
-	["Hathgorg"] = {
-		[1] = 1453,
-		[4] = true,
-		[6] = 1449,
+	["Turboe"] = {
+		[1] = 1615,
 	},
 	["Qqfox"] = {
 		[1] = 10946,
@@ -18891,17 +18916,14 @@ DPSMateUser = {
 	["Enviro"] = {
 		[1] = 1823,
 	},
-	["Yuanfei"] = {
-		[1] = 10215,
+	["Moroncool"] = {
+		[1] = 12383,
 	},
-	["Razzh"] = {
-		[1] = 3770,
+	["Sekhemt"] = {
+		[1] = 8546,
 	},
-	["Oizys"] = {
-		[1] = 8663,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 60,
+	["Hf"] = {
+		[1] = 1815,
 	},
 	["Enraged Rock Elemental"] = {
 		[1] = 12417,
@@ -18915,42 +18937,40 @@ DPSMateUser = {
 	["Mutzart"] = {
 		[1] = 5208,
 	},
-	["Terlyia"] = {
-		[1] = 1167,
+	["Gif"] = {
+		[1] = 12985,
 	},
 	["Marmok"] = {
 		[1] = 3263,
 	},
-	["Entrenador"] = {
-		[1] = 4042,
+	["Babawo"] = {
+		[1] = 1597,
 	},
-	["Twoskillchar"] = {
-		[1] = 1442,
-		[2] = "paladin",
-		[3] = 1,
+	["Goldenknight"] = {
+		[1] = 5924,
+	},
+	["Oizys"] = {
+		[1] = 8663,
+		[2] = "priest",
+		[3] = -1,
 		[8] = 60,
 	},
-	["Hurucan"] = {
-		[1] = 10259,
+	["Ateey"] = {
+		[1] = 5835,
 	},
-	["Severad"] = {
-		[1] = 11336,
+	["Hathgorg"] = {
+		[1] = 1453,
+		[4] = true,
+		[6] = 1449,
 	},
-	["Nessiima"] = {
-		[1] = 5326,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[8] = 11,
-	},
-	["Yuroichi"] = {
-		[1] = 12621,
+	["Brockes"] = {
+		[1] = 7612,
 	},
 	["Dawnj"] = {
 		[1] = 10743,
 	},
-	["Itsagthang"] = {
-		[1] = 2291,
+	["Dapao"] = {
+		[1] = 2768,
 	},
 	["Lookdown"] = {
 		[1] = 1675,
@@ -18967,41 +18987,46 @@ DPSMateUser = {
 	["Sorpresita"] = {
 		[1] = 9834,
 	},
-	["Deathmisa"] = {
-		[1] = 5617,
+	["Da"] = {
+		[1] = 412,
 	},
-	["Pwnmeister"] = {
-		[1] = 6748,
+	["Tercan"] = {
+		[1] = 1381,
 	},
 	["Cyrk"] = {
 		[1] = 107,
 	},
-	["Rockslab"] = {
-		[1] = 9336,
+	["Entrenador"] = {
+		[1] = 4042,
 	},
 	["Cokebottle"] = {
 		[1] = 5890,
 	},
-	["Gabbys"] = {
-		[1] = 1367,
+	["Owarlock"] = {
+		[1] = 5108,
 	},
 	["Red Ogre Puncher"] = {
 		[1] = 2386,
 	},
-	["Charleetz"] = {
-		[1] = 11244,
+	["Dennisvinson"] = {
+		[1] = 8054,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 19,
 	},
-	["Mirandaa"] = {
-		[1] = 12870,
+	["Lorakain"] = {
+		[1] = 12310,
+		[2] = "rogue",
+		[3] = 1,
 	},
-	["Memecatcher"] = {
-		[1] = 4213,
+	["Nuketown"] = {
+		[1] = 8241,
 	},
 	["Nackflipparn"] = {
 		[1] = 3238,
 	},
-	["Kurzen Jungle Fighter"] = {
-		[1] = 11260,
+	["dog"] = {
+		[1] = 623,
 	},
 	["Laba"] = {
 		[1] = 11879,
@@ -19009,8 +19034,8 @@ DPSMateUser = {
 	["Vernel"] = {
 		[1] = 9425,
 	},
-	["Chichiko"] = {
-		[1] = 12921,
+	["Viktorin"] = {
+		[1] = 4617,
 	},
 	["Nappyswag"] = {
 		[1] = 8225,
@@ -19018,35 +19043,38 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 22,
 	},
-	["Lord Azrethoc"] = {
-		[1] = 12894,
+	["Deathmisa"] = {
+		[1] = 5617,
 	},
 	["Rightinthepu"] = {
 		[1] = 10383,
 	},
-	["Burning Destroyer"] = {
-		[1] = 10160,
+	["Jft"] = {
+		[1] = 10947,
 	},
-	["Parasentisis"] = {
-		[1] = 4883,
+	["Habibix"] = {
+		[1] = 2878,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Stonard Explorer"] = {
-		[1] = 13337,
+	["Binglengyuwu"] = {
+		[1] = 9597,
 	},
-	["Tonz"] = {
-		[1] = 13137,
-	},
-	["Semotgut"] = {
-		[1] = 9478,
-	},
-	["Grummel"] = {
-		[1] = 11647,
+	["Ic"] = {
+		[1] = 12071,
 		[2] = "hunter",
-		[3] = 1,
-		[8] = 31,
+		[3] = -1,
+		[8] = 35,
 	},
-	["Uob"] = {
-		[1] = 5101,
+	["Battis"] = {
+		[1] = 5382,
+	},
+	["Memecatcher"] = {
+		[1] = 4213,
+	},
+	["Baedric"] = {
+		[1] = 8464,
 	},
 	["Kreejaffa"] = {
 		[1] = 8289,
@@ -19063,8 +19091,14 @@ DPSMateUser = {
 	["Iolwizard"] = {
 		[1] = 10688,
 	},
-	["Gredya"] = {
-		[1] = 4737,
+	["Ebat"] = {
+		[1] = 8192,
+		[2] = "hunter",
+		[3] = -1,
+		[4] = false,
+		[5] = "Sleng",
+		[7] = "Nal Ra",
+		[8] = 24,
 	},
 	["Shazzrah"] = {
 		[1] = 971,
@@ -19078,14 +19112,17 @@ DPSMateUser = {
 	["Lilrob"] = {
 		[1] = 7368,
 	},
-	["Trots"] = {
-		[1] = 9557,
+	["Xenaos"] = {
+		[1] = 3527,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 5,
 	},
 	["Syndicate Spy"] = {
 		[1] = 10619,
 	},
-	["Assun"] = {
-		[1] = 12208,
+	["Doobeh"] = {
+		[1] = 6561,
 	},
 	["Faalqt"] = {
 		[1] = 7172,
@@ -19106,23 +19143,20 @@ DPSMateUser = {
 	["Flesh Tentacle"] = {
 		[1] = 2607,
 	},
-	["Stromgarde Troll Hunter"] = {
-		[1] = 12432,
+	["Akim"] = {
+		[1] = 2906,
 	},
-	["Erwinsmith"] = {
-		[1] = 12364,
+	["Breamen"] = {
+		[1] = 7413,
 	},
-	["Joak"] = {
-		[1] = 12682,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Bigbritches"] = {
+		[1] = 7404,
 	},
 	["Rukertap"] = {
 		[1] = 6157,
 	},
-	["Zohashot"] = {
-		[1] = 6960,
+	["Fiduciary"] = {
+		[1] = 13013,
 	},
 	["Skjoldal"] = {
 		[1] = 11044,
@@ -19152,17 +19186,11 @@ DPSMateUser = {
 	["Bomby"] = {
 		[1] = 1623,
 	},
-	["Burkalurka"] = {
-		[1] = 917,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 60,
+	["Vooxkcld"] = {
+		[1] = 4722,
 	},
-	["Hajamas"] = {
-		[1] = 4441,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 1,
+	["Atal'ai Mistress"] = {
+		[1] = 359,
 	},
 	["Ilovebacon"] = {
 		[1] = 11050,
@@ -19172,8 +19200,8 @@ DPSMateUser = {
 	["Swinte"] = {
 		[1] = 8931,
 	},
-	["Zeitenwende"] = {
-		[1] = 4440,
+	["Emynence"] = {
+		[1] = 7259,
 	},
 	["Lolnub"] = {
 		[1] = 59,
@@ -19181,14 +19209,17 @@ DPSMateUser = {
 	["Larssa"] = {
 		[1] = 3658,
 	},
-	["Young Stranglethorn Raptor"] = {
-		[1] = 11396,
+	["Galgarin"] = {
+		[1] = 1146,
 	},
-	["Dioder"] = {
-		[1] = 5809,
+	["Pmioe"] = {
+		[1] = 8133,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 18,
 	},
-	["Mesa Buzzard"] = {
-		[1] = 10505,
+	["Pesterhide Snarler"] = {
+		[1] = 9652,
 	},
 	["Son of Arugal"] = {
 		[1] = 8626,
@@ -19196,11 +19227,11 @@ DPSMateUser = {
 	["Weinike"] = {
 		[1] = 4159,
 	},
-	["Tazri"] = {
-		[1] = 7029,
+	["Fathertime"] = {
+		[1] = 790,
 	},
-	["Xserie"] = {
-		[1] = 3367,
+	["Parasentisis"] = {
+		[1] = 4883,
 	},
 	["Taskukebab"] = {
 		[1] = 8970,
@@ -19220,17 +19251,17 @@ DPSMateUser = {
 	["Pressxdforxd"] = {
 		[1] = 9434,
 	},
-	["Jiaowofashen"] = {
-		[1] = 4291,
-		[2] = "mage",
+	["Death's Head Sage"] = {
+		[1] = 9372,
+	},
+	["Haobaqi"] = {
+		[1] = 12391,
+	},
+	["Cubatazo"] = {
+		[1] = 8205,
+		[2] = "hunter",
 		[3] = -1,
-		[8] = 6,
-	},
-	["Propellerkek"] = {
-		[1] = 11733,
-	},
-	["Hecurtain"] = {
-		[1] = 12663,
+		[8] = 23,
 	},
 	["Tureby"] = {
 		[1] = 7476,
@@ -19247,20 +19278,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 48,
 	},
-	["Derukol"] = {
-		[1] = 1718,
+	["Oldcool"] = {
+		[1] = 2364,
 	},
-	["Codreanu"] = {
-		[1] = 5250,
+	["Gootseye"] = {
+		[1] = 515,
 	},
-	["Pbt"] = {
-		[1] = 10985,
+	["Crab"] = {
+		[1] = 5789,
 	},
 	["Jiho"] = {
 		[1] = 2380,
 	},
-	["Shadowfang Moonwalker"] = {
-		[1] = 8612,
+	["Pume"] = {
+		[1] = 12549,
 	},
 	["Efilon"] = {
 		[1] = 4776,
@@ -19274,11 +19305,11 @@ DPSMateUser = {
 	["Nambaone"] = {
 		[1] = 11748,
 	},
-	["Makdoc"] = {
-		[1] = 6929,
+	["Venture Co. Overseer"] = {
+		[1] = 6793,
 	},
-	["Bristleback Hunter"] = {
-		[1] = 7091,
+	["Derukol"] = {
+		[1] = 1718,
 	},
 	["Llednar"] = {
 		[1] = 1403,
@@ -19289,14 +19320,18 @@ DPSMateUser = {
 	["Ezdrama"] = {
 		[1] = 3451,
 	},
-	["Muhammed"] = {
-		[1] = 4269,
+	["Shavii"] = {
+		[1] = 8111,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[8] = 20,
 	},
-	["Dirt Mound"] = {
-		[1] = 2600,
+	["Pakiaw"] = {
+		[1] = 6978,
 	},
-	["Death's Head Sage"] = {
-		[1] = 9372,
+	["Semotgut"] = {
+		[1] = 9478,
 	},
 	["Prdelka"] = {
 		[1] = 13196,
@@ -19304,26 +19339,26 @@ DPSMateUser = {
 	["Mangled Cadaver"] = {
 		[1] = 2126,
 	},
-	["Bowsnroses"] = {
-		[1] = 10854,
+	["Auaua"] = {
+		[1] = 9992,
 	},
 	["Jakky"] = {
 		[1] = 12766,
 	},
-	["Amitabbha"] = {
-		[1] = 3872,
+	["Triiks"] = {
+		[1] = 7174,
 	},
-	["Uhuru"] = {
-		[1] = 2496,
+	["Analitik"] = {
+		[1] = 13101,
 	},
 	["Spoonisch"] = {
 		[1] = 5371,
 	},
-	["Zeeria"] = {
-		[1] = 7430,
+	["Tazri"] = {
+		[1] = 7029,
 	},
-	["Pume"] = {
-		[1] = 12549,
+	["Shadowfang Moonwalker"] = {
+		[1] = 8612,
 	},
 	["Chicken"] = {
 		[1] = 4766,
@@ -19334,8 +19369,8 @@ DPSMateUser = {
 	["Rockeren"] = {
 		[1] = 70,
 	},
-	["Ep"] = {
-		[1] = 2836,
+	["Woledegeguai"] = {
+		[1] = 2091,
 	},
 	["Grak'gron"] = {
 		[1] = 11257,
@@ -19355,8 +19390,8 @@ DPSMateUser = {
 	["Bigjjq"] = {
 		[1] = 5166,
 	},
-	["Nahwarr"] = {
-		[1] = 6027,
+	["Xanaxd"] = {
+		[1] = 10225,
 	},
 	["Gobrot"] = {
 		[1] = 6832,
@@ -19364,28 +19399,28 @@ DPSMateUser = {
 	["Cuckmaster"] = {
 		[1] = 6992,
 	},
-	["Thauriel"] = {
-		[1] = 1917,
-		[2] = "hunter",
-		[3] = 1,
-		[4] = false,
-		[7] = "Blutdurst",
-		[8] = 60,
+	["Eversti"] = {
+		[1] = 2199,
 	},
-	["Pakiaw"] = {
-		[1] = 6978,
+	["Nezjol"] = {
+		[1] = 1013,
 	},
-	["Agadava"] = {
-		[1] = 2355,
+	["Systra"] = {
+		[1] = 3172,
 	},
-	["Demonicsnake"] = {
-		[1] = 404,
+	["Dtpx"] = {
+		[1] = 4029,
 	},
 	["Dnyh"] = {
 		[1] = 8720,
 	},
-	["Endrim"] = {
-		[1] = 10314,
+	["Yagao"] = {
+		[1] = 10628,
+		[2] = "warrior",
+		[3] = -1,
+		[4] = false,
+		[7] = "Ensidia",
+		[8] = 29,
 	},
 	["Pipofury"] = {
 		[1] = 7602,
@@ -19399,11 +19434,14 @@ DPSMateUser = {
 	["Shambowlo"] = {
 		[1] = 5460,
 	},
-	["Seelix"] = {
-		[1] = 3350,
+	["Daddyduality"] = {
+		[1] = 1702,
 	},
-	["Trupper"] = {
-		[1] = 3039,
+	["Androm"] = {
+		[1] = 5908,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Musketar"] = {
 		[1] = 1465,
@@ -19413,8 +19451,8 @@ DPSMateUser = {
 		[7] = "Hard Times",
 		[8] = 60,
 	},
-	["Jaoona"] = {
-		[1] = 4238,
+	["Krikkrok"] = {
+		[1] = 4028,
 	},
 	["Seregakahck"] = {
 		[1] = 8482,
@@ -19425,8 +19463,8 @@ DPSMateUser = {
 	["Thrakul"] = {
 		[1] = 10015,
 	},
-	["Qqmm"] = {
-		[1] = 10206,
+	["Ruluri"] = {
+		[1] = 6317,
 	},
 	["Murmurmurmur"] = {
 		[1] = 2968,
@@ -19443,8 +19481,8 @@ DPSMateUser = {
 	["Trayleyy"] = {
 		[1] = 2246,
 	},
-	["Bubss"] = {
-		[1] = 11765,
+	["Nahwarr"] = {
+		[1] = 6027,
 	},
 	["Lagetha"] = {
 		[1] = 7283,
@@ -19452,23 +19490,29 @@ DPSMateUser = {
 	["Luciferswife"] = {
 		[1] = 5120,
 	},
-	["Duister"] = {
-		[1] = 8900,
+	["Kokopo"] = {
+		[1] = 9740,
 	},
-	["Pharmademic"] = {
-		[1] = 8795,
+	["Szen"] = {
+		[1] = 8256,
 	},
-	["Insanity"] = {
-		[1] = 5134,
+	["Johones"] = {
+		[1] = 5392,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 12,
 	},
-	["Klathgorg"] = {
-		[1] = 6780,
+	["Kenir"] = {
+		[1] = 10425,
 	},
-	["Master Elemental Shaper Krixix"] = {
-		[1] = 1096,
+	["Makdoc"] = {
+		[1] = 6929,
 	},
-	["Nancy Vishas"] = {
-		[1] = 10612,
+	["Luzhit"] = {
+		[1] = 11058,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 34,
 	},
 	["Dopenessboy"] = {
 		[1] = 10648,
@@ -19479,11 +19523,11 @@ DPSMateUser = {
 	["Astron"] = {
 		[1] = 1697,
 	},
-	["Coprnik"] = {
-		[1] = 10457,
+	["Kmd"] = {
+		[1] = 6441,
 	},
-	["Dib"] = {
-		[1] = 3338,
+	["Cbblh"] = {
+		[1] = 7753,
 	},
 	["Proxetta"] = {
 		[1] = 2152,
@@ -19491,8 +19535,8 @@ DPSMateUser = {
 	["Molotilka"] = {
 		[1] = 2865,
 	},
-	["Tiraka"] = {
-		[1] = 12201,
+	["Niuchacha"] = {
+		[1] = 12977,
 	},
 	["Hiilah"] = {
 		[1] = 6500,
@@ -19500,11 +19544,11 @@ DPSMateUser = {
 	["Tlobster"] = {
 		[1] = 2425,
 	},
-	["Eradicater"] = {
-		[1] = 8782,
+	["Ganna"] = {
+		[1] = 9818,
 	},
-	["Gerinie"] = {
-		[1] = 1339,
+	["Duister"] = {
+		[1] = 8900,
 	},
 	["Jaah"] = {
 		[1] = 8433,
@@ -19523,17 +19567,14 @@ DPSMateUser = {
 	["Bat"] = {
 		[1] = 6,
 	},
-	["Zager"] = {
-		[1] = 8269,
+	["Isyouded"] = {
+		[1] = 13162,
 	},
 	["Okoru"] = {
 		[1] = 5913,
 	},
-	["Babylone"] = {
-		[1] = 10769,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 31,
+	["DummeGris"] = {
+		[1] = 7943,
 	},
 	["Miniolof"] = {
 		[1] = 1050,
@@ -19544,26 +19585,30 @@ DPSMateUser = {
 	["Lamadzamin"] = {
 		[1] = 6131,
 	},
-	["Lepilo"] = {
-		[1] = 9569,
+	["Crazytauren"] = {
+		[1] = 7454,
 	},
 	["Dornick"] = {
 		[1] = 10343,
 	},
-	["Jianghunter"] = {
-		[1] = 7375,
+	["Rainbowblood"] = {
+		[1] = 3106,
 	},
-	["Alpar"] = {
-		[1] = 11502,
-	},
-	["Shahman"] = {
-		[1] = 7694,
-		[2] = "shaman",
+	["Knek"] = {
+		[1] = 1448,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 20,
+		[4] = false,
+		[8] = 60,
 	},
-	["Vampiresi"] = {
-		[1] = 4538,
+	["Klathgorg"] = {
+		[1] = 6780,
+	},
+	["Chuvachock"] = {
+		[1] = 10302,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 10,
 	},
 	["Hamigo"] = {
 		[1] = 10642,
@@ -19583,20 +19628,17 @@ DPSMateUser = {
 	["Arax"] = {
 		[1] = 10016,
 	},
-	["Hulkules"] = {
-		[1] = 12603,
+	["Coprnik"] = {
+		[1] = 10457,
 	},
-	["Playingwow"] = {
-		[1] = 3366,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 1,
+	["Spawns"] = {
+		[1] = 6213,
 	},
 	["Rottnes"] = {
 		[1] = 10385,
 	},
-	["Deecon"] = {
-		[1] = 8874,
+	["Denouement"] = {
+		[1] = 1622,
 	},
 	["Foreman Bonds"] = {
 		[1] = 10172,
@@ -19604,8 +19646,8 @@ DPSMateUser = {
 	["Baiinth"] = {
 		[1] = 4237,
 	},
-	["Laserturken"] = {
-		[1] = 116,
+	["Haunted Servitor"] = {
+		[1] = 8613,
 	},
 	["Vargner"] = {
 		[1] = 4839,
@@ -19613,14 +19655,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Rusher"] = {
-		[1] = 10813,
+	["Faylawind"] = {
+		[1] = 1071,
 	},
-	["Darkkroth"] = {
-		[1] = 2046,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 60,
+	["Felspec"] = {
+		[1] = 791,
 	},
 	["Mujigg"] = {
 		[1] = 4778,
@@ -19628,20 +19667,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 5,
 	},
-	["Ashenvale"] = {
-		[1] = 8518,
+	["Toorop"] = {
+		[1] = 11168,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 38,
 	},
-	["Freshnesty"] = {
-		[1] = 1297,
+	["Manykesh"] = {
+		[1] = 3220,
 	},
-	["Anbu"] = {
-		[1] = 1329,
+	["Kurggu"] = {
+		[1] = 8089,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 20,
 	},
 	["Jhazjuk"] = {
 		[1] = 6856,
 	},
-	["Deetch"] = {
-		[1] = 10924,
+	["Diaoren"] = {
+		[1] = 4052,
 	},
 	["Bjark"] = {
 		[1] = 3649,
@@ -19649,41 +19694,44 @@ DPSMateUser = {
 	["Lava Spawn"] = {
 		[1] = 955,
 	},
-	["Sbabam"] = {
-		[1] = 11777,
+	["Ashenvale"] = {
+		[1] = 8518,
 	},
 	["Lord Kragaru"] = {
 		[1] = 12892,
 	},
-	["Crach"] = {
-		[1] = 7176,
+	["Ehq"] = {
+		[1] = 4825,
 	},
-	["Garrot"] = {
-		[1] = 5304,
+	["Abajub"] = {
+		[1] = 4770,
 	},
 	["Dreamtracker"] = {
 		[1] = 1609,
 	},
-	["Ohkillem"] = {
-		[1] = 1659,
+	["Babylone"] = {
+		[1] = 10769,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 31,
 	},
-	["Shadowforge Tunneler"] = {
-		[1] = 13243,
+	["Dedoude"] = {
+		[1] = 12795,
 	},
-	["Faylawind"] = {
-		[1] = 1071,
+	["Hrona"] = {
+		[1] = 4787,
 	},
-	["Vanaroth"] = {
-		[1] = 5252,
+	["Xdhehe"] = {
+		[1] = 10422,
 	},
 	["Vercaz"] = {
 		[1] = 12057,
 	},
-	["Batak"] = {
-		[1] = 11136,
-		[2] = "shaman",
+	["Playingwow"] = {
+		[1] = 3366,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 60,
+		[8] = 1,
 	},
 	["Tarths"] = {
 		[1] = 11567,
@@ -19694,17 +19742,17 @@ DPSMateUser = {
 	["Sheipz"] = {
 		[1] = 6983,
 	},
-	["Thurman Agamand"] = {
-		[1] = 5283,
+	["Jhomgrave"] = {
+		[1] = 8579,
 	},
 	["Afra"] = {
 		[1] = 2471,
 	},
-	["Nissa Agamand"] = {
-		[1] = 5183,
+	["Termaire"] = {
+		[1] = 6163,
 	},
-	["Freedomsky"] = {
-		[1] = 13099,
+	["Rusher"] = {
+		[1] = 10813,
 	},
 	["Bigcowsaymoo"] = {
 		[1] = 9466,
@@ -19721,11 +19769,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 1,
 	},
-	["Veim"] = {
-		[1] = 1592,
+	["Rmoss"] = {
+		[1] = 2927,
 	},
-	["Ziggystar"] = {
-		[1] = 2266,
+	["Agfghsrth"] = {
+		[1] = 13380,
 	},
 	["Vadisson"] = {
 		[1] = 9531,
@@ -19745,11 +19793,11 @@ DPSMateUser = {
 	["Chrisjohhdai"] = {
 		[1] = 11438,
 	},
-	["Crankee"] = {
-		[1] = 5112,
-		[2] = "warlock",
+	["Rajaux"] = {
+		[1] = 12213,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 33,
+		[8] = 20,
 	},
 	["Devilstoy"] = {
 		[1] = 4559,
@@ -19763,11 +19811,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 32,
 	},
-	["Simi"] = {
-		[1] = 9954,
+	["Warringace"] = {
+		[1] = 12082,
 	},
-	["Lengyei"] = {
-		[1] = 12412,
+	["Monchichi"] = {
+		[1] = 10823,
 	},
 	["Sanzom"] = {
 		[1] = 117,
@@ -19781,11 +19829,11 @@ DPSMateUser = {
 	["Tronik"] = {
 		[1] = 7696,
 	},
-	["Veliare"] = {
-		[1] = 12671,
+	["Sacle"] = {
+		[1] = 5195,
 	},
-	["Falaffle"] = {
-		[1] = 5545,
+	["Psiran"] = {
+		[1] = 4495,
 	},
 	["Rodelius"] = {
 		[1] = 10719,
@@ -19799,8 +19847,8 @@ DPSMateUser = {
 	["Bananarian"] = {
 		[1] = 7114,
 	},
-	["Zuldgrim"] = {
-		[1] = 5275,
+	["Deetch"] = {
+		[1] = 10924,
 	},
 	["Shadowfang Darksoul"] = {
 		[1] = 8616,
@@ -19811,11 +19859,11 @@ DPSMateUser = {
 	["Jwuwu"] = {
 		[1] = 12454,
 	},
-	["Beerfish"] = {
-		[1] = 13049,
+	["Froncho"] = {
+		[1] = 11539,
 	},
-	["Wdaye"] = {
-		[1] = 11958,
+	["Shuggler"] = {
+		[1] = 6023,
 	},
 	["Dalach"] = {
 		[1] = 4945,
@@ -19823,10 +19871,10 @@ DPSMateUser = {
 	["Agho"] = {
 		[1] = 7049,
 	},
-	["Rasdfers"] = {
-		[1] = 12298,
-		[2] = "warlock",
-		[3] = 1,
+	["Ingrowntony"] = {
+		[1] = 7248,
+		[2] = "mage",
+		[3] = -1,
 		[8] = 15,
 	},
 	["Jungleloveui"] = {
@@ -19838,14 +19886,14 @@ DPSMateUser = {
 	["Eisbaer"] = {
 		[1] = 4350,
 	},
-	["Cassyx"] = {
-		[1] = 9059,
+	["Avelade"] = {
+		[1] = 79,
 	},
-	["Shuggler"] = {
-		[1] = 6023,
+	["Jackdawn"] = {
+		[1] = 13042,
 	},
-	["Vono"] = {
-		[1] = 175,
+	["Dorka"] = {
+		[1] = 12587,
 	},
 	["Mojofojo"] = {
 		[1] = 10902,
@@ -19853,11 +19901,11 @@ DPSMateUser = {
 	["Crytek"] = {
 		[1] = 5607,
 	},
-	["Ingrowntony"] = {
-		[1] = 7248,
-		[2] = "mage",
+	["Deluxee"] = {
+		[1] = 10449,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 15,
+		[8] = 52,
 	},
 	["Necrolynn"] = {
 		[1] = 3048,
@@ -19865,32 +19913,29 @@ DPSMateUser = {
 	["Keirne"] = {
 		[1] = 11201,
 	},
-	["Shinrog"] = {
-		[1] = 3112,
+	["Heymi"] = {
+		[1] = 3225,
 	},
 	["Pentetica"] = {
 		[1] = 6511,
 	},
-	["Frysenlel"] = {
-		[1] = 11225,
-		[2] = "mage",
+	["Kathian"] = {
+		[1] = 4585,
+	},
+	["Galadourn"] = {
+		[1] = 12107,
+		[2] = "paladin",
 		[3] = 1,
-		[8] = 38,
+		[8] = 34,
 	},
-	["Bigmac"] = {
-		[1] = 7076,
+	["Papizzle"] = {
+		[1] = 9895,
 	},
-	["Warringace"] = {
-		[1] = 12082,
+	["Slutzwar"] = {
+		[1] = 1820,
 	},
-	["Lerssiperse"] = {
-		[1] = 10997,
-	},
-	["Korobe"] = {
-		[1] = 6799,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 17,
+	["Meupauhealer"] = {
+		[1] = 1116,
 	},
 	["Soundjah"] = {
 		[1] = 4880,
@@ -19898,17 +19943,11 @@ DPSMateUser = {
 	["Lannis"] = {
 		[1] = 8924,
 	},
-	["Brachan"] = {
-		[1] = 8725,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 17,
+	["Ezzi"] = {
+		[1] = 5049,
 	},
-	["Denladenus"] = {
-		[1] = 11272,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 33,
+	["Infras"] = {
+		[1] = 2970,
 	},
 	["Sunscale Lashtail"] = {
 		[1] = 5598,
@@ -19919,14 +19958,14 @@ DPSMateUser = {
 	["Adesia"] = {
 		[1] = 7644,
 	},
-	["Tummygrumble"] = {
-		[1] = 9686,
-		[2] = "warrior",
+	["Difection"] = {
+		[1] = 13336,
+		[2] = "priest",
 		[3] = 1,
-		[8] = 32,
+		[8] = 41,
 	},
-	["Belmat"] = {
-		[1] = 6976,
+	["Kessiamath"] = {
+		[1] = 12979,
 	},
 	["Tarantula"] = {
 		[1] = 13262,
@@ -19934,32 +19973,29 @@ DPSMateUser = {
 	["Pokonyam"] = {
 		[1] = 401,
 	},
-	["Jaggz"] = {
-		[1] = 5487,
+	["Lostlling"] = {
+		[1] = 4496,
 	},
 	["Dumraden"] = {
 		[1] = 3866,
 	},
-	["Meupauhealer"] = {
-		[1] = 1116,
+	["dath"] = {
+		[1] = 68,
 	},
-	["Gwend"] = {
-		[1] = 2005,
+	["Holte"] = {
+		[1] = 235,
 	},
-	["Tradesnake"] = {
-		[1] = 2190,
+	["Ravaged Cadaver"] = {
+		[1] = 2125,
 	},
-	["Valkiriah"] = {
-		[1] = 6288,
+	["Loistina"] = {
+		[1] = 2757,
 	},
-	["Zardell"] = {
-		[1] = 3681,
+	["Grysh"] = {
+		[1] = 13148,
 	},
-	["Kopfeule"] = {
-		[1] = 10635,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 31,
+	["Brookcee"] = {
+		[1] = 10072,
 	},
 	["Cringer"] = {
 		[1] = 779,
@@ -19970,23 +20006,20 @@ DPSMateUser = {
 	["Watsamele"] = {
 		[1] = 3807,
 	},
-	["Otherstory"] = {
-		[1] = 11762,
+	["Ziph"] = {
+		[1] = 7165,
 		[2] = "warrior",
 		[3] = -1,
-		[8] = 38,
+		[8] = 18,
 	},
-	["Nielsbohr"] = {
-		[1] = 6025,
+	["Bigbabysweet"] = {
+		[1] = 2611,
 	},
-	["Alartorlol"] = {
-		[1] = 9525,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 15,
+	["Pelvatronis"] = {
+		[1] = 7223,
 	},
-	["Grayan"] = {
-		[1] = 11321,
+	["Jahmon"] = {
+		[1] = 1717,
 	},
 	["Fallkvist"] = {
 		[1] = 11284,
@@ -19994,23 +20027,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 39,
 	},
-	["Jiuyou"] = {
-		[1] = 12825,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 38,
+	["Kurzen Jungle Fighter"] = {
+		[1] = 11260,
 	},
-	["Elpotshot"] = {
-		[1] = 8265,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 21,
+	["Longhaircn"] = {
+		[1] = 10865,
 	},
-	["Famosi"] = {
-		[1] = 574,
+	["Pottehunt"] = {
+		[1] = 7620,
 	},
-	["Merkez"] = {
-		[1] = 1526,
+	["Blini"] = {
+		[1] = 11498,
 	},
 	["Houndai"] = {
 		[1] = 12973,
@@ -20018,17 +20045,23 @@ DPSMateUser = {
 	["Maldowar"] = {
 		[1] = 7498,
 	},
-	["Kayzel"] = {
-		[1] = 13019,
+	["Valkiriah"] = {
+		[1] = 6288,
 	},
-	["Ravaged Cadaver"] = {
-		[1] = 2125,
+	["Zlax"] = {
+		[1] = 12302,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 13,
 	},
-	["Plutoniichan"] = {
-		[1] = 4253,
+	["Immanuel"] = {
+		[1] = 10437,
 	},
-	["Noctro"] = {
-		[1] = 4613,
+	["Gengge"] = {
+		[1] = 12326,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Moofire"] = {
 		[1] = 2158,
@@ -20036,14 +20069,11 @@ DPSMateUser = {
 	["Insidejob"] = {
 		[1] = 1126,
 	},
-	["Dexrog"] = {
-		[1] = 3432,
+	["Buratino"] = {
+		[1] = 5352,
 	},
-	["Sneakybones"] = {
-		[1] = 10136,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 30,
+	["Alekskan"] = {
+		[1] = 3698,
 	},
 	["Gira"] = {
 		[1] = 11504,
@@ -20057,38 +20087,37 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 4,
 	},
-	["Wuki"] = {
-		[1] = 12455,
+	["Hathgron"] = {
+		[1] = 7680,
 	},
-	["Xtech"] = {
-		[1] = 8353,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 16,
+	["Calingui"] = {
+		[1] = 4258,
 	},
-	["Boulderfist Magus"] = {
-		[1] = 12161,
+	["Garmag"] = {
+		[1] = 525,
 	},
 	["Galak Scout"] = {
 		[1] = 9613,
 	},
-	["Lobstersauce"] = {
-		[1] = 12402,
+	["Cwor"] = {
+		[1] = 4620,
 	},
 	["Wormy"] = {
 		[1] = 2910,
 	},
-	["Sarnar"] = {
-		[1] = 11411,
+	["Razorgore the Untamed"] = {
+		[1] = 1078,
 	},
-	["Hove"] = {
-		[1] = 9050,
-		[2] = "warrior",
+	["Nienna"] = {
+		[1] = 12308,
+		[2] = "hunter",
+		[3] = 1,
+	},
+	["Alartorlol"] = {
+		[1] = 9525,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 35,
-	},
-	["Hive'Zara Sandstalker"] = {
-		[1] = 882,
+		[8] = 15,
 	},
 	["Hoshikuru"] = {
 		[1] = 13150,
@@ -20102,20 +20131,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Alku"] = {
-		[1] = 8549,
+	["Trejan"] = {
+		[1] = 4878,
 	},
 	["Breviz"] = {
 		[1] = 692,
 	},
-	["Purica"] = {
-		[1] = 11900,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 38,
+	["Zarra"] = {
+		[1] = 2035,
 	},
-	["Bramholdt"] = {
-		[1] = 6262,
+	["Plutoniichan"] = {
+		[1] = 4253,
 	},
 	["Son of Arugal's Arugal"] = {
 		[1] = 8645,
@@ -20123,26 +20149,20 @@ DPSMateUser = {
 	["Wildlight"] = {
 		[1] = 5447,
 	},
-	["Mangemort"] = {
-		[1] = 8283,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 20,
+	["Sackjuice"] = {
+		[1] = 9450,
 	},
-	["Fiduciary"] = {
-		[1] = 13013,
+	["Nerzoule"] = {
+		[1] = 6374,
 	},
-	["Nopulp"] = {
-		[1] = 12622,
+	["Frogballhair"] = {
+		[1] = 1108,
 	},
 	["Muthafackez"] = {
 		[1] = 2734,
 	},
-	["Steaknife"] = {
-		[1] = 7307,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 19,
+	["Stonard Explorer"] = {
+		[1] = 13337,
 	},
 	["Stonesplinter Scout"] = {
 		[1] = 12301,
@@ -20156,47 +20176,50 @@ DPSMateUser = {
 	["Grimtotem Ruffian"] = {
 		[1] = 8064,
 	},
-	["Ezarek"] = {
-		[1] = 6827,
-	},
-	["Soulkeeper"] = {
-		[1] = 12041,
-	},
-	["Trejan"] = {
-		[1] = 4878,
-	},
-	["Asevenia"] = {
-		[1] = 6268,
-	},
-	["Thulnak"] = {
-		[1] = 7386,
-	},
-	["Kitai"] = {
-		[1] = 2935,
-	},
-	["Crazytauren"] = {
-		[1] = 7454,
-	},
-	["Boomboom"] = {
-		[1] = 6252,
-	},
 	["Kennylol"] = {
 		[1] = 3440,
 		[2] = "mage",
 		[3] = -1,
 		[8] = 4,
 	},
-	["Cheatcodes"] = {
-		[1] = 13152,
+	["Rngftwgghfgl"] = {
+		[1] = 9559,
+	},
+	["Alku"] = {
+		[1] = 8549,
+	},
+	["Asevenia"] = {
+		[1] = 6268,
+	},
+	["Nyeons"] = {
+		[1] = 11846,
+	},
+	["Kitai"] = {
+		[1] = 2935,
+	},
+	["Thuzadin Necromancer"] = {
+		[1] = 2146,
+	},
+	["Boomboom"] = {
+		[1] = 6252,
+	},
+	["Anudoranador"] = {
+		[1] = 3812,
+	},
+	["Aboreshin"] = {
+		[1] = 6177,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 12,
 	},
 	["Redscrub"] = {
 		[1] = 4129,
 	},
-	["Premoo"] = {
-		[1] = 5456,
+	["Friis"] = {
+		[1] = 1962,
 	},
-	["Blini"] = {
-		[1] = 11498,
+	["Khry"] = {
+		[1] = 6438,
 	},
 	["Baloonanimal"] = {
 		[1] = 12054,
@@ -20207,32 +20230,20 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 35,
 	},
-	["Ced"] = {
-		[1] = 11074,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Moccasin"] = {
+		[1] = 13351,
 	},
-	["Makzi"] = {
-		[1] = 10737,
+	["Tonz"] = {
+		[1] = 13137,
 	},
-	["Moobilly"] = {
-		[1] = 10200,
+	["Tarkin"] = {
+		[1] = 6993,
 	},
-	["Aikawa"] = {
-		[1] = 3109,
+	["Sezabi"] = {
+		[1] = 12184,
 	},
-	["Nalaa"] = {
-		[1] = 2482,
-	},
-	["Zebashi"] = {
-		[1] = 8154,
-	},
-	["Bullpappa"] = {
-		[1] = 23,
-	},
-	["Fearn"] = {
-		[1] = 4995,
+	["Aristomortus"] = {
+		[1] = 1017,
 	},
 	["Silverstar"] = {
 		[1] = 5619,
@@ -20240,23 +20251,33 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
+	["Bullpappa"] = {
+		[1] = 23,
+	},
+	["Loudox"] = {
+		[1] = 513,
+	},
+	["Skygem"] = {
+		[1] = 5335,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[8] = 11,
+	},
 	["Ahelm"] = {
 		[1] = 10925,
 	},
 	["Bullkiller"] = {
 		[1] = 6814,
 	},
-	["Angryboy"] = {
-		[1] = 12062,
+	["Lotharogar"] = {
+		[1] = 1263,
 	},
-	["Adget"] = {
-		[1] = 11176,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 32,
+	["Frostmaw"] = {
+		[1] = 10632,
 	},
-	["Coffin"] = {
-		[1] = 4476,
+	["Gredya"] = {
+		[1] = 4737,
 	},
 	["Rxf"] = {
 		[1] = 4527,
@@ -20264,8 +20285,8 @@ DPSMateUser = {
 	["Buyukchef"] = {
 		[1] = 1536,
 	},
-	["Xoroth"] = {
-		[1] = 3581,
+	["Aikawa"] = {
+		[1] = 3109,
 	},
 	["Scarlet Tracking Hound"] = {
 		[1] = 10590,
@@ -20276,8 +20297,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 11,
 	},
-	["Paruki"] = {
-		[1] = 12988,
+	["Thorrum"] = {
+		[1] = 5853,
 	},
 	["Foulweald Warrior"] = {
 		[1] = 9793,
@@ -20291,44 +20312,38 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 30,
 	},
+	["Isdeudoado"] = {
+		[1] = 3826,
+	},
+	["Polly"] = {
+		[1] = 7302,
+	},
+	["Sheens"] = {
+		[1] = 1571,
+	},
+	["Roxynp"] = {
+		[1] = 1687,
+	},
 	["Valurian"] = {
 		[1] = 2220,
-	},
-	["Strelokagain"] = {
-		[1] = 11928,
-	},
-	["Izzeh"] = {
-		[1] = 5651,
-	},
-	["Silberschlag"] = {
-		[1] = 11259,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 33,
-	},
-	["Asshu"] = {
-		[1] = 11357,
 	},
 	["Notmeley"] = {
 		[1] = 10378,
 	},
-	["Frostmaw"] = {
-		[1] = 10632,
+	["Tazzroc"] = {
+		[1] = 6653,
 	},
 	["Lepoulina"] = {
 		[1] = 2942,
 	},
-	["Pmioe"] = {
-		[1] = 8133,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 18,
+	["Beluri"] = {
+		[1] = 4670,
 	},
 	["Ukfu"] = {
 		[1] = 4963,
 	},
-	["Steelsak"] = {
-		[1] = 9779,
+	["Hottamale"] = {
+		[1] = 12571,
 	},
 	["Ryoklo"] = {
 		[1] = 3632,
@@ -20358,20 +20373,20 @@ DPSMateUser = {
 	["Nsfwtf"] = {
 		[1] = 10082,
 	},
-	["Syko"] = {
-		[1] = 8197,
+	["BlankName"] = {
+		[1] = 12376,
 	},
-	["Wsglord"] = {
-		[1] = 302,
+	["Hamingjagunn"] = {
+		[1] = 9739,
 	},
 	["Madasfuk"] = {
 		[1] = 2316,
 	},
-	["Phantamisque"] = {
-		[1] = 3849,
+	["Buff"] = {
+		[1] = 8393,
 	},
-	["Breamen"] = {
-		[1] = 7413,
+	["Luckylukk"] = {
+		[1] = 11340,
 	},
 	["Shaker"] = {
 		[1] = 2854,
@@ -20382,34 +20397,23 @@ DPSMateUser = {
 	["Gravelsnout Kobold"] = {
 		[1] = 9305,
 	},
-	["Sophas"] = {
-		[1] = 9698,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 27,
-	},
-	["Magecurse"] = {
-		[1] = 5409,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[7] = "NFU YOUNG GUARD",
-		[8] = 27,
-	},
 	["Antaios"] = {
 		[1] = 10479,
 	},
-	["Banato"] = {
-		[1] = 6056,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 18,
+	["Soggyshoe"] = {
+		[1] = 862,
+	},
+	["Steelsak"] = {
+		[1] = 9779,
+	},
+	["Angryboy"] = {
+		[1] = 12062,
 	},
 	["Obama"] = {
 		[1] = 11036,
 	},
-	["Shahtata"] = {
-		[1] = 2365,
+	["Deicider"] = {
+		[1] = 233,
 	},
 	["Belvhug"] = {
 		[1] = 11391,
@@ -20423,8 +20427,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 30,
 	},
-	["Rogueissick"] = {
-		[1] = 4427,
+	["Soft"] = {
+		[1] = 12744,
 	},
 	["Kiewkiew"] = {
 		[1] = 4901,
@@ -20435,17 +20439,17 @@ DPSMateUser = {
 	["Resolution"] = {
 		[1] = 13089,
 	},
-	["Saadnes"] = {
-		[1] = 8840,
+	["Ulthalesh"] = {
+		[1] = 2186,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Coregrinder"] = {
 		[1] = 11448,
 		[2] = "warlock",
 		[3] = -1,
 		[8] = 40,
-	},
-	["Elevenwolf"] = {
-		[1] = 6108,
 	},
 	["Adramelch"] = {
 		[1] = 3896,
@@ -20457,14 +20461,17 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 4,
 	},
-	["Galgarin"] = {
-		[1] = 1146,
+	["Hexmix"] = {
+		[1] = 7510,
 	},
-	["Ciaro"] = {
-		[1] = 3180,
+	["Faustwaffel"] = {
+		[1] = 2715,
 	},
-	["Cownqt"] = {
-		[1] = 5029,
+	["Soulkeeper"] = {
+		[1] = 12041,
+	},
+	["Nacho"] = {
+		[1] = 7148,
 	},
 	["Majmunerijaa"] = {
 		[1] = 13097,
@@ -20472,20 +20479,14 @@ DPSMateUser = {
 	["Menari"] = {
 		[1] = 2719,
 	},
-	["Nozkk"] = {
-		[1] = 8247,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 21,
+	["Skragg"] = {
+		[1] = 2902,
 	},
-	["Gregor Agamand"] = {
-		[1] = 5279,
+	["Venture Co. Lookout"] = {
+		[1] = 7948,
 	},
-	["Joburn"] = {
-		[1] = 11128,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 30,
+	["Rogueissick"] = {
+		[1] = 4427,
 	},
 	["Wanglifeng"] = {
 		[1] = 6712,
@@ -20496,11 +20497,11 @@ DPSMateUser = {
 	["Guikunan"] = {
 		[1] = 3089,
 	},
-	["Nacho"] = {
-		[1] = 7148,
+	["Crudiel"] = {
+		[1] = 589,
 	},
-	["Barvhug"] = {
-		[1] = 6911,
+	["Listentotool"] = {
+		[1] = 10543,
 	},
 	["Rudith"] = {
 		[1] = 12022,
@@ -20526,13 +20527,8 @@ DPSMateUser = {
 	["Glorfindrel"] = {
 		[1] = 11184,
 	},
-	["Gzhukov"] = {
-		[1] = 1434,
-		[2] = "rogue",
-		[3] = 1,
-		[4] = false,
-		[7] = "Oprah Windfury",
-		[8] = 60,
+	["Hammond"] = {
+		[1] = 891,
 	},
 	["Rkkone"] = {
 		[1] = 1510,
@@ -20554,11 +20550,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 14,
 	},
-	["Jackeo"] = {
-		[1] = 7636,
+	["Ragny"] = {
+		[1] = 13179,
 	},
-	["Alande"] = {
-		[1] = 8964,
+	["Demhag"] = {
+		[1] = 8800,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Hathgore"] = {
 		[1] = 12913,
@@ -20566,17 +20565,17 @@ DPSMateUser = {
 	["Halfr"] = {
 		[1] = 9520,
 	},
-	["Sophrenix"] = {
-		[1] = 5674,
-		[2] = "rogue",
+	["Rainight"] = {
+		[1] = 10542,
+		[2] = "hunter",
 		[3] = -1,
-		[8] = 14,
+		[8] = 60,
 	},
-	["Bonespear"] = {
-		[1] = 4615,
+	["Rivden"] = {
+		[1] = 8519,
 	},
-	["Bonfire"] = {
-		[1] = 932,
+	["Cownqt"] = {
+		[1] = 5029,
 	},
 	["Drekicorn"] = {
 		[1] = 6313,
@@ -20587,37 +20586,38 @@ DPSMateUser = {
 	["Krepa"] = {
 		[1] = 6552,
 	},
-	["Holomir"] = {
-		[1] = 11475,
-		[2] = "mage",
-		[3] = 1,
+	["Belchi"] = {
+		[1] = 4989,
 	},
 	["Yeaboii"] = {
 		[1] = 10337,
 	},
-	["Zuuye"] = {
-		[1] = 1203,
+	["Lillmissen"] = {
+		[1] = 9248,
 	},
 	["Desnatado"] = {
 		[1] = 12653,
 	},
-	["Harzok"] = {
-		[1] = 6258,
+	["Tastytaste"] = {
+		[1] = 10349,
 	},
-	["Lykingspro"] = {
-		[1] = 2060,
+	["Hubak"] = {
+		[1] = 12765,
 	},
-	["Wewlaad"] = {
-		[1] = 2506,
+	["Jjff"] = {
+		[1] = 2188,
 	},
 	["Razormane Defender"] = {
 		[1] = 6687,
 	},
-	["Rubberfist"] = {
-		[1] = 8798,
+	["Foolcat"] = {
+		[1] = 12328,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Dinkleberg"] = {
-		[1] = 462,
+	["Riski"] = {
+		[1] = 7339,
 	},
 	["Vladislavah"] = {
 		[1] = 5007,
@@ -20625,20 +20625,17 @@ DPSMateUser = {
 	["Dontouchme"] = {
 		[1] = 12724,
 	},
-	["Surox"] = {
-		[1] = 4682,
+	["Krameed"] = {
+		[1] = 6176,
 	},
-	["Rago"] = {
-		[1] = 6635,
+	["Tastypotato"] = {
+		[1] = 3249,
 	},
-	["Demhag"] = {
-		[1] = 8800,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Cerato"] = {
+		[1] = 1542,
 	},
-	["Daughter of Cenarius"] = {
-		[1] = 8224,
+	["Vlv"] = {
+		[1] = 7697,
 	},
 	["Rasperk"] = {
 		[1] = 10599,
@@ -20652,11 +20649,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 29,
 	},
-	["Moskusox"] = {
-		[1] = 4907,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 5,
+	["yewude"] = {
+		[1] = 6926,
 	},
 	["Warmowler"] = {
 		[1] = 5978,
@@ -20675,41 +20669,35 @@ DPSMateUser = {
 	["Magelock"] = {
 		[1] = 11938,
 	},
-	["Zhevrarunner"] = {
-		[1] = 5734,
+	["Karasuna"] = {
+		[1] = 10963,
 	},
-	["Nixonprime"] = {
-		[1] = 6920,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 15,
+	["Rago"] = {
+		[1] = 6635,
 	},
 	["Deathguard Abraham"] = {
 		[1] = 4803,
 	},
-	["Xuminger"] = {
-		[1] = 11431,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 32,
+	["Benbendi"] = {
+		[1] = 7894,
 	},
-	["Micay"] = {
-		[1] = 1774,
+	["Martinl"] = {
+		[1] = 10481,
 	},
-	["Rainight"] = {
-		[1] = 10542,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 60,
+	["Makzazt"] = {
+		[1] = 7930,
 	},
 	["Prepwork"] = {
 		[1] = 8469,
 	},
-	["Rivden"] = {
-		[1] = 8519,
+	["Hegernora"] = {
+		[1] = 10801,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 31,
 	},
-	["Lillmissen"] = {
-		[1] = 9248,
+	["Aogodie"] = {
+		[1] = 4586,
 	},
 	["Creaturee"] = {
 		[1] = 597,
@@ -20720,32 +20708,41 @@ DPSMateUser = {
 	["Pamore"] = {
 		[1] = 8859,
 	},
-	["Loat"] = {
-		[1] = 1313,
+	["Donkye"] = {
+		[1] = 1997,
 	},
 	["Grimmjaw"] = {
 		[1] = 5076,
 	},
-	["Tastytaste"] = {
-		[1] = 10349,
+	["Celdoir"] = {
+		[1] = 5188,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 9,
 	},
 	["Bibibizak"] = {
 		[1] = 6986,
 	},
-	["Friis"] = {
-		[1] = 1962,
+	["Spookykid"] = {
+		[1] = 5702,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 10,
 	},
 	["Majlocekca"] = {
 		[1] = 1545,
 	},
-	["Soopersaiyan"] = {
-		[1] = 3500,
+	["Arachno"] = {
+		[1] = 13368,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 3,
 	},
 	["Vanillalul"] = {
 		[1] = 1556,
 	},
-	["Shuriken"] = {
-		[1] = 125,
+	["Edente"] = {
+		[1] = 12711,
 	},
 	["Festermaker"] = {
 		[1] = 10076,
@@ -20756,23 +20753,29 @@ DPSMateUser = {
 	["Mahtava"] = {
 		[1] = 5847,
 	},
-	["Forkjuice"] = {
-		[1] = 7122,
-		[2] = "rogue",
+	["Rottyx"] = {
+		[1] = 114,
+		[2] = "hunter",
 		[3] = -1,
-		[8] = 22,
+		[4] = false,
+		[5] = "nariNeko",
+		[7] = "F U N",
+		[8] = 60,
 	},
-	["Kariyo"] = {
-		[1] = 5365,
+	["Yestalrius"] = {
+		[1] = 119,
 	},
-	["Synchrotron"] = {
-		[1] = 6153,
+	["Powpowcow"] = {
+		[1] = 9462,
 	},
-	["Liquidy"] = {
-		[1] = 13095,
+	["Trump"] = {
+		[1] = 11404,
 	},
-	["Aiitem"] = {
-		[1] = 10278,
+	["Xuminger"] = {
+		[1] = 11431,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 32,
 	},
 	["Yragael"] = {
 		[1] = 11648,
@@ -20795,43 +20798,47 @@ DPSMateUser = {
 	["Yoker"] = {
 		[1] = 8350,
 	},
-	["Thoggore"] = {
-		[1] = 7077,
+	["Hezzlich"] = {
+		[1] = 9855,
 	},
-	["Sstr"] = {
-		[1] = 10115,
+	["Yazzuh"] = {
+		[1] = 9184,
 	},
 	["Duderino"] = {
 		[1] = 108,
 	},
-	["Farroshgan"] = {
-		[1] = 6569,
+	["Casserf"] = {
+		[1] = 10818,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 29,
 	},
-	["Venikk"] = {
-		[1] = 11150,
-		[2] = "mage",
-		[3] = 1,
+	["Mitsuha"] = {
+		[1] = 7627,
 	},
-	["Reckzoning"] = {
-		[1] = 1978,
+	["Secreted"] = {
+		[1] = 12015,
 	},
 	["Necro Knight"] = {
 		[1] = 2336,
 	},
-	["Depalma"] = {
-		[1] = 11607,
+	["Vitbyo"] = {
+		[1] = 4118,
 	},
 	["Zhongguodalu"] = {
 		[1] = 11161,
 	},
-	["Serpentstin"] = {
-		[1] = 7611,
+	["Vile Fin Minor Oracle"] = {
+		[1] = 4858,
 	},
-	["Fukhed"] = {
-		[1] = 5473,
+	["Kmen"] = {
+		[1] = 10013,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 22,
 	},
-	["Leoric"] = {
-		[1] = 9528,
+	["Sifmuna"] = {
+		[1] = 2718,
 	},
 	["Oldgunkevin"] = {
 		[1] = 12043,
@@ -20839,11 +20846,11 @@ DPSMateUser = {
 	["Coker"] = {
 		[1] = 2871,
 	},
-	["Powpowcow"] = {
-		[1] = 9462,
+	["Sparkleshell Tortoise"] = {
+		[1] = 10785,
 	},
-	["Dreamhunterr"] = {
-		[1] = 4380,
+	["Ogkushed"] = {
+		[1] = 654,
 	},
 	["Foker"] = {
 		[1] = 1548,
@@ -20851,14 +20858,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Hotaber"] = {
-		[1] = 8911,
-		[2] = "warrior",
+	["Dalleballe"] = {
+		[1] = 7316,
+		[2] = "druid",
 		[3] = -1,
-		[8] = 9,
+		[8] = 13,
 	},
-	["Schwart"] = {
-		[1] = 4796,
+	["Yalo"] = {
+		[1] = 10970,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 23,
 	},
 	["Bepx"] = {
 		[1] = 8131,
@@ -20869,14 +20879,14 @@ DPSMateUser = {
 	["Podag"] = {
 		[1] = 6913,
 	},
-	["Thruzz"] = {
-		[1] = 3824,
+	["Maeve"] = {
+		[1] = 6439,
 	},
 	["Vladymir"] = {
 		[1] = 3560,
 	},
-	["Senzor"] = {
-		[1] = 10250,
+	["Chuikin"] = {
+		[1] = 7760,
 	},
 	["Beefybro"] = {
 		[1] = 5592,
@@ -20896,26 +20906,23 @@ DPSMateUser = {
 	["Xyst"] = {
 		[1] = 1813,
 	},
-	["Javiery"] = {
-		[1] = 4222,
-	},
-	["Baaliisu"] = {
-		[1] = 2627,
-	},
-	["Warnoxx"] = {
-		[1] = 6628,
-	},
-	["Emzs"] = {
-		[1] = 12428,
-		[2] = "warrior",
+	["Fnatic"] = {
+		[1] = 5235,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 36,
+		[8] = 8,
 	},
-	["Vanpoop"] = {
-		[1] = 2702,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 60,
+	["Anubisath Guardian"] = {
+		[1] = 879,
+	},
+	["Kariyo"] = {
+		[1] = 5365,
+	},
+	["Furiousman"] = {
+		[1] = 1877,
+	},
+	["Achilius"] = {
+		[1] = 10239,
 	},
 	["Skeatso"] = {
 		[1] = 11139,
@@ -20929,8 +20936,8 @@ DPSMateUser = {
 	["Ibra"] = {
 		[1] = 8430,
 	},
-	["Wesbit"] = {
-		[1] = 10531,
+	["Thoggore"] = {
+		[1] = 7077,
 	},
 	["Vampiric Duskbat"] = {
 		[1] = 3914,
@@ -20938,11 +20945,8 @@ DPSMateUser = {
 	["Razzashi Venombrood"] = {
 		[1] = 338,
 	},
-	["Yalo"] = {
-		[1] = 10970,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 23,
+	["Jenbonbeurre"] = {
+		[1] = 8059,
 	},
 	["Phillysovs"] = {
 		[1] = 8499,
@@ -20959,32 +20963,26 @@ DPSMateUser = {
 	["Bluntlife"] = {
 		[1] = 8268,
 	},
-	["Furiousman"] = {
-		[1] = 1877,
+	["Tackar"] = {
+		[1] = 10483,
 	},
 	["Monken"] = {
 		[1] = 8821,
 	},
-	["Snorky"] = {
-		[1] = 1601,
+	["Mosshorn"] = {
+		[1] = 9872,
 	},
-	["Dellarocco"] = {
-		[1] = 1480,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 60,
+	["Serpentstin"] = {
+		[1] = 7611,
 	},
 	["Smorr"] = {
 		[1] = 2321,
 	},
-	["Tartaar"] = {
-		[1] = 5519,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 12,
+	["Liberty"] = {
+		[1] = 1386,
 	},
-	["Memnoche"] = {
-		[1] = 8832,
+	["Weezyfbaby"] = {
+		[1] = 5668,
 	},
 	["Comehere"] = {
 		[1] = 2029,
@@ -20992,8 +20990,11 @@ DPSMateUser = {
 	["Sheepsquatch"] = {
 		[1] = 7751,
 	},
-	["Dstalkerk"] = {
-		[1] = 9341,
+	["Pingguos"] = {
+		[1] = 3068,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 1,
 	},
 	["Kojekodkoje"] = {
 		[1] = 487,
@@ -21001,47 +21002,44 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Subvert"] = {
-		[1] = 1879,
+	["Imao"] = {
+		[1] = 8848,
 	},
 	["Bearchief"] = {
 		[1] = 9761,
 	},
-	["Gakrin"] = {
-		[1] = 5063,
+	["Holiander"] = {
+		[1] = 13021,
 	},
 	["Bonnyfist"] = {
 		[1] = 3709,
 	},
-	["Cerc"] = {
-		[1] = 6077,
+	["Zibe"] = {
+		[1] = 11008,
 	},
-	["Amble"] = {
-		[1] = 9640,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 27,
+	["you"] = {
+		[1] = 880,
 	},
 	["Kaltluft"] = {
 		[1] = 13088,
 	},
-	["Methodic"] = {
-		[1] = 11622,
+	["Pigofjap"] = {
+		[1] = 8733,
 	},
 	["Dufa"] = {
 		[1] = 2463,
 	},
-	["Masul"] = {
-		[1] = 6073,
+	["Zanurom"] = {
+		[1] = 7371,
 	},
 	["Wildthorn Venomspitter"] = {
 		[1] = 10222,
 	},
-	["Jahmon"] = {
-		[1] = 1717,
+	["Ponyjuice"] = {
+		[1] = 10407,
 	},
-	["Pipbis"] = {
-		[1] = 5167,
+	["Wesbit"] = {
+		[1] = 10531,
 	},
 	["Trisulium"] = {
 		[1] = 8811,
@@ -21049,34 +21047,28 @@ DPSMateUser = {
 	["Wily Fey Dragon"] = {
 		[1] = 8259,
 	},
-	["Ormthyk"] = {
-		[1] = 11656,
-		[4] = true,
-		[6] = 11310,
+	["Garmitua"] = {
+		[1] = 5286,
 	},
-	["Ebat"] = {
-		[1] = 8192,
-		[2] = "hunter",
-		[3] = -1,
-		[4] = false,
-		[5] = "Sleng",
-		[7] = "Nal Ra",
-		[8] = 24,
+	["Hdmi"] = {
+		[1] = 440,
 	},
-	["Zanurom"] = {
-		[1] = 7371,
+	["Taikojatar"] = {
+		[1] = 10939,
+		[2] = "mage",
+		[3] = 1,
 	},
-	["DummeGris"] = {
-		[1] = 7943,
+	["Bullflem"] = {
+		[1] = 12984,
 	},
-	["Cernn"] = {
-		[1] = 6423,
+	["Rowhat"] = {
+		[1] = 9051,
 	},
 	["Wiliem"] = {
 		[1] = 3795,
 	},
-	["Magemon"] = {
-		[1] = 1132,
+	["Mordecai"] = {
+		[1] = 4885,
 	},
 	["Zanijiabolii"] = {
 		[1] = 11991,
@@ -21096,8 +21088,8 @@ DPSMateUser = {
 	["Samantha"] = {
 		[1] = 11691,
 	},
-	["Azurakitsune"] = {
-		[1] = 8413,
+	["Pipbis"] = {
+		[1] = 5167,
 	},
 	["Cityniu"] = {
 		[1] = 12325,
@@ -21117,8 +21109,8 @@ DPSMateUser = {
 	["Tptr"] = {
 		[1] = 2067,
 	},
-	["Sneezdat"] = {
-		[1] = 2290,
+	["Chiroc"] = {
+		[1] = 3005,
 	},
 	["Rocksmasherx"] = {
 		[1] = 6393,
@@ -21126,17 +21118,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Deadnox"] = {
-		[1] = 3793,
+	["Cerc"] = {
+		[1] = 6077,
 	},
 	["Stromgarde Vindicator"] = {
 		[1] = 12448,
 	},
-	["Dorian"] = {
-		[1] = 137,
+	["Kalias"] = {
+		[1] = 257,
 	},
-	["Willemgrast"] = {
-		[1] = 3447,
+	["Samnotwise"] = {
+		[1] = 7966,
 	},
 	["Anarch"] = {
 		[1] = 1141,
@@ -21150,17 +21142,14 @@ DPSMateUser = {
 	["Nekrosian"] = {
 		[1] = 8496,
 	},
-	["Boscher"] = {
-		[1] = 6128,
+	["Warbarbiex"] = {
+		[1] = 12033,
 	},
 	["Desiigns"] = {
 		[1] = 13323,
 	},
-	["Bigbuddy"] = {
-		[1] = 9084,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 60,
+	["Fearlife"] = {
+		[1] = 10178,
 	},
 	["Nichole"] = {
 		[1] = 3991,
@@ -21176,8 +21165,11 @@ DPSMateUser = {
 		[4] = true,
 		[6] = 1914,
 	},
-	["Catul"] = {
-		[1] = 2861,
+	["Shoker"] = {
+		[1] = 455,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Gwendir"] = {
 		[1] = 2045,
@@ -21194,8 +21186,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 22,
 	},
-	["Marjge"] = {
-		[1] = 2713,
+	["Wailing Guardsman"] = {
+		[1] = 8617,
 	},
 	["Gwelim"] = {
 		[1] = 6564,
@@ -21203,11 +21195,11 @@ DPSMateUser = {
 	["Deerman"] = {
 		[1] = 2805,
 	},
-	["Filenos"] = {
-		[1] = 4479,
+	["Deuszeus"] = {
+		[1] = 3449,
 	},
-	["Ragged Scavenger"] = {
-		[1] = 3240,
+	["Rizlard"] = {
+		[1] = 12355,
 	},
 	["Torhace"] = {
 		[1] = 7129,
@@ -21215,17 +21207,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 21,
 	},
-	["Wargons"] = {
-		[1] = 11538,
+	["Zeifur"] = {
+		[1] = 9636,
 	},
-	["Rizlard"] = {
-		[1] = 12355,
+	["Whaeva"] = {
+		[1] = 2390,
 	},
-	["Sultras"] = {
-		[1] = 5658,
+	["Boscher"] = {
+		[1] = 6128,
 	},
-	["Prairie Wolf Alpha"] = {
-		[1] = 6575,
+	["Dorian"] = {
+		[1] = 137,
 	},
 	["Dardaelx"] = {
 		[1] = 2858,
@@ -21236,59 +21228,56 @@ DPSMateUser = {
 	["Fimbulwinter"] = {
 		[1] = 9253,
 	},
-	["Gnarl"] = {
-		[1] = 3051,
+	["Zynos"] = {
+		[1] = 8985,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 20,
 	},
 	["Astronomical"] = {
 		[1] = 10402,
 	},
-	["Fanyin"] = {
-		[1] = 8460,
+	["Chapkins"] = {
+		[1] = 7552,
 	},
 	["Hera"] = {
 		[1] = 3841,
 	},
-	["Youdienao"] = {
-		[1] = 2017,
+	["Modest"] = {
+		[1] = 11729,
 	},
-	["Ghostdw"] = {
-		[1] = 9641,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 32,
+	["Meandmymage"] = {
+		[1] = 3814,
 	},
-	["Craxtaplow"] = {
-		[1] = 12157,
+	["Sargarth"] = {
+		[1] = 5560,
 	},
 	["Khaarym"] = {
 		[1] = 169,
 	},
-	["Alczervik"] = {
-		[1] = 8134,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 20,
+	["Hreim"] = {
+		[1] = 4745,
 	},
 	["Lizardbr"] = {
 		[1] = 3998,
 	},
-	["Zanji"] = {
-		[1] = 677,
+	["Trolina"] = {
+		[1] = 1391,
 	},
-	["Raackkrarc"] = {
-		[1] = 5996,
+	["Muchobueno"] = {
+		[1] = 5714,
 	},
-	["Zeduce"] = {
-		[1] = 7976,
+	["Crimewave"] = {
+		[1] = 1213,
 	},
-	["Gudfader"] = {
-		[1] = 11562,
-	},
-	["Hoolymoly"] = {
-		[1] = 11181,
+	["Icyfingaz"] = {
+		[1] = 13364,
 		[2] = "mage",
-		[3] = 1,
-		[8] = 34,
+		[3] = -1,
+		[8] = 3,
+	},
+	["Marjge"] = {
+		[1] = 2713,
 	},
 	["Shaarym"] = {
 		[1] = 2879,
@@ -21302,17 +21291,23 @@ DPSMateUser = {
 	["Chafar"] = {
 		[1] = 6889,
 	},
-	["Vonob"] = {
-		[1] = 208,
+	["Finafear"] = {
+		[1] = 3545,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 6,
 	},
-	["Doireana"] = {
-		[1] = 2729,
+	["Waagle"] = {
+		[1] = 10461,
 	},
 	["Enrag"] = {
 		[1] = 6416,
 	},
-	["Moscfield"] = {
-		[1] = 8356,
+	["Kiovsky"] = {
+		[1] = 13303,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 24,
 	},
 	["Searing Totem VI"] = {
 		[1] = 278,
@@ -21320,11 +21315,11 @@ DPSMateUser = {
 	["Dov"] = {
 		[1] = 12754,
 	},
-	["Battle Chicken"] = {
-		[1] = 11369,
+	["Akioth"] = {
+		[1] = 12321,
 	},
-	["Gejseks"] = {
-		[1] = 151,
+	["Bloodscalp Witch Doctor"] = {
+		[1] = 11833,
 	},
 	["Shialabluff"] = {
 		[1] = 3634,
@@ -21347,14 +21342,14 @@ DPSMateUser = {
 	["Worldss"] = {
 		[1] = 10921,
 	},
-	["Lairon"] = {
-		[1] = 9081,
+	["Pslsimo"] = {
+		[1] = 1191,
 	},
 	["Surprize"] = {
 		[1] = 228,
 	},
-	["Laughingmumu"] = {
-		[1] = 10231,
+	["Scarlet Zealot"] = {
+		[1] = 5044,
 	},
 	["Drag"] = {
 		[1] = 3854,
@@ -21371,14 +21366,14 @@ DPSMateUser = {
 	["Geen"] = {
 		[1] = 181,
 	},
-	["Ghostpaw Howler"] = {
-		[1] = 8735,
+	["Roxylin"] = {
+		[1] = 2006,
 	},
 	["Cyberfriendx"] = {
 		[1] = 8654,
 	},
-	["Classe"] = {
-		[1] = 910,
+	["Okudnik"] = {
+		[1] = 3754,
 	},
 	["Heilandrs"] = {
 		[1] = 7484,
@@ -21395,11 +21390,11 @@ DPSMateUser = {
 	["Kikkelihihi"] = {
 		[1] = 2218,
 	},
-	["Montayn"] = {
-		[1] = 6085,
+	["Guzaa"] = {
+		[1] = 6138,
 	},
-	["Rowzy"] = {
-		[1] = 3173,
+	["Rargot"] = {
+		[1] = 10056,
 	},
 	["Palacio"] = {
 		[1] = 7312,
@@ -21421,36 +21416,19 @@ DPSMateUser = {
 	["Ozonegtx"] = {
 		[1] = 7058,
 	},
-	["Athelia"] = {
-		[1] = 1637,
-		[2] = "paladin",
-		[3] = -1,
-		[8] = 60,
+	["Sarrowind"] = {
+		[1] = 2078,
 	},
-	["Zaih"] = {
-		[1] = 6617,
+	["àÏ\n"] = {
+		[1] = 1747,
+		[4] = true,
+		[6] = 1731,
 	},
-	["Malakoii"] = {
-		[1] = 4022,
+	["Nokgup"] = {
+		[1] = 7917,
 	},
 	["Slaya"] = {
 		[1] = 12080,
-	},
-	["Angryminti"] = {
-		[1] = 1454,
-		[2] = "rogue",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
-	},
-	["Jumbai"] = {
-		[1] = 10466,
-	},
-	["Moccasin"] = {
-		[1] = 13351,
-	},
-	["Ninenkives"] = {
-		[1] = 3623,
 	},
 	["Trollestia"] = {
 		[1] = 5830,
@@ -21458,17 +21436,35 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
+	["Jumbai"] = {
+		[1] = 10466,
+	},
+	["Moovment"] = {
+		[1] = 8852,
+	},
+	["Aijiaxue"] = {
+		[1] = 12362,
+	},
+	["Giggle"] = {
+		[1] = 3980,
+	},
 	["Hatefury Hellcaller"] = {
 		[1] = 10849,
 	},
-	["Drywhisker Surveyor"] = {
-		[1] = 12068,
+	["Bowsnroses"] = {
+		[1] = 10854,
 	},
-	["Haramage"] = {
-		[1] = 5098,
+	["Longclaw"] = {
+		[1] = 7566,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 20,
 	},
-	["Szynszyll"] = {
-		[1] = 4424,
+	["Taijma"] = {
+		[1] = 11753,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 18,
 	},
 	["Violetti"] = {
 		[1] = 10367,
@@ -21479,47 +21475,50 @@ DPSMateUser = {
 	["Jioki"] = {
 		[1] = 11469,
 	},
-	["Moovment"] = {
-		[1] = 8852,
+	["Ghostpaw Howler"] = {
+		[1] = 8735,
 	},
-	["Grimboo"] = {
-		[1] = 5486,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Knivmord"] = {
+		[1] = 13081,
 	},
 	["Zexcor"] = {
 		[1] = 3083,
 	},
-	["Birdhome"] = {
-		[1] = 10280,
+	["Abnoosh"] = {
+		[1] = 12096,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 32,
 	},
 	["Sinistre"] = {
 		[1] = 4445,
 	},
-	["Dennisvinson"] = {
-		[1] = 8054,
-		[2] = "warrior",
+	["Swagspeare"] = {
+		[1] = 9616,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 19,
+		[8] = 30,
 	},
-	["Pullagullan"] = {
-		[1] = 3641,
-		[2] = "priest",
+	["Killerpoison"] = {
+		[1] = 8317,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 5,
+		[8] = 20,
 	},
 	["Barg"] = {
 		[1] = 7007,
 	},
-	["Pvedps"] = {
-		[1] = 1230,
+	["Bebegay"] = {
+		[1] = 2117,
 	},
-	["Padish"] = {
-		[1] = 7734,
+	["Drywhisker Surveyor"] = {
+		[1] = 12068,
 	},
-	["Nikikiti"] = {
-		[1] = 9398,
+	["Frontex"] = {
+		[1] = 11173,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 31,
 	},
 	["Spytechseven"] = {
 		[1] = 6934,
@@ -21527,29 +21526,35 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 22,
 	},
-	["Leekiller"] = {
-		[1] = 7820,
+	["Sandoruk"] = {
+		[1] = 11285,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 37,
 	},
 	["Unknown's Arugal"] = {
 		[1] = 8629,
 	},
-	["Cherry"] = {
-		[1] = 11266,
+	["Iwilldotyou"] = {
+		[1] = 13017,
 	},
-	["Frosthynlol"] = {
-		[1] = 11995,
+	["Fivdem"] = {
+		[1] = 9174,
 	},
-	["Haricotmagik"] = {
-		[1] = 4937,
+	["Piesehunter"] = {
+		[1] = 7598,
 	},
-	["Shprotik"] = {
-		[1] = 12619,
+	["Weakst"] = {
+		[1] = 10603,
 	},
-	["Tutmanik"] = {
-		[1] = 4396,
+	["Austinnb"] = {
+		[1] = 7796,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 34,
 	},
-	["Anomalus"] = {
-		[1] = 12650,
+	["Pissuglycow"] = {
+		[1] = 2352,
 	},
 	["Heavenblue"] = {
 		[1] = 7623,
@@ -21572,8 +21577,8 @@ DPSMateUser = {
 	["Troglodites"] = {
 		[1] = 6115,
 	},
-	["Poppytee"] = {
-		[1] = 12928,
+	["Snake"] = {
+		[1] = 328,
 	},
 	["Fakesummer"] = {
 		[1] = 4772,
@@ -21581,26 +21586,23 @@ DPSMateUser = {
 	["Voilax"] = {
 		[1] = 1889,
 	},
-	["Venture Co. Mechanic"] = {
-		[1] = 11651,
+	["Lustmorde"] = {
+		[1] = 9982,
 	},
-	["Belkaworld"] = {
-		[1] = 5980,
+	["Klinta"] = {
+		[1] = 4178,
 	},
 	["Young Pridewing"] = {
 		[1] = 8166,
 	},
-	["Arachno"] = {
-		[1] = 13368,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 3,
+	["Retaur"] = {
+		[1] = 9507,
 	},
-	["Defuqiaokeli"] = {
-		[1] = 12668,
+	["Lovebacon"] = {
+		[1] = 3370,
 	},
-	["Fivdem"] = {
-		[1] = 9174,
+	["Vihn"] = {
+		[1] = 2104,
 	},
 	["Mimmsy"] = {
 		[1] = 8920,
@@ -21608,11 +21610,8 @@ DPSMateUser = {
 	["Searing Blade Enforcer"] = {
 		[1] = 6352,
 	},
-	["Agric"] = {
-		[1] = 5710,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 20,
+	["Anomalus"] = {
+		[1] = 12650,
 	},
 	["Kyrp√§jyr√§"] = {
 		[1] = 142,
@@ -21632,32 +21631,37 @@ DPSMateUser = {
 	["Mlsha"] = {
 		[1] = 1971,
 	},
-	["Tanggrave"] = {
-		[1] = 5771,
-	},
 	["Drogongos"] = {
 		[1] = 5972,
+	},
+	["Sukavijin"] = {
+		[1] = 5833,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[7] = "KUKAN",
+		[8] = 30,
 	},
 	["Budz"] = {
 		[1] = 6099,
 	},
-	["Bwat"] = {
-		[1] = 2575,
+	["Wishme"] = {
+		[1] = 5325,
 	},
-	["Twothehard"] = {
-		[1] = 4669,
+	["Nlsha"] = {
+		[1] = 2030,
 	},
-	["Jackraven"] = {
-		[1] = 8842,
+	["Skion"] = {
+		[1] = 5856,
 	},
-	["Nohost"] = {
-		[1] = 7245,
+	["Yojimb"] = {
+		[1] = 8683,
 	},
-	["Loumrien"] = {
-		[1] = 454,
+	["Krusifix"] = {
+		[1] = 675,
 	},
-	["Bowseason"] = {
-		[1] = 8381,
+	["Hadaluz"] = {
+		[1] = 373,
 	},
 	["Timeilao"] = {
 		[1] = 10660,
@@ -21665,29 +21669,35 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 34,
 	},
-	["Xayko"] = {
-		[1] = 8682,
+	["Kappaclaus"] = {
+		[1] = 3050,
 	},
-	["Metric"] = {
-		[1] = 1533,
-	},
-	["Johnlockk"] = {
-		[1] = 3719,
+	["Prokkaza"] = {
+		[1] = 1481,
 		[2] = "warlock",
 		[3] = -1,
-		[8] = 28,
+		[4] = false,
+		[5] = "Abatog",
+		[8] = 60,
 	},
-	["Naratus"] = {
-		[1] = 7132,
-		[2] = "warrior",
+	["Mackjack"] = {
+		[1] = 8855,
+	},
+	["Descendh"] = {
+		[1] = 2947,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 17,
+		[8] = 38,
 	},
-	["Farmmage"] = {
-		[1] = 2521,
+	["Elfanion"] = {
+		[1] = 1995,
 	},
-	["Infexius"] = {
-		[1] = 3197,
+	["Takamura"] = {
+		[1] = 3700,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[8] = 5,
 	},
 	["Wermy"] = {
 		[1] = 1433,
@@ -21702,17 +21712,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Skion"] = {
-		[1] = 5856,
+	["Holybubbles"] = {
+		[1] = 1954,
 	},
-	["Ephius"] = {
-		[1] = 10386,
+	["Planetmargin"] = {
+		[1] = 11775,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 41,
 	},
 	["Bhuckfutter"] = {
 		[1] = 8837,
 	},
-	["Eitiano"] = {
-		[1] = 852,
+	["Smileyface"] = {
+		[1] = 13278,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 34,
 	},
 	["Living Monstrosity"] = {
 		[1] = 2746,
@@ -21735,8 +21751,8 @@ DPSMateUser = {
 	["Bloodscalp Beastmaster"] = {
 		[1] = 11407,
 	},
-	["Bloodmage Thalnos"] = {
-		[1] = 10581,
+	["Xxanas"] = {
+		[1] = 12020,
 	},
 	["Sapisa"] = {
 		[1] = 3785,
@@ -21754,8 +21770,8 @@ DPSMateUser = {
 	["Dandell"] = {
 		[1] = 6957,
 	},
-	["Perci"] = {
-		[1] = 3950,
+	["Illakajl"] = {
+		[1] = 10298,
 	},
 	["Blinkboom"] = {
 		[1] = 289,
@@ -21766,8 +21782,8 @@ DPSMateUser = {
 	["Roverandol"] = {
 		[1] = 10198,
 	},
-	["Xuningll"] = {
-		[1] = 10684,
+	["Ep"] = {
+		[1] = 2836,
 	},
 	["Rexaz"] = {
 		[1] = 11783,
@@ -21786,23 +21802,20 @@ DPSMateUser = {
 		[4] = true,
 		[6] = 1055,
 	},
-	["Ongongall"] = {
-		[1] = 2479,
+	["Alvyna"] = {
+		[1] = 7657,
 	},
 	["Plookje"] = {
 		[1] = 11319,
 	},
-	["Nians"] = {
-		[1] = 1674,
+	["Mssh"] = {
+		[1] = 6570,
 	},
 	["Tognus"] = {
 		[1] = 4572,
 	},
-	["Hegernora"] = {
-		[1] = 10801,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 31,
+	["Thunderbeat"] = {
+		[1] = 2346,
 	},
 	["Yue"] = {
 		[1] = 12397,
@@ -21813,17 +21826,14 @@ DPSMateUser = {
 	["Rock Elemental"] = {
 		[1] = 12408,
 	},
-	["Stranglethorn Tiger"] = {
-		[1] = 11193,
-	},
 	["Mommo"] = {
 		[1] = 1106,
 	},
-	["Planetmargin"] = {
-		[1] = 11775,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 41,
+	["Stupidrat"] = {
+		[1] = 6057,
+	},
+	["Crackit"] = {
+		[1] = 3559,
 	},
 	["Xxnnoo"] = {
 		[1] = 13015,
@@ -21837,20 +21847,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 30,
 	},
-	["Belmon"] = {
-		[1] = 7153,
+	["Fistpain"] = {
+		[1] = 12923,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 38,
 	},
-	["Lockdan"] = {
-		[1] = 3779,
+	["Joukahain"] = {
+		[1] = 187,
 	},
-	["Delamp"] = {
-		[1] = 8822,
+	["Shukah"] = {
+		[1] = 8963,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 22,
 	},
 	["Teddynalle"] = {
 		[1] = 3372,
 	},
-	["Battleready"] = {
-		[1] = 4992,
+	["Abrothiam"] = {
+		[1] = 5786,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 16,
 	},
 	["Bael'dun Foreman"] = {
 		[1] = 9256,
@@ -21858,26 +21877,26 @@ DPSMateUser = {
 	["Slashdev"] = {
 		[1] = 10900,
 	},
-	["Dunnekoe"] = {
-		[1] = 9677,
+	["Qppa"] = {
+		[1] = 11760,
 	},
-	["Zlonxy"] = {
-		[1] = 12453,
-		[2] = "priest",
+	["Outdoorboss"] = {
+		[1] = 2458,
+		[2] = "paladin",
 		[3] = 1,
-		[8] = 39,
+		[8] = 60,
 	},
 	["Rektkek"] = {
 		[1] = 3222,
 	},
-	["Klap"] = {
-		[1] = 2462,
+	["Biggestboss"] = {
+		[1] = 1695,
 	},
-	["Giuliani"] = {
-		[1] = 8754,
+	["Alexxs"] = {
+		[1] = 11875,
 	},
-	["Djmengele"] = {
-		[1] = 9231,
+	["Razorfen Handler"] = {
+		[1] = 9350,
 	},
 	["Laothin"] = {
 		[1] = 1159,
@@ -21885,8 +21904,11 @@ DPSMateUser = {
 	["Naokeguang"] = {
 		[1] = 11722,
 	},
-	["Giant Moss Creeper"] = {
-		[1] = 10223,
+	["Pormenores"] = {
+		[1] = 7164,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 19,
 	},
 	["Greencake"] = {
 		[1] = 8588,
@@ -21894,11 +21916,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 29,
 	},
-	["Hunnin"] = {
-		[1] = 10471,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 7,
+	["Djmengele"] = {
+		[1] = 9231,
 	},
 	["Bazzalan"] = {
 		[1] = 6358,
@@ -21912,11 +21931,13 @@ DPSMateUser = {
 	["Shsnow"] = {
 		[1] = 3171,
 	},
-	["Finalflashx"] = {
-		[1] = 1573,
+	["Khiimyn"] = {
+		[1] = 1916,
+		[4] = true,
+		[6] = 1860,
 	},
-	["Stupidrat"] = {
-		[1] = 6057,
+	["Sartura's Royal Guard"] = {
+		[1] = 2586,
 	},
 	["Zigmat"] = {
 		[1] = 7656,
@@ -21924,8 +21945,8 @@ DPSMateUser = {
 	["Kasiol"] = {
 		[1] = 1847,
 	},
-	["Hotham"] = {
-		[1] = 8669,
+	["Yoshkj"] = {
+		[1] = 9585,
 	},
 	["Xiboo"] = {
 		[1] = 3330,
@@ -21933,17 +21954,14 @@ DPSMateUser = {
 	["Orimligt"] = {
 		[1] = 3787,
 	},
-	["Outdoorboss"] = {
-		[1] = 2458,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 60,
+	["Cenarion Vindicator"] = {
+		[1] = 10164,
 	},
 	["Gushao"] = {
 		[1] = 3724,
 	},
-	["Bloodscalp Shaman"] = {
-		[1] = 11365,
+	["Frozenmeow"] = {
+		[1] = 1179,
 	},
 	["Iminurbutt"] = {
 		[1] = 2416,
@@ -21954,11 +21972,14 @@ DPSMateUser = {
 	["Skum"] = {
 		[1] = 7534,
 	},
-	["Slipshot"] = {
-		[1] = 300,
+	["Thisman"] = {
+		[1] = 855,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Lelue"] = {
-		[1] = 1038,
+	["Nuttyy"] = {
+		[1] = 9972,
 	},
 	["Drphunkzcya"] = {
 		[1] = 6494,
@@ -21972,8 +21993,8 @@ DPSMateUser = {
 	["Abaoer"] = {
 		[1] = 9914,
 	},
-	["Pegatasxd"] = {
-		[1] = 3301,
+	["Raffy"] = {
+		[1] = 4171,
 	},
 	["Grulgort"] = {
 		[1] = 5359,
@@ -21993,8 +22014,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 1,
 	},
-	["Edvin"] = {
-		[1] = 8765,
+	["Lif"] = {
+		[1] = 8445,
 	},
 	["Devoter"] = {
 		[1] = 6502,
@@ -22002,14 +22023,14 @@ DPSMateUser = {
 	["Fourplay"] = {
 		[1] = 1170,
 	},
-	["Aztal"] = {
-		[1] = 5096,
+	["Dunnekoe"] = {
+		[1] = 9677,
 	},
-	["Vargurkr"] = {
-		[1] = 11581,
+	["Oliveryo"] = {
+		[1] = 1527,
 	},
-	["Netchayev"] = {
-		[1] = 5500,
+	["Markawasi"] = {
+		[1] = 7704,
 	},
 	["Lolprohoho"] = {
 		[1] = 9147,
@@ -22017,29 +22038,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 48,
 	},
-	["Jimmyrude"] = {
-		[1] = 9668,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 26,
+	["Ganok"] = {
+		[1] = 2429,
 	},
-	["Borstch"] = {
-		[1] = 9662,
+	["Shieldgirl"] = {
+		[1] = 6691,
 	},
 	["Pochcijute"] = {
 		[1] = 3609,
 	},
-	["Houzukiyuuno"] = {
-		[1] = 13292,
+	["Stranglethorn Tigress"] = {
+		[1] = 11160,
 	},
 	["Wie"] = {
 		[1] = 3446,
 	},
-	["Shambling Horror"] = {
-		[1] = 5395,
+	["Hulking Gritjaw Basilisk"] = {
+		[1] = 12822,
 	},
-	["Jollyr"] = {
-		[1] = 7179,
+	["Torbjorne"] = {
+		[1] = 7490,
 	},
 	["Granij"] = {
 		[1] = 2424,
@@ -22056,8 +22074,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 10,
 	},
-	["Bloodtalon Taillasher"] = {
-		[1] = 5820,
+	["Slipshot"] = {
+		[1] = 300,
 	},
 	["Kolkar Packhound"] = {
 		[1] = 5770,
@@ -22065,8 +22083,8 @@ DPSMateUser = {
 	["Auralsects"] = {
 		[1] = 12917,
 	},
-	["Fallenroot Shadowstalker"] = {
-		[1] = 8998,
+	["Edvin"] = {
+		[1] = 8765,
 	},
 	["Durz"] = {
 		[1] = 419,
@@ -22084,23 +22102,23 @@ DPSMateUser = {
 	["Wildbrawl"] = {
 		[1] = 12902,
 	},
-	["Flamebeard"] = {
-		[1] = 495,
+	["Lelue"] = {
+		[1] = 1038,
 	},
-	["Affenjunge"] = {
-		[1] = 10496,
-		[2] = "hunter",
+	["Jimmyrude"] = {
+		[1] = 9668,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 31,
+		[8] = 26,
 	},
-	["Mustery"] = {
-		[1] = 11574,
+	["Neeltak"] = {
+		[1] = 3001,
 	},
-	["Molokovozz"] = {
-		[1] = 11942,
+	["Veltark"] = {
+		[1] = 8127,
 	},
-	["Bigfootstunt"] = {
-		[1] = 1767,
+	["Hornybrutes"] = {
+		[1] = 8559,
 	},
 	["Wienersteve"] = {
 		[1] = 11105,
@@ -22111,8 +22129,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 34,
 	},
-	["Shieldgirl"] = {
-		[1] = 6691,
+	["Cissen"] = {
+		[1] = 6467,
 	},
 	["Mordrelle"] = {
 		[1] = 3697,
@@ -22132,14 +22150,11 @@ DPSMateUser = {
 	["Scorpashi Snapper"] = {
 		[1] = 8934,
 	},
-	["Powersaver"] = {
-		[1] = 10536,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 31,
+	["Crozzo"] = {
+		[1] = 8076,
 	},
-	["Slothfather"] = {
-		[1] = 8452,
+	["Creamyy"] = {
+		[1] = 11878,
 	},
 	["Tobynator"] = {
 		[1] = 3404,
@@ -22147,34 +22162,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 4,
 	},
-	["Hamanzi"] = {
-		[1] = 506,
-		[2] = "hunter",
-		[3] = -1,
-		[4] = false,
-		[5] = "@@d",
-		[8] = 60,
+	["Borstch"] = {
+		[1] = 9662,
 	},
 	["Laplaace"] = {
 		[1] = 3638,
 	},
-	["Absurd"] = {
-		[1] = 8013,
+	["Zhorhn"] = {
+		[1] = 8266,
 	},
-	["Fantacamel"] = {
-		[1] = 4138,
+	["Schaeuble"] = {
+		[1] = 9477,
 	},
-	["Toorop"] = {
-		[1] = 11168,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 38,
+	["Delamp"] = {
+		[1] = 8822,
 	},
-	["Velwind"] = {
-		[1] = 13291,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 37,
+	["Bristleback Thornweaver"] = {
+		[1] = 7100,
 	},
 	["Lomizz"] = {
 		[1] = 3857,
@@ -22190,8 +22194,8 @@ DPSMateUser = {
 	["Ladexi"] = {
 		[1] = 2564,
 	},
-	["Hornybrutes"] = {
-		[1] = 8559,
+	["Schibbzx"] = {
+		[1] = 6816,
 	},
 	["Rhego"] = {
 		[1] = 5579,
@@ -22200,14 +22204,14 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 36,
 	},
-	["Enraged Wyvern"] = {
-		[1] = 11134,
+	["Druarr"] = {
+		[1] = 6749,
 	},
-	["Zivadin"] = {
-		[1] = 490,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Enzafoz"] = {
+		[1] = 12481,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 31,
 	},
 	["Supsytude"] = {
 		[1] = 1180,
@@ -22215,24 +22219,20 @@ DPSMateUser = {
 	["Asfdfa"] = {
 		[1] = 576,
 	},
-	["Discogodx"] = {
-		[1] = 1375,
+	["Uob"] = {
+		[1] = 5101,
 	},
-	["Sickcnt"] = {
-		[1] = 5661,
+	["Â∞ºÁéõÊ≥¢"] = {
+		[1] = 167,
 	},
 	["Aegonon"] = {
 		[1] = 986,
 	},
-	["Zhizha"] = {
-		[1] = 1478,
-		[2] = "shaman",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Tehmainframe"] = {
+		[1] = 7554,
 	},
-	["Kroe"] = {
-		[1] = 12662,
+	["Mozike"] = {
+		[1] = 12275,
 	},
 	["Quantums"] = {
 		[1] = 12514,
@@ -22243,18 +22243,11 @@ DPSMateUser = {
 	["Jeffjefferso"] = {
 		[1] = 1406,
 	},
-	["Rezamin"] = {
-		[1] = 930,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Assun"] = {
+		[1] = 12208,
 	},
-	["Tyzzler"] = {
-		[1] = 7157,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 14,
+	["Rodriguez"] = {
+		[1] = 4252,
 	},
 	["Ashengrim"] = {
 		[1] = 8972,
@@ -22265,14 +22258,11 @@ DPSMateUser = {
 	["Vert"] = {
 		[1] = 2958,
 	},
-	["Dontb"] = {
-		[1] = 4335,
+	["Faleon"] = {
+		[1] = 5970,
 	},
-	["Enzafoz"] = {
-		[1] = 12481,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 31,
+	["Wootte"] = {
+		[1] = 850,
 	},
 	["Bodadis"] = {
 		[1] = 12503,
@@ -22280,11 +22270,8 @@ DPSMateUser = {
 	["Helloimdank"] = {
 		[1] = 6689,
 	},
-	["Exxecutioner"] = {
-		[1] = 4925,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 9,
+	["Absurd"] = {
+		[1] = 8013,
 	},
 	["Innkeeper Norman"] = {
 		[1] = 13065,
@@ -22301,8 +22288,8 @@ DPSMateUser = {
 	["Ttomes"] = {
 		[1] = 6246,
 	},
-	["Flyxyz"] = {
-		[1] = 12398,
+	["Celestien"] = {
+		[1] = 2027,
 	},
 	["Wotmt"] = {
 		[1] = 6055,
@@ -22313,38 +22300,41 @@ DPSMateUser = {
 	["Meplemplem"] = {
 		[1] = 6390,
 	},
-	["Tonyjah"] = {
-		[1] = 11813,
+	["Mulkutappaja"] = {
+		[1] = 4551,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 1,
 	},
 	["Jucy"] = {
 		[1] = 1245,
 	},
-	["Puffasaurus"] = {
-		[1] = 13222,
+	["Raviencraft"] = {
+		[1] = 3669,
 	},
 	["Fockus"] = {
 		[1] = 2492,
 	},
-	["Pokoinikk"] = {
-		[1] = 9298,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 33,
+	["Zeplop"] = {
+		[1] = 13382,
 	},
 	["Frozenwizard"] = {
 		[1] = 5295,
 	},
-	["Taurensoul"] = {
-		[1] = 5616,
+	["Karrigen"] = {
+		[1] = 10035,
 	},
-	["Insects"] = {
-		[1] = 7559,
+	["Summonplox"] = {
+		[1] = 1841,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Pinheadlarry"] = {
-		[1] = 7351,
+	["Cowvalry"] = {
+		[1] = 6745,
 	},
-	["Thuzadin Necromancer"] = {
-		[1] = 2146,
+	["Flyxyz"] = {
+		[1] = 12398,
 	},
 	["Chook"] = {
 		[1] = 274,
@@ -22355,14 +22345,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 27,
 	},
-	["Majic"] = {
-		[1] = 2328,
+	["Artamis"] = {
+		[1] = 4993,
 	},
-	["Celestien"] = {
-		[1] = 2027,
+	["Mequis"] = {
+		[1] = 5025,
 	},
-	["Reportmyteam"] = {
-		[1] = 8841,
+	["Hadesu"] = {
+		[1] = 8530,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 26,
 	},
 	["Glbs"] = {
 		[1] = 226,
@@ -22373,8 +22366,8 @@ DPSMateUser = {
 	["Lilsleepy"] = {
 		[1] = 1178,
 	},
-	["Landazor"] = {
-		[1] = 3766,
+	["Mofojojo"] = {
+		[1] = 8426,
 	},
 	["Dreambig"] = {
 		[1] = 1304,
@@ -22388,14 +22381,14 @@ DPSMateUser = {
 	["Venomtail Scorpid"] = {
 		[1] = 5504,
 	},
-	["Healforfeel"] = {
-		[1] = 13014,
+	["Enyalus"] = {
+		[1] = 12077,
 	},
-	["Lekir"] = {
-		[1] = 10847,
+	["Pokoinikk"] = {
+		[1] = 9298,
 		[2] = "mage",
 		[3] = -1,
-		[8] = 30,
+		[8] = 33,
 	},
 	["Lovenostdotm"] = {
 		[1] = 1845,
@@ -22405,8 +22398,8 @@ DPSMateUser = {
 		[2] = "mage",
 		[3] = 1,
 	},
-	["Vynde"] = {
-		[1] = 2851,
+	["Adayode"] = {
+		[1] = 5829,
 	},
 	["Bimbley"] = {
 		[1] = 8240,
@@ -22423,11 +22416,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 6,
 	},
-	["Alanhan"] = {
-		[1] = 9915,
+	["Healforfeel"] = {
+		[1] = 13014,
 	},
-	["Giant Eye Tentacle"] = {
-		[1] = 2606,
+	["Arbralest"] = {
+		[1] = 9843,
 	},
 	["Brutonian"] = {
 		[1] = 1118,
@@ -22435,83 +22428,77 @@ DPSMateUser = {
 	["Bieber"] = {
 		[1] = 8680,
 	},
-	["Nyktorius"] = {
-		[1] = 7270,
+	["Lilterry"] = {
+		[1] = 7736,
 	},
-	["Ursul"] = {
-		[1] = 2641,
+	["Mermulsim"] = {
+		[1] = 12207,
 	},
-	["Persil"] = {
-		[1] = 1018,
+	["Wyvern"] = {
+		[1] = 1349,
 	},
 	["Morace"] = {
 		[1] = 4407,
 	},
-	["Derpinka"] = {
-		[1] = 1344,
+	["Woodzieowl"] = {
+		[1] = 3733,
 	},
 	["Savannah Patriarch"] = {
 		[1] = 6927,
 	},
-	["Happygrind"] = {
-		[1] = 5531,
+	["Orelik"] = {
+		[1] = 3977,
 	},
-	["Zanibarr"] = {
-		[1] = 1293,
+	["Landazor"] = {
+		[1] = 3766,
 	},
-	["Nubrianir"] = {
-		[1] = 9058,
+	["Ruirot"] = {
+		[1] = 2385,
 	},
 	["Trubaduren"] = {
 		[1] = 11489,
 	},
-	["Frostinbiebe"] = {
-		[1] = 13113,
+	["Melkiades"] = {
+		[1] = 3166,
 	},
-	["Oldcool"] = {
-		[1] = 2364,
+	["Mangup"] = {
+		[1] = 10539,
 	},
-	["Razorfen Handler"] = {
-		[1] = 9350,
+	["Vynde"] = {
+		[1] = 2851,
 	},
-	["Kremlin"] = {
-		[1] = 6676,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 17,
+	["Blindlight Muckdweller"] = {
+		[1] = 9001,
 	},
 	["Csutka"] = {
 		[1] = 5284,
 	},
-	["Adayode"] = {
-		[1] = 5829,
+	["Zheyp"] = {
+		[1] = 3547,
 	},
 	["Velve"] = {
 		[1] = 8465,
 	},
-	["Dagrot"] = {
-		[1] = 3466,
+	["Zezze"] = {
+		[1] = 5075,
 	},
 	["Xfatal"] = {
 		[1] = 12174,
 	},
-	["Senay"] = {
-		[1] = 2008,
+	["Darkberud"] = {
+		[1] = 4180,
 	},
-	["Spinxie"] = {
-		[1] = 9624,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 41,
+	["Oldsoul"] = {
+		[1] = 1821,
 	},
-	["Ibram"] = {
-		[1] = 420,
+	["Barmos"] = {
+		[1] = 6340,
 	},
 	["Arawrasaurus"] = {
 		[1] = 11251,
 	},
-	["Startgearmag"] = {
-		[1] = 173,
+	["Raugnar"] = {
+		[1] = 13189,
 	},
 	["Bwen"] = {
 		[1] = 651,
@@ -22519,28 +22506,23 @@ DPSMateUser = {
 	["Zilpad"] = {
 		[1] = 11447,
 	},
-	["Qiraj"] = {
-		[1] = 2356,
+	["Memerealm"] = {
+		[1] = 1838,
 	},
 	["Zeroo"] = {
 		[1] = 7889,
 	},
-	["Aggromgmt"] = {
-		[1] = 9229,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[7] = "World Boss",
-		[8] = 22,
+	["Paladinkoru"] = {
+		[1] = 1778,
 	},
 	["Loriek"] = {
 		[1] = 8872,
 	},
-	["Niuchacha"] = {
-		[1] = 12977,
+	["Heltaz"] = {
+		[1] = 5955,
 	},
-	["Pabloescobar"] = {
-		[1] = 1598,
+	["Piptendo"] = {
+		[1] = 6307,
 	},
 	["Shuril"] = {
 		[1] = 3533,
@@ -22566,24 +22548,21 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Zepyap"] = {
-		[1] = 5156,
-	},
-	["Zgulysses"] = {
-		[1] = 3086,
-		[2] = "rogue",
-		[3] = -1,
+	["Wrathfmabh"] = {
+		[1] = 1921,
+		[2] = "warrior",
+		[3] = 1,
 		[4] = false,
+		[8] = 60,
 	},
-	["Lazpep"] = {
-		[1] = 5081,
+	["Ursul"] = {
+		[1] = 2641,
 	},
-	["Shavii"] = {
-		[1] = 8111,
-		[2] = "shaman",
-		[3] = -1,
-		[4] = false,
-		[8] = 20,
+	["Ralulj"] = {
+		[1] = 2343,
+	},
+	["Zohashot"] = {
+		[1] = 6960,
 	},
 	["Monkyblanket"] = {
 		[1] = 12609,
@@ -22597,26 +22576,23 @@ DPSMateUser = {
 	["Begood"] = {
 		[1] = 7429,
 	},
-	["Faleon"] = {
-		[1] = 5970,
+	["Applazy"] = {
+		[1] = 4070,
 	},
-	["Punanipally"] = {
-		[1] = 12922,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 36,
+	["Shaftbolts"] = {
+		[1] = 13177,
 	},
 	["Trollsanya"] = {
 		[1] = 5003,
 	},
-	["Mythology"] = {
-		[1] = 12327,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Alexgrist"] = {
+		[1] = 10661,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 35,
 	},
-	["Lawful"] = {
-		[1] = 8024,
+	["Ibram"] = {
+		[1] = 420,
 	},
 	["Hairytotem"] = {
 		[1] = 6985,
@@ -22636,31 +22612,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Ultio"] = {
-		[1] = 7990,
+	["Engel"] = {
+		[1] = 3578,
 	},
 	["Zissy"] = {
 		[1] = 12280,
 	},
-	["Stepfordeath"] = {
-		[1] = 186,
+	["Kolmak"] = {
+		[1] = 6734,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 23,
 	},
 	["Poison"] = {
 		[1] = 10853,
 	},
-	["Chaneyh"] = {
-		[1] = 4094,
+	["Vonji"] = {
+		[1] = 10557,
 	},
 	["Bitearlier"] = {
 		[1] = 5345,
 	},
-	["Yagao"] = {
-		[1] = 10628,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[7] = "Ensidia",
-		[8] = 29,
+	["Ennie"] = {
+		[1] = 4552,
 	},
 	["Justlistento"] = {
 		[1] = 8587,
@@ -22668,17 +22642,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 23,
 	},
-	["Dtpx"] = {
-		[1] = 4029,
-	},
-	["Sdb"] = {
-		[1] = 8279,
-		[2] = "shaman",
+	["Jiaowofashen"] = {
+		[1] = 4291,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 24,
+		[8] = 6,
 	},
-	["Dmstud"] = {
-		[1] = 2638,
+	["Ayn"] = {
+		[1] = 265,
+	},
+	["Lukashi"] = {
+		[1] = 5175,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 10,
 	},
 	["Petropak"] = {
 		[1] = 7898,
@@ -22692,29 +22669,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Ralulj"] = {
-		[1] = 2343,
+	["Straponh"] = {
+		[1] = 3140,
 	},
-	["Arcelus"] = {
-		[1] = 13146,
+	["Chodestevens"] = {
+		[1] = 5806,
 	},
-	["Yorven"] = {
-		[1] = 934,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Chullo"] = {
+		[1] = 895,
 	},
-	["Foerenka"] = {
-		[1] = 2001,
+	["Gwynd"] = {
+		[1] = 12539,
 	},
-	["Syndicate Footpad"] = {
-		[1] = 10636,
+	["Needmana"] = {
+		[1] = 1149,
 	},
 	["Hayte"] = {
 		[1] = 1543,
 	},
-	["Miraklet"] = {
-		[1] = 3744,
+	["Pabloescobar"] = {
+		[1] = 1598,
 	},
 	["Vemmesis"] = {
 		[1] = 1757,
@@ -22728,32 +22702,35 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 41,
 	},
-	["Nothic"] = {
-		[1] = 11433,
+	["Zepyap"] = {
+		[1] = 5156,
 	},
 	["Bourton"] = {
 		[1] = 7650,
 	},
-	["Evenos"] = {
-		[1] = 6427,
+	["Stabimo"] = {
+		[1] = 4216,
 	},
 	["Sudano"] = {
 		[1] = 11717,
 	},
-	["Harassing"] = {
-		[1] = 13226,
+	["Codreanu"] = {
+		[1] = 5250,
 	},
-	["Juicegasm"] = {
-		[1] = 6964,
+	["Lok Orcbane"] = {
+		[1] = 8316,
 	},
 	["Grarot"] = {
 		[1] = 5266,
 	},
-	["Kmd"] = {
-		[1] = 6441,
+	["Bigmac"] = {
+		[1] = 7076,
 	},
-	["Ayn"] = {
-		[1] = 265,
+	["Nocontrol"] = {
+		[1] = 3557,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 2,
 	},
 	["Strym"] = {
 		[1] = 4375,
@@ -22773,23 +22750,26 @@ DPSMateUser = {
 	["Staywoke"] = {
 		[1] = 5716,
 	},
-	["Ferian"] = {
-		[1] = 11532,
+	["Sdb"] = {
+		[1] = 8279,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 24,
 	},
-	["Stabimo"] = {
-		[1] = 4216,
+	["Gandah"] = {
+		[1] = 796,
 	},
-	["Isyouded"] = {
-		[1] = 13162,
+	["Philistra"] = {
+		[1] = 5621,
 	},
-	["Mcnatty"] = {
-		[1] = 216,
+	["Theorn"] = {
+		[1] = 11323,
 	},
-	["Mankid"] = {
-		[1] = 2354,
+	["Xerliath"] = {
+		[1] = 11481,
 	},
-	["Kal'doc"] = {
-		[1] = 6789,
+	["Bobbyshmurda"] = {
+		[1] = 11610,
 	},
 	["Kwatarn"] = {
 		[1] = 6545,
@@ -22798,20 +22778,17 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 13,
 	},
-	["Annecarrie"] = {
-		[1] = 12413,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 41,
+	["Darvulia"] = {
+		[1] = 7591,
 	},
 	["Milkac"] = {
 		[1] = 12776,
 	},
-	["Hive'Zara Stinger"] = {
-		[1] = 865,
+	["Evenos"] = {
+		[1] = 6427,
 	},
-	["Ornery Plainstrider"] = {
-		[1] = 6003,
+	["Armored Scorpid"] = {
+		[1] = 5612,
 	},
 	["Kajbis"] = {
 		[1] = 2852,
@@ -22825,17 +22802,19 @@ DPSMateUser = {
 	["Blader"] = {
 		[1] = 4676,
 	},
-	["Yunduo"] = {
-		[1] = 12399,
+	["Swaby"] = {
+		[1] = 8260,
+		[2] = "rogue",
+		[3] = 1,
 	},
-	["Nitianci"] = {
-		[1] = 4408,
+	["Bixopiruleta"] = {
+		[1] = 3665,
 	},
 	["Logodir"] = {
 		[1] = 12137,
 	},
-	["Evilemil"] = {
-		[1] = 154,
+	["Bornos"] = {
+		[1] = 4043,
 	},
 	["Koshun"] = {
 		[1] = 12644,
@@ -22851,14 +22830,11 @@ DPSMateUser = {
 	["Sainiu"] = {
 		[1] = 11018,
 	},
-	["Keefz"] = {
-		[1] = 1769,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Jadian"] = {
+		[1] = 11443,
 	},
-	["Zalunanji"] = {
-		[1] = 11559,
+	["Bsorry"] = {
+		[1] = 4714,
 	},
 	["Jizmak"] = {
 		[1] = 13378,
@@ -22883,37 +22859,32 @@ DPSMateUser = {
 		[7] = "WGHLW",
 		[8] = 20,
 	},
-	["Hathdok"] = {
-		[1] = 7171,
-		[4] = true,
-		[6] = 7170,
+	["Imbued"] = {
+		[1] = 13385,
 	},
-	["Theorn"] = {
-		[1] = 11323,
+	["Jaoona"] = {
+		[1] = 4238,
 	},
-	["Cobaine"] = {
-		[1] = 8806,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Wandela"] = {
+		[1] = 2064,
 	},
-	["Snek"] = {
-		[1] = 10220,
+	["Lepilo"] = {
+		[1] = 9569,
 	},
-	["Daylightdies"] = {
-		[1] = 2408,
+	["Hukkath"] = {
+		[1] = 5673,
 	},
-	["Rainbowblood"] = {
-		[1] = 3106,
+	["Stoneclaw"] = {
+		[1] = 6490,
 	},
-	["Trolletj"] = {
-		[1] = 9514,
+	["Ravenclaw Raider"] = {
+		[1] = 8607,
 	},
-	["Tubessbm"] = {
-		[1] = 6643,
+	["Yunduo"] = {
+		[1] = 12399,
 	},
-	["Hackebeil"] = {
-		[1] = 2013,
+	["Markuus"] = {
+		[1] = 7036,
 	},
 	["Unlink"] = {
 		[1] = 7134,
@@ -22929,11 +22900,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Exlza"] = {
-		[1] = 11518,
+	["Arcelus"] = {
+		[1] = 13146,
 	},
-	["Kayna"] = {
-		[1] = 241,
+	["Stonelash Flayer"] = {
+		[1] = 2616,
 	},
 	["Kolis"] = {
 		[1] = 737,
@@ -22941,14 +22912,14 @@ DPSMateUser = {
 	["Kedearid"] = {
 		[1] = 2833,
 	},
-	["Artwo"] = {
-		[1] = 5449,
+	["Cobaine"] = {
+		[1] = 8806,
 		[2] = "rogue",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Silenceborn"] = {
-		[1] = 3712,
+	["Lolis"] = {
+		[1] = 2405,
 	},
 	["Norielle"] = {
 		[1] = 4059,
@@ -22959,14 +22930,14 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 24,
 	},
-	["Kadyrov"] = {
-		[1] = 6706,
+	["Snek"] = {
+		[1] = 10220,
 	},
 	["Wendell"] = {
 		[1] = 7856,
 	},
-	["Dcode"] = {
-		[1] = 4343,
+	["Taragaman the Hungerer"] = {
+		[1] = 6354,
 	},
 	["Vocalist"] = {
 		[1] = 6065,
@@ -22980,11 +22951,8 @@ DPSMateUser = {
 	["Gelpad"] = {
 		[1] = 6122,
 	},
-	["Kittymanatee"] = {
-		[1] = 9143,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Celdran"] = {
+		[1] = 11754,
 	},
 	["Xomes"] = {
 		[1] = 2971,
@@ -22992,11 +22960,14 @@ DPSMateUser = {
 	["Tongjiju"] = {
 		[1] = 12319,
 	},
-	["Crazyradarm"] = {
-		[1] = 649,
+	["Wildhuntz"] = {
+		[1] = 8130,
 	},
-	["Infectious Ghoul"] = {
-		[1] = 2755,
+	["Prizzle"] = {
+		[1] = 5618,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Taranzhu"] = {
 		[1] = 5369,
@@ -23007,14 +22978,14 @@ DPSMateUser = {
 	["Anguished Dead"] = {
 		[1] = 10580,
 	},
-	["Ratchet Bruiser"] = {
-		[1] = 11752,
+	["Naavii"] = {
+		[1] = 11619,
 	},
-	["Loreta"] = {
-		[1] = 6028,
+	["Bigdealnheal"] = {
+		[1] = 1842,
 	},
-	["Taburiss"] = {
-		[1] = 5881,
+	["Uhuru"] = {
+		[1] = 2496,
 	},
 	["Sauran"] = {
 		[1] = 9234,
@@ -23022,53 +22993,53 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 22,
 	},
-	["Ralkor"] = {
-		[1] = 3803,
-	},
-	["Ficsi"] = {
-		[1] = 3943,
-	},
-	["Allubot"] = {
-		[1] = 6766,
-		[2] = "hunter",
-		[3] = -1,
-		[4] = false,
-		[5] = "asd",
-		[7] = "Mellakka",
-		[8] = 15,
-	},
-	["Yungboi"] = {
-		[1] = 6165,
-	},
-	["Fatalframer"] = {
-		[1] = 517,
-	},
-	["Jartah"] = {
-		[1] = 10420,
-	},
-	["Gwynd"] = {
-		[1] = 12539,
-	},
-	["Samail"] = {
-		[1] = 4233,
-	},
-	["Mathaus"] = {
-		[1] = 6491,
-	},
-	["Crystale"] = {
-		[1] = 4735,
-	},
-	["Madawc"] = {
-		[1] = 1288,
-	},
-	["Timko"] = {
-		[1] = 12281,
+	["Melind"] = {
+		[1] = 10120,
 	},
 	["Necrotorture"] = {
 		[1] = 7904,
 	},
-	["Purvas"] = {
-		[1] = 3922,
+	["Elghin"] = {
+		[1] = 12235,
+	},
+	["Yungboi"] = {
+		[1] = 6165,
+	},
+	["Oggleflint"] = {
+		[1] = 6349,
+	},
+	["Jartah"] = {
+		[1] = 10420,
+	},
+	["Trolletj"] = {
+		[1] = 9514,
+	},
+	["Kadyrov"] = {
+		[1] = 6706,
+	},
+	["Jayseric"] = {
+		[1] = 8833,
+	},
+	["Aeson"] = {
+		[1] = 2181,
+	},
+	["Madawc"] = {
+		[1] = 1288,
+	},
+	["Mozess"] = {
+		[1] = 11231,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 32,
+	},
+	["Herrmossa"] = {
+		[1] = 4128,
+	},
+	["Prevail"] = {
+		[1] = 2509,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Numel"] = {
 		[1] = 12254,
@@ -23088,39 +23059,29 @@ DPSMateUser = {
 	["Bobthecop"] = {
 		[1] = 2694,
 	},
-	["Bigbadjonn"] = {
-		[1] = 5855,
+	["Danzze"] = {
+		[1] = 4298,
 	},
-	["Mozess"] = {
-		[1] = 11231,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 32,
+	["Grimmshady"] = {
+		[1] = 10986,
 	},
 	["Eisua"] = {
 		[1] = 10758,
 	},
-	["Falcen"] = {
-		[1] = 11409,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 34,
+	["Kuprin"] = {
+		[1] = 12605,
 	},
-	["Ichnix"] = {
-		[1] = 3721,
+	["Sko"] = {
+		[1] = 3819,
 	},
-	["Rakmon"] = {
-		[1] = 6264,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[8] = 17,
+	["Deadwizzarrd"] = {
+		[1] = 10528,
 	},
 	["Saphinya"] = {
 		[1] = 11740,
 	},
-	["Dunkmim"] = {
-		[1] = 4706,
+	["Fatalframer"] = {
+		[1] = 517,
 	},
 	["Zodz"] = {
 		[1] = 682,
@@ -23131,30 +23092,29 @@ DPSMateUser = {
 	["Maury \"Club Foot\" Wilkins"] = {
 		[1] = 11154,
 	},
-	["Labadze"] = {
-		[1] = 1744,
-		[2] = "priest",
+	["Werdos"] = {
+		[1] = 3934,
+	},
+	["Gravelicker"] = {
+		[1] = 11281,
+		[2] = "mage",
 		[3] = -1,
-		[4] = false,
-		[8] = 60,
+		[8] = 32,
 	},
-	["Murmurator"] = {
-		[1] = 8461,
-	},
-	["Thewidow"] = {
-		[1] = 4941,
-	},
-	["Beni"] = {
-		[1] = 1618,
-	},
-	["Vagenius"] = {
-		[1] = 10774,
-		[2] = "warrior",
+	["Imotepes"] = {
+		[1] = 2985,
+		[2] = "warlock",
 		[3] = -1,
-		[8] = 30,
+		[8] = 4,
 	},
-	["Lumberg"] = {
-		[1] = 1579,
+	["Tiaotiaohu"] = {
+		[1] = 12320,
+	},
+	["Gadfly"] = {
+		[1] = 7670,
+	},
+	["Zalunanji"] = {
+		[1] = 11559,
 	},
 	["Xuen"] = {
 		[1] = 7303,
@@ -23162,14 +23122,18 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Deb"] = {
-		[1] = 10980,
+	["Rakmon"] = {
+		[1] = 6264,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[8] = 17,
 	},
 	["Hellowin"] = {
 		[1] = 12489,
 	},
-	["Boombank"] = {
-		[1] = 1378,
+	["Timko"] = {
+		[1] = 12281,
 	},
 	["Sven"] = {
 		[1] = 8525,
@@ -23183,20 +23147,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 5,
 	},
-	["Goraj"] = {
-		[1] = 8486,
+	["Mageboom"] = {
+		[1] = 3296,
 	},
-	["Gilrogg"] = {
-		[1] = 8246,
-		[2] = "warrior",
+	["Blackened Basilisk"] = {
+		[1] = 8177,
+	},
+	["Shnawzi"] = {
+		[1] = 7110,
+		[2] = "priest",
 		[3] = -1,
-		[8] = 24,
+		[8] = 26,
 	},
-	["Vismus"] = {
-		[1] = 12569,
-	},
-	["Icerot"] = {
-		[1] = 3938,
+	["Xiaoniude"] = {
+		[1] = 6801,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 17,
 	},
 	["Pinkbunnie"] = {
 		[1] = 7558,
@@ -23216,35 +23183,37 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Narmacilia"] = {
-		[1] = 5117,
+	["Dunerat"] = {
+		[1] = 12753,
 	},
 	["Happy"] = {
 		[1] = 5739,
 	},
-	["Hakkari Shadowcaster"] = {
-		[1] = 339,
+	["Paperbag"] = {
+		[1] = 2816,
 	},
 	["Jhommon"] = {
 		[1] = 7802,
 	},
-	["Linyuan"] = {
-		[1] = 10678,
+	["Purvas"] = {
+		[1] = 3922,
 	},
-	["Hersk"] = {
-		[1] = 10109,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 55,
+	["Grand Foreman Puzik Gallywix"] = {
+		[1] = 7949,
 	},
-	["Neofelix"] = {
-		[1] = 5038,
+	["Jianghunter"] = {
+		[1] = 7375,
 	},
-	["Infetado"] = {
-		[1] = 7831,
+	["Csgolotto"] = {
+		[1] = 1923,
+		[2] = "warrior",
+		[3] = 1,
+		[4] = false,
+		[7] = "Cash For Gold",
+		[8] = 60,
 	},
-	["Zorcow"] = {
-		[1] = 7579,
+	["Ledenatocena"] = {
+		[1] = 11563,
 	},
 	["Illjill"] = {
 		[1] = 4712,
@@ -23258,14 +23227,11 @@ DPSMateUser = {
 	["Xinjiangren"] = {
 		[1] = 1704,
 	},
-	["Paykoman"] = {
-		[1] = 7836,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 35,
+	["Octaler"] = {
+		[1] = 6551,
 	},
-	["Ragnarv"] = {
-		[1] = 4608,
+	["Lazors"] = {
+		[1] = 1325,
 	},
 	["Hive'Zara Soldier"] = {
 		[1] = 883,
@@ -23276,14 +23242,16 @@ DPSMateUser = {
 	["Lilithe"] = {
 		[1] = 4603,
 	},
-	["Leerys"] = {
-		[1] = 2309,
+	["Terorista"] = {
+		[1] = 12271,
+		[2] = "rogue",
+		[3] = 1,
 	},
-	["Darkmasistr"] = {
-		[1] = 11888,
+	["Tuna"] = {
+		[1] = 5964,
 	},
-	["Oldschoolpvp"] = {
-		[1] = 617,
+	["Razormane Thornweaver"] = {
+		[1] = 5526,
 	},
 	["Terspett"] = {
 		[1] = 7453,
@@ -23294,25 +23262,23 @@ DPSMateUser = {
 	["Indz"] = {
 		[1] = 6216,
 	},
-	["Jiangzemin"] = {
-		[1] = 7775,
-		[2] = "hunter",
+	["Peppr"] = {
+		[1] = 1624,
+	},
+	["Shamaniaco"] = {
+		[1] = 5686,
+		[2] = "shaman",
 		[3] = -1,
-		[4] = false,
-		[5] = "Excited",
-		[8] = 14,
+		[8] = 13,
 	},
-	["Darkwinjax"] = {
-		[1] = 830,
+	["Vbd"] = {
+		[1] = 7361,
 	},
-	["Hoodrychh"] = {
-		[1] = 12134,
+	["Lumberg"] = {
+		[1] = 1579,
 	},
-	["Jevs"] = {
-		[1] = 2230,
-	},
-	["Airplane"] = {
-		[1] = 7480,
+	["Sbabam"] = {
+		[1] = 11777,
 	},
 	["Grayce"] = {
 		[1] = 8885,
@@ -23323,23 +23289,26 @@ DPSMateUser = {
 	["Yanbaoyanbao"] = {
 		[1] = 7610,
 	},
-	["Zonie"] = {
-		[1] = 6908,
+	["Argandonio"] = {
+		[1] = 1766,
+	},
+	["Crankee"] = {
+		[1] = 5112,
 		[2] = "warlock",
 		[3] = -1,
-		[8] = 15,
+		[8] = 33,
 	},
-	["Hebestar"] = {
-		[1] = 4080,
+	["Eropoof"] = {
+		[1] = 5446,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Horrible"] = {
-		[1] = 7601,
+	["Emobean"] = {
+		[1] = 7090,
 	},
-	["Bigog"] = {
-		[1] = 2674,
-	},
-	["Capwne"] = {
-		[1] = 5391,
+	["Belman"] = {
+		[1] = 95,
 	},
 	["Casetaker"] = {
 		[1] = 13305,
@@ -23350,14 +23319,14 @@ DPSMateUser = {
 	["Cmapuk"] = {
 		[1] = 8562,
 	},
-	["Laleh"] = {
-		[1] = 9999,
+	["Lunl"] = {
+		[1] = 10964,
 	},
-	["Argandonio"] = {
-		[1] = 1766,
+	["Bael'dun Rifleman"] = {
+		[1] = 10209,
 	},
-	["Zmile"] = {
-		[1] = 12706,
+	["Mistixsa"] = {
+		[1] = 3745,
 	},
 	["Yingfeng"] = {
 		[1] = 11462,
@@ -23365,8 +23334,8 @@ DPSMateUser = {
 	["Abalones"] = {
 		[1] = 12604,
 	},
-	["Hooktooth Frenzy"] = {
-		[1] = 367,
+	["Beejinald"] = {
+		[1] = 7628,
 	},
 	["Johalict"] = {
 		[1] = 1500,
@@ -23374,17 +23343,14 @@ DPSMateUser = {
 	["Serena Bloodfeather"] = {
 		[1] = 7414,
 	},
-	["Laea"] = {
-		[1] = 4923,
+	["Spaztek"] = {
+		[1] = 3093,
 	},
 	["Gopisa"] = {
 		[1] = 724,
 	},
-	["Bebek"] = {
-		[1] = 7788,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 13,
+	["Barbed Crustacean"] = {
+		[1] = 9011,
 	},
 	["Iamhokillyou"] = {
 		[1] = 305,
@@ -23403,32 +23369,35 @@ DPSMateUser = {
 		[7] = "Padonki",
 		[8] = 19,
 	},
-	["Eropoof"] = {
-		[1] = 5446,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Slitherblade Warrior"] = {
+		[1] = 12889,
 	},
-	["Naglfar"] = {
-		[1] = 7765,
+	["Riffraffaroo"] = {
+		[1] = 9449,
 	},
-	["Traadeboy"] = {
-		[1] = 9564,
+	["Tiraka"] = {
+		[1] = 12201,
 	},
 	["Angharada"] = {
 		[1] = 12694,
 	},
-	["Mana Spring Totem IV"] = {
-		[1] = 1490,
+	["Thiccuhh"] = {
+		[1] = 9802,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 24,
 	},
-	["Areak"] = {
-		[1] = 5181,
+	["Reckbomb"] = {
+		[1] = 1056,
 	},
-	["Brookstone"] = {
-		[1] = 1568,
+	["Frostynipps"] = {
+		[1] = 533,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Laughing Sister"] = {
-		[1] = 8748,
+	["Zorcow"] = {
+		[1] = 7579,
 	},
 	["Swamp Jaguar"] = {
 		[1] = 13324,
@@ -23442,17 +23411,17 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Rhuumyn"] = {
-		[1] = 2099,
+	["Razormane Stalker"] = {
+		[1] = 8318,
 	},
-	["Minoriteten"] = {
-		[1] = 11816,
-	},
-	["Noxv"] = {
-		[1] = 7125,
-		[2] = "mage",
+	["Pissonnlgger"] = {
+		[1] = 10583,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 19,
+		[8] = 35,
+	},
+	["Mainedutch"] = {
+		[1] = 1000,
 	},
 	["Nightkiiller"] = {
 		[1] = 4454,
@@ -23460,17 +23429,14 @@ DPSMateUser = {
 	["Popeslayer"] = {
 		[1] = 7066,
 	},
-	["Jenjamji"] = {
-		[1] = 9284,
+	["Unfettered Spirit"] = {
+		[1] = 10577,
 	},
-	["Thiccuhh"] = {
-		[1] = 9802,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 24,
+	["Rilliralle"] = {
+		[1] = 11600,
 	},
-	["Calingui"] = {
-		[1] = 4258,
+	["Bankhoz"] = {
+		[1] = 8706,
 	},
 	["Jacksparrowx"] = {
 		[1] = 10692,
@@ -23478,35 +23444,43 @@ DPSMateUser = {
 	["Yungbenadryl"] = {
 		[1] = 13322,
 	},
-	["Rakshasith"] = {
-		[1] = 5745,
+	["Morkovkalock"] = {
+		[1] = 13252,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Ponytailnuts"] = {
 		[1] = 10764,
 	},
-	["Sinestroz"] = {
-		[1] = 8099,
+	["Paraproxity"] = {
+		[1] = 10327,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 34,
+	},
+	["Stomatologer"] = {
+		[1] = 4027,
+	},
+	["Nightwiish"] = {
+		[1] = 5898,
 		[2] = "mage",
 		[3] = -1,
-		[8] = 36,
+		[4] = false,
+		[7] = "Life Horde",
+		[8] = 39,
 	},
-	["Hypnotherapy"] = {
-		[1] = 7833,
+	["Larcodz"] = {
+		[1] = 11549,
 	},
-	["School of Fish"] = {
-		[1] = 9054,
+	["Mana Spring Totem IV"] = {
+		[1] = 1490,
 	},
-	["Orey"] = {
-		[1] = 9948,
-	},
-	["Extradip"] = {
-		[1] = 3250,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 1,
-	},
-	["Darkmana"] = {
-		[1] = 12371,
+	["Kyrpaejyrae"] = {
+		[1] = 10792,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 31,
 	},
 	["Charlie"] = {
 		[1] = 3307,
@@ -23538,32 +23512,29 @@ DPSMateUser = {
 	["Southsea Brigand"] = {
 		[1] = 7299,
 	},
-	["Suntaotao"] = {
-		[1] = 4788,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 6,
+	["Graveir"] = {
+		[1] = 5109,
 	},
 	["Sevenhunter"] = {
 		[1] = 530,
 	},
-	["Garmag"] = {
-		[1] = 525,
+	["Brookstone"] = {
+		[1] = 1568,
 	},
 	["Nekiller"] = {
 		[1] = 3895,
 	},
-	["Jamode"] = {
-		[1] = 1712,
+	["Thraj"] = {
+		[1] = 11473,
 	},
-	["Fizu"] = {
-		[1] = 7790,
+	["Assbringers"] = {
+		[1] = 2307,
 	},
-	["Nullfire"] = {
-		[1] = 6470,
+	["Nabopolasar"] = {
+		[1] = 8922,
 	},
-	["Rassmus"] = {
-		[1] = 8710,
+	["Belmat"] = {
+		[1] = 6976,
 	},
 	["Martisha"] = {
 		[1] = 10715,
@@ -23574,14 +23545,17 @@ DPSMateUser = {
 	["Hyuga"] = {
 		[1] = 4315,
 	},
-	["Malegebi"] = {
-		[1] = 7605,
+	["Sinestroz"] = {
+		[1] = 8099,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 36,
 	},
 	["Enhanced"] = {
 		[1] = 8020,
 	},
-	["Ironcladvlad"] = {
-		[1] = 10976,
+	["Doublegold"] = {
+		[1] = 9961,
 	},
 	["Sintha"] = {
 		[1] = 631,
@@ -23592,17 +23566,17 @@ DPSMateUser = {
 	["Bigemagus"] = {
 		[1] = 534,
 	},
-	["Roastbeef"] = {
-		[1] = 10829,
-		[2] = "shaman",
+	["Xerther"] = {
+		[1] = 2269,
+	},
+	["Purica"] = {
+		[1] = 11900,
+		[2] = "priest",
 		[3] = -1,
-		[8] = 30,
+		[8] = 38,
 	},
-	["Frogballhair"] = {
-		[1] = 1108,
-	},
-	["Thraj"] = {
-		[1] = 11473,
+	["Whitrage"] = {
+		[1] = 12400,
 	},
 	["Theynamok"] = {
 		[1] = 10646,
@@ -23610,20 +23584,27 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 57,
 	},
-	["Bullflem"] = {
-		[1] = 12984,
+	["Efihl"] = {
+		[1] = 6097,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 13,
 	},
-	["Timodius"] = {
-		[1] = 3771,
+	["Hakkapelitta"] = {
+		[1] = 2010,
 	},
 	["Shectani"] = {
 		[1] = 12986,
 	},
-	["Beatty"] = {
-		[1] = 12336,
+	["Elendo"] = {
+		[1] = 8151,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[8] = 24,
 	},
-	["Zoldor"] = {
-		[1] = 7982,
+	["Shamashandmo"] = {
+		[1] = 9218,
 	},
 	["Bashami"] = {
 		[1] = 8639,
@@ -23637,14 +23618,17 @@ DPSMateUser = {
 	["Ramsa"] = {
 		[1] = 6041,
 	},
-	["Graveir"] = {
-		[1] = 5109,
+	["Gwend"] = {
+		[1] = 2005,
 	},
 	["Wizzlecrank's Shredder"] = {
 		[1] = 6948,
 	},
-	["Tamed Hyena"] = {
-		[1] = 9360,
+	["Unmedivh"] = {
+		[1] = 2451,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Captured Mountaineer"] = {
 		[1] = 4760,
@@ -23655,11 +23639,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 35,
 	},
-	["Flashback"] = {
-		[1] = 1974,
+	["Ginga"] = {
+		[1] = 988,
 	},
-	["Deyeah"] = {
-		[1] = 11546,
+	["Ihme"] = {
+		[1] = 3753,
 	},
 	["Zelarius"] = {
 		[1] = 1444,
@@ -23670,40 +23654,38 @@ DPSMateUser = {
 	["Drst"] = {
 		[1] = 5466,
 	},
-	["Oxidado"] = {
-		[1] = 3969,
+	["Garnetmoon"] = {
+		[1] = 10950,
 	},
-	["Gack"] = {
-		[1] = 4833,
+	["Yumaster"] = {
+		[1] = 9267,
 	},
 	["Zhaxep"] = {
 		[1] = 3804,
 	},
-	["Magmadon"] = {
-		[1] = 5956,
-	},
-	["Twentyjuan"] = {
-		[1] = 4539,
-	},
-	["Esperi"] = {
-		[1] = 6764,
+	["Chewar"] = {
+		[1] = 10613,
 		[2] = "priest",
-		[3] = -1,
-		[4] = false,
-		[7] = "Clue",
-		[8] = 14,
+		[3] = 1,
+		[8] = 38,
 	},
-	["Snuffyou"] = {
-		[1] = 8007,
+	["Falcen"] = {
+		[1] = 11409,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 34,
 	},
-	["Unmedivh"] = {
-		[1] = 2451,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Hiiluri"] = {
+		[1] = 9092,
 	},
-	["Hakkapelitta"] = {
-		[1] = 2010,
+	["Ongamejke"] = {
+		[1] = 5121,
+	},
+	["Malegebi"] = {
+		[1] = 7605,
+	},
+	["Luffito"] = {
+		[1] = 9786,
 	},
 	["Huntahmus"] = {
 		[1] = 11054,
@@ -23717,11 +23699,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 9,
 	},
-	["Arhae"] = {
-		[1] = 12482,
+	["Laoyer"] = {
+		[1] = 10295,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 26,
 	},
-	["Frontala"] = {
-		[1] = 11374,
+	["Corrupted Mottled Boar"] = {
+		[1] = 8749,
 	},
 	["Ozekke"] = {
 		[1] = 8170,
@@ -23729,8 +23714,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 23,
 	},
-	["Ginga"] = {
-		[1] = 988,
+	["Arakari"] = {
+		[1] = 9257,
 	},
 	["Pikelet"] = {
 		[1] = 11755,
@@ -23743,8 +23728,8 @@ DPSMateUser = {
 		[5] = "Wolf",
 		[8] = 60,
 	},
-	["Blackwing Warlock"] = {
-		[1] = 1093,
+	["Drujok"] = {
+		[1] = 11037,
 	},
 	["Hodey"] = {
 		[1] = 6304,
@@ -23755,11 +23740,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 8,
 	},
-	["Vandimion"] = {
-		[1] = 6072,
+	["Royalslayer"] = {
+		[1] = 1726,
 	},
-	["Galen Goodward"] = {
-		[1] = 13332,
+	["XT:9"] = {
+		[1] = 8140,
 	},
 	["Janium"] = {
 		[1] = 12171,
@@ -23767,8 +23752,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Eliizubeth"] = {
-		[1] = 3035,
+	["Letmeinffs"] = {
+		[1] = 935,
 	},
 	["Ngrz"] = {
 		[1] = 10521,
@@ -23779,14 +23764,14 @@ DPSMateUser = {
 	["Nuyini"] = {
 		[1] = 751,
 	},
-	["Coachella"] = {
-		[1] = 8537,
+	["Senay"] = {
+		[1] = 2008,
 	},
-	["Myymy"] = {
-		[1] = 5643,
+	["Nokmir"] = {
+		[1] = 13375,
 	},
-	["Heycooper"] = {
-		[1] = 11973,
+	["Wiings"] = {
+		[1] = 543,
 	},
 	["Zeldukes"] = {
 		[1] = 5388,
@@ -23794,20 +23779,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 53,
 	},
-	["Pokemonchuk"] = {
-		[1] = 775,
+	["Nonononono"] = {
+		[1] = 3673,
 	},
 	["Revi"] = {
 		[1] = 2038,
 	},
-	["Soggyshoe"] = {
-		[1] = 862,
+	["Ced"] = {
+		[1] = 11074,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Overback"] = {
-		[1] = 4215,
+	["Hornpublul"] = {
+		[1] = 3755,
 	},
-	["Shadow Panther"] = {
-		[1] = 13353,
+	["Hilfiger"] = {
+		[1] = 8694,
 	},
 	["Narogg"] = {
 		[1] = 6126,
@@ -23818,17 +23806,14 @@ DPSMateUser = {
 	["Otherwins"] = {
 		[1] = 11905,
 	},
-	["Shamanikys"] = {
-		[1] = 12124,
+	["Azzanoth"] = {
+		[1] = 7396,
 	},
-	["Lurkkihunter"] = {
-		[1] = 5846,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 60,
+	["Magmadon"] = {
+		[1] = 5956,
 	},
-	["Reliqaury"] = {
-		[1] = 555,
+	["Sizestorm"] = {
+		[1] = 12657,
 	},
 	["Wutian"] = {
 		[1] = 12946,
@@ -23839,38 +23824,32 @@ DPSMateUser = {
 	["Qobb"] = {
 		[1] = 10517,
 	},
-	["Negrall"] = {
-		[1] = 3701,
+	["Pieceopiss"] = {
+		[1] = 9144,
 	},
 	["Xyuanlin"] = {
 		[1] = 12688,
 	},
-	["Kyrpaejyrae"] = {
-		[1] = 10792,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 31,
+	["Danjuan"] = {
+		[1] = 12565,
 	},
-	["Wlrun"] = {
-		[1] = 10807,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 33,
+	["Mchaos"] = {
+		[1] = 9278,
 	},
 	["Putian"] = {
 		[1] = 5035,
 	},
-	["Diacist"] = {
-		[1] = 12775,
+	["Judgedangel"] = {
+		[1] = 12244,
 	},
-	["Bezerkergt"] = {
-		[1] = 13274,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 40,
+	["Solreth"] = {
+		[1] = 12253,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 35,
 	},
-	["Letmeinffs"] = {
-		[1] = 935,
+	["Alande"] = {
+		[1] = 8964,
 	},
 	["Theevent"] = {
 		[1] = 4544,
@@ -23879,11 +23858,11 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 4,
 	},
-	["Kindraed"] = {
-		[1] = 3377,
+	["Dymuda"] = {
+		[1] = 9538,
 	},
-	["Splice"] = {
-		[1] = 4599,
+	["Gregor Agamand"] = {
+		[1] = 5279,
 	},
 	["Kazami"] = {
 		[1] = 2663,
@@ -23897,14 +23876,11 @@ DPSMateUser = {
 	["Dnttrykillme"] = {
 		[1] = 9931,
 	},
-	["Gladz"] = {
-		[1] = 9452,
+	["Arhae"] = {
+		[1] = 12482,
 	},
-	["Kruto"] = {
-		[1] = 9561,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 15,
+	["Resurrecthin"] = {
+		[1] = 5292,
 	},
 	["Supihukka"] = {
 		[1] = 10373,
@@ -23918,20 +23894,26 @@ DPSMateUser = {
 	["Climda"] = {
 		[1] = 4820,
 	},
-	["Faustwaffel"] = {
-		[1] = 2715,
+	["Euboys"] = {
+		[1] = 5535,
 	},
 	["Innor"] = {
 		[1] = 1996,
 	},
-	["Paragonaxiom"] = {
-		[1] = 8103,
+	["Wlrun"] = {
+		[1] = 10807,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 33,
 	},
-	["Nonononono"] = {
-		[1] = 3673,
+	["Ridze"] = {
+		[1] = 11147,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 36,
 	},
-	["Hornpublul"] = {
-		[1] = 3755,
+	["Petsas"] = {
+		[1] = 6881,
 	},
 	["Sevenblack"] = {
 		[1] = 10246,
@@ -23939,26 +23921,23 @@ DPSMateUser = {
 	["Needles Cougar"] = {
 		[1] = 9308,
 	},
-	["Anyuer"] = {
-		[1] = 7692,
+	["Phiji"] = {
+		[1] = 5536,
 	},
-	["Terminotaure"] = {
-		[1] = 5588,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 23,
+	["Raptor"] = {
+		[1] = 299,
 	},
 	["Burndown"] = {
 		[1] = 11926,
 	},
-	["Stitch"] = {
-		[1] = 8845,
+	["Myymy"] = {
+		[1] = 5643,
 	},
-	["Mobis"] = {
-		[1] = 2369,
+	["Bbakaa"] = {
+		[1] = 10923,
 	},
-	["Pieceopiss"] = {
-		[1] = 9144,
+	["Sockerbarn"] = {
+		[1] = 6655,
 	},
 	["Razzashi Serpent"] = {
 		[1] = 327,
@@ -23966,11 +23945,11 @@ DPSMateUser = {
 	["Cityneon"] = {
 		[1] = 7590,
 	},
-	["Bigplays"] = {
-		[1] = 516,
+	["Drekto"] = {
+		[1] = 914,
 	},
-	["Wtfhunters"] = {
-		[1] = 6189,
+	["Bananeimkopf"] = {
+		[1] = 218,
 	},
 	["Babarr"] = {
 		[1] = 10837,
@@ -23987,20 +23966,23 @@ DPSMateUser = {
 	["Arhkanes"] = {
 		[1] = 11586,
 	},
-	["Ridze"] = {
-		[1] = 11147,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 36,
+	["Nileyo"] = {
+		[1] = 8560,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 13,
 	},
-	["Bairka"] = {
-		[1] = 6943,
+	["Kruto"] = {
+		[1] = 9561,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 15,
 	},
 	["Moskil"] = {
 		[1] = 5811,
 	},
-	["Biznip"] = {
-		[1] = 9040,
+	["Hurrigan"] = {
+		[1] = 6995,
 	},
 	["Turnuptits"] = {
 		[1] = 7489,
@@ -24008,8 +23990,10 @@ DPSMateUser = {
 	["Skymz"] = {
 		[1] = 3162,
 	},
-	["Rubmytotemzz"] = {
-		[1] = 13128,
+	["Kritmix"] = {
+		[1] = 12317,
+		[2] = "mage",
+		[3] = 1,
 	},
 	["Ridagou"] = {
 		[1] = 1347,
@@ -24022,11 +24006,8 @@ DPSMateUser = {
 		[4] = true,
 		[6] = 460,
 	},
-	["Snigglefritz"] = {
-		[1] = 11961,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 16,
+	["Thenan"] = {
+		[1] = 12078,
 	},
 	["Smruinurday"] = {
 		[1] = 2080,
@@ -24034,8 +24015,11 @@ DPSMateUser = {
 	["Dibbi"] = {
 		[1] = 12651,
 	},
-	["Flatbuwsh"] = {
-		[1] = 9210,
+	["Destam"] = {
+		[1] = 6006,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 23,
 	},
 	["Borov"] = {
 		[1] = 6662,
@@ -24043,14 +24027,11 @@ DPSMateUser = {
 	["Riklox"] = {
 		[1] = 10098,
 	},
-	["Dymuda"] = {
-		[1] = 9538,
+	["Smirkish"] = {
+		[1] = 10892,
 	},
-	["Jastin"] = {
-		[1] = 11834,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 37,
+	["Syltmacka"] = {
+		[1] = 8668,
 	},
 	["Jessrabbit"] = {
 		[1] = 9651,
@@ -24058,14 +24039,19 @@ DPSMateUser = {
 	["bidule"] = {
 		[1] = 8060,
 	},
-	["Maggot"] = {
-		[1] = 2330,
-	},
-	["Wildmongrell"] = {
-		[1] = 5450,
-		[2] = "priest",
+	["Zxc"] = {
+		[1] = 7364,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 40,
+		[4] = false,
+		[7] = "The love of daddy",
+		[8] = 14,
+	},
+	["Leitosa"] = {
+		[1] = 6980,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 11,
 	},
 	["Rogss"] = {
 		[1] = 2495,
@@ -24091,8 +24077,8 @@ DPSMateUser = {
 	["Fimpah"] = {
 		[1] = 8333,
 	},
-	["Chraul"] = {
-		[1] = 10423,
+	["Shamhero"] = {
+		[1] = 6169,
 	},
 	["Shamz"] = {
 		[1] = 7082,
@@ -24100,14 +24086,17 @@ DPSMateUser = {
 	["Carrion Spinner"] = {
 		[1] = 2751,
 	},
-	["Waxy"] = {
-		[1] = 7487,
+	["Boulderfist Mauler"] = {
+		[1] = 12440,
 	},
-	["Arindoar"] = {
-		[1] = 10148,
+	["Rawstealth"] = {
+		[1] = 6344,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 15,
 	},
-	["Daktha"] = {
-		[1] = 3147,
+	["Immortality"] = {
+		[1] = 3614,
 	},
 	["Death Touched Warrior"] = {
 		[1] = 2339,
@@ -24121,8 +24110,8 @@ DPSMateUser = {
 	["Fiercepeopl"] = {
 		[1] = 12037,
 	},
-	["Cerato"] = {
-		[1] = 1542,
+	["Prlest"] = {
+		[1] = 1053,
 	},
 	["Hillsbrad Footman"] = {
 		[1] = 10166,
@@ -24133,14 +24122,17 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 25,
 	},
-	["Infinitum"] = {
-		[1] = 6322,
+	["Jastin"] = {
+		[1] = 11834,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 37,
 	},
 	["Korgerik"] = {
 		[1] = 3723,
 	},
-	["Bananeimkopf"] = {
-		[1] = 218,
+	["Swattytwatty"] = {
+		[1] = 8835,
 	},
 	["Elder Shadowhorn Stag"] = {
 		[1] = 8372,
@@ -24151,38 +24143,26 @@ DPSMateUser = {
 	["Fugee"] = {
 		[1] = 10299,
 	},
-	["Dereinzige"] = {
-		[1] = 10627,
+	["Yemu"] = {
+		[1] = 3659,
 	},
-	["Bao"] = {
-		[1] = 174,
+	["Waxy"] = {
+		[1] = 7487,
 	},
-	["Nildan"] = {
-		[1] = 11206,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 30,
+	["Daktha"] = {
+		[1] = 3147,
 	},
-	["Ripzer"] = {
-		[1] = 1931,
-		[2] = "rogue",
-		[3] = 1,
-		[4] = false,
-		[8] = 60,
+	["Diemcmage"] = {
+		[1] = 2807,
 	},
-	["Mandrey"] = {
-		[1] = 4329,
+	["Acuzz"] = {
+		[1] = 9772,
 	},
-	["Grayberd"] = {
-		[1] = 670,
+	["Youdietoo"] = {
+		[1] = 11772,
 	},
-	["Plutwow"] = {
-		[1] = 6894,
-		[2] = "druid",
-		[3] = -1,
-		[4] = false,
-		[7] = "FEAR",
-		[8] = 16,
+	["Sangra"] = {
+		[1] = 7615,
 	},
 	["Hammarjanne"] = {
 		[1] = 4970,
@@ -24190,11 +24170,13 @@ DPSMateUser = {
 	["Dreaming Whelp"] = {
 		[1] = 13321,
 	},
-	["Biggwood"] = {
-		[1] = 12875,
+	["Tinhoso"] = {
+		[1] = 7156,
+		[4] = true,
+		[6] = 7155,
 	},
-	["Bloodscalp Berserker"] = {
-		[1] = 388,
+	["Eyeish"] = {
+		[1] = 5415,
 	},
 	["Byahbandit"] = {
 		[1] = 8853,
@@ -24205,23 +24187,20 @@ DPSMateUser = {
 	["Klaxon"] = {
 		[1] = 12708,
 	},
-	["Pajox"] = {
-		[1] = 5324,
+	["Wildmongrell"] = {
+		[1] = 5450,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 40,
 	},
 	["Lazyal"] = {
 		[1] = 6368,
 	},
-	["Rickyj"] = {
-		[1] = 12097,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 31,
+	["Yungpurpp"] = {
+		[1] = 10538,
 	},
-	["Destam"] = {
-		[1] = 6006,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 23,
+	["Marsh Inkspewer"] = {
+		[1] = 13357,
 	},
 	["Drdolittle"] = {
 		[1] = 8540,
@@ -24229,26 +24208,24 @@ DPSMateUser = {
 	["Cowsenpai"] = {
 		[1] = 9806,
 	},
-	["Commander Springvale"] = {
-		[1] = 8620,
+	["Alpar"] = {
+		[1] = 11502,
 	},
-	["Ravers"] = {
-		[1] = 8563,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 27,
+	["Dinkleberg"] = {
+		[1] = 462,
 	},
-	["Stevlins"] = {
-		[1] = 8807,
-		[2] = "rogue",
+	["WirtWigglar"] = {
+		[1] = 8522,
+	},
+	["Oust"] = {
+		[1] = 1836,
+		[2] = "mage",
 		[3] = -1,
+		[4] = false,
 		[8] = 60,
 	},
-	["Zsta"] = {
-		[1] = 7427,
-	},
-	["Summertale"] = {
-		[1] = 11564,
+	["Alundria"] = {
+		[1] = 6070,
 	},
 	["Thesecret"] = {
 		[1] = 2286,
@@ -24265,20 +24242,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 13,
 	},
-	["Gusterina"] = {
-		[1] = 5984,
+	["Peacesells"] = {
+		[1] = 9748,
 	},
-	["Ground"] = {
-		[1] = 1169,
+	["Nildan"] = {
+		[1] = 11206,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 30,
 	},
 	["Lavi"] = {
 		[1] = 9527,
 	},
-	["Braznivik"] = {
-		[1] = 2371,
+	["Shtorm"] = {
+		[1] = 7756,
 	},
-	["Xeiled"] = {
-		[1] = 4104,
+	["Melent"] = {
+		[1] = 3315,
 	},
 	["Hmu"] = {
 		[1] = 717,
@@ -24289,32 +24269,38 @@ DPSMateUser = {
 	["Albedoo"] = {
 		[1] = 11615,
 	},
-	["Shtorm"] = {
-		[1] = 7756,
+	["Triangle"] = {
+		[1] = 11837,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 37,
 	},
 	["Deathcraze"] = {
 		[1] = 4938,
 	},
-	["Luanostra"] = {
-		[1] = 3144,
+	["Ligna"] = {
+		[1] = 10881,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 12,
 	},
-	["Puppamelo"] = {
-		[1] = 10643,
+	["Provoke"] = {
+		[1] = 2649,
 	},
-	["Naxam"] = {
-		[1] = 1593,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 60,
+	["Grayberd"] = {
+		[1] = 670,
 	},
-	["Diemcmage"] = {
-		[1] = 2807,
+	["Vallen"] = {
+		[1] = 11468,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 43,
 	},
-	["Magnifikater"] = {
-		[1] = 11485,
+	["Chappychi"] = {
+		[1] = 6701,
 	},
-	["Hiiluri"] = {
-		[1] = 9092,
+	["Vandimion"] = {
+		[1] = 6072,
 	},
 	["February"] = {
 		[1] = 13211,
@@ -24322,20 +24308,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 40,
 	},
-	["Environment"] = {
-		[1] = 290,
+	["Rickyj"] = {
+		[1] = 12097,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 31,
 	},
-	["Jehovas"] = {
-		[1] = 2841,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 60,
+	["Kippetio"] = {
+		[1] = 5547,
 	},
-	["Testnren"] = {
-		[1] = 10700,
+	["Normalizer"] = {
+		[1] = 3146,
 	},
-	["Yumeno"] = {
-		[1] = 7672,
+	["Vedeeo"] = {
+		[1] = 3191,
 	},
 	["Diregraf"] = {
 		[1] = 545,
@@ -24343,14 +24329,14 @@ DPSMateUser = {
 	["Lejuifmagik"] = {
 		[1] = 554,
 	},
-	["Syrea"] = {
-		[1] = 2817,
+	["Disciple of Naralex"] = {
+		[1] = 7538,
 	},
-	["Dig Rat"] = {
-		[1] = 5626,
+	["Gnarl"] = {
+		[1] = 3051,
 	},
-	["Yungpurpp"] = {
-		[1] = 10538,
+	["Whipflash"] = {
+		[1] = 10039,
 	},
 	["Boldrok"] = {
 		[1] = 9669,
@@ -24361,22 +24347,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["you"] = {
-		[1] = 880,
+	["Thruzz"] = {
+		[1] = 3824,
 	},
-	["Makerola"] = {
-		[1] = 6301,
+	["Tiansb"] = {
+		[1] = 4442,
 		[2] = "mage",
 		[3] = -1,
-		[4] = false,
-		[7] = "Hautauslupa",
-		[8] = 29,
+		[8] = 2,
 	},
-	["Creuzebek"] = {
-		[1] = 10041,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 23,
+	["Xcynic"] = {
+		[1] = 3601,
 	},
 	["Gorbuchul"] = {
 		[1] = 5477,
@@ -24390,14 +24371,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 20,
 	},
-	["Grajdane"] = {
-		[1] = 1984,
+	["Rusecruise"] = {
+		[1] = 10898,
 	},
-	["Zombee"] = {
-		[1] = 2413,
+	["Zinf"] = {
+		[1] = 2573,
 	},
-	["Igs"] = {
-		[1] = 3688,
+	["Trevils"] = {
+		[1] = 4152,
 	},
 	["Voldron"] = {
 		[1] = 8092,
@@ -24405,32 +24386,39 @@ DPSMateUser = {
 	["Psykosmaggan"] = {
 		[1] = 7241,
 	},
-	["Dunkraft"] = {
-		[1] = 5764,
+	["Benkvarmer"] = {
+		[1] = 9835,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 33,
 	},
 	["Murmel"] = {
 		[1] = 6553,
 	},
-	["Madscientist"] = {
-		[1] = 1861,
-		[2] = "mage",
-		[3] = -1,
+	["Noval"] = {
+		[1] = 1410,
+		[2] = "paladin",
+		[3] = 1,
+		[4] = false,
 		[8] = 60,
 	},
-	["Furasshu"] = {
-		[1] = 1854,
+	["Dirtyxmoney"] = {
+		[1] = 5694,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 12,
 	},
-	["Iolz"] = {
-		[1] = 4283,
+	["Tickedatank"] = {
+		[1] = 10757,
 	},
-	["Provoke"] = {
-		[1] = 2649,
+	["Scensis"] = {
+		[1] = 3261,
 	},
 	["Fatalimpact"] = {
 		[1] = 11520,
 	},
-	["Bazzcola"] = {
-		[1] = 12686,
+	["Dirath"] = {
+		[1] = 7267,
 	},
 	["Zendor"] = {
 		[1] = 7395,
@@ -24438,23 +24426,23 @@ DPSMateUser = {
 	["Crustymeats"] = {
 		[1] = 7006,
 	},
-	["Magaidh"] = {
-		[1] = 8649,
+	["Alirisa"] = {
+		[1] = 9301,
 	},
-	["Furax"] = {
-		[1] = 11534,
+	["Nasc"] = {
+		[1] = 835,
 	},
 	["Etsoo"] = {
 		[1] = 6434,
 	},
-	["Samnotwise"] = {
-		[1] = 7966,
+	["Vinushka"] = {
+		[1] = 7574,
 	},
-	["Chicxulub"] = {
-		[1] = 11533,
+	["Evensen"] = {
+		[1] = 10202,
 	},
-	["Fearlife"] = {
-		[1] = 10178,
+	["Drutestone"] = {
+		[1] = 8136,
 	},
 	["Ogul"] = {
 		[1] = 6509,
@@ -24462,8 +24450,8 @@ DPSMateUser = {
 	["Pidorbaba"] = {
 		[1] = 2384,
 	},
-	["Uglyasflul"] = {
-		[1] = 6879,
+	["Shadezor"] = {
+		[1] = 12676,
 	},
 	["Pryyzun"] = {
 		[1] = 1415,
@@ -24479,8 +24467,8 @@ DPSMateUser = {
 	["Noviolence"] = {
 		[1] = 12377,
 	},
-	["Bristar"] = {
-		[1] = 7493,
+	["Hildebrand"] = {
+		[1] = 13245,
 	},
 	["Nezzinda"] = {
 		[1] = 6513,
@@ -24488,56 +24476,59 @@ DPSMateUser = {
 	["Taurenu"] = {
 		[1] = 13154,
 	},
-	["Rhaenar"] = {
-		[1] = 636,
+	["Punanipally"] = {
+		[1] = 12922,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 36,
 	},
-	["Blood Seeker"] = {
-		[1] = 8622,
+	["Arivn"] = {
+		[1] = 10693,
 	},
 	["Motian"] = {
 		[1] = 11057,
 	},
-	["Deuszeus"] = {
-		[1] = 3449,
-	},
-	["Hosh"] = {
-		[1] = 11271,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 33,
+	["Itaa"] = {
+		[1] = 3703,
 	},
 	["Xmidnight"] = {
 		[1] = 6717,
 	},
-	["Shakkstab"] = {
-		[1] = 9593,
+	["Dig Rat"] = {
+		[1] = 5626,
 	},
-	["Jeffy"] = {
-		[1] = 11279,
+	["Meteorcn"] = {
+		[1] = 12186,
 	},
-	["Fakeskills"] = {
-		[1] = 13109,
+	["Thedudeabide"] = {
+		[1] = 7993,
 	},
-	["Nilkan"] = {
-		[1] = 3215,
+	["Morrdots"] = {
+		[1] = 8794,
+	},
+	["Metalblink"] = {
+		[1] = 4207,
 	},
 	["Pulazz"] = {
 		[1] = 12630,
 	},
-	["Chillveins"] = {
-		[1] = 9879,
+	["Naliah"] = {
+		[1] = 11146,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 44,
 	},
 	["Adamgontier"] = {
 		[1] = 3281,
 	},
-	["Kailas"] = {
-		[1] = 8857,
+	["Roguegodxd"] = {
+		[1] = 4099,
 	},
 	["Vulcanuz"] = {
 		[1] = 4354,
 	},
-	["Meteorcn"] = {
-		[1] = 12186,
+	["Siikkeri"] = {
+		[1] = 3617,
 	},
 	["Rotting"] = {
 		[1] = 8511,
@@ -24545,44 +24536,38 @@ DPSMateUser = {
 	["Visosuglazik"] = {
 		[1] = 10305,
 	},
-	["Jyscel"] = {
-		[1] = 13141,
+	["Jonnyd"] = {
+		[1] = 2012,
 	},
-	["Beawulf"] = {
-		[1] = 6599,
+	["Young Scavenger"] = {
+		[1] = 2972,
 	},
-	["Brzrkicedeth"] = {
-		[1] = 13171,
+	["Spigg"] = {
+		[1] = 5494,
 	},
-	["Mengxiaoyu"] = {
-		[1] = 12394,
-	},
-	["Fiftycement"] = {
-		[1] = 6867,
-		[2] = "mage",
+	["Cometz"] = {
+		[1] = 4581,
+		[2] = "shaman",
 		[3] = -1,
-		[4] = false,
-		[7] = "German Noobs",
-		[8] = 13,
+		[8] = 60,
+	},
+	["Nyhla"] = {
+		[1] = 12293,
 	},
 	["Ddlovehh"] = {
 		[1] = 9853,
 	},
-	["Banananoid"] = {
-		[1] = 7111,
+	["Gunther Arcanus"] = {
+		[1] = 5419,
 	},
-	["Orfischatzi"] = {
-		[1] = 6278,
+	["Sickcnt"] = {
+		[1] = 5661,
 	},
 	["Nalis"] = {
 		[1] = 5992,
 	},
-	["Mwallace"] = {
-		[1] = 7767,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[8] = 13,
+	["Borusai"] = {
+		[1] = 3550,
 	},
 	["Mediver"] = {
 		[1] = 8834,
@@ -24596,8 +24581,11 @@ DPSMateUser = {
 	["Jojobae"] = {
 		[1] = 9103,
 	},
-	["Crimewave"] = {
-		[1] = 1213,
+	["Galeinge"] = {
+		[1] = 8203,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 23,
 	},
 	["Voojek"] = {
 		[1] = 8880,
@@ -24605,11 +24593,8 @@ DPSMateUser = {
 	["Naexr"] = {
 		[1] = 12809,
 	},
-	["Haixiaoniuer"] = {
-		[1] = 7795,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 13,
+	["Ponyewest"] = {
+		[1] = 10102,
 	},
 	["Yeesz"] = {
 		[1] = 459,
@@ -24620,47 +24605,44 @@ DPSMateUser = {
 	["Peimelhooft"] = {
 		[1] = 13190,
 	},
-	["Kirorc"] = {
-		[1] = 13257,
+	["Cthya"] = {
+		[1] = 6679,
 	},
-	["Cometz"] = {
-		[1] = 4581,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Ultimo"] = {
+		[1] = 234,
 	},
-	["Duckfat"] = {
-		[1] = 5566,
+	["Salt Flats Scavenger"] = {
+		[1] = 10771,
 	},
-	["Akioth"] = {
-		[1] = 12321,
+	["Burger"] = {
+		[1] = 11208,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 34,
 	},
-	["Griboed"] = {
-		[1] = 12715,
+	["Sidtryne"] = {
+		[1] = 9176,
 	},
-	["Morrdots"] = {
-		[1] = 8794,
+	["Orfischatzi"] = {
+		[1] = 6278,
 	},
-	["Shalomkitty"] = {
-		[1] = 3027,
+	["Tebodo"] = {
+		[1] = 7717,
 	},
 	["Linqe"] = {
 		[1] = 4514,
 	},
-	["Sunnyy"] = {
-		[1] = 1231,
+	["Tamam"] = {
+		[1] = 5791,
 	},
-	["Asdfasdfasd"] = {
-		[1] = 2779,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 60,
+	["Savagesick"] = {
+		[1] = 7344,
 	},
 	["Hornmoon"] = {
 		[1] = 5988,
 	},
-	["Joulukuu"] = {
-		[1] = 11482,
+	["Raackkrarc"] = {
+		[1] = 5996,
 	},
 	["Dodik"] = {
 		[1] = 4534,
@@ -24668,8 +24650,8 @@ DPSMateUser = {
 	["Myproballz"] = {
 		[1] = 5834,
 	},
-	["Skudaensham"] = {
-		[1] = 6837,
+	["Coutobr"] = {
+		[1] = 4210,
 	},
 	["Conclusion"] = {
 		[1] = 3561,
@@ -24692,35 +24674,35 @@ DPSMateUser = {
 	["Ferguna"] = {
 		[1] = 665,
 	},
-	["Ranx"] = {
-		[1] = 6996,
+	["Peredozz"] = {
+		[1] = 13103,
 	},
-	["Caonimari"] = {
-		[1] = 10346,
+	["Bisonfutei"] = {
+		[1] = 5655,
 	},
 	["Jinling"] = {
 		[1] = 12014,
 	},
-	["Makemage"] = {
-		[1] = 2690,
+	["Secret"] = {
+		[1] = 8379,
 	},
-	["Paco"] = {
-		[1] = 12883,
+	["Bertos"] = {
+		[1] = 8504,
 	},
 	["Arbliss"] = {
 		[1] = 6286,
 	},
-	["Diyuhuangqua"] = {
-		[1] = 4205,
+	["Juicegasm"] = {
+		[1] = 6964,
 	},
-	["Peredozz"] = {
-		[1] = 13103,
+	["Xerwo"] = {
+		[1] = 5083,
 	},
 	["Vulon"] = {
 		[1] = 4648,
 	},
-	["Klitora"] = {
-		[1] = 9615,
+	["Piznik"] = {
+		[1] = 8161,
 	},
 	["Xlord"] = {
 		[1] = 6031,
@@ -24737,38 +24719,32 @@ DPSMateUser = {
 	["Oompah"] = {
 		[1] = 2042,
 	},
-	["Anthraxer"] = {
-		[1] = 11617,
-	},
-	["Feelthelove"] = {
-		[1] = 4422,
-	},
-	["Angpeuka"] = {
-		[1] = 1301,
-	},
-	["Hardpacient"] = {
-		[1] = 5703,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 17,
+	["Spellforce"] = {
+		[1] = 668,
 	},
 	["Noizexd"] = {
 		[1] = 6598,
 	},
-	["Madsmagnus"] = {
-		[1] = 5756,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 12,
+	["Angpeuka"] = {
+		[1] = 1301,
+	},
+	["Sunnyy"] = {
+		[1] = 1231,
+	},
+	["Joel"] = {
+		[1] = 5602,
+	},
+	["Lucthelucky"] = {
+		[1] = 7617,
 	},
 	["Maurizzio"] = {
 		[1] = 7928,
 	},
-	["Nigezz"] = {
-		[1] = 3678,
+	["Ninenkives"] = {
+		[1] = 3623,
 	},
-	["Joel"] = {
-		[1] = 5602,
+	["Vishur"] = {
+		[1] = 3433,
 	},
 	["Mooglybear"] = {
 		[1] = 6897,
@@ -24779,17 +24755,23 @@ DPSMateUser = {
 	["Urbancowboy"] = {
 		[1] = 10270,
 	},
-	["Onlychance"] = {
-		[1] = 5858,
+	["Raura"] = {
+		[1] = 6160,
 	},
-	["Jonnyd"] = {
-		[1] = 2012,
+	["Straidd"] = {
+		[1] = 2300,
 	},
-	["Skydancer"] = {
-		[1] = 3909,
+	["Borsch"] = {
+		[1] = 6594,
 	},
-	["Xzorzina"] = {
-		[1] = 1814,
+	["Sahalala"] = {
+		[1] = 7405,
+		[2] = "hunter",
+		[3] = -1,
+		[4] = false,
+		[5] = "Atack",
+		[7] = "The Light Of Dawn",
+		[8] = 14,
 	},
 	["Graante"] = {
 		[1] = 5796,
@@ -24797,17 +24779,17 @@ DPSMateUser = {
 	["Hugosberget"] = {
 		[1] = 7239,
 	},
-	["Spellforce"] = {
-		[1] = 668,
+	["Witchwing Windcaller"] = {
+		[1] = 6905,
+	},
+	["Imlysel"] = {
+		[1] = 2650,
 	},
 	["Rabadam"] = {
 		[1] = 12550,
 	},
-	["Arkimonday"] = {
-		[1] = 2842,
-	},
-	["Madebyrice"] = {
-		[1] = 12122,
+	["Chicxulub"] = {
+		[1] = 11533,
 	},
 	["Tirisfal Farmer"] = {
 		[1] = 4846,
@@ -24815,25 +24797,17 @@ DPSMateUser = {
 	["Dziku"] = {
 		[1] = 7287,
 	},
-	["Zordon"] = {
-		[1] = 5323,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 10,
+	["Lenkyehveach"] = {
+		[1] = 3418,
 	},
-	["Trenzzia"] = {
-		[1] = 8124,
+	["Queuestalgia"] = {
+		[1] = 6164,
 	},
-	["Catsky"] = {
-		[1] = 13005,
+	["Hotfuzzrpd"] = {
+		[1] = 9555,
 	},
-	["Sukavijin"] = {
-		[1] = 5833,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[7] = "KUKAN",
-		[8] = 30,
+	["Noboru the Cudgel"] = {
+		[1] = 13345,
 	},
 	["Ezpri"] = {
 		[1] = 4864,
@@ -24841,17 +24815,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 10,
 	},
-	["Bejkon"] = {
-		[1] = 3511,
+	["Varikas"] = {
+		[1] = 3953,
 	},
-	["Cthya"] = {
-		[1] = 6679,
+	["Gleade"] = {
+		[1] = 4054,
 	},
-	["Akapaforka"] = {
-		[1] = 1686,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 60,
+	["Branwenn"] = {
+		[1] = 3415,
 	},
 	["Gentleghost"] = {
 		[1] = 5066,
@@ -24874,17 +24845,18 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 29,
 	},
-	["Dispensary"] = {
-		[1] = 774,
+	["Trenzzia"] = {
+		[1] = 8124,
 	},
 	["Hellobrah"] = {
 		[1] = 9831,
 	},
-	["Isilena"] = {
-		[1] = 11052,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 33,
+	["Mwallace"] = {
+		[1] = 7767,
+		[2] = "warrior",
+		[3] = -1,
+		[4] = false,
+		[8] = 13,
 	},
 	["Lonmalice"] = {
 		[1] = 11068,
@@ -24895,47 +24867,52 @@ DPSMateUser = {
 	["Fengxingwuyi"] = {
 		[1] = 7748,
 	},
-	["Dreamkk"] = {
-		[1] = 7804,
+	["Shavrouw"] = {
+		[1] = 10009,
 	},
 	["Almatilan"] = {
 		[1] = 7369,
 	},
-	["Buffout"] = {
-		[1] = 6688,
-		[2] = "warrior",
+	["Artefakt"] = {
+		[1] = 5697,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 12,
+		[8] = 13,
 	},
-	["Wormyng"] = {
-		[1] = 8700,
+	["Murea"] = {
+		[1] = 6699,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[7] = "War",
+		[8] = 13,
 	},
-	["Shavrouw"] = {
-		[1] = 10009,
+	["Madebyrice"] = {
+		[1] = 12122,
 	},
 	["Razorfen Beastmaster"] = {
 		[1] = 9359,
 	},
-	["Lenkyehveach"] = {
-		[1] = 3418,
+	["Dorganna"] = {
+		[1] = 3707,
 	},
 	["Cityxjj"] = {
 		[1] = 12344,
 	},
-	["Skrokketroll"] = {
-		[1] = 524,
-	},
-	["Basedjack"] = {
-		[1] = 9693,
-		[2] = "mage",
+	["Pokeandrun"] = {
+		[1] = 5040,
+		[2] = "warlock",
 		[3] = -1,
-		[8] = 35,
+		[8] = 10,
 	},
-	["Gaaru"] = {
-		[1] = 771,
+	["Dardhong"] = {
+		[1] = 9921,
 	},
-	["Pasted"] = {
-		[1] = 9659,
+	["Lakland"] = {
+		[1] = 10197,
+	},
+	["Dreamkk"] = {
+		[1] = 7804,
 	},
 	["Bazingazz"] = {
 		[1] = 6933,
@@ -24955,35 +24932,35 @@ DPSMateUser = {
 	["Konradkurz"] = {
 		[1] = 8554,
 	},
+	["Klap"] = {
+		[1] = 2462,
+	},
+	["Adultdiaperz"] = {
+		[1] = 2625,
+	},
+	["Backpferd"] = {
+		[1] = 9073,
+	},
+	["Tevngsn"] = {
+		[1] = 7474,
+	},
+	["Zeppere"] = {
+		[1] = 5553,
+	},
+	["TommyTheCat"] = {
+		[1] = 6954,
+	},
+	["Icareaboutu"] = {
+		[1] = 6779,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 13,
+	},
 	["Limpkey"] = {
 		[1] = 8830,
 		[2] = "warlock",
 		[3] = -1,
 		[8] = 60,
-	},
-	["Adultdiaperz"] = {
-		[1] = 2625,
-	},
-	["Revelation"] = {
-		[1] = 10754,
-	},
-	["Tevngsn"] = {
-		[1] = 7474,
-	},
-	["Zree"] = {
-		[1] = 7105,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 18,
-	},
-	["Straidd"] = {
-		[1] = 2300,
-	},
-	["Backpferd"] = {
-		[1] = 9073,
-	},
-	["Oozeback"] = {
-		[1] = 10091,
 	},
 	["Hazzuzzu"] = {
 		[1] = 8251,
@@ -24991,8 +24968,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 20,
 	},
-	["Gleade"] = {
-		[1] = 4054,
+	["Muste"] = {
+		[1] = 3877,
 	},
 	["Minipaladin"] = {
 		[1] = 585,
@@ -25003,62 +24980,60 @@ DPSMateUser = {
 	["Beggin"] = {
 		[1] = 1369,
 	},
-	["Thulgorg"] = {
-		[1] = 11785,
+	["Labadze"] = {
+		[1] = 1744,
+		[2] = "priest",
+		[3] = -1,
+		[4] = false,
+		[8] = 60,
 	},
-	["Hyzikss"] = {
-		[1] = 9439,
+	["Paracelz"] = {
+		[1] = 6574,
 	},
-	["Paskuda"] = {
-		[1] = 10657,
+	["Lumizilat"] = {
+		[1] = 9938,
 	},
 	["Drlev"] = {
 		[1] = 11736,
 	},
-	["Vipsniper"] = {
-		[1] = 3187,
+	["Raizen"] = {
+		[1] = 2979,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 35,
 	},
 	["Grimtast"] = {
 		[1] = 8165,
 	},
-	["Elunaih"] = {
-		[1] = 10836,
-		[2] = "druid",
-		[3] = 1,
+	["Silikonas"] = {
+		[1] = 4741,
 	},
-	["Lynic"] = {
-		[1] = 10795,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 29,
+	["Exorai"] = {
+		[1] = 6854,
 	},
-	["Alcam"] = {
-		[1] = 7951,
-		[2] = "rogue",
-		[3] = -1,
-		[4] = false,
-		[7] = "Communist Party",
-		[8] = 35,
+	["Supercho"] = {
+		[1] = 3273,
 	},
-	["Oldregret"] = {
-		[1] = 3457,
-	},
-	["Captive Zombie"] = {
-		[1] = 5381,
-	},
-	["Murea"] = {
-		[1] = 6699,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[7] = "War",
-		[8] = 13,
-	},
-	["Therapsida"] = {
-		[1] = 6118,
+	["Sinilst"] = {
+		[1] = 7436,
 		[2] = "shaman",
 		[3] = -1,
-		[8] = 31,
+		[8] = 18,
+	},
+	["Zree"] = {
+		[1] = 7105,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 18,
+	},
+	["Syd"] = {
+		[1] = 7121,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 20,
+	},
+	["Cydra"] = {
+		[1] = 4107,
 	},
 	["Yeezup"] = {
 		[1] = 11293,
@@ -25069,8 +25044,10 @@ DPSMateUser = {
 	["Ziogengare"] = {
 		[1] = 1242,
 	},
-	["Sekhemt"] = {
-		[1] = 8546,
+	["Ud"] = {
+		[1] = 1447,
+		[4] = true,
+		[6] = 1446,
 	},
 	["Takarukuruku"] = {
 		[1] = 648,
@@ -25097,17 +25074,11 @@ DPSMateUser = {
 	["Skittering Crustacean"] = {
 		[1] = 8994,
 	},
-	["Sinilst"] = {
-		[1] = 7436,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 18,
+	["Extrim"] = {
+		[1] = 12499,
 	},
-	["Silliboy"] = {
-		[1] = 269,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Dispensary"] = {
+		[1] = 774,
 	},
 	["Alleman"] = {
 		[1] = 989,
@@ -25121,29 +25092,35 @@ DPSMateUser = {
 	["Stoneskin Totem III"] = {
 		[1] = 12443,
 	},
-	["Wuyanzusama"] = {
-		[1] = 11943,
+	["Wormyng"] = {
+		[1] = 8700,
 	},
-	["Redue"] = {
-		[1] = 12179,
-		[2] = "rogue",
+	["Predacious"] = {
+		[1] = 10766,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 38,
+	},
+	["Madscientist"] = {
+		[1] = 1861,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 14,
+		[8] = 60,
 	},
-	["Lausan"] = {
-		[1] = 8827,
+	["Bosukete"] = {
+		[1] = 5342,
 	},
-	["Bec"] = {
-		[1] = 7700,
-	},
-	["Grimtotem Geomancer"] = {
-		[1] = 9295,
+	["Azimeda"] = {
+		[1] = 12348,
 	},
 	["Veck"] = {
 		[1] = 4245,
 	},
-	["Baricho"] = {
-		[1] = 6044,
+	["Doinb"] = {
+		[1] = 10734,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Deadlypriest"] = {
 		[1] = 6727,
@@ -25157,8 +25134,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 4,
 	},
-	["Bacconian"] = {
-		[1] = 12190,
+	["Kahvi"] = {
+		[1] = 3065,
 	},
 	["Tfinger"] = {
 		[1] = 5642,
@@ -25175,14 +25152,14 @@ DPSMateUser = {
 	["Deviate Lasher"] = {
 		[1] = 7530,
 	},
-	["Poklonskaja"] = {
-		[1] = 8378,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 30,
+	["Bec"] = {
+		[1] = 7700,
 	},
-	["Torum"] = {
-		[1] = 10432,
+	["Verboten"] = {
+		[1] = 6815,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Lalzi"] = {
 		[1] = 8101,
@@ -25199,23 +25176,23 @@ DPSMateUser = {
 	["Bismar"] = {
 		[1] = 54,
 	},
-	["Ezel"] = {
-		[1] = 2809,
+	["Bacconian"] = {
+		[1] = 12190,
 	},
-	["Eversti"] = {
-		[1] = 2199,
+	["Tawson"] = {
+		[1] = 1858,
 	},
 	["Feigge"] = {
 		[1] = 4705,
 	},
-	["Ashurr"] = {
-		[1] = 4125,
+	["Freebeer"] = {
+		[1] = 10472,
 	},
 	["Bru"] = {
 		[1] = 1875,
 	},
-	["Paracelz"] = {
-		[1] = 6574,
+	["Ilyysea"] = {
+		[1] = 8955,
 	},
 	["Furaw"] = {
 		[1] = 2026,
@@ -25223,11 +25200,11 @@ DPSMateUser = {
 	["Baalii"] = {
 		[1] = 2839,
 	},
-	["Venture Co. Deforester"] = {
-		[1] = 8105,
+	["Doushika"] = {
+		[1] = 2003,
 	},
-	["Mistixa"] = {
-		[1] = 12750,
+	["Captive Zombie"] = {
+		[1] = 5381,
 	},
 	["Janok"] = {
 		[1] = 9265,
@@ -25238,8 +25215,8 @@ DPSMateUser = {
 	["Thaff"] = {
 		[1] = 7268,
 	},
-	["Pauls"] = {
-		[1] = 2925,
+	["Reudiger"] = {
+		[1] = 12940,
 	},
 	["Winli"] = {
 		[1] = 11821,
@@ -25247,47 +25224,35 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 38,
 	},
-	["Ganok"] = {
-		[1] = 2429,
+	["Chiman"] = {
+		[1] = 4520,
 	},
-	["Spliia"] = {
-		[1] = 1462,
-		[2] = "priest",
-		[3] = 1,
-		[4] = false,
-		[8] = 60,
+	["Elteubes"] = {
+		[1] = 3988,
 	},
-	["Pormenores"] = {
-		[1] = 7164,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 19,
+	["Paskuda"] = {
+		[1] = 10657,
 	},
 	["Kelarzan"] = {
 		[1] = 11704,
 	},
-	["Ahltas"] = {
-		[1] = 11384,
-		[2] = "paladin",
-		[3] = 1,
+	["Tifani"] = {
+		[1] = 11432,
 	},
-	["Verboten"] = {
-		[1] = 6815,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 13,
+	["Lausan"] = {
+		[1] = 8827,
 	},
 	["Kadewig"] = {
 		[1] = 10550,
 	},
-	["Zeertuni"] = {
-		[1] = 7872,
+	["However"] = {
+		[1] = 11107,
 	},
-	["Oldsoul"] = {
-		[1] = 1821,
+	["Grimtotem Geomancer"] = {
+		[1] = 9295,
 	},
-	["Monsterfence"] = {
-		[1] = 91,
+	["Megalomania"] = {
+		[1] = 7829,
 	},
 	["Hobnaker"] = {
 		[1] = 8014,
@@ -25295,20 +25260,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Kusakai"] = {
-		[1] = 9768,
+	["Cocky"] = {
+		[1] = 10825,
 	},
 	["Dondicklydoo"] = {
 		[1] = 3325,
 	},
-	["Paladerping"] = {
-		[1] = 815,
+	["Deucebook"] = {
+		[1] = 1331,
 	},
-	["Gamadril"] = {
-		[1] = 7960,
+	["Ezel"] = {
+		[1] = 2809,
 	},
-	["Jft"] = {
-		[1] = 10947,
+	["Leonehe"] = {
+		[1] = 1805,
 	},
 	["Littleton"] = {
 		[1] = 8714,
@@ -25316,44 +25281,41 @@ DPSMateUser = {
 	["Waarchief"] = {
 		[1] = 6536,
 	},
-	["Reudiger"] = {
-		[1] = 12940,
+	["Wowlegend"] = {
+		[1] = 13183,
 	},
-	["Nietzscsche"] = {
-		[1] = 2234,
+	["Aaders"] = {
+		[1] = 9749,
 	},
-	["Jawsonly"] = {
-		[1] = 11055,
-		[2] = "rogue",
+	["Atraxx"] = {
+		[1] = 8904,
+		[2] = "mage",
 		[3] = -1,
 		[8] = 36,
 	},
 	["Beardo"] = {
 		[1] = 1218,
 	},
-	["Gerenzo Wrenchwhistle"] = {
-		[1] = 8152,
+	["Noragami"] = {
+		[1] = 3149,
 	},
-	["Gwynnblade"] = {
-		[1] = 13153,
+	["Spacethyme"] = {
+		[1] = 12188,
 	},
-	["Druarr"] = {
-		[1] = 6749,
+	["Bigfootstunt"] = {
+		[1] = 1767,
 	},
-	["Kari"] = {
-		[1] = 4340,
+	["Snowyowl"] = {
+		[1] = 5340,
 	},
 	["Emanuela"] = {
 		[1] = 1554,
 	},
-	["Krixx"] = {
-		[1] = 2874,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 60,
+	["Vittfarne"] = {
+		[1] = 6034,
 	},
-	["Hotson"] = {
-		[1] = 4673,
+	["Baricho"] = {
+		[1] = 6044,
 	},
 	["Gaosigewei"] = {
 		[1] = 3151,
@@ -25361,11 +25323,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 1,
 	},
-	["Young Scavenger"] = {
-		[1] = 2972,
+	["Arhy"] = {
+		[1] = 5033,
 	},
-	["Vittfarne"] = {
-		[1] = 6034,
+	["Ish"] = {
+		[1] = 13253,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Ellis"] = {
 		[1] = 1535,
@@ -25376,38 +25341,50 @@ DPSMateUser = {
 	["Cowwhositson"] = {
 		[1] = 1254,
 	},
-	["Stoneskin"] = {
-		[1] = 12444,
+	["Mainekradf"] = {
+		[1] = 1530,
 	},
 	["Gordinflon"] = {
 		[1] = 567,
 	},
-	["Tawson"] = {
-		[1] = 1858,
+	["Ujmnietoboli"] = {
+		[1] = 11645,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 37,
 	},
-	["Grizo"] = {
-		[1] = 7845,
+	["Windshear Vermin"] = {
+		[1] = 8162,
 	},
-	["Thulkrit"] = {
-		[1] = 10984,
+	["Cohek"] = {
+		[1] = 5185,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 17,
 	},
-	["Rodriguez"] = {
-		[1] = 4252,
+	["Zivadin"] = {
+		[1] = 490,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Eliphaz"] = {
-		[1] = 4402,
+	["Hooflahn"] = {
+		[1] = 5533,
 	},
-	["Spacethyme"] = {
-		[1] = 12188,
+	["Bigbb"] = {
+		[1] = 10844,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 30,
 	},
-	["Scensis"] = {
-		[1] = 3261,
+	["Nektaar"] = {
+		[1] = 8524,
 	},
-	["Marcel"] = {
-		[1] = 7593,
+	["Notalife"] = {
+		[1] = 4691,
 	},
-	["Falnyr"] = {
-		[1] = 5918,
+	["Berath"] = {
+		[1] = 8329,
 	},
 	["Divansmerti"] = {
 		[1] = 6376,
@@ -25415,23 +25392,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Ddas"] = {
-		[1] = 12558,
+	["Giant Eye Tentacle"] = {
+		[1] = 2606,
 	},
-	["Kreftiboy"] = {
-		[1] = 8828,
+	["Gamadril"] = {
+		[1] = 7960,
 	},
-	["Windshear Vermin"] = {
-		[1] = 8162,
+	["Pinheadlarry"] = {
+		[1] = 7351,
 	},
-	["Guldrakhz"] = {
-		[1] = 6364,
+	["Dildohangins"] = {
+		[1] = 148,
 	},
-	["Majojo"] = {
-		[1] = 12672,
+	["Jawsonly"] = {
+		[1] = 11055,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 36,
 	},
-	["Wolfgart"] = {
-		[1] = 3203,
+	["Insects"] = {
+		[1] = 7559,
 	},
 	["Kyratsa"] = {
 		[1] = 11429,
@@ -25440,11 +25420,13 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 37,
 	},
-	["Cocky"] = {
-		[1] = 10825,
+	["Noriohotta"] = {
+		[1] = 4499,
 	},
-	["Yobayoba"] = {
-		[1] = 4466,
+	["Harrisonford"] = {
+		[1] = 11708,
+		[2] = "warlock",
+		[3] = 1,
 	},
 	["Breitling"] = {
 		[1] = 1221,
@@ -25467,23 +25449,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 19,
 	},
-	["Balgorth"] = {
-		[1] = 5634,
+	["Gwynnblade"] = {
+		[1] = 13153,
 	},
-	["Valerina"] = {
-		[1] = 5894,
+	["Cardinalkaos"] = {
+		[1] = 10488,
 	},
-	["Abcsang"] = {
-		[1] = 4003,
+	["Noonefamous"] = {
+		[1] = 7296,
 	},
 	["jianbo"] = {
 		[1] = 7936,
 	},
-	["Felizz"] = {
-		[1] = 909,
+	["Puffasaurus"] = {
+		[1] = 13222,
 	},
-	["Snaff"] = {
-		[1] = 9678,
+	["Malegebb"] = {
+		[1] = 10245,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 30,
 	},
 	["Hoodnasty"] = {
 		[1] = 10933,
@@ -25491,8 +25476,8 @@ DPSMateUser = {
 	["Bobbydigital"] = {
 		[1] = 1973,
 	},
-	["Wowlegend"] = {
-		[1] = 13183,
+	["Skrtskrtx"] = {
+		[1] = 2869,
 	},
 	["Penbar"] = {
 		[1] = 3553,
@@ -25513,53 +25498,56 @@ DPSMateUser = {
 	["Jakale"] = {
 		[1] = 12836,
 	},
-	["Gavrusha"] = {
-		[1] = 11274,
+	["Kirorc"] = {
+		[1] = 13257,
 	},
-	["Corrupted Bloodtalon Scythemaw"] = {
-		[1] = 8759,
+	["Cptspliff"] = {
+		[1] = 1699,
 	},
 	["Bilbobangs"] = {
 		[1] = 10697,
 	},
-	["Daddyduality"] = {
-		[1] = 1702,
+	["Zilicia"] = {
+		[1] = 4807,
 	},
-	["Igelkott"] = {
-		[1] = 4281,
-	},
-	["Nekkita"] = {
-		[1] = 7382,
-	},
-	["Turtle"] = {
-		[1] = 5750,
-	},
-	["Askepot"] = {
-		[1] = 13119,
-	},
-	["Snowyowl"] = {
-		[1] = 5340,
-	},
-	["Klaufi"] = {
-		[1] = 10375,
-	},
-	["Arhy"] = {
-		[1] = 5033,
-	},
-	["Hakuziinha"] = {
-		[1] = 4618,
-	},
-	["Thokdok"] = {
-		[1] = 7336,
-	},
-	["Meteore"] = {
-		[1] = 13320,
-		[2] = "hunter",
+	["Mazgar"] = {
+		[1] = 12415,
+		[2] = "mage",
 		[3] = 1,
-		[8] = 26,
+		[8] = 40,
 	},
-	["Arkarius"] = {
-		[1] = 1166,
+	["Sublustrum"] = {
+		[1] = 10106,
+	},
+	["Bangbaby"] = {
+		[1] = 7668,
+	},
+	["Earthborer"] = {
+		[1] = 6110,
+	},
+	["Refune"] = {
+		[1] = 5354,
+	},
+	["Backstab"] = {
+		[1] = 4243,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 4,
+	},
+	["Marcel"] = {
+		[1] = 7593,
+	},
+	["Lated"] = {
+		[1] = 11117,
+	},
+	["Alexandrus"] = {
+		[1] = 9575,
+	},
+	["Kreftiboy"] = {
+		[1] = 8828,
+	},
+	["Koboss"] = {
+		[1] = 10731,
 	},
 	["Abclook"] = {
 		[1] = 5011,
@@ -25576,11 +25564,11 @@ DPSMateUser = {
 	["Markog"] = {
 		[1] = 3454,
 	},
-	["Hooflahn"] = {
-		[1] = 5533,
+	["Tschutschu"] = {
+		[1] = 1287,
 	},
-	["Lated"] = {
-		[1] = 11117,
+	["Bullshnikes"] = {
+		[1] = 6123,
 	},
 	["Mokokni"] = {
 		[1] = 11955,
@@ -25588,14 +25576,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 20,
 	},
-	["Summonplox"] = {
-		[1] = 1841,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 60,
+	["Sruufum"] = {
+		[1] = 1438,
 	},
-	["Halibutt"] = {
-		[1] = 6182,
+	["Xxlls"] = {
+		[1] = 4076,
 	},
 	["Willme"] = {
 		[1] = 12338,
@@ -25603,11 +25588,15 @@ DPSMateUser = {
 	["Smallman"] = {
 		[1] = 716,
 	},
-	["Kacou"] = {
-		[1] = 3987,
+	["Rezamin"] = {
+		[1] = 930,
+		[2] = "warrior",
+		[3] = -1,
+		[4] = false,
+		[8] = 60,
 	},
-	["Koboss"] = {
-		[1] = 10731,
+	["Snore"] = {
+		[1] = 886,
 	},
 	["Robinski"] = {
 		[1] = 7729,
@@ -25615,8 +25604,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 38,
 	},
-	["Dildohangins"] = {
-		[1] = 148,
+	["Quazar"] = {
+		[1] = 766,
 	},
 	["Terapeft"] = {
 		[1] = 7747,
@@ -25624,8 +25613,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 38,
 	},
-	["Dark Touched Warrior"] = {
-		[1] = 2338,
+	["Lekir"] = {
+		[1] = 10847,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 30,
 	},
 	["Adrianinhoo"] = {
 		[1] = 4220,
@@ -25633,31 +25625,32 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 7,
 	},
-	["Iilillillili"] = {
-		[1] = 12677,
+	["Marcel Dabyrie"] = {
+		[1] = 10366,
 	},
-	["Cubar"] = {
-		[1] = 4752,
+	["Flammenherz"] = {
+		[1] = 1110,
 	},
-	["Keljizzard"] = {
-		[1] = 3011,
+	["Schkura"] = {
+		[1] = 12288,
 	},
-	["Monstrous Crawler"] = {
-		[1] = 13352,
+	["Gobkol"] = {
+		[1] = 9186,
 	},
-	["Pet"] = {
-		[1] = 4841,
-		[4] = true,
-		[6] = 12881,
+	["Alanhan"] = {
+		[1] = 9915,
 	},
-	["Syndicate Shadow Mage"] = {
-		[1] = 12526,
+	["Qiuduiyou"] = {
+		[1] = 2255,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Necrodoxx"] = {
-		[1] = 3525,
+	["Enarrim"] = {
+		[1] = 4148,
 	},
-	["Kancerino"] = {
-		[1] = 573,
+	["Diabloowjob"] = {
+		[1] = 10268,
 	},
 	["Arnak Grimtotem"] = {
 		[1] = 9829,
@@ -25665,16 +25658,14 @@ DPSMateUser = {
 	["Tamoond"] = {
 		[1] = 1801,
 	},
-	["Harrisonford"] = {
-		[1] = 11708,
-		[2] = "warlock",
-		[3] = 1,
+	["Teytar"] = {
+		[1] = 8564,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 20,
 	},
-	["Reolyx"] = {
-		[1] = 2398,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 60,
+	["Delgarot"] = {
+		[1] = 5133,
 	},
 	["Taurenwin"] = {
 		[1] = 12799,
@@ -25682,23 +25673,20 @@ DPSMateUser = {
 	["Momern"] = {
 		[1] = 11954,
 	},
-	["Yid"] = {
-		[1] = 12269,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 27,
+	["Gottastay"] = {
+		[1] = 131,
 	},
 	["Fendoras"] = {
 		[1] = 12976,
 	},
-	["Zultax"] = {
-		[1] = 2843,
+	["Zespera"] = {
+		[1] = 13133,
 	},
 	["Juicypudy"] = {
 		[1] = 11824,
 	},
-	["Woodzieowl"] = {
-		[1] = 3733,
+	["Rotwin"] = {
+		[1] = 7373,
 	},
 	["Ambatv"] = {
 		[1] = 3606,
@@ -25706,8 +25694,8 @@ DPSMateUser = {
 	["Dildap"] = {
 		[1] = 9870,
 	},
-	["Marcel Dabyrie"] = {
-		[1] = 10366,
+	["Gaodu"] = {
+		[1] = 2932,
 	},
 	["Vardex"] = {
 		[1] = 7859,
@@ -25715,8 +25703,8 @@ DPSMateUser = {
 	["Wardex"] = {
 		[1] = 1742,
 	},
-	["Orelik"] = {
-		[1] = 3977,
+	["Olcott"] = {
+		[1] = 3675,
 	},
 	["Druid of the Fang's Druid"] = {
 		[1] = 7525,
@@ -25727,32 +25715,32 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Moinsi"] = {
-		[1] = 9646,
+	["Hecklefang Stalker"] = {
+		[1] = 8322,
 	},
 	["Steezyeezy"] = {
 		[1] = 5874,
 	},
-	["Haanzo"] = {
-		[1] = 8310,
+	["Cubar"] = {
+		[1] = 4752,
 	},
-	["Raugnar"] = {
-		[1] = 13189,
+	["Dragondq"] = {
+		[1] = 10230,
 	},
 	["Larva"] = {
 		[1] = 616,
 	},
-	["Skrtskrtx"] = {
-		[1] = 2869,
+	["Turtle"] = {
+		[1] = 5750,
 	},
-	["Zhulek"] = {
-		[1] = 7273,
+	["Arnolf"] = {
+		[1] = 541,
 	},
 	["Lcool"] = {
 		[1] = 1198,
 	},
-	["Lupeh"] = {
-		[1] = 11621,
+	["Startgearmag"] = {
+		[1] = 173,
 	},
 	["Pythonz"] = {
 		[1] = 1168,
@@ -25763,11 +25751,14 @@ DPSMateUser = {
 	["Plaguematic"] = {
 		[1] = 13210,
 	},
-	["Xhiz"] = {
-		[1] = 12127,
+	["Konatejlb"] = {
+		[1] = 13270,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Burning Blade Apprentice"] = {
-		[1] = 5854,
+	["Etnylin"] = {
+		[1] = 13050,
 	},
 	["Zumbinoia"] = {
 		[1] = 4664,
@@ -25787,8 +25778,8 @@ DPSMateUser = {
 	["Popobumsi"] = {
 		[1] = 5885,
 	},
-	["Fatalk"] = {
-		[1] = 10720,
+	["Xlydren"] = {
+		[1] = 8468,
 	},
 	["Lindros"] = {
 		[1] = 5410,
@@ -25802,46 +25793,41 @@ DPSMateUser = {
 	["Klekuid"] = {
 		[1] = 2679,
 	},
-	["Retardbull"] = {
-		[1] = 9400,
+	["Askepot"] = {
+		[1] = 13119,
 	},
 	["Velden"] = {
 		[1] = 450,
 	},
-	["Donaldrumphf"] = {
-		[1] = 9629,
-		[2] = "rogue",
+	["Mohikant"] = {
+		[1] = 11291,
+		[2] = "warrior",
 		[3] = 1,
+		[8] = 30,
 	},
 	["Friedhunt"] = {
 		[1] = 411,
 	},
-	["Narky"] = {
-		[1] = 5897,
+	["Burning Blade Apprentice"] = {
+		[1] = 5854,
 	},
 	["Mizantrop"] = {
 		[1] = 10088,
 	},
-	["Andewan"] = {
-		[1] = 11667,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 35,
+	["Nyktorius"] = {
+		[1] = 7270,
 	},
-	["Neeltak"] = {
-		[1] = 3001,
+	["Felizz"] = {
+		[1] = 909,
 	},
-	["Kolmak"] = {
-		[1] = 6734,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 23,
+	["Derpinka"] = {
+		[1] = 1344,
 	},
-	["Waxilla"] = {
-		[1] = 8345,
+	["Thokdok"] = {
+		[1] = 7336,
 	},
-	["Sublustrum"] = {
-		[1] = 10106,
+	["Woopawopp"] = {
+		[1] = 9941,
 	},
 	["Cakebuns"] = {
 		[1] = 8227,
@@ -25850,11 +25836,11 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 22,
 	},
-	["Thinker"] = {
-		[1] = 12373,
+	["Hoknos"] = {
+		[1] = 12463,
 	},
-	["Meijiro"] = {
-		[1] = 12974,
+	["Drunken Footpad"] = {
+		[1] = 10634,
 	},
 	["Jengiss"] = {
 		[1] = 12800,
@@ -25862,14 +25848,16 @@ DPSMateUser = {
 	["Romnon"] = {
 		[1] = 4439,
 	},
-	["Absinthlol"] = {
-		[1] = 9563,
+	["Lustylarry"] = {
+		[1] = 6596,
 	},
-	["Dude"] = {
-		[1] = 6945,
+	["Stinker"] = {
+		[1] = 2350,
 	},
-	["Dfretr"] = {
-		[1] = 1887,
+	["Anapurna"] = {
+		[1] = 11059,
+		[2] = "mage",
+		[3] = 1,
 	},
 	["Karelklapkut"] = {
 		[1] = 8479,
@@ -25877,23 +25865,23 @@ DPSMateUser = {
 	["Lava Elemental"] = {
 		[1] = 966,
 	},
-	["Atraxx"] = {
-		[1] = 8904,
-		[2] = "mage",
+	["Candycan"] = {
+		[1] = 12095,
+		[2] = "hunter",
 		[3] = -1,
 		[8] = 36,
 	},
 	["Poisonous Skitterer"] = {
 		[1] = 2749,
 	},
-	["Insanebolt"] = {
-		[1] = 5538,
+	["Necrodoxx"] = {
+		[1] = 3525,
 	},
-	["Etnylin"] = {
-		[1] = 13050,
+	["Monstrous Crawler"] = {
+		[1] = 13352,
 	},
-	["Asasiination"] = {
-		[1] = 7879,
+	["Obdd"] = {
+		[1] = 3488,
 	},
 	["Shichibukai"] = {
 		[1] = 9885,
@@ -25906,17 +25894,17 @@ DPSMateUser = {
 		[4] = true,
 		[6] = 1055,
 	},
-	["Laznik"] = {
-		[1] = 4134,
+	["Milfslayerc"] = {
+		[1] = 939,
 	},
-	["Wandela"] = {
-		[1] = 2064,
+	["Dekumoney"] = {
+		[1] = 12211,
 	},
 	["Amiirah"] = {
 		[1] = 8521,
 	},
-	["Hoknos"] = {
-		[1] = 12463,
+	["Handless"] = {
+		[1] = 3456,
 	},
 	["Fakeagent"] = {
 		[1] = 908,
@@ -25927,8 +25915,8 @@ DPSMateUser = {
 	["Roughanal"] = {
 		[1] = 1784,
 	},
-	["The Prophet Skeram"] = {
-		[1] = 2579,
+	["Nietzscsche"] = {
+		[1] = 2234,
 	},
 	["Samely"] = {
 		[1] = 11868,
@@ -25936,11 +25924,11 @@ DPSMateUser = {
 	["Neeksanh"] = {
 		[1] = 949,
 	},
-	["Dragondq"] = {
-		[1] = 10230,
+	["Davidsmother"] = {
+		[1] = 9196,
 	},
-	["Krikkrok"] = {
-		[1] = 4028,
+	["Asasiination"] = {
+		[1] = 7879,
 	},
 	["Ateldag"] = {
 		[1] = 8946,
@@ -25957,23 +25945,32 @@ DPSMateUser = {
 	["Xmagija"] = {
 		[1] = 3072,
 	},
-	["Enarrim"] = {
-		[1] = 4148,
+	["Bobila"] = {
+		[1] = 7106,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 18,
 	},
-	["Bsorry"] = {
-		[1] = 4714,
+	["Yid"] = {
+		[1] = 12269,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 27,
 	},
-	["Wilma"] = {
-		[1] = 10058,
+	["Xhiz"] = {
+		[1] = 12127,
 	},
-	["Scharmuetzel"] = {
-		[1] = 4943,
+	["Charthak"] = {
+		[1] = 9349,
 	},
 	["Scarlet Sentry"] = {
 		[1] = 10568,
 	},
-	["Ccomehere"] = {
-		[1] = 12570,
+	["Milzen"] = {
+		[1] = 11316,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Strogg"] = {
 		[1] = 833,
@@ -25984,11 +25981,11 @@ DPSMateUser = {
 	["Jagek"] = {
 		[1] = 3912,
 	},
-	["Carniceiro"] = {
-		[1] = 10090,
+	["Ashurr"] = {
+		[1] = 4125,
 	},
-	["Zeddicus"] = {
-		[1] = 1994,
+	["Piztik"] = {
+		[1] = 105,
 	},
 	["Slitherd"] = {
 		[1] = 272,
@@ -26004,21 +26001,18 @@ DPSMateUser = {
 	["Pakaruoklis"] = {
 		[1] = 6794,
 	},
-	["Konatejlb"] = {
-		[1] = 13270,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 60,
+	["Desciples"] = {
+		[1] = 13134,
 	},
 	["Basicbearley"] = {
 		[1] = 11592,
 	},
-	["Kronath"] = {
-		[1] = 1809,
+	["Shouma"] = {
+		[1] = 12018,
 	},
-	["Hellyo"] = {
-		[1] = 13216,
-		[2] = "rogue",
+	["Sacredia"] = {
+		[1] = 5411,
+		[2] = "priest",
 		[3] = -1,
 		[8] = 60,
 	},
@@ -26028,8 +26022,8 @@ DPSMateUser = {
 	["Bael'dun Excavator"] = {
 		[1] = 9255,
 	},
-	["Kruella"] = {
-		[1] = 5667,
+	["Bikahere"] = {
+		[1] = 5932,
 	},
 	["Nehkros"] = {
 		[1] = 8423,
@@ -26046,8 +26040,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 30,
 	},
-	["Lovesunfs"] = {
-		[1] = 9971,
+	["Waxilla"] = {
+		[1] = 8345,
 	},
 	["Ohholiday"] = {
 		[1] = 7507,
@@ -26073,56 +26067,53 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 20,
 	},
-	["Gerot"] = {
-		[1] = 11803,
+	["Blackfathom Oracle"] = {
+		[1] = 8982,
 	},
-	["Ikanyes"] = {
-		[1] = 656,
+	["Azunay"] = {
+		[1] = 53,
 	},
-	["Hautreiner"] = {
-		[1] = 4404,
+	["Theramore Marine"] = {
+		[1] = 7322,
 	},
-	["Subzeera"] = {
-		[1] = 4740,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 5,
+	["Kuhnahr"] = {
+		[1] = 4362,
 	},
-	["Toadie"] = {
-		[1] = 1332,
+	["Lxsir"] = {
+		[1] = 12042,
 	},
 	["Tikilax"] = {
 		[1] = 3190,
 	},
-	["Taragaman the Hungerer"] = {
-		[1] = 6354,
+	["Zerco"] = {
+		[1] = 10952,
 	},
-	["Sebiaminoff"] = {
-		[1] = 11317,
+	["Dude"] = {
+		[1] = 6945,
 	},
-	["Spawns"] = {
-		[1] = 6213,
+	["Hysagi"] = {
+		[1] = 2437,
 	},
 	["Nutty"] = {
 		[1] = 7238,
 	},
-	["Shouma"] = {
-		[1] = 12018,
+	["Thulgorg"] = {
+		[1] = 11785,
 	},
-	["Noder"] = {
-		[1] = 9413,
+	["Pedre"] = {
+		[1] = 5677,
 	},
 	["Hordeheadfiv"] = {
 		[1] = 1227,
 	},
-	["Manykesh"] = {
-		[1] = 3220,
+	["Weedl"] = {
+		[1] = 9594,
 	},
-	["Raging Thunder Lizard"] = {
-		[1] = 12819,
+	["Grizo"] = {
+		[1] = 7845,
 	},
-	["Perrier"] = {
-		[1] = 94,
+	["Solomonkayne"] = {
+		[1] = 4242,
 	},
 	["Pursue"] = {
 		[1] = 4218,
@@ -26135,8 +26126,8 @@ DPSMateUser = {
 	["Ranzevoll"] = {
 		[1] = 9348,
 	},
-	["Seamount"] = {
-		[1] = 4622,
+	["Hakkari Priest"] = {
+		[1] = 325,
 	},
 	["Tonymahony"] = {
 		[1] = 10269,
@@ -26144,44 +26135,50 @@ DPSMateUser = {
 	["Prolapse"] = {
 		[1] = 10392,
 	},
-	["Serthren"] = {
-		[1] = 12956,
+	["Mtm"] = {
+		[1] = 2449,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Warchehf"] = {
-		[1] = 1856,
-	},
-	["Wsylol"] = {
-		[1] = 5636,
-	},
-	["Branwenn"] = {
-		[1] = 3415,
-	},
-	["Viollator"] = {
-		[1] = 13096,
-	},
-	["Wkvv"] = {
-		[1] = 11997,
-	},
-	["Solomonkayne"] = {
-		[1] = 4242,
-	},
-	["Nishishabi"] = {
-		[1] = 12369,
-	},
-	["Bikahere"] = {
-		[1] = 5932,
-	},
-	["Rattlecage Skeleton"] = {
-		[1] = 2994,
-	},
-	["Chanfinn"] = {
-		[1] = 5689,
+	["Taragorn"] = {
+		[1] = 104,
 	},
 	["Marla"] = {
 		[1] = 6224,
 	},
-	["Chonip"] = {
-		[1] = 7860,
+	["Fardax"] = {
+		[1] = 9856,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 32,
+	},
+	["Hypnotoad"] = {
+		[1] = 11526,
+	},
+	["Wkvv"] = {
+		[1] = 11997,
+	},
+	["Talord"] = {
+		[1] = 8809,
+	},
+	["Anbu"] = {
+		[1] = 1329,
+	},
+	["Lovesunfs"] = {
+		[1] = 9971,
+	},
+	["Gerot"] = {
+		[1] = 11803,
+	},
+	["Chanfinn"] = {
+		[1] = 5689,
+	},
+	["Psychohoof"] = {
+		[1] = 7979,
+	},
+	["Years"] = {
+		[1] = 3346,
 	},
 	["Fenriken"] = {
 		[1] = 5776,
@@ -26192,17 +26189,20 @@ DPSMateUser = {
 	["Mldlxs"] = {
 		[1] = 3496,
 	},
-	["Talord"] = {
-		[1] = 8809,
+	["Catsky"] = {
+		[1] = 13005,
 	},
-	["Axtroo"] = {
-		[1] = 13082,
+	["Rattlecage Skeleton"] = {
+		[1] = 2994,
 	},
 	["Grak'mos"] = {
 		[1] = 11071,
 	},
-	["Izzyrips"] = {
-		[1] = 5368,
+	["Toomanystabs"] = {
+		[1] = 10341,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 37,
 	},
 	["Najkum"] = {
 		[1] = 13047,
@@ -26213,14 +26213,11 @@ DPSMateUser = {
 	["Fakelol"] = {
 		[1] = 13203,
 	},
-	["Hukzazt"] = {
-		[1] = 6516,
+	["Genovin"] = {
+		[1] = 11064,
 	},
-	["Razorkite"] = {
-		[1] = 11694,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 38,
+	["Razorfen Earthbreaker"] = {
+		[1] = 9371,
 	},
 	["Sloodrom"] = {
 		[1] = 11937,
@@ -26228,11 +26225,16 @@ DPSMateUser = {
 	["Reji"] = {
 		[1] = 6029,
 	},
-	["Weedl"] = {
-		[1] = 9594,
+	["Hamis"] = {
+		[1] = 11397,
+		[2] = "mage",
+		[3] = 1,
 	},
-	["Ledenatocena"] = {
-		[1] = 11563,
+	["Bolrock"] = {
+		[1] = 9509,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 32,
 	},
 	["Dordius"] = {
 		[1] = 6828,
@@ -26273,11 +26275,14 @@ DPSMateUser = {
 	["Mobie"] = {
 		[1] = 10630,
 	},
-	["Muniac"] = {
-		[1] = 8667,
+	["Freeshots"] = {
+		[1] = 994,
 	},
-	["Lokuron"] = {
-		[1] = 1318,
+	["Noxv"] = {
+		[1] = 7125,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 19,
 	},
 	["Julezz"] = {
 		[1] = 1366,
@@ -26288,69 +26293,63 @@ DPSMateUser = {
 	["Marnles"] = {
 		[1] = 7278,
 	},
-	["Mudcrush Durtfeet"] = {
-		[1] = 8940,
+	["Salm"] = {
+		[1] = 4433,
 	},
-	["Taragorn"] = {
-		[1] = 104,
+	["Quzyal"] = {
+		[1] = 3352,
+		[4] = true,
+		[6] = 3025,
 	},
 	["Shagged"] = {
 		[1] = 9497,
 	},
-	["Hamis"] = {
-		[1] = 11397,
-		[2] = "mage",
-		[3] = 1,
+	["Rotgrim"] = {
+		[1] = 8952,
 	},
 	["Venture Co. Workboss"] = {
 		[1] = 11652,
 	},
-	["Buriza"] = {
-		[1] = 11376,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 36,
+	["Nishishabi"] = {
+		[1] = 12369,
 	},
-	["Razormane Thornweaver"] = {
-		[1] = 5526,
+	["Tarosh"] = {
+		[1] = 2353,
 	},
 	["Rawless"] = {
 		[1] = 3205,
 	},
-	["Shikuaiqian"] = {
-		[1] = 9858,
+	["Mohindo"] = {
+		[1] = 9135,
 	},
-	["Jhazgore"] = {
-		[1] = 10798,
+	["Maydun"] = {
+		[1] = 5318,
 	},
 	["Mmhcake"] = {
 		[1] = 4614,
 	},
-	["Deathz"] = {
-		[1] = 164,
+	["Jawz"] = {
+		[1] = 6631,
 	},
 	["Zhar'gron"] = {
 		[1] = 1482,
 		[4] = true,
 		[6] = 1476,
 	},
-	["Vyraz"] = {
-		[1] = 3843,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 16,
+	["Lokuron"] = {
+		[1] = 1318,
 	},
 	["Keretkun"] = {
 		[1] = 6661,
 	},
-	["Years"] = {
-		[1] = 3346,
+	["Convict"] = {
+		[1] = 2376,
 	},
 	["Thuljuk"] = {
 		[1] = 11842,
 	},
-	["Slitherblade Warrior"] = {
-		[1] = 12889,
+	["Majojo"] = {
+		[1] = 12672,
 	},
 	["Shoy"] = {
 		[1] = 1938,
@@ -26364,8 +26363,8 @@ DPSMateUser = {
 	["Locs"] = {
 		[1] = 11595,
 	},
-	["Maydun"] = {
-		[1] = 5318,
+	["Sacrificed Troll"] = {
+		[1] = 362,
 	},
 	["Goronu"] = {
 		[1] = 8108,
@@ -26374,17 +26373,17 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 22,
 	},
-	["Fktrump"] = {
-		[1] = 7903,
+	["Miaoyi"] = {
+		[1] = 4715,
 	},
-	["Jagerathalos"] = {
-		[1] = 7910,
+	["Vyraz"] = {
+		[1] = 3843,
 		[2] = "mage",
 		[3] = -1,
-		[8] = 45,
+		[8] = 16,
 	},
-	["Stomatologer"] = {
-		[1] = 4027,
+	["Laleh"] = {
+		[1] = 9999,
 	},
 	["Disparitos"] = {
 		[1] = 474,
@@ -26392,11 +26391,11 @@ DPSMateUser = {
 	["Tepsy"] = {
 		[1] = 674,
 	},
-	["Johnyfeenix"] = {
-		[1] = 13326,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 38,
+	["Rosemarry"] = {
+		[1] = 3718,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 37,
 	},
 	["Olloq"] = {
 		[1] = 8150,
@@ -26405,32 +26404,32 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 23,
 	},
-	["Kratong"] = {
-		[1] = 8382,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 34,
+	["Razorkite"] = {
+		[1] = 11694,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 38,
 	},
-	["Hardhorn"] = {
-		[1] = 8533,
+	["Mylya"] = {
+		[1] = 6759,
 	},
 	["Stormllng"] = {
 		[1] = 1590,
 	},
-	["Rusecruise"] = {
-		[1] = 10898,
+	["Healordiet"] = {
+		[1] = 11422,
 	},
 	["Elder Cloud Serpent"] = {
 		[1] = 9317,
 	},
-	["Jinglebolt"] = {
-		[1] = 4413,
+	["Russell"] = {
+		[1] = 9869,
 	},
 	["Overtake"] = {
 		[1] = 6175,
 	},
-	["Sneakebruh"] = {
-		[1] = 6753,
+	["Lingzi"] = {
+		[1] = 7603,
 	},
 	["Phoenixthe"] = {
 		[1] = 10114,
@@ -26438,8 +26437,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 36,
 	},
-	["Zarakynel"] = {
-		[1] = 11087,
+	["Pochciijute"] = {
+		[1] = 3539,
 	},
 	["Dorukan"] = {
 		[1] = 10283,
@@ -26447,19 +26446,20 @@ DPSMateUser = {
 	["Ryhaz"] = {
 		[1] = 497,
 	},
-	["Salm"] = {
-		[1] = 4433,
+	["Viollator"] = {
+		[1] = 13096,
 	},
 	["Yeabby"] = {
 		[1] = 901,
 	},
-	["Quzyal"] = {
-		[1] = 3352,
-		[4] = true,
-		[6] = 3025,
+	["Kratong"] = {
+		[1] = 8382,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 34,
 	},
-	["Juicys"] = {
-		[1] = 39,
+	["Helophor"] = {
+		[1] = 8925,
 	},
 	["Thyrcan"] = {
 		[1] = 1580,
@@ -26469,11 +26469,11 @@ DPSMateUser = {
 		[2] = "druid",
 		[3] = 1,
 	},
-	["Humanbean"] = {
-		[1] = 1404,
+	["Humar"] = {
+		[1] = 10862,
 	},
-	["Ongamejke"] = {
-		[1] = 5121,
+	["Darkmana"] = {
+		[1] = 12371,
 	},
 	["Theramore Preserver"] = {
 		[1] = 7324,
@@ -26487,8 +26487,8 @@ DPSMateUser = {
 	["Toaz"] = {
 		[1] = 10261,
 	},
-	["Humar"] = {
-		[1] = 10862,
+	["Burning Blade Summoner"] = {
+		[1] = 12929,
 	},
 	["Douyuhy"] = {
 		[1] = 4460,
@@ -26502,11 +26502,11 @@ DPSMateUser = {
 		[7] = "NEXTGEN",
 		[8] = 29,
 	},
-	["Deiven"] = {
-		[1] = 6050,
+	["Bishen"] = {
+		[1] = 4651,
 	},
-	["Spleenless"] = {
-		[1] = 12533,
+	["Efsgsdfg"] = {
+		[1] = 2708,
 	},
 	["Carrion Bird"] = {
 		[1] = 12867,
@@ -26514,14 +26514,14 @@ DPSMateUser = {
 	["Dagbis"] = {
 		[1] = 6342,
 	},
-	["Tankovich"] = {
-		[1] = 2313,
+	["Shikuaiqian"] = {
+		[1] = 9858,
 	},
 	["Blele"] = {
 		[1] = 12337,
 	},
-	["Draakeedog"] = {
-		[1] = 11318,
+	["Swaggoxx"] = {
+		[1] = 12670,
 	},
 	["Ledt"] = {
 		[1] = 12803,
@@ -26538,29 +26538,35 @@ DPSMateUser = {
 	["Laidaa"] = {
 		[1] = 9578,
 	},
-	["Kashazi"] = {
-		[1] = 9904,
+	["Joxbe"] = {
+		[1] = 4761,
 	},
 	["Wanshotlol"] = {
 		[1] = 6538,
 	},
-	["Falconfly"] = {
-		[1] = 11689,
+	["Rucus"] = {
+		[1] = 8863,
 	},
-	["Gatangli"] = {
-		[1] = 4041,
+	["Buriza"] = {
+		[1] = 11376,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 36,
 	},
-	["Stanzy"] = {
-		[1] = 13266,
+	["Shamshi"] = {
+		[1] = 9650,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 29,
 	},
 	["Twilight Lord Kelris"] = {
 		[1] = 9016,
 	},
-	["Dirtyxmoney"] = {
-		[1] = 5694,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 12,
+	["Johnyfeenix"] = {
+		[1] = 13326,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 38,
 	},
 	["Grak'vhug"] = {
 		[1] = 8986,
@@ -26568,14 +26574,11 @@ DPSMateUser = {
 	["Mouseglove"] = {
 		[1] = 8786,
 	},
-	["Hetacoco"] = {
-		[1] = 11895,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 37,
+	["Grajdane"] = {
+		[1] = 1984,
 	},
-	["Cntang"] = {
-		[1] = 10089,
+	["Zsta"] = {
+		[1] = 7427,
 	},
 	["Yarvaxea"] = {
 		[1] = 559,
@@ -26583,17 +26586,17 @@ DPSMateUser = {
 	["Gakfip"] = {
 		[1] = 448,
 	},
-	["Evox"] = {
-		[1] = 1497,
+	["Invictos"] = {
+		[1] = 9470,
 	},
-	["Savannah Huntress"] = {
-		[1] = 5604,
+	["Henry"] = {
+		[1] = 12282,
 	},
 	["Aeha"] = {
 		[1] = 5282,
 	},
-	["Mosttwo"] = {
-		[1] = 7651,
+	["Forest Moss Creeper"] = {
+		[1] = 9153,
 	},
 	["Seenoevil"] = {
 		[1] = 1248,
@@ -26601,20 +26604,13 @@ DPSMateUser = {
 	["Shardowy"] = {
 		[1] = 5364,
 	},
-	["Vulgarian"] = {
-		[1] = 8403,
-	},
-	["Gooned"] = {
-		[1] = 3929,
-	},
-	["Streiff"] = {
-		[1] = 3444,
-	},
-	["Xulk"] = {
-		[1] = 892,
-	},
-	["Anemico"] = {
-		[1] = 9552,
+	["Mykonos"] = {
+		[1] = 869,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[7] = "I dps my kids irl",
+		[8] = 60,
 	},
 	["Iamlazy"] = {
 		[1] = 2569,
@@ -26623,44 +26619,53 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 60,
 	},
-	["Shamshi"] = {
-		[1] = 9650,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 29,
+	["Koradon"] = {
+		[1] = 5836,
+	},
+	["Xulk"] = {
+		[1] = 892,
+	},
+	["Anemico"] = {
+		[1] = 9552,
+	},
+	["Cernn"] = {
+		[1] = 6423,
+	},
+	["Eycore"] = {
+		[1] = 4025,
 	},
 	["Jeha"] = {
 		[1] = 9041,
 	},
-	["Marvel"] = {
-		[1] = 5886,
+	["Strength of Earth Totem II"] = {
+		[1] = 10205,
 	},
-	["Mufasta"] = {
-		[1] = 9782,
+	["Mad Magglish"] = {
+		[1] = 7448,
 	},
-	["Fledgling Chimaera"] = {
-		[1] = 8198,
-	},
-	["Jumalauta"] = {
-		[1] = 5372,
-	},
-	["Lolkakiller"] = {
-		[1] = 4140,
-	},
-	["Kasandra"] = {
-		[1] = 10376,
-	},
-	["Aldunn"] = {
-		[1] = 8435,
-	},
-	["Russell"] = {
-		[1] = 9869,
+	["Meatwado"] = {
+		[1] = 12170,
 	},
 	["Squash"] = {
 		[1] = 5573,
 		[2] = "warrior",
 		[3] = -1,
 		[8] = 23,
+	},
+	["Zargrozen"] = {
+		[1] = 7608,
+	},
+	["Stanzy"] = {
+		[1] = 13266,
+	},
+	["Aldunn"] = {
+		[1] = 8435,
+	},
+	["Maestrik"] = {
+		[1] = 6087,
+	},
+	["Streiff"] = {
+		[1] = 3444,
 	},
 	["Sambod"] = {
 		[1] = 198,
@@ -26671,25 +26676,17 @@ DPSMateUser = {
 	["Darksix"] = {
 		[1] = 2194,
 	},
-	["Bahascha"] = {
-		[1] = 10650,
+	["Vulgarian"] = {
+		[1] = 8403,
 	},
 	["Rograw"] = {
 		[1] = 7043,
 	},
-	["Mykonos"] = {
-		[1] = 869,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[7] = "I dps my kids irl",
-		[8] = 60,
+	["Finczu"] = {
+		[1] = 3887,
 	},
-	["Jawdropping"] = {
-		[1] = 9700,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 29,
+	["Savannah Huntress"] = {
+		[1] = 5604,
 	},
 	["Adalbrecht"] = {
 		[1] = 6310,
@@ -26697,8 +26694,8 @@ DPSMateUser = {
 	["Gobqua"] = {
 		[1] = 3442,
 	},
-	["Unrealx"] = {
-		[1] = 106,
+	["Thetwohand"] = {
+		[1] = 9916,
 	},
 	["Boomzki"] = {
 		[1] = 6319,
@@ -26706,8 +26703,11 @@ DPSMateUser = {
 	["Ghokol"] = {
 		[1] = 10288,
 	},
-	["Rotgrim"] = {
-		[1] = 8952,
+	["Skitsi"] = {
+		[1] = 11410,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 35,
 	},
 	["Mograw"] = {
 		[1] = 12793,
@@ -26727,11 +26727,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 11,
 	},
-	["Anuslessness"] = {
-		[1] = 11331,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 25,
+	["Fledgling Chimaera"] = {
+		[1] = 8198,
 	},
 	["Saltwater Crocolisk"] = {
 		[1] = 11390,
@@ -26739,8 +26736,8 @@ DPSMateUser = {
 	["Praline"] = {
 		[1] = 2900,
 	},
-	["Llcg"] = {
-		[1] = 10054,
+	["Kasandra"] = {
+		[1] = 10376,
 	},
 	["Dtack"] = {
 		[1] = 10000,
@@ -26757,14 +26754,14 @@ DPSMateUser = {
 	["Nemojon"] = {
 		[1] = 1701,
 	},
-	["Cereala"] = {
-		[1] = 4068,
+	["Skeletal Acolyte"] = {
+		[1] = 12246,
 	},
-	["Ryht"] = {
-		[1] = 1037,
+	["Splice"] = {
+		[1] = 4599,
 	},
-	["Mmhpie"] = {
-		[1] = 3154,
+	["Retardbull"] = {
+		[1] = 9400,
 	},
 	["Katsuba"] = {
 		[1] = 12023,
@@ -26778,14 +26775,20 @@ DPSMateUser = {
 	["Lucas"] = {
 		[1] = 2163,
 	},
-	["Mofojojo"] = {
-		[1] = 8426,
+	["Smalljoker"] = {
+		[1] = 12335,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Sarvhug"] = {
-		[1] = 12832,
+	["Bahascha"] = {
+		[1] = 10650,
 	},
-	["Quietrogue"] = {
-		[1] = 11959,
+	["Asphyxiia"] = {
+		[1] = 7679,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 39,
 	},
 	["Boaris"] = {
 		[1] = 8787,
@@ -26793,17 +26796,14 @@ DPSMateUser = {
 	["Thinbones"] = {
 		[1] = 2986,
 	},
-	["Ruas"] = {
-		[1] = 11774,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 60,
+	["Dmfs"] = {
+		[1] = 10903,
 	},
-	["Flumer"] = {
-		[1] = 4828,
+	["Bubblebabe"] = {
+		[1] = 11221,
 	},
-	["Taneel Darkwood"] = {
-		[1] = 9798,
+	["Kusakai"] = {
+		[1] = 9768,
 	},
 	["Feelingfail"] = {
 		[1] = 6492,
@@ -26814,52 +26814,49 @@ DPSMateUser = {
 	["Wurst"] = {
 		[1] = 6917,
 	},
-	["Rembestwaifu"] = {
-		[1] = 3631,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 5,
+	["Witherbark Berserker"] = {
+		[1] = 12457,
 	},
-	["Seniorspooky"] = {
-		[1] = 8006,
+	["Etxrogue"] = {
+		[1] = 3425,
 	},
 	["Acha"] = {
 		[1] = 11103,
 	},
-	["Glow"] = {
-		[1] = 511,
+	["Rynthariel the Keymaster"] = {
+		[1] = 10161,
 	},
 	["Misskiwi"] = {
 		[1] = 9215,
 	},
-	["Arugal's Voidwalker"] = {
-		[1] = 8632,
+	["Memesirl"] = {
+		[1] = 2174,
 	},
-	["Cyclone Warrior"] = {
-		[1] = 2618,
+	["Bofo"] = {
+		[1] = 3716,
 	},
 	["Atack"] = {
 		[1] = 7403,
 		[4] = true,
 		[6] = 7405,
 	},
-	["Kamiyo"] = {
-		[1] = 1292,
+	["Deucalion"] = {
+		[1] = 794,
 	},
 	["Bigrefan"] = {
 		[1] = 5441,
 	},
-	["Nogerfagit"] = {
-		[1] = 260,
+	["Maggot"] = {
+		[1] = 2330,
 	},
-	["Foulweald Totemic"] = {
-		[1] = 9794,
+	["Lupine Horror"] = {
+		[1] = 8627,
 	},
-	["Karsemad"] = {
-		[1] = 8590,
-		[2] = "druid",
+	["Matchamomo"] = {
+		[1] = 11855,
+		[2] = "hunter",
 		[3] = -1,
-		[8] = 30,
+		[8] = 36,
 	},
 	["Icydreams"] = {
 		[1] = 3179,
@@ -26893,32 +26890,35 @@ DPSMateUser = {
 	["Slivapodliva"] = {
 		[1] = 2801,
 	},
-	["Wymoras"] = {
-		[1] = 7158,
+	["Evanita"] = {
+		[1] = 4382,
 	},
-	["Deucalion"] = {
-		[1] = 794,
+	["Dread Ripper"] = {
+		[1] = 12926,
 	},
-	["Xerther"] = {
-		[1] = 2269,
+	["Bebek"] = {
+		[1] = 7788,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Track"] = {
 		[1] = 6512,
 	},
-	["Buzzrandzo"] = {
-		[1] = 1104,
+	["Paranomiks"] = {
+		[1] = 7674,
 	},
-	["Deathguard Phillip"] = {
-		[1] = 4727,
+	["Idz"] = {
+		[1] = 2834,
 	},
-	["Coldlol"] = {
-		[1] = 40,
+	["Overback"] = {
+		[1] = 4215,
 	},
 	["Tomford"] = {
 		[1] = 12726,
 	},
-	["Lupine Horror"] = {
-		[1] = 8627,
+	["Berithia"] = {
+		[1] = 13032,
 	},
 	["Minino"] = {
 		[1] = 2288,
@@ -26937,14 +26937,16 @@ DPSMateUser = {
 	["HornPub"] = {
 		[1] = 10440,
 	},
-	["Normalizer"] = {
-		[1] = 3146,
+	["acer"] = {
+		[1] = 12525,
 	},
-	["Chillsome"] = {
-		[1] = 6752,
+	["Hooktooth Frenzy"] = {
+		[1] = 367,
 	},
-	["Bonepaw Hyena"] = {
-		[1] = 12885,
+	["Beidouxing"] = {
+		[1] = 12311,
+		[2] = "warrior",
+		[3] = 1,
 	},
 	["Pitt"] = {
 		[1] = 2192,
@@ -26952,8 +26954,11 @@ DPSMateUser = {
 	["Tuozi"] = {
 		[1] = 11536,
 	},
-	["Mcdrifter"] = {
-		[1] = 10552,
+	["Scutar"] = {
+		[1] = 6506,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Surmiser"] = {
 		[1] = 10473,
@@ -26967,8 +26972,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Grand Foreman Puzik Gallywix"] = {
-		[1] = 7949,
+	["Vismus"] = {
+		[1] = 12569,
 	},
 	["Ayumeze"] = {
 		[1] = 4055,
@@ -26982,8 +26987,12 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Yungjuan"] = {
-		[1] = 9550,
+	["Regulargal"] = {
+		[1] = 1692,
+		[2] = "paladin",
+		[3] = 1,
+		[4] = false,
+		[8] = 60,
 	},
 	["Holymace"] = {
 		[1] = 1631,
@@ -26991,20 +27000,20 @@ DPSMateUser = {
 	["Declarior"] = {
 		[1] = 8098,
 	},
-	["Saltjee"] = {
-		[1] = 10965,
+	["Iravice"] = {
+		[1] = 5302,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 6,
 	},
-	["Riffraffaroo"] = {
-		[1] = 9449,
+	["Whitedroode"] = {
+		[1] = 10398,
 	},
-	["Aheadfour"] = {
-		[1] = 1222,
+	["Glower"] = {
+		[1] = 9857,
 	},
-	["Predacious"] = {
-		[1] = 10766,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 38,
+	["Gollios"] = {
+		[1] = 5660,
 	},
 	["Serishe"] = {
 		[1] = 256,
@@ -27024,8 +27033,8 @@ DPSMateUser = {
 	["Lord Serpentis"] = {
 		[1] = 7535,
 	},
-	["Funnyman"] = {
-		[1] = 609,
+	["Zatarans"] = {
+		[1] = 9788,
 	},
 	["Idolwaste"] = {
 		[1] = 12434,
@@ -27039,22 +27048,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 17,
 	},
-	["Beejinald"] = {
-		[1] = 7628,
+	["Murmurator"] = {
+		[1] = 8461,
 	},
-	["Beidouxing"] = {
-		[1] = 12311,
-		[2] = "warrior",
-		[3] = 1,
+	["Dryhdujj"] = {
+		[1] = 1658,
 	},
-	["Immortality"] = {
-		[1] = 3614,
+	["Timsnofnu"] = {
+		[1] = 9673,
 	},
-	["Aazer√≥th"] = {
-		[1] = 2478,
+	["Nusferatu"] = {
+		[1] = 7118,
 	},
-	["Bearsuitup"] = {
-		[1] = 6608,
+	["Gafnir"] = {
+		[1] = 9325,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 26,
 	},
 	["Gelloz"] = {
 		[1] = 4873,
@@ -27062,26 +27072,36 @@ DPSMateUser = {
 	["Netieiry"] = {
 		[1] = 12989,
 	},
-	["Sjaven"] = {
-		[1] = 3304,
+	["Oogro"] = {
+		[1] = 1731,
+		[2] = "hunter",
+		[3] = -1,
+		[4] = false,
+		[5] = "àÏ\n",
+		[8] = 60,
 	},
-	["Waraxe"] = {
-		[1] = 611,
+	["Narmacilia"] = {
+		[1] = 5117,
 	},
-	["Zatarans"] = {
-		[1] = 9788,
+	["Druslissa"] = {
+		[1] = 13037,
 	},
-	["Olios"] = {
-		[1] = 10800,
-		[2] = "priest",
+	["Gorlash"] = {
+		[1] = 7828,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 22,
+	},
+	["Cowroid"] = {
+		[1] = 5684,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 14,
+	},
+	["Eruadan"] = {
+		[1] = 13230,
+		[2] = "druid",
 		[3] = 1,
-		[8] = 32,
-	},
-	["Seuner"] = {
-		[1] = 11604,
-	},
-	["Kasjin"] = {
-		[1] = 5843,
 	},
 	["Gorm"] = {
 		[1] = 9037,
@@ -27092,8 +27112,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 4,
 	},
-	["Mairana"] = {
-		[1] = 5639,
+	["Djseppelx"] = {
+		[1] = 7557,
 	},
 	["Windf"] = {
 		[1] = 11007,
@@ -27101,8 +27121,8 @@ DPSMateUser = {
 	["Dangkush"] = {
 		[1] = 1529,
 	},
-	["Belchi"] = {
-		[1] = 4989,
+	["Domrah"] = {
+		[1] = 4429,
 	},
 	["Lovewithme"] = {
 		[1] = 3423,
@@ -27110,8 +27130,8 @@ DPSMateUser = {
 	["Ellita"] = {
 		[1] = 10271,
 	},
-	["Vilnva"] = {
-		[1] = 425,
+	["Celiin"] = {
+		[1] = 6249,
 	},
 	["Vilkys"] = {
 		[1] = 5682,
@@ -27119,23 +27139,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 11,
 	},
-	["Bahatilexa"] = {
-		[1] = 4580,
+	["PferdeHund"] = {
+		[1] = 6407,
 	},
-	["Waviestalive"] = {
-		[1] = 12930,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 34,
+	["Infernia"] = {
+		[1] = 519,
 	},
-	["Nekromorphe"] = {
-		[1] = 3464,
+	["Flumer"] = {
+		[1] = 4828,
 	},
 	["Bebej"] = {
 		[1] = 11497,
 	},
-	["Dunerat"] = {
-		[1] = 12753,
+	["Olios"] = {
+		[1] = 10800,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 32,
 	},
 	["Djoni"] = {
 		[1] = 1734,
@@ -27144,8 +27164,8 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 60,
 	},
-	["Genovin"] = {
-		[1] = 11064,
+	["Retrowave"] = {
+		[1] = 12998,
 	},
 	["Hoote"] = {
 		[1] = 12528,
@@ -27153,50 +27173,53 @@ DPSMateUser = {
 	["Equim"] = {
 		[1] = 4723,
 	},
-	["Grums"] = {
-		[1] = 1164,
+	["Highwall"] = {
+		[1] = 11632,
 	},
-	["Snusktanken"] = {
-		[1] = 1804,
-	},
-	["Tengtengcai"] = {
-		[1] = 10896,
-	},
-	["Ralmont"] = {
-		[1] = 4377,
+	["Keepitsleezy"] = {
+		[1] = 8689,
 		[2] = "rogue",
 		[3] = -1,
-		[8] = 35,
+		[8] = 60,
 	},
-	["Philistra"] = {
-		[1] = 5621,
+	["Thies"] = {
+		[1] = 10762,
 	},
-	["Adder"] = {
-		[1] = 5779,
+	["Doebator"] = {
+		[1] = 4168,
 	},
-	["Sapiomouris"] = {
-		[1] = 13205,
+	["Nitianci"] = {
+		[1] = 4408,
 	},
-	["Ffasdfdsdsa"] = {
-		[1] = 427,
+	["Verdum"] = {
+		[1] = 11180,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 33,
+	},
+	["Vipsniper"] = {
+		[1] = 3187,
+	},
+	["Thricton"] = {
+		[1] = 11858,
+	},
+	["Totemba"] = {
+		[1] = 10739,
+	},
+	["Yungjuan"] = {
+		[1] = 9550,
+	},
+	["Keefz"] = {
+		[1] = 1769,
 		[2] = "warrior",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Yutozz"] = {
-		[1] = 3396,
+	["Calderazero"] = {
+		[1] = 690,
 	},
-	["Diaperbutt"] = {
-		[1] = 7431,
-	},
-	["Fridrick"] = {
-		[1] = 3486,
-	},
-	["Youdietoo"] = {
-		[1] = 11772,
-	},
-	["Miggan"] = {
-		[1] = 8489,
+	["Malivis"] = {
+		[1] = 140,
 	},
 	["Terrfic"] = {
 		[1] = 10745,
@@ -27210,8 +27233,11 @@ DPSMateUser = {
 	["Yxt"] = {
 		[1] = 1633,
 	},
-	["Strongestrac"] = {
-		[1] = 2630,
+	["Cobrasp"] = {
+		[1] = 3411,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 12,
 	},
 	["Moolonmusk"] = {
 		[1] = 6327,
@@ -27222,19 +27248,14 @@ DPSMateUser = {
 	["Grga"] = {
 		[1] = 6473,
 	},
-	["Valenpa"] = {
-		[1] = 9225,
-		[2] = "druid",
-		[3] = -1,
-		[4] = false,
-		[7] = "LOKO LEGION",
-		[8] = 18,
+	["Hoahoa"] = {
+		[1] = 6668,
 	},
 	["Abahr"] = {
 		[1] = 12725,
 	},
-	["Lolis"] = {
-		[1] = 2405,
+	["Livingice"] = {
+		[1] = 7226,
 	},
 	["Rahaar"] = {
 		[1] = 4756,
@@ -27245,67 +27266,62 @@ DPSMateUser = {
 	["Coneheadpaz"] = {
 		[1] = 7345,
 	},
-	["Scarlet Disciple"] = {
-		[1] = 10573,
-	},
-	["Naavii"] = {
-		[1] = 11619,
-	},
-	["Hukkath"] = {
-		[1] = 5673,
-	},
-	["Lost One Fisherman"] = {
-		[1] = 13327,
-	},
-	["Cobrasp"] = {
-		[1] = 3411,
-		[2] = "warlock",
+	["Magier"] = {
+		[1] = 9293,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 12,
+		[8] = 26,
+	},
+	["Tism"] = {
+		[1] = 8977,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 20,
+	},
+	["Zhiftex"] = {
+		[1] = 2966,
+	},
+	["Syndicate Footpad"] = {
+		[1] = 10636,
+	},
+	["Rougexd"] = {
+		[1] = 4486,
 	},
 	["Icecat"] = {
 		[1] = 6970,
 	},
-	["Aliez"] = {
-		[1] = 1643,
+	["Ravenclaw Servant"] = {
+		[1] = 12544,
 	},
 	["Shamsebamse"] = {
 		[1] = 11097,
 	},
-	["Keepitsleezy"] = {
-		[1] = 8689,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Icedbank"] = {
+		[1] = 10380,
 	},
-	["Thricton"] = {
-		[1] = 11858,
+	["Lavis"] = {
+		[1] = 4103,
 	},
 	["Sakkurat"] = {
 		[1] = 4217,
 	},
-	["Death's Head Acolyte"] = {
-		[1] = 9366,
+	["Checkpoint"] = {
+		[1] = 1705,
 	},
-	["Xtip"] = {
-		[1] = 12862,
+	["Extaze"] = {
+		[1] = 2422,
 	},
-	["Swattytwatty"] = {
-		[1] = 8835,
+	["Nifnafnuf"] = {
+		[1] = 10282,
 	},
 	["Crothius"] = {
 		[1] = 4477,
 	},
-	["Chezney"] = {
-		[1] = 13130,
+	["Deer"] = {
+		[1] = 8245,
 	},
-	["Growlamp"] = {
-		[1] = 1493,
-		[2] = "priest",
-		[3] = -1,
-		[4] = false,
-		[7] = "I dps my kids irl",
-		[8] = 60,
+	["Gaktik"] = {
+		[1] = 568,
 	},
 	["Keneddy"] = {
 		[1] = 9991,
@@ -27316,50 +27332,58 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 6,
 	},
-	["zhuduiyou"] = {
-		[1] = 10122,
+	["Totalsheep"] = {
+		[1] = 4297,
 	},
-	["Deathfiend"] = {
-		[1] = 12968,
+	["Ralmont"] = {
+		[1] = 4377,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 35,
 	},
 	["RAKE"] = {
 		[1] = 735,
 	},
-	["Yozzshura"] = {
-		[1] = 5804,
+	["Aliveyra"] = {
+		[1] = 3159,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 1,
 	},
-	["Barryscotty"] = {
-		[1] = 3802,
+	["Bethect"] = {
+		[1] = 12306,
 	},
-	["Judgedangel"] = {
-		[1] = 12244,
+	["Lovedots"] = {
+		[1] = 149,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Drujok"] = {
-		[1] = 11037,
+	["Evilpotatos"] = {
+		[1] = 3292,
 	},
-	["Totalsheep"] = {
-		[1] = 4297,
+	["Zintos"] = {
+		[1] = 263,
+		[2] = "rogue",
+		[3] = 1,
+		[4] = false,
+		[7] = "Avast",
+		[8] = 60,
 	},
 	["Tsasa"] = {
 		[1] = 6335,
 	},
-	["Dajcycaa"] = {
-		[1] = 2864,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 60,
+	["Kexalot"] = {
+		[1] = 3343,
 	},
-	["Druslissa"] = {
-		[1] = 13037,
+	["Death's Head Acolyte"] = {
+		[1] = 9366,
 	},
 	["Ravvis"] = {
 		[1] = 6474,
 	},
-	["Hypodermic"] = {
-		[1] = 12953,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 28,
+	["Schlomo"] = {
+		[1] = 5332,
 	},
 	["Blblood"] = {
 		[1] = 8313,
@@ -27369,18 +27393,19 @@ DPSMateUser = {
 		[7] = "The Wayshower",
 		[8] = 22,
 	},
-	["Allspotter"] = {
-		[1] = 5445,
+	["Oogrekra"] = {
+		[1] = 8491,
 	},
 	["Silithid Swarm"] = {
 		[1] = 7822,
 	},
-	["Zintos"] = {
-		[1] = 263,
-		[2] = "rogue",
+	["Muchtig"] = {
+		[1] = 1432,
+		[2] = "priest",
 		[3] = 1,
 		[4] = false,
-		[7] = "Avast",
+		[5] = "",
+		[7] = "Blutdurst",
 		[8] = 60,
 	},
 	["Bovinnius"] = {
@@ -27406,29 +27431,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Stoov"] = {
-		[1] = 8449,
+	["Deathm"] = {
+		[1] = 10889,
 	},
-	["Grominex"] = {
-		[1] = 3835,
-	},
-	["Wailing Banshee"] = {
-		[1] = 2139,
-	},
-	["Feederer"] = {
-		[1] = 1620,
-	},
-	["Electronica"] = {
-		[1] = 4757,
-		[2] = "mage",
+	["Deathkitty"] = {
+		[1] = 12136,
+		[2] = "warlock",
 		[3] = -1,
-		[8] = 9,
+		[8] = 31,
 	},
-	["Giffelkungen"] = {
-		[1] = 11166,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 40,
+	["Paulapatton"] = {
+		[1] = 10071,
+	},
+	["Gottmituns"] = {
+		[1] = 1460,
 	},
 	["Zorbok"] = {
 		[1] = 11380,
@@ -27438,14 +27454,20 @@ DPSMateUser = {
 		[7] = "Leveling Guild",
 		[8] = 36,
 	},
-	["Bishes"] = {
-		[1] = 11641,
+	["Neoxeo"] = {
+		[1] = 3967,
 	},
-	["Snusnus"] = {
-		[1] = 2915,
+	["Resonance"] = {
+		[1] = 520,
 	},
-	["Soulrappers"] = {
-		[1] = 5851,
+	["Prairie Stalker"] = {
+		[1] = 6010,
+	},
+	["Mountaineer Dokkin"] = {
+		[1] = 12289,
+	},
+	["Solaevum"] = {
+		[1] = 11993,
 	},
 	["Korrux"] = {
 		[1] = 4225,
@@ -27453,28 +27475,23 @@ DPSMateUser = {
 	["Infuriation"] = {
 		[1] = 4975,
 	},
-	["Abettor"] = {
-		[1] = 6140,
+	["Kakedeigen"] = {
+		[1] = 12216,
 	},
-	["Benedikte"] = {
-		[1] = 4525,
+	["Claudegiroux"] = {
+		[1] = 8784,
 	},
-	["Lovedots"] = {
-		[1] = 149,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 60,
+	["Yekill"] = {
+		[1] = 3353,
 	},
-	["Liberty"] = {
-		[1] = 1386,
+	["Aggem Thorncurse"] = {
+		[1] = 9364,
 	},
-	["Prairie Stalker"] = {
-		[1] = 6010,
+	["Spitting Scarab"] = {
+		[1] = 874,
 	},
-	["Anapurna"] = {
-		[1] = 11059,
-		[2] = "mage",
-		[3] = 1,
+	["Balalay"] = {
+		[1] = 7545,
 	},
 	["Witherbark Headhunter"] = {
 		[1] = 12150,
@@ -27482,38 +27499,29 @@ DPSMateUser = {
 	["Caedar"] = {
 		[1] = 8424,
 	},
-	["Muchtig"] = {
-		[1] = 1432,
-		[2] = "priest",
+	["Zlam"] = {
+		[1] = 4998,
+	},
+	["Nosolee"] = {
+		[1] = 4471,
+	},
+	["Lockout"] = {
+		[1] = 1172,
+	},
+	["Naumlolz"] = {
+		[1] = 12900,
+	},
+	["Sensure"] = {
+		[1] = 11367,
+		[2] = "paladin",
 		[3] = 1,
-		[4] = false,
-		[5] = "",
-		[7] = "Blutdurst",
-		[8] = 60,
-	},
-	["Quasii"] = {
-		[1] = 3142,
-	},
-	["Sarr"] = {
-		[1] = 2806,
-	},
-	["Gaodu"] = {
-		[1] = 2932,
-	},
-	["Heenana"] = {
-		[1] = 5678,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 17,
+		[8] = 36,
 	},
 	["Caseyblake"] = {
 		[1] = 3349,
 	},
-	["Gizmaduck"] = {
-		[1] = 13374,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 2,
+	["Ephyy"] = {
+		[1] = 10218,
 	},
 	["Zmack"] = {
 		[1] = 283,
@@ -27521,8 +27529,8 @@ DPSMateUser = {
 	["Acmilano"] = {
 		[1] = 7626,
 	},
-	["Vbd"] = {
-		[1] = 7361,
+	["Jeahad"] = {
+		[1] = 1772,
 	},
 	["Mgfriegjoe"] = {
 		[1] = 2815,
@@ -27530,47 +27538,49 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Xionglaiyou"] = {
-		[1] = 7715,
+	["Thommip"] = {
+		[1] = 3052,
 	},
-	["Spitting Scarab"] = {
-		[1] = 874,
+	["Smoh"] = {
+		[1] = 3788,
 	},
 	["Vyper"] = {
 		[1] = 512,
 	},
-	["Cohek"] = {
-		[1] = 5185,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 17,
+	["Starkfarsan"] = {
+		[1] = 11560,
 	},
-	["Danzze"] = {
-		[1] = 4298,
+	["Slothfather"] = {
+		[1] = 8452,
 	},
 	["Dgrimsheeper"] = {
 		[1] = 3636,
 	},
-	["Khk"] = {
-		[1] = 2237,
+	["Makerola"] = {
+		[1] = 6301,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[7] = "Hautauslupa",
+		[8] = 29,
 	},
 	["Suallure"] = {
 		[1] = 8703,
 	},
-	["Solaevum"] = {
-		[1] = 11993,
+	["Mephten"] = {
+		[1] = 4139,
 	},
 	["Psyks"] = {
 		[1] = 6297,
 	},
-	["Searing"] = {
-		[1] = 332,
+	["Hypodermic"] = {
+		[1] = 12953,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 28,
 	},
-	["Relye"] = {
-		[1] = 397,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 60,
+	["Exomist"] = {
+		[1] = 1021,
 	},
 	["Changxx"] = {
 		[1] = 3869,
@@ -27584,8 +27594,11 @@ DPSMateUser = {
 	["Tyramynda"] = {
 		[1] = 5645,
 	},
-	["Resonance"] = {
-		[1] = 520,
+	["Livy"] = {
+		[1] = 1730,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Xiaobaiss"] = {
 		[1] = 7835,
@@ -27593,16 +27606,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 39,
 	},
-	["Livy"] = {
-		[1] = 1730,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 60,
+	["Deadthrax"] = {
+		[1] = 5457,
 	},
-	["Thundercoq"] = {
-		[1] = 9252,
-		[2] = "hunter",
-		[3] = 1,
+	["Friskyrum"] = {
+		[1] = 5792,
 	},
 	["Necroman"] = {
 		[1] = 2954,
@@ -27622,8 +27630,8 @@ DPSMateUser = {
 	["Elodran"] = {
 		[1] = 3763,
 	},
-	["Schaeuble"] = {
-		[1] = 9477,
+	["Gdwarlocks"] = {
+		[1] = 714,
 	},
 	["Damarian"] = {
 		[1] = 11030,
@@ -27631,11 +27639,14 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 34,
 	},
-	["Silverlo"] = {
-		[1] = 9057,
+	["Vugluskr"] = {
+		[1] = 13059,
 	},
-	["ONDius"] = {
-		[1] = 12265,
+	["Reaz"] = {
+		[1] = 236,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Delvark"] = {
 		[1] = 5784,
@@ -27643,17 +27654,19 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Allon"] = {
-		[1] = 10858,
-		[2] = "shaman",
+	["Haxxion"] = {
+		[1] = 4862,
+	},
+	["Forever"] = {
+		[1] = 991,
+	},
+	["Unknown"] = {
+		[1] = 4,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 43,
-	},
-	["Sartura's Royal Guard"] = {
-		[1] = 2586,
-	},
-	["Nosolee"] = {
-		[1] = 4471,
+		[4] = false,
+		[7] = "I dps my kids irl",
+		[8] = 37,
 	},
 	["Babyganks"] = {
 		[1] = 1657,
@@ -27661,20 +27674,23 @@ DPSMateUser = {
 	["Chimaera Matriarch"] = {
 		[1] = 9306,
 	},
-	["Aggem Thorncurse"] = {
-		[1] = 9364,
+	["Vargurkr"] = {
+		[1] = 11581,
 	},
-	["Dryhdujj"] = {
-		[1] = 1658,
-	},
-	["Mtm"] = {
-		[1] = 2449,
-		[2] = "priest",
+	["Redue"] = {
+		[1] = 12179,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 60,
+		[8] = 14,
 	},
-	["Deadthrax"] = {
-		[1] = 5457,
+	["Razzashi Raptor"] = {
+		[1] = 351,
+	},
+	["Fkjamzy"] = {
+		[1] = 12274,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 36,
 	},
 	["Xagnon"] = {
 		[1] = 5289,
@@ -27685,8 +27701,8 @@ DPSMateUser = {
 	["Wiji"] = {
 		[1] = 12176,
 	},
-	["Lazers"] = {
-		[1] = 6742,
+	["Feelthelove"] = {
+		[1] = 4422,
 	},
 	["Tdss"] = {
 		[1] = 1237,
@@ -27697,19 +27713,17 @@ DPSMateUser = {
 	["Druly"] = {
 		[1] = 9428,
 	},
-	["Â∞ºÁéõÊ≥¢"] = {
-		[1] = 167,
+	["Clm"] = {
+		[1] = 11109,
 	},
-	["Flanger"] = {
-		[1] = 11175,
-		[2] = "rogue",
-		[3] = 1,
+	["Senk"] = {
+		[1] = 11474,
 	},
 	["Djangofull"] = {
 		[1] = 7184,
 	},
-	["Potterstyle"] = {
-		[1] = 10468,
+	["Dacus"] = {
+		[1] = 10914,
 	},
 	["Naturalist"] = {
 		[1] = 7794,
@@ -27720,11 +27734,11 @@ DPSMateUser = {
 	["Furymot"] = {
 		[1] = 1322,
 	},
-	["Emobean"] = {
-		[1] = 7090,
+	["Roguecuck"] = {
+		[1] = 5050,
 	},
-	["Tamed Kodo"] = {
-		[1] = 12859,
+	["Ranx"] = {
+		[1] = 6996,
 	},
 	["Tilix"] = {
 		[1] = 5669,
@@ -27738,35 +27752,29 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 32,
 	},
-	["Zognar"] = {
-		[1] = 7333,
+	["Bloodscalp Shaman"] = {
+		[1] = 11365,
 	},
-	["Friskyrum"] = {
-		[1] = 5792,
+	["Nattmamman"] = {
+		[1] = 11401,
 	},
-	["Mephten"] = {
-		[1] = 4139,
+	["Osetia"] = {
+		[1] = 12610,
 	},
-	["Icareaboutu"] = {
-		[1] = 6779,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 13,
+	["Murkgill Warrior"] = {
+		[1] = 11084,
 	},
-	["Training Dummy"] = {
-		[1] = 11,
+	["Coolsweet"] = {
+		[1] = 10906,
 	},
 	["Mlem"] = {
 		[1] = 6586,
 	},
-	["Nrzb"] = {
-		[1] = 4896,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 8,
+	["Nartic"] = {
+		[1] = 9715,
 	},
-	["Unotrim"] = {
-		[1] = 8050,
+	["Zsidotojas"] = {
+		[1] = 1873,
 	},
 	["Squeeze"] = {
 		[1] = 7546,
@@ -27774,14 +27782,11 @@ DPSMateUser = {
 	["Epatto"] = {
 		[1] = 7975,
 	},
-	["Yolepooke"] = {
-		[1] = 5761,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 19,
+	["Vilnva"] = {
+		[1] = 425,
 	},
-	["Roguecuck"] = {
-		[1] = 5050,
+	["Cain Firesong"] = {
+		[1] = 5000,
 	},
 	["Looknlikaorc"] = {
 		[1] = 6728,
@@ -27793,14 +27798,14 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 4,
 	},
-	["Zlotan"] = {
-		[1] = 10290,
+	["Lerek"] = {
+		[1] = 9705,
 	},
-	["Zorkin"] = {
-		[1] = 4641,
+	["Anthraxer"] = {
+		[1] = 11617,
 	},
-	["Freakadelle"] = {
-		[1] = 5268,
+	["Battleready"] = {
+		[1] = 4992,
 	},
 	["Howldup"] = {
 		[1] = 8281,
@@ -27811,11 +27816,8 @@ DPSMateUser = {
 	["Scarlet Gallant"] = {
 		[1] = 10588,
 	},
-	["Skig"] = {
-		[1] = 9918,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 11,
+	["Camelia"] = {
+		[1] = 5965,
 	},
 	["Kartafel"] = {
 		[1] = 6623,
@@ -27835,84 +27837,68 @@ DPSMateUser = {
 	["Zangthyk"] = {
 		[1] = 12476,
 	},
-	["Unknown"] = {
-		[1] = 4,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[7] = "I dps my kids irl",
-		[8] = 37,
+	["Quatrehuit"] = {
+		[1] = 12194,
 	},
 	["Bonyhulk"] = {
 		[1] = 5143,
 	},
-	["Murkgill Warrior"] = {
-		[1] = 11084,
+	["Arethousa"] = {
+		[1] = 3482,
 	},
-	["Orcsucks"] = {
-		[1] = 6285,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 15,
+	["Tuturuokarin"] = {
+		[1] = 4505,
 	},
-	["Splinz"] = {
-		[1] = 5952,
+	["Crapisgood"] = {
+		[1] = 6685,
 	},
-	["Nartic"] = {
-		[1] = 9715,
+	["Liuwanglong"] = {
+		[1] = 2536,
 	},
 	["Sinnersteel"] = {
 		[1] = 1549,
 	},
-	["Nattmamman"] = {
-		[1] = 11401,
+	["Guthlac"] = {
+		[1] = 1273,
 	},
 	["Suicidnic"] = {
 		[1] = 4296,
 	},
-	["Loukasbest"] = {
-		[1] = 10882,
-		[2] = "warlock",
-		[3] = 1,
+	["Feronos"] = {
+		[1] = 6529,
 	},
 	["Youusayso"] = {
 		[1] = 915,
 	},
-	["Zulijak"] = {
-		[1] = 8380,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 38,
+	["Feeboz"] = {
+		[1] = 12261,
 	},
 	["Night Web Spider"] = {
 		[1] = 4547,
 	},
-	["Osetia"] = {
-		[1] = 12610,
+	["Ricom"] = {
+		[1] = 4079,
 	},
-	["Biznik"] = {
-		[1] = 1707,
+	["Bjarnir"] = {
+		[1] = 10683,
 	},
-	["Goffauxs"] = {
-		[1] = 13358,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 37,
+	["Zhadog"] = {
+		[1] = 7581,
 	},
-	["Healing"] = {
-		[1] = 975,
+	["Pruttare"] = {
+		[1] = 1365,
 	},
-	["Scofieldx"] = {
-		[1] = 13306,
-		[2] = "mage",
+	["Traprawra"] = {
+		[1] = 11249,
+		[2] = "hunter",
 		[3] = 1,
 		[8] = 29,
 	},
 	["Fengchuiguo"] = {
 		[1] = 9969,
 	},
-	["Feronos"] = {
-		[1] = 6529,
+	["Nightwind"] = {
+		[1] = 1594,
 	},
 	["Tallem"] = {
 		[1] = 1006,
@@ -27920,8 +27906,8 @@ DPSMateUser = {
 	["Morefree"] = {
 		[1] = 3521,
 	},
-	["Zsidotojas"] = {
-		[1] = 1873,
+	["Qulinx"] = {
+		[1] = 3445,
 	},
 	["Vasco"] = {
 		[1] = 5511,
@@ -27950,53 +27936,44 @@ DPSMateUser = {
 	["Muogen"] = {
 		[1] = 9884,
 	},
-	["Raycord"] = {
-		[1] = 8354,
+	["Sheep"] = {
+		[1] = 10640,
 	},
-	["Thenidiel"] = {
-		[1] = 9026,
+	["Aikona"] = {
+		[1] = 7639,
 	},
-	["Noryx"] = {
-		[1] = 11338,
-		[2] = "warrior",
+	["Junfei"] = {
+		[1] = 3316,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 38,
+		[8] = 1,
 	},
-	["Xfk"] = {
-		[1] = 4069,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 6,
+	["Somalihuora"] = {
+		[1] = 12675,
 	},
-	["Coopmega"] = {
-		[1] = 2818,
+	["Gem"] = {
+		[1] = 2548,
 	},
 	["Jursba"] = {
 		[1] = 10974,
 	},
-	["Elijaz"] = {
-		[1] = 2720,
+	["Onelovebb"] = {
+		[1] = 4446,
 	},
-	["Viali"] = {
-		[1] = 11179,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 36,
+	["Pebbleform"] = {
+		[1] = 9684,
 	},
-	["Nannochka"] = {
-		[1] = 13272,
+	["Dudz"] = {
+		[1] = 13386,
 	},
-	["Traprawra"] = {
-		[1] = 11249,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 29,
+	["Vioddestiny"] = {
+		[1] = 12231,
 	},
-	["Mnejezvazzle"] = {
-		[1] = 9181,
+	["Fellgard"] = {
+		[1] = 12639,
 	},
-	["Glemt"] = {
-		[1] = 2907,
+	["Linjun"] = {
+		[1] = 7931,
 	},
 	["Cpt"] = {
 		[1] = 9767,
@@ -28004,26 +27981,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 37,
 	},
-	["Xiwa"] = {
-		[1] = 10046,
+	["Zeertuni"] = {
+		[1] = 7872,
 	},
-	["Blockjk"] = {
-		[1] = 4201,
+	["Zulian Crocolisk"] = {
+		[1] = 368,
 	},
-	["Crapisgood"] = {
-		[1] = 6685,
+	["Mumintrollet"] = {
+		[1] = 7181,
 	},
 	["Rottweiler"] = {
 		[1] = 3565,
 	},
-	["Cowculate"] = {
-		[1] = 7492,
+	["Ogjoolz"] = {
+		[1] = 9633,
 	},
-	["Aikona"] = {
-		[1] = 7639,
+	["Monstas"] = {
+		[1] = 3443,
 	},
-	["Deucebook"] = {
-		[1] = 1331,
+	["Teslo"] = {
+		[1] = 4301,
 	},
 	["Distress"] = {
 		[1] = 2498,
@@ -28031,8 +28008,8 @@ DPSMateUser = {
 	["Censored"] = {
 		[1] = 2887,
 	},
-	["Kuptip"] = {
-		[1] = 2652,
+	["Mcsthab"] = {
+		[1] = 5817,
 	},
 	["Jhazphog"] = {
 		[1] = 1830,
@@ -28043,8 +28020,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 31,
 	},
-	["Overseer Glibby"] = {
-		[1] = 6947,
+	["Insanebolt"] = {
+		[1] = 5538,
 	},
 	["Zorpit"] = {
 		[1] = 2109,
@@ -28058,41 +28035,38 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Jublop"] = {
-		[1] = 5100,
+	["HellHyena"] = {
+		[1] = 8075,
 	},
-	["Zulian Crocolisk"] = {
-		[1] = 368,
+	["Extremoduro"] = {
+		[1] = 2161,
 	},
-	["Dalaran Watcher"] = {
-		[1] = 8582,
+	["Bunilla"] = {
+		[1] = 2265,
 	},
 	["Gvinblade"] = {
 		[1] = 6967,
 	},
-	["Linjun"] = {
-		[1] = 7931,
+	["Ateam"] = {
+		[1] = 11513,
 	},
-	["Nodeath"] = {
-		[1] = 10275,
+	["Kasjin"] = {
+		[1] = 5843,
 	},
 	["Tongask"] = {
 		[1] = 4444,
 	},
-	["Cnasty"] = {
-		[1] = 12129,
+	["Ramzan"] = {
+		[1] = 9791,
 	},
-	["Onelovebb"] = {
-		[1] = 4446,
+	["Unotrim"] = {
+		[1] = 8050,
 	},
 	["Corejo"] = {
 		[1] = 12936,
 	},
-	["Murathon"] = {
-		[1] = 6361,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 15,
+	["Joemagic"] = {
+		[1] = 12530,
 	},
 	["Mohragr"] = {
 		[1] = 13360,
@@ -28106,26 +28080,26 @@ DPSMateUser = {
 	["Sharezkhan"] = {
 		[1] = 8051,
 	},
-	["Commendatore"] = {
-		[1] = 6179,
+	["Wsylol"] = {
+		[1] = 5636,
 	},
-	["Pebbleform"] = {
-		[1] = 9684,
+	["Plmpboss"] = {
+		[1] = 2289,
 	},
-	["Memepower"] = {
-		[1] = 7356,
-		[2] = "mage",
+	["Jedelor"] = {
+		[1] = 9226,
+	},
+	["Opasnakrava"] = {
+		[1] = 8085,
+		[2] = "druid",
 		[3] = -1,
-		[8] = 23,
+		[8] = 38,
 	},
-	["Iwilldotyou"] = {
-		[1] = 13017,
+	["Comefindme"] = {
+		[1] = 7359,
 	},
-	["High Priest Venoxis"] = {
-		[1] = 331,
-	},
-	["Nissagamers"] = {
-		[1] = 4704,
+	["Supersayn"] = {
+		[1] = 4145,
 	},
 	["Huimengzhe"] = {
 		[1] = 11892,
@@ -28141,8 +28115,8 @@ DPSMateUser = {
 	["Rupert"] = {
 		[1] = 9952,
 	},
-	["Disciple of Naralex"] = {
-		[1] = 7538,
+	["Qnmb"] = {
+		[1] = 1818,
 	},
 	["Erabus"] = {
 		[1] = 9554,
@@ -28150,8 +28124,8 @@ DPSMateUser = {
 	["Borgart"] = {
 		[1] = 7192,
 	},
-	["Laile"] = {
-		[1] = 12787,
+	["Icerot"] = {
+		[1] = 3938,
 	},
 	["Rarritw"] = {
 		[1] = 12517,
@@ -28159,36 +28133,32 @@ DPSMateUser = {
 	["Babboon"] = {
 		[1] = 4865,
 	},
-	["Ddwwss"] = {
-		[1] = 1358,
+	["Scarlet Disciple"] = {
+		[1] = 10573,
 	},
-	["Dabaobei"] = {
-		[1] = 12063,
-		[2] = "mage",
-		[3] = 1,
+	["Thewidow"] = {
+		[1] = 4941,
 	},
-	["Jaklop"] = {
-		[1] = 5261,
-		[4] = true,
-		[6] = 5260,
+	["Awenorra"] = {
+		[1] = 1282,
 	},
 	["Slavaalahu"] = {
 		[1] = 4307,
 	},
-	["Atlantikwall"] = {
-		[1] = 13035,
+	["Zhey"] = {
+		[1] = 11389,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 39,
 	},
-	["Drunken Footpad"] = {
-		[1] = 10634,
+	["Qrrbrbirlbel"] = {
+		[1] = 8277,
 	},
-	["Destined"] = {
-		[1] = 10876,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 26,
+	["Hancok"] = {
+		[1] = 10744,
 	},
-	["Asterianna"] = {
-		[1] = 1806,
+	["Zaih"] = {
+		[1] = 6617,
 	},
 	["Sarthak"] = {
 		[1] = 7182,
@@ -28199,26 +28169,26 @@ DPSMateUser = {
 	["Oldtyper"] = {
 		[1] = 10053,
 	},
-	["Ateam"] = {
-		[1] = 11513,
+	["Tver"] = {
+		[1] = 6483,
 	},
 	["Regenesis"] = {
 		[1] = 810,
 	},
-	["Pretas"] = {
-		[1] = 4349,
+	["Wkxx"] = {
+		[1] = 7911,
 	},
 	["Snoc"] = {
 		[1] = 2813,
 	},
-	["Wkxx"] = {
-		[1] = 7911,
+	["Cornflakess"] = {
+		[1] = 1212,
 	},
-	["Timsnofnu"] = {
-		[1] = 9673,
+	["Lesser Infernal"] = {
+		[1] = 12893,
 	},
-	["Zepmat"] = {
-		[1] = 5072,
+	["Akila"] = {
+		[1] = 1220,
 	},
 	["Buterbrod"] = {
 		[1] = 2519,
@@ -28232,38 +28202,32 @@ DPSMateUser = {
 	["Gelkis Earthcaller"] = {
 		[1] = 12821,
 	},
-	["Sandoruk"] = {
-		[1] = 11285,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 37,
+	["Cold Eye Basilisk"] = {
+		[1] = 11682,
 	},
-	["RapThor"] = {
-		[1] = 5911,
+	["Mastia"] = {
+		[1] = 3517,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 6,
 	},
 	["Forevilock"] = {
 		[1] = 10936,
 	},
-	["Firefirefire"] = {
-		[1] = 1364,
+	["High Priest Venoxis"] = {
+		[1] = 331,
 	},
-	["Killerpoison"] = {
-		[1] = 8317,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 20,
-	},
-	["Legizmo"] = {
-		[1] = 2504,
+	["Raha"] = {
+		[1] = 923,
 	},
 	["Corrupted Red Whelp"] = {
 		[1] = 1083,
 	},
-	["Toomanystabs"] = {
-		[1] = 10341,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 37,
+	["Gatukok"] = {
+		[1] = 5581,
+	},
+	["Ikanyes"] = {
+		[1] = 656,
 	},
 	["Zdechlej"] = {
 		[1] = 710,
@@ -28272,8 +28236,12 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 60,
 	},
-	["Difonation"] = {
-		[1] = 3689,
+	["Vahvero"] = {
+		[1] = 11674,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[8] = 35,
 	},
 	["Bwiti"] = {
 		[1] = 8000,
@@ -28290,22 +28258,17 @@ DPSMateUser = {
 	["Holyscience"] = {
 		[1] = 702,
 	},
-	["Zhey"] = {
-		[1] = 11389,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 39,
+	["Liox"] = {
+		[1] = 6886,
 	},
-	["Diagnoses"] = {
-		[1] = 11129,
-		[2] = "hunter",
-		[3] = 1,
+	["Severed Dreamer"] = {
+		[1] = 9799,
 	},
-	["Luckercrab"] = {
-		[1] = 9558,
+	["Trollhenter"] = {
+		[1] = 9587,
 	},
-	["Tver"] = {
-		[1] = 6483,
+	["Goragona"] = {
+		[1] = 12641,
 	},
 	["Zeekuh"] = {
 		[1] = 2782,
@@ -28313,14 +28276,18 @@ DPSMateUser = {
 	["Hurmo"] = {
 		[1] = 7218,
 	},
-	["Kroxader"] = {
-		[1] = 6648,
+	["Dyrou"] = {
+		[1] = 1411,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[8] = 60,
+	},
+	["Hammer"] = {
+		[1] = 7849,
 	},
 	["Yazjub"] = {
 		[1] = 6237,
-	},
-	["Fareplay"] = {
-		[1] = 1638,
 	},
 	["Enraged Stone Spirit"] = {
 		[1] = 10125,
@@ -28331,14 +28298,17 @@ DPSMateUser = {
 	["Acuza"] = {
 		[1] = 4948,
 	},
-	["Kemrah"] = {
-		[1] = 5672,
+	["Laodrivers"] = {
+		[1] = 5999,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 10,
 	},
-	["Garreh"] = {
-		[1] = 8704,
+	["Pipnip"] = {
+		[1] = 1855,
 	},
-	["Sacrificed Troll"] = {
-		[1] = 362,
+	["Armstrong"] = {
+		[1] = 8035,
 	},
 	["Ushat"] = {
 		[1] = 6796,
@@ -28361,17 +28331,17 @@ DPSMateUser = {
 	["Borner"] = {
 		[1] = 3859,
 	},
-	["Fraile"] = {
-		[1] = 9422,
+	["Phtefani"] = {
+		[1] = 1214,
 	},
-	["Sakuyamon"] = {
-		[1] = 258,
+	["Cheere"] = {
+		[1] = 3383,
 	},
-	["Cononchet"] = {
-		[1] = 11598,
+	["Abysshowl"] = {
+		[1] = 5125,
 	},
-	["Stet"] = {
-		[1] = 8881,
+	["Fktrump"] = {
+		[1] = 7903,
 	},
 	["Ishamuhale"] = {
 		[1] = 7337,
@@ -28382,17 +28352,14 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 15,
 	},
-	["Hreim"] = {
-		[1] = 4745,
+	["Manspread"] = {
+		[1] = 560,
 	},
-	["Lahtaajahesu"] = {
-		[1] = 11653,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 42,
+	["Icecraft"] = {
+		[1] = 11591,
 	},
-	["Abysshowl"] = {
-		[1] = 5125,
+	["Vaust"] = {
+		[1] = 12205,
 	},
 	["Cl√∏wn"] = {
 		[1] = 2469,
@@ -28400,11 +28367,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Borsch"] = {
-		[1] = 6594,
+	["Fralfor"] = {
+		[1] = 5706,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 21,
 	},
-	["Zixro"] = {
-		[1] = 4190,
+	["Puuppi"] = {
+		[1] = 7482,
 	},
 	["Jenka"] = {
 		[1] = 1863,
@@ -28424,17 +28394,16 @@ DPSMateUser = {
 	["Wreaked"] = {
 		[1] = 2835,
 	},
-	["Deletee"] = {
-		[1] = 12243,
+	["Vasilyterkin"] = {
+		[1] = 11203,
+		[2] = "rogue",
+		[3] = 1,
 	},
 	["Repomen"] = {
 		[1] = 11840,
 	},
-	["Fralfor"] = {
-		[1] = 5706,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 21,
+	["Lost One Hunter"] = {
+		[1] = 13328,
 	},
 	["Boulderfist Lord"] = {
 		[1] = 12442,
@@ -28447,8 +28416,8 @@ DPSMateUser = {
 		[5] = "	",
 		[8] = 60,
 	},
-	["Maximmus"] = {
-		[1] = 982,
+	["Zeloteg"] = {
+		[1] = 10081,
 	},
 	["Lammutaja"] = {
 		[1] = 5558,
@@ -28456,14 +28425,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 24,
 	},
-	["Gdwarlocks"] = {
-		[1] = 714,
+	["Â§´Â≠êÂ∫ô"] = {
+		[1] = 1656,
 	},
-	["Lucindan"] = {
-		[1] = 3401,
+	["Gooned"] = {
+		[1] = 3929,
 	},
-	["Foxdemon"] = {
-		[1] = 12626,
+	["Forest Lurker"] = {
+		[1] = 12292,
 	},
 	["Ohlawl"] = {
 		[1] = 6791,
@@ -28483,22 +28452,23 @@ DPSMateUser = {
 	["Theolminge"] = {
 		[1] = 8044,
 	},
-	["Puuppi"] = {
-		[1] = 7482,
+	["Stinkyball"] = {
+		[1] = 2562,
 	},
-	["Rowhat"] = {
-		[1] = 9051,
+	["Fraile"] = {
+		[1] = 9422,
 	},
-	["Vasilyterkin"] = {
-		[1] = 11203,
-		[2] = "rogue",
-		[3] = 1,
+	["Ayouwogan"] = {
+		[1] = 7957,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Ghendral"] = {
-		[1] = 3192,
+	["Pipnime"] = {
+		[1] = 6075,
 	},
-	["Mercuryrain"] = {
-		[1] = 4200,
+	["Cutson"] = {
+		[1] = 3603,
 	},
 	["Katpis"] = {
 		[1] = 3570,
@@ -28518,11 +28488,14 @@ DPSMateUser = {
 	["Zraxa"] = {
 		[1] = 5370,
 	},
-	["Bubblebabe"] = {
-		[1] = 11221,
+	["Bromlette"] = {
+		[1] = 6480,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 11,
 	},
-	["Snapjaw Crocolisk"] = {
-		[1] = 11642,
+	["Jusis"] = {
+		[1] = 6401,
 	},
 	["Hefes"] = {
 		[1] = 8897,
@@ -28539,8 +28512,8 @@ DPSMateUser = {
 	["Black Rat"] = {
 		[1] = 8571,
 	},
-	["Illtrumpyou"] = {
-		[1] = 394,
+	["Nyxara"] = {
+		[1] = 5154,
 	},
 	["Bigoswag"] = {
 		[1] = 8213,
@@ -28556,26 +28529,23 @@ DPSMateUser = {
 	["Fnissarn"] = {
 		[1] = 12572,
 	},
-	["Huffglue"] = {
-		[1] = 6100,
+	["Fengsao"] = {
+		[1] = 12423,
 	},
-	["Death Talon Captain"] = {
-		[1] = 1079,
+	["Skvernolom"] = {
+		[1] = 2996,
 	},
-	["Jusis"] = {
-		[1] = 6401,
+	["Vekniss Guardian"] = {
+		[1] = 2584,
 	},
-	["Eitrim"] = {
-		[1] = 9042,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 27,
+	["Verminermax"] = {
+		[1] = 10672,
 	},
-	["Brother Karman"] = {
-		[1] = 1046,
+	["Lazjub"] = {
+		[1] = 4808,
 	},
-	["Chillyace"] = {
-		[1] = 11294,
+	["Realfans"] = {
+		[1] = 3126,
 	},
 	["Ebliziion"] = {
 		[1] = 2931,
@@ -28586,17 +28556,14 @@ DPSMateUser = {
 	["Blep"] = {
 		[1] = 1763,
 	},
-	["Daggor"] = {
-		[1] = 9025,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 22,
+	["Dothacker"] = {
+		[1] = 7338,
 	},
 	["Korlass"] = {
 		[1] = 4089,
 	},
-	["Caroltian"] = {
-		[1] = 8340,
+	["Kiminimune"] = {
+		[1] = 10458,
 	},
 	["Bigjangalang"] = {
 		[1] = 2090,
@@ -28604,8 +28571,8 @@ DPSMateUser = {
 	["Imbalisk"] = {
 		[1] = 10918,
 	},
-	["Searing Totem II"] = {
-		[1] = 7073,
+	["Aoding"] = {
+		[1] = 5656,
 	},
 	["Xklol"] = {
 		[1] = 3371,
@@ -28621,37 +28588,29 @@ DPSMateUser = {
 		[4] = true,
 		[6] = 6328,
 	},
-	["Fengsao"] = {
-		[1] = 12423,
+	["Death Speaker Jargba"] = {
+		[1] = 9369,
 	},
-	["Geraltt"] = {
-		[1] = 1911,
-		[2] = "hunter",
-		[3] = 1,
-		[4] = false,
-		[5] = "d",
-		[8] = 60,
+	["Bigbiglion"] = {
+		[1] = 3639,
 	},
-	["Metlol"] = {
-		[1] = 4292,
+	["Vasher"] = {
+		[1] = 8894,
 	},
 	["Bawabel"] = {
 		[1] = 4628,
 	},
-	["Enoo"] = {
-		[1] = 7735,
-	},
-	["Davehz"] = {
-		[1] = 9032,
-		[2] = "shaman",
+	["Rembestwaifu"] = {
+		[1] = 3631,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 34,
+		[8] = 5,
 	},
-	["Gafnir"] = {
-		[1] = 9325,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 26,
+	["Bandito"] = {
+		[1] = 4916,
+	},
+	["Siggu"] = {
+		[1] = 10260,
 	},
 	["Lulock"] = {
 		[1] = 5094,
@@ -28662,28 +28621,23 @@ DPSMateUser = {
 	["Tangrath"] = {
 		[1] = 8233,
 	},
-	["Oogro"] = {
-		[1] = 1731,
-		[2] = "hunter",
-		[3] = -1,
-		[4] = false,
-		[5] = "àÏ\n",
-		[8] = 60,
+	["Ehpick"] = {
+		[1] = 7085,
 	},
-	["Drowzzy"] = {
-		[1] = 6612,
+	["Skeletoros"] = {
+		[1] = 9035,
 	},
 	["Zag'nagma"] = {
 		[1] = 5253,
 	},
-	["Verdan the Everliving"] = {
-		[1] = 7536,
+	["Nodule"] = {
+		[1] = 4877,
 	},
 	["Razorfen Geomancer"] = {
 		[1] = 9355,
 	},
-	["Domrah"] = {
-		[1] = 4429,
+	["Simicz"] = {
+		[1] = 4004,
 	},
 	["Grobnick"] = {
 		[1] = 10101,
@@ -28694,32 +28648,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 19,
 	},
-	["Catran"] = {
-		[1] = 11300,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 37,
+	["Ravenclaw Champion"] = {
+		[1] = 12542,
 	},
-	["Ehpick"] = {
-		[1] = 7085,
+	["Mortviu"] = {
+		[1] = 6855,
 	},
-	["Plovdiv"] = {
-		[1] = 729,
+	["Allishop"] = {
+		[1] = 1397,
 	},
-	["Squinoa"] = {
-		[1] = 12166,
+	["Playnmb"] = {
+		[1] = 12581,
 	},
-	["Dagkol"] = {
-		[1] = 5215,
+	["Englandery"] = {
+		[1] = 4266,
 	},
-	["Rylok"] = {
-		[1] = 12123,
-		[2] = "rogue",
+	["Foulweald Totemic"] = {
+		[1] = 9794,
+	},
+	["Fhakin"] = {
+		[1] = 7124,
+		[2] = "hunter",
 		[3] = -1,
-		[8] = 23,
-	},
-	["Pizzafunghi"] = {
-		[1] = 2917,
+		[8] = 24,
 	},
 	["Kinfowl"] = {
 		[1] = 13078,
@@ -28730,20 +28681,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 9,
 	},
-	["Livingice"] = {
-		[1] = 7226,
+	["Saltjee"] = {
+		[1] = 10965,
 	},
-	["Reppy"] = {
-		[1] = 1025,
+	["Chezney"] = {
+		[1] = 13130,
 	},
-	["Marsh Inkspewer"] = {
-		[1] = 13357,
+	["Darkrook"] = {
+		[1] = 4928,
 	},
 	["Mdudeiss"] = {
 		[1] = 2658,
 	},
-	["Plutovka"] = {
-		[1] = 6308,
+	["Slitherblade Sorceress"] = {
+		[1] = 12876,
 	},
 	["Nekthr"] = {
 		[1] = 2271,
@@ -28751,11 +28702,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Glower"] = {
-		[1] = 9857,
+	["Miggan"] = {
+		[1] = 8489,
 	},
-	["Gdbless"] = {
-		[1] = 1209,
+	["Shakazann"] = {
+		[1] = 8314,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 23,
 	},
 	["Tervel"] = {
 		[1] = 694,
@@ -28765,27 +28719,17 @@ DPSMateUser = {
 		[7] = "R E I G N",
 		[8] = 60,
 	},
-	["Tism"] = {
-		[1] = 8977,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 20,
+	["Demdotstho"] = {
+		[1] = 2837,
 	},
 	["Tot"] = {
 		[1] = 2550,
 	},
-	["Pryykun"] = {
-		[1] = 663,
-		[4] = true,
-		[6] = 1467,
+	["Ezm"] = {
+		[1] = 887,
 	},
-	["Acunamatata"] = {
-		[1] = 6845,
-		[2] = "rogue",
-		[3] = -1,
-		[4] = false,
-		[7] = "Taylor Swift Fan Club",
-		[8] = 11,
+	["Esteedeze"] = {
+		[1] = 2685,
 	},
 	["Rougeot"] = {
 		[1] = 1951,
@@ -28793,8 +28737,8 @@ DPSMateUser = {
 	["Anyare"] = {
 		[1] = 5430,
 	},
-	["Deviate Ravager"] = {
-		[1] = 7518,
+	["Nogerfagit"] = {
+		[1] = 260,
 	},
 	["Cruuxe"] = {
 		[1] = 8300,
@@ -28802,53 +28746,54 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 24,
 	},
-	["Darkrook"] = {
-		[1] = 4928,
+	["Tsunate"] = {
+		[1] = 12628,
 	},
-	["Mentionable"] = {
-		[1] = 10639,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 34,
+	["Diegolu"] = {
+		[1] = 6014,
 	},
 	["Zululscope"] = {
 		[1] = 12167,
 	},
-	["Neochrome"] = {
-		[1] = 2332,
+	["Geraltt"] = {
+		[1] = 1911,
+		[2] = "hunter",
+		[3] = 1,
+		[4] = false,
+		[5] = "d",
+		[8] = 60,
 	},
-	["Shakazann"] = {
-		[1] = 8314,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 23,
+	["Deaddron"] = {
+		[1] = 6457,
 	},
-	["Xoe"] = {
-		[1] = 5217,
+	["Psycholz"] = {
+		[1] = 1354,
 	},
-	["Ligna"] = {
-		[1] = 10881,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 12,
+	["Juk'dok"] = {
+		[1] = 7131,
+		[4] = true,
+		[6] = 5244,
 	},
-	["Vallen"] = {
-		[1] = 11468,
+	["Silberschlag"] = {
+		[1] = 11259,
 		[2] = "priest",
-		[3] = -1,
-		[8] = 43,
+		[3] = 1,
+		[8] = 33,
 	},
-	["Nurgala"] = {
-		[1] = 13053,
+	["Hitomii"] = {
+		[1] = 10973,
 	},
 	["Abysalom"] = {
 		[1] = 2457,
 	},
-	["Uthinkudo"] = {
-		[1] = 4286,
+	["Zepmat"] = {
+		[1] = 5072,
 	},
-	["Crallix"] = {
-		[1] = 2866,
+	["Icefirese"] = {
+		[1] = 11918,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 36,
 	},
 	["Blue Drakonid"] = {
 		[1] = 1102,
@@ -28861,20 +28806,16 @@ DPSMateUser = {
 		[7] = "Harambe",
 		[8] = 17,
 	},
-	["Roulio"] = {
-		[1] = 5719,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 10,
+	["Syndicate Watchman"] = {
+		[1] = 12527,
 	},
 	["Vihamiini"] = {
 		[1] = 4703,
 	},
-	["Fatarre"] = {
-		[1] = 3199,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 4,
+	["Ogenomtankt"] = {
+		[1] = 10941,
+		[2] = "priest",
+		[3] = 1,
 	},
 	["Goregasm"] = {
 		[1] = 202,
@@ -28909,26 +28850,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 10,
 	},
-	["Deaddron"] = {
-		[1] = 6457,
+	["Varrax"] = {
+		[1] = 10652,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 33,
 	},
 	["Candyn"] = {
 		[1] = 7596,
 	},
-	["Lhwdwwq"] = {
-		[1] = 5798,
+	["Paruki"] = {
+		[1] = 12988,
 	},
 	["Tolkien"] = {
 		[1] = 247,
 	},
-	["Aeze"] = {
-		[1] = 2311,
+	["Cyclone Warrior"] = {
+		[1] = 2618,
 	},
 	["Zhar'grave"] = {
 		[1] = 8032,
 	},
-	["Drsnugz"] = {
-		[1] = 3856,
+	["Capoera"] = {
+		[1] = 12051,
 	},
 	["Flynam"] = {
 		[1] = 11843,
@@ -28938,29 +28882,31 @@ DPSMateUser = {
 		[4] = true,
 		[6] = 114,
 	},
-	["Polly"] = {
-		[1] = 7302,
+	["Nurgala"] = {
+		[1] = 13053,
 	},
-	["Lavis"] = {
-		[1] = 4103,
+	["Morkret"] = {
+		[1] = 9083,
 	},
 	["Lesteres"] = {
 		[1] = 10454,
 	},
-	["Thorrum"] = {
-		[1] = 5853,
+	["Vilholm"] = {
+		[1] = 13217,
+		[2] = "warrior",
+		[3] = 1,
 	},
-	["Xfire"] = {
-		[1] = 6861,
+	["Ondore"] = {
+		[1] = 5239,
 	},
-	["Kesoo"] = {
-		[1] = 12687,
+	["Draggoon"] = {
+		[1] = 8591,
 	},
-	["Dolphulas"] = {
-		[1] = 239,
+	["Discusting"] = {
+		[1] = 3300,
 	},
-	["Aaders"] = {
-		[1] = 9749,
+	["Ksvwolf"] = {
+		[1] = 11917,
 	},
 	["Yarr"] = {
 		[1] = 1158,
@@ -28976,17 +28922,20 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Cptspliff"] = {
-		[1] = 1699,
+	["Deathguard Phillip"] = {
+		[1] = 4727,
 	},
 	["Sideswipe"] = {
 		[1] = 3143,
 	},
-	["Shig"] = {
-		[1] = 10277,
+	["Spamfrostbt"] = {
+		[1] = 4414,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 6,
 	},
-	["Xelence"] = {
-		[1] = 11544,
+	["Dread Swoop"] = {
+		[1] = 8933,
 	},
 	["Sogga"] = {
 		[1] = 8954,
@@ -28994,28 +28943,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Matlenq"] = {
-		[1] = 1905,
+	["Frenz"] = {
+		[1] = 684,
 	},
 	["Phier"] = {
 		[1] = 5529,
 	},
-	["Blackvoid"] = {
-		[1] = 5826,
+	["Thogphog"] = {
+		[1] = 11693,
 	},
-	["Abedi"] = {
-		[1] = 7811,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[7] = "Better call Thrall",
-		[8] = 18,
+	["Tenval"] = {
+		[1] = 4567,
 	},
 	["Apoxxi"] = {
 		[1] = 12547,
 	},
-	["Scarlet Convert"] = {
-		[1] = 3577,
+	["Elpotshot"] = {
+		[1] = 8265,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 21,
 	},
 	["Mortammer"] = {
 		[1] = 3621,
@@ -29023,35 +28970,32 @@ DPSMateUser = {
 	["Deviate Crocolisk"] = {
 		[1] = 7522,
 	},
-	["Fristi"] = {
-		[1] = 11381,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 40,
+	["Ventarn"] = {
+		[1] = 8484,
 	},
-	["Ludwiglumpz"] = {
-		[1] = 4633,
+	["Bloodscalp Hunter"] = {
+		[1] = 385,
 	},
-	["Raha"] = {
-		[1] = 923,
+	["Tundrahooff"] = {
+		[1] = 13178,
 	},
-	["Rustybucket"] = {
-		[1] = 12508,
+	["Richboyx"] = {
+		[1] = 3494,
 	},
 	["Tuigis"] = {
 		[1] = 1779,
 	},
-	["Drinkins"] = {
-		[1] = 3306,
+	["Keiffer"] = {
+		[1] = 5141,
 	},
 	["Mindexpnding"] = {
 		[1] = 5465,
 	},
-	["Goragona"] = {
-		[1] = 12641,
+	["Climb"] = {
+		[1] = 566,
 	},
-	["Firelord"] = {
-		[1] = 954,
+	["Kuroshawty"] = {
+		[1] = 11355,
 	},
 	["Gnusmus"] = {
 		[1] = 12729,
@@ -29059,14 +29003,14 @@ DPSMateUser = {
 	["Puzzycrusher"] = {
 		[1] = 3584,
 	},
-	["Needmana"] = {
-		[1] = 1149,
+	["Caretaker Weston"] = {
+		[1] = 12512,
 	},
-	["Catscantdps"] = {
-		[1] = 10118,
+	["Faqboi"] = {
+		[1] = 3278,
 	},
-	["Zum"] = {
-		[1] = 688,
+	["Panzerfaust"] = {
+		[1] = 2704,
 	},
 	["Kazgor"] = {
 		[1] = 434,
@@ -29077,14 +29021,14 @@ DPSMateUser = {
 	["Preachear"] = {
 		[1] = 11756,
 	},
-	["Longhaircn"] = {
-		[1] = 10865,
+	["Lengyei"] = {
+		[1] = 12412,
 	},
 	["Nichiban"] = {
 		[1] = 6659,
 	},
-	["Stinkyball"] = {
-		[1] = 2562,
+	["Kemrah"] = {
+		[1] = 5672,
 	},
 	["Hopson"] = {
 		[1] = 7046,
@@ -29095,14 +29039,17 @@ DPSMateUser = {
 	["Blacksopht"] = {
 		[1] = 4738,
 	},
-	["Witherbark Berserker"] = {
-		[1] = 12457,
+	["Taneel Darkwood"] = {
+		[1] = 9798,
 	},
-	["Garr"] = {
-		[1] = 965,
+	["Xfire"] = {
+		[1] = 6861,
 	},
-	["Psycholz"] = {
-		[1] = 1354,
+	["Synergenix"] = {
+		[1] = 5929,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 36,
 	},
 	["Glutaman"] = {
 		[1] = 4655,
@@ -29113,79 +29060,90 @@ DPSMateUser = {
 	["Tolls"] = {
 		[1] = 731,
 	},
-	["Shortdemise"] = {
-		[1] = 7861,
-		[2] = "warlock",
+	["Growlamp"] = {
+		[1] = 1493,
+		[2] = "priest",
 		[3] = -1,
 		[4] = false,
-		[5] = "Zangthang",
-		[8] = 30,
+		[7] = "I dps my kids irl",
+		[8] = 60,
 	},
-	["Death Speaker Jargba"] = {
-		[1] = 9369,
+	["Pondon"] = {
+		[1] = 10863,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 38,
 	},
 	["Dudditz"] = {
 		[1] = 11576,
 	},
-	["Blowforraid"] = {
-		[1] = 3960,
+	["Shadowforge Tunneler"] = {
+		[1] = 13243,
 	},
 	["Redname"] = {
 		[1] = 166,
 	},
-	["Magarruk"] = {
-		[1] = 11675,
+	["Havron"] = {
+		[1] = 13373,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 5,
 	},
-	["Molten Elemental"] = {
-		[1] = 6111,
+	["Jhomnagma"] = {
+		[1] = 7969,
 	},
-	["Clovilah"] = {
-		[1] = 12996,
+	["Quietrogue"] = {
+		[1] = 11959,
 	},
 	["Torckus"] = {
 		[1] = 6747,
 	},
-	["Nodule"] = {
-		[1] = 4877,
+	["Mapler"] = {
+		[1] = 7884,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Shamashandmo"] = {
-		[1] = 9218,
+	["Hildenimenty"] = {
+		[1] = 5928,
 	},
 	["Hatefury Trickster"] = {
 		[1] = 10852,
 	},
-	["Dedoude"] = {
-		[1] = 12795,
+	["Laserturken"] = {
+		[1] = 116,
 	},
-	["Edward"] = {
-		[1] = 5378,
+	["Harambe"] = {
+		[1] = 11637,
 	},
 	["Briqueronde"] = {
 		[1] = 3957,
 	},
-	["Gjimb"] = {
-		[1] = 3791,
+	["Deviate Ravager"] = {
+		[1] = 7518,
 	},
 	["Orealm"] = {
 		[1] = 5899,
 	},
-	["Tangtaz"] = {
-		[1] = 13073,
+	["Wankingdead"] = {
+		[1] = 3966,
 	},
-	["Magier"] = {
-		[1] = 9293,
-		[2] = "mage",
+	["Wildthorn Stalker"] = {
+		[1] = 8368,
+	},
+	["Zanril"] = {
+		[1] = 11026,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 26,
-	},
-	["Tanknsteakk"] = {
-		[1] = 6339,
+		[4] = false,
+		[7] = "Power",
+		[8] = 36,
 	},
 	["Drexol"] = {
 		[1] = 9584,
 	},
-	["Rougexd"] = {
-		[1] = 4486,
+	["Utopisti"] = {
+		[1] = 10024,
 	},
 	["Dogederp"] = {
 		[1] = 7254,
@@ -29205,11 +29163,11 @@ DPSMateUser = {
 	["Vulnar"] = {
 		[1] = 3176,
 	},
-	["Catdog"] = {
-		[1] = 5762,
+	["Garr"] = {
+		[1] = 965,
 	},
-	["Bananagang"] = {
-		[1] = 11882,
+	["Hiddensin"] = {
+		[1] = 12048,
 	},
 	["Staperki"] = {
 		[1] = 5451,
@@ -29217,11 +29175,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 11,
 	},
-	["Deathkitty"] = {
-		[1] = 12136,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 31,
+	["Xaxi"] = {
+		[1] = 11869,
 	},
 	["Khanny"] = {
 		[1] = 307,
@@ -29232,8 +29187,11 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Mumintrollet"] = {
-		[1] = 7181,
+	["Roastbeef"] = {
+		[1] = 10829,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 30,
 	},
 	["Quzkol"] = {
 		[1] = 9731,
@@ -29241,8 +29199,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 30,
 	},
-	["Vioddestiny"] = {
-		[1] = 12231,
+	["Lhwdwwq"] = {
+		[1] = 5798,
 	},
 	["Flavourr"] = {
 		[1] = 13268,
@@ -29250,8 +29208,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 34,
 	},
-	["Sierhouyi"] = {
-		[1] = 12387,
+	["Necromind"] = {
+		[1] = 13151,
 	},
 	["Pipham"] = {
 		[1] = 4630,
@@ -29262,11 +29220,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 21,
 	},
-	["Karyal"] = {
-		[1] = 1724,
+	["Clamman"] = {
+		[1] = 5162,
 	},
-	["Thogphog"] = {
-		[1] = 11693,
+	["Beine"] = {
+		[1] = 8255,
+	},
+	["Rockslab"] = {
+		[1] = 9336,
+	},
+	["Ggwpez"] = {
+		[1] = 445,
+	},
+	["Grizbee"] = {
+		[1] = 5064,
+	},
+	["Logically"] = {
+		[1] = 7728,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 48,
 	},
 	["Dqxx"] = {
 		[1] = 1115,
@@ -29274,29 +29247,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Demonji"] = {
-		[1] = 10981,
+	["Tenissa"] = {
+		[1] = 3422,
 	},
-	["Grizbee"] = {
-		[1] = 5064,
+	["Arugal's Voidwalker"] = {
+		[1] = 8632,
 	},
-	["Tenval"] = {
-		[1] = 4567,
+	["Barryscotty"] = {
+		[1] = 3802,
 	},
-	["Notche"] = {
-		[1] = 10484,
-	},
-	["Liox"] = {
-		[1] = 6886,
-	},
-	["Green Scalebane"] = {
-		[1] = 13346,
-	},
-	["Lxii"] = {
-		[1] = 7622,
-	},
-	["Oosh"] = {
-		[1] = 3505,
+	["Coopmega"] = {
+		[1] = 2818,
 	},
 	["Hertob"] = {
 		[1] = 7646,
@@ -29310,26 +29271,29 @@ DPSMateUser = {
 	["Azgup"] = {
 		[1] = 1255,
 	},
-	["Aoding"] = {
-		[1] = 5656,
+	["Lxii"] = {
+		[1] = 7622,
 	},
 	["Viquel"] = {
 		[1] = 3127,
 	},
-	["Tekniq"] = {
-		[1] = 4223,
+	["Wistfully"] = {
+		[1] = 4826,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 8,
 	},
-	["Idz"] = {
-		[1] = 2834,
+	["Dalaran Protector"] = {
+		[1] = 8580,
 	},
 	["Agiospetros"] = {
 		[1] = 3784,
 	},
-	["Shoemakur"] = {
-		[1] = 12702,
+	["Bopkingjr"] = {
+		[1] = 242,
 	},
-	["Skeletoros"] = {
-		[1] = 9035,
+	["Forsaken Raider"] = {
+		[1] = 8596,
 	},
 	["Barada"] = {
 		[1] = 1696,
@@ -29337,14 +29301,14 @@ DPSMateUser = {
 	["Brollebol"] = {
 		[1] = 6592,
 	},
-	["Satanico"] = {
-		[1] = 9069,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 20,
+	["Cartik"] = {
+		[1] = 13387,
 	},
-	["Zhiftex"] = {
-		[1] = 2966,
+	["Cyk"] = {
+		[1] = 2795,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Deviate Venomwing"] = {
 		[1] = 7533,
@@ -29361,20 +29325,17 @@ DPSMateUser = {
 	["Jhomphog"] = {
 		[1] = 12546,
 	},
-	["Varrax"] = {
-		[1] = 10652,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 33,
+	["Xakon"] = {
+		[1] = 1523,
 	},
 	["Kartik"] = {
 		[1] = 2179,
 	},
-	["Partagasmf"] = {
-		[1] = 7792,
+	["Ghendral"] = {
+		[1] = 3192,
 	},
-	["Clamman"] = {
-		[1] = 5162,
+	["Streetmagic"] = {
+		[1] = 3077,
 	},
 	["Chardoc"] = {
 		[1] = 7387,
@@ -29385,8 +29346,8 @@ DPSMateUser = {
 	["Sharukal"] = {
 		[1] = 8392,
 	},
-	["Frenz"] = {
-		[1] = 684,
+	["Haashon"] = {
+		[1] = 2488,
 	},
 	["Dispoison"] = {
 		[1] = 12032,
@@ -29397,17 +29358,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Haashon"] = {
-		[1] = 2488,
+	["Moxigantou"] = {
+		[1] = 8355,
+	},
+	["Kongbean"] = {
+		[1] = 6159,
 	},
 	["Rotlox"] = {
 		[1] = 13079,
-	},
-	["Mastia"] = {
-		[1] = 3517,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 6,
 	},
 	["Giula"] = {
 		[1] = 3897,
@@ -29418,8 +29376,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 30,
 	},
-	["Bootyjam"] = {
-		[1] = 5093,
+	["Blackwing Warlock"] = {
+		[1] = 1093,
 	},
 	["Osakazumo"] = {
 		[1] = 7707,
@@ -29442,11 +29400,11 @@ DPSMateUser = {
 	["Jintulu"] = {
 		[1] = 10033,
 	},
-	["Kennethjones"] = {
-		[1] = 9598,
-		[2] = "druid",
+	["Severus"] = {
+		[1] = 4860,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 33,
+		[8] = 11,
 	},
 	["Jhonny"] = {
 		[1] = 5906,
@@ -29457,11 +29415,8 @@ DPSMateUser = {
 	["Schlautod"] = {
 		[1] = 9339,
 	},
-	["Cyk"] = {
-		[1] = 2795,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 60,
+	["Shoemakur"] = {
+		[1] = 12702,
 	},
 	["Minum"] = {
 		[1] = 3122,
@@ -29472,8 +29427,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Wildthorn Stalker"] = {
-		[1] = 8368,
+	["Swux"] = {
+		[1] = 10304,
 	},
 	["Draectar"] = {
 		[1] = 6332,
@@ -29481,32 +29436,20 @@ DPSMateUser = {
 	["Annabolika"] = {
 		[1] = 7086,
 	},
-	["Rupuri"] = {
-		[1] = 5243,
+	["Plovdiv"] = {
+		[1] = 729,
 	},
-	["Hoodboyboyz"] = {
-		[1] = 9490,
+	["Ramzgoeshard"] = {
+		[1] = 1538,
 	},
-	["Skwyd"] = {
-		[1] = 10533,
+	["Humblewarr"] = {
+		[1] = 11189,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 37,
 	},
 	["Iamthelegion"] = {
 		[1] = 10390,
-	},
-	["Akhalla"] = {
-		[1] = 7810,
-	},
-	["Kindslayer"] = {
-		[1] = 11226,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 29,
-	},
-	["Tenissa"] = {
-		[1] = 3422,
-	},
-	["Doreigh"] = {
-		[1] = 12502,
 	},
 	["Bubz"] = {
 		[1] = 7864,
@@ -29515,53 +29458,29 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 38,
 	},
+	["Aimsforknee"] = {
+		[1] = 12620,
+	},
+	["Llcg"] = {
+		[1] = 10054,
+	},
+	["Doreigh"] = {
+		[1] = 12502,
+	},
+	["Notche"] = {
+		[1] = 10484,
+	},
 	["Korenom"] = {
 		[1] = 3863,
 	},
 	["Weazl"] = {
 		[1] = 4480,
 	},
-	["Jokizz"] = {
-		[1] = 6139,
+	["Ryht"] = {
+		[1] = 1037,
 	},
 	["Missushii"] = {
 		[1] = 9962,
-	},
-	["Vriezermama"] = {
-		[1] = 9473,
-	},
-	["Kolkar Pack Runner"] = {
-		[1] = 5767,
-	},
-	["Frusta"] = {
-		[1] = 11143,
-	},
-	["Kungentvt"] = {
-		[1] = 2402,
-	},
-	["Humblewarr"] = {
-		[1] = 11189,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 37,
-	},
-	["Swux"] = {
-		[1] = 10304,
-	},
-	["Ebrilson"] = {
-		[1] = 8472,
-	},
-	["Razorfen Stalker"] = {
-		[1] = 9377,
-	},
-	["Syndicate Wizard"] = {
-		[1] = 10620,
-	},
-	["Zesarmek"] = {
-		[1] = 10544,
-	},
-	["Forfreei"] = {
-		[1] = 11861,
 	},
 	["Liola"] = {
 		[1] = 7219,
@@ -29569,17 +29488,47 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Supervisor Lugwizzle"] = {
-		[1] = 6787,
-	},
-	["Patrnbaldnes"] = {
-		[1] = 7187,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 17,
+	["Hoodboyboyz"] = {
+		[1] = 9490,
 	},
 	["Trayleyx"] = {
 		[1] = 2395,
+	},
+	["Kungentvt"] = {
+		[1] = 2402,
+	},
+	["Valentinoxo"] = {
+		[1] = 4363,
+	},
+	["Jkjfd"] = {
+		[1] = 9955,
+	},
+	["Cereala"] = {
+		[1] = 4068,
+	},
+	["Kippekaffee"] = {
+		[1] = 7882,
+	},
+	["Harryboltter"] = {
+		[1] = 3594,
+	},
+	["Joelj"] = {
+		[1] = 3206,
+	},
+	["Forfreei"] = {
+		[1] = 11861,
+	},
+	["Zesarmek"] = {
+		[1] = 10544,
+	},
+	["Supervisor Lugwizzle"] = {
+		[1] = 6787,
+	},
+	["Sadakuno"] = {
+		[1] = 6546,
+	},
+	["Syndicate Wizard"] = {
+		[1] = 10620,
 	},
 	["Ainzooalgon"] = {
 		[1] = 10507,
@@ -29587,17 +29536,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 37,
 	},
-	["Valentinoxo"] = {
-		[1] = 4363,
+	["Heheszki"] = {
+		[1] = 632,
 	},
-	["Vetage"] = {
-		[1] = 3939,
+	["Skbuff"] = {
+		[1] = 10537,
 	},
-	["Zondare"] = {
-		[1] = 11845,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 37,
+	["Jokizz"] = {
+		[1] = 6139,
 	},
 	["Galirax"] = {
 		[1] = 8263,
@@ -29621,8 +29567,8 @@ DPSMateUser = {
 	["Gordonfrimen"] = {
 		[1] = 9279,
 	},
-	["Roggu"] = {
-		[1] = 705,
+	["Trece"] = {
+		[1] = 1247,
 	},
 	["Chukuru"] = {
 		[1] = 12538,
@@ -29630,14 +29576,14 @@ DPSMateUser = {
 	["Exxitus"] = {
 		[1] = 6150,
 	},
-	["Fodao"] = {
-		[1] = 7724,
+	["Memeform"] = {
+		[1] = 1383,
 	},
 	["Pusswhip"] = {
 		[1] = 8272,
 	},
-	["Scabez"] = {
-		[1] = 5303,
+	["Neihz"] = {
+		[1] = 5567,
 	},
 	["Crowenic"] = {
 		[1] = 12240,
@@ -29648,26 +29594,23 @@ DPSMateUser = {
 	["Doncorleon"] = {
 		[1] = 6425,
 	},
-	["Gloganghoe"] = {
-		[1] = 10867,
+	["Paladoi"] = {
+		[1] = 2317,
 	},
-	["Skbuff"] = {
-		[1] = 10537,
+	["Traktomir"] = {
+		[1] = 10248,
 	},
-	["Atkozott"] = {
-		[1] = 13044,
+	["Iouy"] = {
+		[1] = 3219,
 	},
-	["Tytanos"] = {
-		[1] = 11343,
+	["Premn"] = {
+		[1] = 8847,
 	},
 	["Sudono"] = {
 		[1] = 1300,
 	},
-	["Gunsala"] = {
-		[1] = 11395,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 34,
+	["Dynshis"] = {
+		[1] = 7750,
 	},
 	["Soyoz"] = {
 		[1] = 12520,
@@ -29681,26 +29624,11 @@ DPSMateUser = {
 	["Thehallowed"] = {
 		[1] = 12573,
 	},
-	["Nmzl"] = {
-		[1] = 2108,
+	["Hujchlender"] = {
+		[1] = 2392,
 	},
 	["Aspateleni"] = {
 		[1] = 5132,
-	},
-	["Paladoi"] = {
-		[1] = 2317,
-	},
-	["Alcaer"] = {
-		[1] = 11100,
-	},
-	["Octorinia"] = {
-		[1] = 2414,
-	},
-	["Headhunters"] = {
-		[1] = 11332,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 33,
 	},
 	["Bezkermer"] = {
 		[1] = 10732,
@@ -29708,41 +29636,53 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
+	["Alcaer"] = {
+		[1] = 11100,
+	},
+	["Daverc"] = {
+		[1] = 11956,
+	},
+	["Headhunters"] = {
+		[1] = 11332,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 33,
+	},
+	["Gniles"] = {
+		[1] = 4386,
+	},
 	["Sorguner"] = {
 		[1] = 7813,
 	},
 	["Ayzi"] = {
 		[1] = 10791,
 	},
-	["Potnya"] = {
-		[1] = 12969,
+	["Xtii"] = {
+		[1] = 3997,
 	},
 	["Shinkat"] = {
 		[1] = 2523,
 	},
-	["Keepmoving"] = {
-		[1] = 12349,
-	},
-	["Daverc"] = {
-		[1] = 11956,
-	},
-	["Hujchlender"] = {
-		[1] = 2392,
-	},
-	["Feelsbadbro"] = {
-		[1] = 11654,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 36,
-	},
-	["Hexars"] = {
-		[1] = 5461,
-	},
-	["Gniles"] = {
-		[1] = 4386,
-	},
 	["Rudeboy"] = {
 		[1] = 9443,
+	},
+	["Colino"] = {
+		[1] = 3764,
+	},
+	["Roggu"] = {
+		[1] = 705,
+	},
+	["Klikcmr"] = {
+		[1] = 3479,
+	},
+	["Coldshot"] = {
+		[1] = 11516,
+	},
+	["Huanletudou"] = {
+		[1] = 7689,
+	},
+	["Davyjonesxx"] = {
+		[1] = 4582,
 	},
 	["Maluc"] = {
 		[1] = 11535,
@@ -29750,20 +29690,17 @@ DPSMateUser = {
 	["Terrazalan"] = {
 		[1] = 7988,
 	},
-	["Bbtoo"] = {
-		[1] = 3768,
+	["Ancientree"] = {
+		[1] = 12599,
 	},
-	["Nejdan"] = {
-		[1] = 8168,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 23,
+	["Astrus"] = {
+		[1] = 3690,
 	},
 	["Larychen"] = {
 		[1] = 13086,
 	},
-	["Pennycandies"] = {
-		[1] = 11440,
+	["Depersonaliz"] = {
+		[1] = 9085,
 	},
 	["Zeropatience"] = {
 		[1] = 11983,
@@ -29774,8 +29711,8 @@ DPSMateUser = {
 	["Smuwlan"] = {
 		[1] = 3244,
 	},
-	["Fisticuffs"] = {
-		[1] = 8508,
+	["Bael'dun Officer"] = {
+		[1] = 10169,
 	},
 	["Messia"] = {
 		[1] = 1188,
@@ -29783,44 +29720,20 @@ DPSMateUser = {
 	["Zumbilo"] = {
 		[1] = 7039,
 	},
-	["Depersonaliz"] = {
-		[1] = 9085,
-	},
-	["Tiramishu"] = {
-		[1] = 5159,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 8,
-	},
-	["Lulugirl"] = {
-		[1] = 1295,
-	},
-	["Kalthel"] = {
-		[1] = 11065,
-	},
-	["Ancientree"] = {
-		[1] = 12599,
-	},
 	["Hariz"] = {
 		[1] = 3515,
-	},
-	["Sunqtn"] = {
-		[1] = 561,
-	},
-	["Wolfrikc"] = {
-		[1] = 3054,
-	},
-	["Scoli"] = {
-		[1] = 12229,
-	},
-	["Davyjonesxx"] = {
-		[1] = 4582,
 	},
 	["Ruanimahai"] = {
 		[1] = 10140,
 	},
-	["Feverdream"] = {
-		[1] = 1185,
+	["Brackenwall Enforcer"] = {
+		[1] = 11328,
+	},
+	["Vizionisth"] = {
+		[1] = 781,
+	},
+	["Twilight Shadowmage"] = {
+		[1] = 9014,
 	},
 	["Zabrenara"] = {
 		[1] = 4909,
@@ -29828,20 +29741,41 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 9,
 	},
-	["Twilight Shadowmage"] = {
-		[1] = 9014,
+	["Llaell"] = {
+		[1] = 7866,
 	},
-	["Axiba"] = {
-		[1] = 11945,
+	["Rapez"] = {
+		[1] = 3811,
 	},
-	["Garrukh"] = {
-		[1] = 6710,
-		[2] = "warrior",
+	["Corrupted Green Whelp"] = {
+		[1] = 1086,
+	},
+	["Keepmoving"] = {
+		[1] = 12349,
+	},
+	["Makharg"] = {
+		[1] = 645,
+	},
+	["Feverdream"] = {
+		[1] = 1185,
+	},
+	["Trepidationx"] = {
+		[1] = 11747,
+	},
+	["Listien"] = {
+		[1] = 11763,
+		[2] = "warlock",
 		[3] = -1,
-		[8] = 15,
+		[8] = 38,
 	},
-	["Kusqt"] = {
-		[1] = 11540,
+	["Hollystorm"] = {
+		[1] = 1574,
+	},
+	["Paradon"] = {
+		[1] = 11375,
+	},
+	["Bbtoo"] = {
+		[1] = 3768,
 	},
 	["Crystals"] = {
 		[1] = 1121,
@@ -29854,11 +29788,11 @@ DPSMateUser = {
 	["Oriharaizaya"] = {
 		[1] = 11965,
 	},
-	["Kebaab"] = {
-		[1] = 1507,
+	["Qiaqialian"] = {
+		[1] = 7701,
 	},
-	["Soulemon"] = {
-		[1] = 11767,
+	["Korosu"] = {
+		[1] = 2940,
 	},
 	["Orkun"] = {
 		[1] = 6236,
@@ -29872,11 +29806,11 @@ DPSMateUser = {
 	["Toalock"] = {
 		[1] = 8450,
 	},
-	["Arauto"] = {
-		[1] = 4405,
+	["Slaninka"] = {
+		[1] = 7470,
 	},
-	["Tarren Mill Deathguard"] = {
-		[1] = 9155,
+	["Kania"] = {
+		[1] = 1906,
 	},
 	["Eywa"] = {
 		[1] = 7070,
@@ -29887,14 +29821,14 @@ DPSMateUser = {
 	["Keylib"] = {
 		[1] = 9107,
 	},
-	["Rinoagrace"] = {
-		[1] = 5938,
+	["Tirionzhaosi"] = {
+		[1] = 11949,
 	},
-	["Trepidationx"] = {
-		[1] = 11747,
+	["Rivvy"] = {
+		[1] = 63,
 	},
-	["Ogrepowerd"] = {
-		[1] = 8890,
+	["Vanzant"] = {
+		[1] = 4533,
 	},
 	["Earthmonk"] = {
 		[1] = 9515,
@@ -29917,17 +29851,20 @@ DPSMateUser = {
 	["Lifal"] = {
 		[1] = 2213,
 	},
-	["Kainord"] = {
-		[1] = 5812,
+	["Roach"] = {
+		[1] = 8206,
 	},
-	["Paradon"] = {
-		[1] = 11375,
+	["Tarren Mill Deathguard"] = {
+		[1] = 9155,
 	},
-	["Tirionzhaosi"] = {
-		[1] = 11949,
+	["Tiramishu"] = {
+		[1] = 5159,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 8,
 	},
-	["Nuklearfried"] = {
-		[1] = 12606,
+	["Tastycake"] = {
+		[1] = 2943,
 	},
 	["Tupacshakurz"] = {
 		[1] = 1070,
@@ -29935,8 +29872,8 @@ DPSMateUser = {
 	["Psyxiatros"] = {
 		[1] = 5186,
 	},
-	["Nokliah"] = {
-		[1] = 10199,
+	["Rat"] = {
+		[1] = 360,
 	},
 	["Moonhoe"] = {
 		[1] = 2730,
@@ -29947,29 +29884,30 @@ DPSMateUser = {
 	["Wuzimoo"] = {
 		[1] = 9202,
 	},
-	["Xileiman"] = {
-		[1] = 4811,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 5,
+	["Keerte"] = {
+		[1] = 2274,
 	},
 	["Svettniklas"] = {
 		[1] = 35,
 	},
-	["Miluz"] = {
-		[1] = 6810,
-		[2] = "rogue",
+	["Carrythatbox"] = {
+		[1] = 5503,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 17,
+		[8] = 60,
 	},
 	["Deviate Slayer"] = {
 		[1] = 7505,
 	},
-	["Death's Head Seer"] = {
-		[1] = 9382,
+	["Sasabeliy"] = {
+		[1] = 6997,
 	},
-	["Kania"] = {
-		[1] = 1906,
+	["Ultrahans"] = {
+		[1] = 3354,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[8] = 9,
 	},
 	["Yfrit"] = {
 		[1] = 7459,
@@ -29977,8 +29915,11 @@ DPSMateUser = {
 	["Calavindra"] = {
 		[1] = 5437,
 	},
-	["Rivvy"] = {
-		[1] = 63,
+	["Elanoenano"] = {
+		[1] = 12225,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 25,
 	},
 	["Bulesean"] = {
 		[1] = 4113,
@@ -29995,8 +29936,8 @@ DPSMateUser = {
 	["Cursed Lost One"] = {
 		[1] = 13329,
 	},
-	["Djip"] = {
-		[1] = 3876,
+	["Niata"] = {
+		[1] = 10574,
 	},
 	["Pootydew"] = {
 		[1] = 8025,
@@ -30004,8 +29945,8 @@ DPSMateUser = {
 	["Leadtks"] = {
 		[1] = 2094,
 	},
-	["Roach"] = {
-		[1] = 8206,
+	["Staby"] = {
+		[1] = 11628,
 	},
 	["Fleuks"] = {
 		[1] = 2911,
@@ -30019,45 +29960,44 @@ DPSMateUser = {
 	["Royalgans"] = {
 		[1] = 9148,
 	},
-	["Tastycake"] = {
-		[1] = 2943,
-	},
-	["Skanvar"] = {
-		[1] = 4917,
-	},
-	["Maretti"] = {
-		[1] = 8173,
-		[2] = "priest",
+	["Miluz"] = {
+		[1] = 6810,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 19,
+		[8] = 17,
+	},
+	["Thciri"] = {
+		[1] = 12483,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 39,
+	},
+	["Mlly"] = {
+		[1] = 1952,
 	},
 	["Babosh"] = {
 		[1] = 9402,
-	},
-	["Ultrahans"] = {
-		[1] = 3354,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[8] = 9,
-	},
-	["Renekton"] = {
-		[1] = 2686,
-	},
-	["Greenfist"] = {
-		[1] = 13098,
-	},
-	["Ceon"] = {
-		[1] = 12356,
-	},
-	["Quatris"] = {
-		[1] = 8557,
 	},
 	["Noscope"] = {
 		[1] = 12409,
 		[2] = "mage",
 		[3] = 1,
 		[8] = 39,
+	},
+	["Renekton"] = {
+		[1] = 2686,
+	},
+	["Mikalateia"] = {
+		[1] = 8961,
+	},
+	["Jackoutman"] = {
+		[1] = 7886,
+	},
+	["Quatris"] = {
+		[1] = 8557,
+	},
+	["Death's Head Seer"] = {
+		[1] = 9382,
 	},
 	["Gammoggan"] = {
 		[1] = 9183,
@@ -30068,17 +30008,17 @@ DPSMateUser = {
 	["Truppensturm"] = {
 		[1] = 5062,
 	},
-	["Keerte"] = {
-		[1] = 2274,
+	["Rinoagrace"] = {
+		[1] = 5938,
 	},
 	["Itsmom"] = {
 		[1] = 8446,
 	},
-	["Carrion Horror"] = {
-		[1] = 12824,
+	["Brodo"] = {
+		[1] = 8728,
 	},
-	["Damaging"] = {
-		[1] = 5698,
+	["Chuck"] = {
+		[1] = 9860,
 	},
 	["Alekseey"] = {
 		[1] = 3234,
@@ -30089,8 +30029,8 @@ DPSMateUser = {
 	["Baelruk"] = {
 		[1] = 6966,
 	},
-	["Zaggra"] = {
-		[1] = 12026,
+	["Jirt"] = {
+		[1] = 10464,
 	},
 	["Kenzak"] = {
 		[1] = 1786,
@@ -30104,32 +30044,28 @@ DPSMateUser = {
 	["Desider"] = {
 		[1] = 1034,
 	},
-	["Tasakos"] = {
-		[1] = 6251,
+	["Shadowgurl"] = {
+		[1] = 10747,
 	},
-	["Stromgarde Defender"] = {
-		[1] = 12431,
+	["[["] = {
+		[1] = 1450,
+		[4] = true,
+		[6] = 1449,
 	},
-	["Jaqueslacan"] = {
-		[1] = 2227,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Carrion Horror"] = {
+		[1] = 12824,
 	},
-	["Gurubashi Headhunter"] = {
-		[1] = 319,
+	["Ceon"] = {
+		[1] = 12356,
 	},
-	["Qncunx"] = {
-		[1] = 4119,
+	["Jinjing"] = {
+		[1] = 3037,
 	},
 	["Windfury"] = {
 		[1] = 334,
 	},
-	["Elanoenano"] = {
-		[1] = 12225,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 25,
+	["Pedr"] = {
+		[1] = 787,
 	},
 	["Hlaalu"] = {
 		[1] = 2863,
@@ -30152,8 +30088,11 @@ DPSMateUser = {
 	["ASSBITER"] = {
 		[1] = 10190,
 	},
-	["Stormsnout"] = {
-		[1] = 6004,
+	["Maretti"] = {
+		[1] = 8173,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 19,
 	},
 	["Yodou"] = {
 		[1] = 11790,
@@ -30164,8 +30103,8 @@ DPSMateUser = {
 	["Zatu"] = {
 		[1] = 13016,
 	},
-	["Rexxaris"] = {
-		[1] = 10257,
+	["Thrillkillxx"] = {
+		[1] = 5073,
 	},
 	["Smeke"] = {
 		[1] = 12548,
@@ -30173,11 +30112,8 @@ DPSMateUser = {
 	["Darkjohnny"] = {
 		[1] = 4399,
 	},
-	["Smaugaden"] = {
-		[1] = 5542,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 21,
+	["Morvisha"] = {
+		[1] = 6398,
 	},
 	["Taynt"] = {
 		[1] = 6191,
@@ -30191,8 +30127,8 @@ DPSMateUser = {
 	["Eisteemage"] = {
 		[1] = 4685,
 	},
-	["Jackoutman"] = {
-		[1] = 7886,
+	["Gurubashi Headhunter"] = {
+		[1] = 319,
 	},
 	["Nfletsgo"] = {
 		[1] = 2998,
@@ -30203,8 +30139,8 @@ DPSMateUser = {
 	["Manastrudel"] = {
 		[1] = 12133,
 	},
-	["Muddie"] = {
-		[1] = 5920,
+	["Meltyou"] = {
+		[1] = 4563,
 	},
 	["Razorfen Beast Trainer"] = {
 		[1] = 9363,
@@ -30218,17 +30154,17 @@ DPSMateUser = {
 	["SISKI"] = {
 		[1] = 1557,
 	},
-	["Jirt"] = {
-		[1] = 10464,
+	["Grokke"] = {
+		[1] = 9200,
 	},
-	["Tirrek"] = {
-		[1] = 2826,
+	["Shekelstone"] = {
+		[1] = 9065,
 	},
-	["Mathadouro"] = {
-		[1] = 7136,
+	["Tasakos"] = {
+		[1] = 6251,
 	},
-	["Thrillkillxx"] = {
-		[1] = 5073,
+	["Seal"] = {
+		[1] = 12535,
 	},
 	["Akiwi"] = {
 		[1] = 3891,
@@ -30239,41 +30175,32 @@ DPSMateUser = {
 	["Sined"] = {
 		[1] = 1694,
 	},
-	["Chuck"] = {
-		[1] = 9860,
+	["Reaywindseek"] = {
+		[1] = 10285,
 	},
 	["Elder Saltwater Crocolisk"] = {
 		[1] = 11818,
 	},
-	["Grimtotem Stomper"] = {
-		[1] = 9296,
+	["Damaging"] = {
+		[1] = 5698,
 	},
-	["Biggismalls"] = {
-		[1] = 4226,
+	["Suddenkill"] = {
+		[1] = 3344,
 	},
 	["Heytor"] = {
 		[1] = 3862,
 	},
-	["Circos"] = {
-		[1] = 10872,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 28,
+	["Veolria"] = {
+		[1] = 4592,
 	},
-	["Moonnik"] = {
-		[1] = 6860,
-		[2] = "hunter",
-		[3] = -1,
-		[4] = false,
-		[5] = "Crocolisk",
-		[7] = "Taylor Swift Fan Club",
-		[8] = 12,
+	["Zverowar"] = {
+		[1] = 12684,
 	},
-	["Xorgath"] = {
-		[1] = 3832,
+	["Thadys"] = {
+		[1] = 809,
 	},
-	["Kaiowhat"] = {
-		[1] = 5844,
+	["Tirrek"] = {
+		[1] = 2826,
 	},
 	["Scofild"] = {
 		[1] = 6847,
@@ -30284,14 +30211,20 @@ DPSMateUser = {
 	["Chromatic Drakonid"] = {
 		[1] = 2304,
 	},
-	["Whitegirl"] = {
-		[1] = 606,
+	["Moonnik"] = {
+		[1] = 6860,
+		[2] = "hunter",
+		[3] = -1,
+		[4] = false,
+		[5] = "Crocolisk",
+		[7] = "Taylor Swift Fan Club",
+		[8] = 12,
 	},
 	["Lonekid"] = {
 		[1] = 1729,
 	},
-	["Erdera"] = {
-		[1] = 4473,
+	["Hpqq"] = {
+		[1] = 10,
 	},
 	["Bruughon"] = {
 		[1] = 1711,
@@ -30319,8 +30252,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Elder Stranglethorn Tiger"] = {
-		[1] = 11022,
+	["Mathadouro"] = {
+		[1] = 7136,
 	},
 	["Yokone"] = {
 		[1] = 2774,
@@ -30328,17 +30261,17 @@ DPSMateUser = {
 	["Ceshia"] = {
 		[1] = 13,
 	},
-	["Morvisha"] = {
-		[1] = 6398,
+	["Arhybes"] = {
+		[1] = 5165,
 	},
 	["Witchwing Roguefeather"] = {
 		[1] = 6517,
 	},
-	["Keksmus"] = {
-		[1] = 3911,
+	["Blackwing Technician"] = {
+		[1] = 1076,
 	},
-	["Oldgray"] = {
-		[1] = 6595,
+	["Tasha"] = {
+		[1] = 1967,
 	},
 	["Jahne"] = {
 		[1] = 10404,
@@ -30349,80 +30282,11 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 35,
 	},
-	["Prisuha"] = {
-		[1] = 1201,
-	},
-	["Razorfen Quilguard"] = {
-		[1] = 9352,
-	},
-	["Thadys"] = {
-		[1] = 809,
-	},
-	["Mutedmaggot"] = {
-		[1] = 4832,
-	},
-	["Felbot"] = {
-		[1] = 9635,
-	},
-	["Scuffedjays"] = {
-		[1] = 2661,
-	},
-	["Feeyd"] = {
-		[1] = 7553,
-	},
-	["Fearlockie"] = {
-		[1] = 13181,
-	},
-	["Hamsandwhich"] = {
-		[1] = 6524,
-	},
-	["Alousv"] = {
-		[1] = 10830,
-	},
-	["Bud"] = {
-		[1] = 3326,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 3,
-	},
-	["Deezol"] = {
-		[1] = 8286,
-	},
-	["Atinus"] = {
-		[1] = 772,
-	},
-	["Ganggor"] = {
-		[1] = 6762,
-	},
-	["Rypen"] = {
-		[1] = 3242,
-	},
-	["Endiaron"] = {
-		[1] = 1998,
-	},
-	["Tasha"] = {
-		[1] = 1967,
-	},
-	["Snowmystery"] = {
-		[1] = 5216,
-	},
-	["Jilokor"] = {
-		[1] = 127,
-	},
 	["Roandra"] = {
 		[1] = 6279,
 	},
-	["Elder Ashenvale Bear"] = {
-		[1] = 9795,
-	},
-	["Adeane"] = {
-		[1] = 1010,
-	},
-	["Vivinox"] = {
-		[1] = 5753,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 13,
+	["Razorfen Quilguard"] = {
+		[1] = 9352,
 	},
 	["Tjorretorre"] = {
 		[1] = 1437,
@@ -30430,18 +30294,89 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Ibumetin"] = {
-		[1] = 3081,
-		[2] = "priest",
+	["Wardom"] = {
+		[1] = 5576,
+		[2] = "shaman",
 		[3] = -1,
-		[4] = false,
-		[8] = 3,
+		[8] = 19,
+	},
+	["Wallydrag"] = {
+		[1] = 2705,
+	},
+	["Scuffedjays"] = {
+		[1] = 2661,
+	},
+	["Jaqenh"] = {
+		[1] = 8692,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 4,
+	},
+	["Fearlockie"] = {
+		[1] = 13181,
+	},
+	["Whitegirl"] = {
+		[1] = 606,
+	},
+	["Xorgath"] = {
+		[1] = 3832,
+	},
+	["Dokulifts"] = {
+		[1] = 8713,
+	},
+	["Fight"] = {
+		[1] = 1124,
+	},
+	["Cleycley"] = {
+		[1] = 2928,
+	},
+	["Jornn"] = {
+		[1] = 6770,
+	},
+	["Rypen"] = {
+		[1] = 3242,
+	},
+	["Lindlow"] = {
+		[1] = 11836,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 36,
+	},
+	["Feeyd"] = {
+		[1] = 7553,
+	},
+	["Snowmystery"] = {
+		[1] = 5216,
+	},
+	["Jilokor"] = {
+		[1] = 127,
+	},
+	["Snapjaw"] = {
+		[1] = 10606,
+	},
+	["Elder Ashenvale Bear"] = {
+		[1] = 9795,
+	},
+	["Black"] = {
+		[1] = 1023,
+	},
+	["Vivinox"] = {
+		[1] = 5753,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 13,
+	},
+	["Razorfen Warrior"] = {
+		[1] = 9353,
+	},
+	["Rexxaris"] = {
+		[1] = 10257,
 	},
 	["Saurusan"] = {
 		[1] = 12654,
 	},
-	["Jornn"] = {
-		[1] = 6770,
+	["Kaiowhat"] = {
+		[1] = 5844,
 	},
 	["Arawn"] = {
 		[1] = 13259,
@@ -30449,8 +30384,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Wallydrag"] = {
-		[1] = 2705,
+	["Crushridge Brute"] = {
+		[1] = 10681,
 	},
 	["Getlockd"] = {
 		[1] = 5436,
@@ -30478,20 +30413,20 @@ DPSMateUser = {
 		[7] = "The Laughing Inn",
 		[8] = 31,
 	},
-	["Skulltusk"] = {
-		[1] = 9204,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 15,
+	["Smartiemijet"] = {
+		[1] = 10501,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 34,
 	},
 	["Rogue Flame Spirit"] = {
 		[1] = 8178,
 	},
-	["Luuthido"] = {
-		[1] = 6695,
+	["Mcgee"] = {
+		[1] = 12272,
 	},
-	["Firebat"] = {
-		[1] = 12559,
+	["Shadowfang Glutton"] = {
+		[1] = 8615,
 	},
 	["Oglash"] = {
 		[1] = 8443,
@@ -30499,41 +30434,29 @@ DPSMateUser = {
 	["Billytalant"] = {
 		[1] = 12742,
 	},
-	["Jaqenh"] = {
-		[1] = 8692,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 4,
+	["Rockwing Screecher"] = {
+		[1] = 2149,
 	},
 	["Lotz"] = {
 		[1] = 4461,
 	},
-	["Korvalol"] = {
-		[1] = 11668,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 35,
+	["Csugamii"] = {
+		[1] = 7838,
 	},
-	["Hruhwa"] = {
-		[1] = 9309,
+	["Maxx"] = {
+		[1] = 1567,
 	},
 	["Gbu"] = {
 		[1] = 8005,
 	},
-	["Zuldana"] = {
-		[1] = 11828,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 32,
+	["Mageel"] = {
+		[1] = 10897,
 	},
 	["Naltik"] = {
 		[1] = 4965,
 	},
-	["Daunty"] = {
-		[1] = 6825,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 34,
+	["Endiaron"] = {
+		[1] = 1998,
 	},
 	["Sponkerz"] = {
 		[1] = 4251,
@@ -30553,11 +30476,8 @@ DPSMateUser = {
 	["Avrillavign"] = {
 		[1] = 2295,
 	},
-	["Lindlow"] = {
-		[1] = 11836,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 36,
+	["Zusukie"] = {
+		[1] = 6412,
 	},
 	["Zhaoxiaoshi"] = {
 		[1] = 5774,
@@ -30571,23 +30491,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 37,
 	},
-	["Russbutcher"] = {
-		[1] = 3268,
+	["Hruhwa"] = {
+		[1] = 9309,
 	},
-	["Dokulifts"] = {
-		[1] = 8713,
+	["Korvalol"] = {
+		[1] = 11668,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 35,
 	},
-	["Wrashis"] = {
-		[1] = 7286,
+	["Romil"] = {
+		[1] = 1583,
 	},
 	["Rabkauhalla"] = {
 		[1] = 13182,
 	},
-	["Sisterhazel"] = {
-		[1] = 11034,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 36,
+	["Shadowxing"] = {
+		[1] = 8531,
 	},
 	["Pura"] = {
 		[1] = 1498,
@@ -30595,8 +30515,8 @@ DPSMateUser = {
 	["Jihnn"] = {
 		[1] = 32,
 	},
-	["Sarakres"] = {
-		[1] = 12175,
+	["Ganggor"] = {
+		[1] = 6762,
 	},
 	["Krasnii"] = {
 		[1] = 8534,
@@ -30607,8 +30527,8 @@ DPSMateUser = {
 	["Scalebane Captain"] = {
 		[1] = 13347,
 	},
-	["Zyam"] = {
-		[1] = 10911,
+	["Dire Mottled Boar"] = {
+		[1] = 8762,
 	},
 	["Demon Portal Guardian"] = {
 		[1] = 9332,
@@ -30625,8 +30545,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Hukthyk"] = {
-		[1] = 5993,
+	["Wrashis"] = {
+		[1] = 7286,
 	},
 	["Toxictusk"] = {
 		[1] = 6616,
@@ -30637,8 +30557,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 3,
 	},
-	["Pryyrym"] = {
-		[1] = 1258,
+	["Diabliz"] = {
+		[1] = 3232,
 	},
 	["Jfioe"] = {
 		[1] = 12366,
@@ -30657,20 +30577,26 @@ DPSMateUser = {
 	["Shalipali"] = {
 		[1] = 1044,
 	},
-	["Razorfen Warrior"] = {
-		[1] = 9353,
+	["Sarakres"] = {
+		[1] = 12175,
 	},
 	["Baal"] = {
 		[1] = 4165,
 	},
-	["Civilian"] = {
-		[1] = 6069,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 60,
+	["Chnzhao"] = {
+		[1] = 3284,
 	},
-	["Yeylol"] = {
-		[1] = 12782,
+	["Legiaa"] = {
+		[1] = 7739,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 31,
+	},
+	["Leepybear"] = {
+		[1] = 2873,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Jamaha"] = {
 		[1] = 4791,
@@ -30678,63 +30604,57 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 7,
 	},
-	["Crushridge Brute"] = {
-		[1] = 10681,
-	},
 	["Skalpjaeger"] = {
 		[1] = 10273,
 	},
 	["Dmojoman"] = {
 		[1] = 8792,
 	},
-	["Lancher"] = {
-		[1] = 1105,
-		[2] = "warrior",
-		[3] = 1,
-		[4] = false,
-		[7] = "Hard Times",
-		[8] = 60,
+	["Russbutcher"] = {
+		[1] = 3268,
 	},
-	["Hugechaos"] = {
-		[1] = 8803,
-	},
-	["Spawn of Mar'li"] = {
-		[1] = 343,
-	},
-	["Animaljoe"] = {
-		[1] = 7576,
-	},
-	["Mageel"] = {
-		[1] = 10897,
+	["Fatbluntz"] = {
+		[1] = 8789,
 	},
 	["Farondiz"] = {
 		[1] = 4672,
 	},
-	["Romil"] = {
-		[1] = 1583,
+	["Skulltusk"] = {
+		[1] = 9204,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 15,
 	},
-	["Gimlet"] = {
-		[1] = 5633,
+	["Windshear Overlord"] = {
+		[1] = 8160,
 	},
-	["Chabuq"] = {
-		[1] = 1914,
-		[2] = "warlock",
+	["Zlii"] = {
+		[1] = 9205,
+	},
+	["Gouges"] = {
+		[1] = 9126,
+	},
+	["Peterhansen"] = {
+		[1] = 2235,
+	},
+	["Miseria"] = {
+		[1] = 2539,
+	},
+	["Devour"] = {
+		[1] = 5276,
+		[2] = "priest",
 		[3] = -1,
 		[4] = false,
-		[5] = "Sarriana",
-		[8] = 60,
-	},
-	["Diabliz"] = {
-		[1] = 3232,
+		[8] = 9,
 	},
 	["Ohnoes"] = {
 		[1] = 9776,
 	},
-	["Spined Crawler"] = {
-		[1] = 9052,
-	},
 	["Clattering Crawler"] = {
 		[1] = 8949,
+	},
+	["Mslisna"] = {
+		[1] = 5666,
 	},
 	["Graqua"] = {
 		[1] = 2909,
@@ -30745,23 +30665,25 @@ DPSMateUser = {
 	["Ionedruid"] = {
 		[1] = 10207,
 	},
-	["Legiaa"] = {
-		[1] = 7739,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 31,
-	},
-	["Chnzhao"] = {
-		[1] = 3284,
+	["Exulkor"] = {
+		[1] = 3408,
 	},
 	["Banach"] = {
 		[1] = 8722,
 	},
-	["Ranson"] = {
-		[1] = 3541,
+	["Dizzk"] = {
+		[1] = 7416,
 	},
-	["Fatbluntz"] = {
-		[1] = 8789,
+	["Chabuq"] = {
+		[1] = 1914,
+		[2] = "warlock",
+		[3] = -1,
+		[4] = false,
+		[5] = "Sarriana",
+		[8] = 60,
+	},
+	["Excy"] = {
+		[1] = 1824,
 	},
 	["Hsefhook"] = {
 		[1] = 4064,
@@ -30775,20 +30697,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 21,
 	},
-	["Windshear Overlord"] = {
-		[1] = 8160,
+	["Civilian"] = {
+		[1] = 6069,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Frozenflash"] = {
 		[1] = 1389,
 	},
-	["Lupine Delusion"] = {
-		[1] = 8628,
+	["Myfanz"] = {
+		[1] = 2844,
 	},
 	["Mumoralparty"] = {
 		[1] = 11583,
 	},
-	["Zlii"] = {
-		[1] = 9205,
+	["Pryyrym"] = {
+		[1] = 1258,
 	},
 	["Huhbruh"] = {
 		[1] = 990,
@@ -30796,11 +30721,8 @@ DPSMateUser = {
 	["Pitu"] = {
 		[1] = 10247,
 	},
-	["Faceless"] = {
-		[1] = 7827,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 18,
+	["Quaz"] = {
+		[1] = 9679,
 	},
 	["Sebbeknight"] = {
 		[1] = 3529,
@@ -30808,8 +30730,8 @@ DPSMateUser = {
 	["Zulimurish"] = {
 		[1] = 8814,
 	},
-	["Poasdk"] = {
-		[1] = 1511,
+	["Razormane Wolf"] = {
+		[1] = 5606,
 	},
 	["Zakyo"] = {
 		[1] = 11514,
@@ -30817,30 +30739,32 @@ DPSMateUser = {
 	["Sheatmield"] = {
 		[1] = 3181,
 	},
-	["Strength"] = {
-		[1] = 333,
+	["Mcgreger"] = {
+		[1] = 11082,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 32,
 	},
-	["Miseria"] = {
-		[1] = 2539,
+	["Zomboy"] = {
+		[1] = 6871,
 	},
 	["Zukori"] = {
 		[1] = 9426,
 	},
-	["Wapx"] = {
-		[1] = 12169,
-	},
-	["Devour"] = {
-		[1] = 5276,
-		[2] = "priest",
+	["Kindlyeyes"] = {
+		[1] = 10879,
+		[2] = "druid",
 		[3] = -1,
-		[4] = false,
-		[8] = 9,
+		[8] = 22,
+	},
+	["Poasdk"] = {
+		[1] = 1511,
 	},
 	["Paranauezin"] = {
 		[1] = 6645,
 	},
-	["Oswind"] = {
-		[1] = 2987,
+	["Shootyourmom"] = {
+		[1] = 8429,
 	},
 	["Beljub"] = {
 		[1] = 4717,
@@ -30869,11 +30793,11 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 31,
 	},
-	["Excy"] = {
-		[1] = 1824,
-	},
 	["Venture Co. Miner"] = {
 		[1] = 11194,
+	},
+	["Spined Crawler"] = {
+		[1] = 9052,
 	},
 	["Sheeplolbye"] = {
 		[1] = 3710,
@@ -30881,20 +30805,20 @@ DPSMateUser = {
 	["Sryimafk"] = {
 		[1] = 4324,
 	},
-	["Myfanz"] = {
-		[1] = 2844,
+	["Foodndrink"] = {
+		[1] = 8239,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Deathblade"] = {
-		[1] = 847,
+	["Gottu"] = {
+		[1] = 9973,
 	},
 	["Tvrd"] = {
 		[1] = 10842,
 	},
-	["Dutchsmoke"] = {
-		[1] = 7018,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 15,
+	["Razzo"] = {
+		[1] = 10097,
 	},
 	["Holyshet"] = {
 		[1] = 1912,
@@ -30906,29 +30830,29 @@ DPSMateUser = {
 	["Nojery"] = {
 		[1] = 6567,
 	},
-	["Mcgreger"] = {
-		[1] = 11082,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 32,
+	["Drunner"] = {
+		[1] = 21,
 	},
-	["Razzo"] = {
-		[1] = 10097,
+	["Handlock"] = {
+		[1] = 6883,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 12,
 	},
 	["Lleigh"] = {
 		[1] = 6583,
 	},
-	["Evoomee"] = {
-		[1] = 2319,
-	},
-	["Fengli"] = {
-		[1] = 8910,
-	},
-	["Shihaizhou"] = {
-		[1] = 6994,
-		[2] = "priest",
+	["Vanhell"] = {
+		[1] = 4311,
+		[2] = "warlock",
 		[3] = -1,
-		[8] = 17,
+		[8] = 4,
+	},
+	["Bigpenishole"] = {
+		[1] = 4338,
+	},
+	["Frostovich"] = {
+		[1] = 10310,
 	},
 	["Alpherd"] = {
 		[1] = 9589,
@@ -30955,20 +30879,20 @@ DPSMateUser = {
 	["Gosharr"] = {
 		[1] = 8766,
 	},
-	["Gottu"] = {
-		[1] = 9973,
+	["Visionmomo"] = {
+		[1] = 13105,
 	},
 	["Lynnerik"] = {
 		[1] = 12957,
 	},
-	["Nurtsy"] = {
-		[1] = 11461,
+	["Faleceu"] = {
+		[1] = 3660,
 	},
-	["Lurifix"] = {
-		[1] = 6244,
+	["Naturesup"] = {
+		[1] = 389,
 	},
-	["Zarthel"] = {
-		[1] = 730,
+	["Thoktast"] = {
+		[1] = 7469,
 	},
 	["Kapaah"] = {
 		[1] = 3455,
@@ -30985,11 +30909,11 @@ DPSMateUser = {
 	["Highland Strider"] = {
 		[1] = 10333,
 	},
-	["Riuben"] = {
-		[1] = 2997,
+	["Woozimoo"] = {
+		[1] = 9753,
 	},
-	["Garloz"] = {
-		[1] = 4990,
+	["Death's Head Priest"] = {
+		[1] = 9387,
 	},
 	["Caretaker Nevlin"] = {
 		[1] = 12509,
@@ -31006,19 +30930,20 @@ DPSMateUser = {
 	["Nowa"] = {
 		[1] = 1907,
 	},
-	["Hearfish"] = {
-		[1] = 298,
-		[2] = "hunter",
-		[3] = 1,
-		[4] = false,
-		[5] = "Wolf",
-		[8] = 60,
+	["Tritika"] = {
+		[1] = 5559,
 	},
-	["Wild Buck"] = {
-		[1] = 8974,
+	["Gamanorama"] = {
+		[1] = 7676,
 	},
 	["Lamx"] = {
 		[1] = 5496,
+	},
+	["Killalljuice"] = {
+		[1] = 2440,
+	},
+	["Leaves"] = {
+		[1] = 1621,
 	},
 	["Verihuora"] = {
 		[1] = 12083,
@@ -31026,23 +30951,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Leaves"] = {
-		[1] = 1621,
+	["Millenia"] = {
+		[1] = 2860,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Waterboy"] = {
-		[1] = 5061,
-	},
-	["Kicktac"] = {
-		[1] = 583,
-	},
-	["Santiaos"] = {
-		[1] = 3424,
+	["Gyanny"] = {
+		[1] = 4953,
 	},
 	["Banjokazooie"] = {
 		[1] = 2680,
 	},
-	["T√°uno"] = {
-		[1] = 2820,
+	["Lupine Delusion"] = {
+		[1] = 8628,
 	},
 	["Raydaddy"] = {
 		[1] = 756,
@@ -31077,11 +30999,14 @@ DPSMateUser = {
 	["Harambear"] = {
 		[1] = 6673,
 	},
-	["Konjuk"] = {
-		[1] = 8,
+	["Nervar"] = {
+		[1] = 11258,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 34,
 	},
-	["Killalljuice"] = {
-		[1] = 2440,
+	["Xathula"] = {
+		[1] = 4211,
 	},
 	["Snitchwatch"] = {
 		[1] = 11891,
@@ -31092,32 +31017,32 @@ DPSMateUser = {
 	["Silithid Grub"] = {
 		[1] = 7825,
 	},
-	["Quadrox"] = {
-		[1] = 4508,
+	["Aristhos"] = {
+		[1] = 11309,
 	},
 	["Mibiha"] = {
 		[1] = 4285,
 	},
-	["Buntat"] = {
-		[1] = 3410,
+	["Krudtk"] = {
+		[1] = 13074,
 	},
 	["Ragmo"] = {
 		[1] = 4834,
 	},
-	["Maryjeyn"] = {
-		[1] = 3194,
+	["Quadrox"] = {
+		[1] = 4508,
 	},
-	["Chrimsone"] = {
-		[1] = 2327,
+	["Riuben"] = {
+		[1] = 2997,
 	},
-	["Fatmanhank"] = {
-		[1] = 7081,
+	["Mokador"] = {
+		[1] = 8844,
 	},
 	["Defcap"] = {
 		[1] = 1200,
 	},
-	["Kadelam"] = {
-		[1] = 7973,
+	["Murock"] = {
+		[1] = 12011,
 	},
 	["Keimuu"] = {
 		[1] = 12720,
@@ -31131,17 +31056,17 @@ DPSMateUser = {
 	["Royalfox"] = {
 		[1] = 4557,
 	},
-	["Honorkiller"] = {
-		[1] = 9209,
+	["Nak"] = {
+		[1] = 8319,
 	},
-	["King Bangalash"] = {
-		[1] = 11679,
+	["Yukiwong"] = {
+		[1] = 8941,
 	},
 	["Bleffy"] = {
 		[1] = 5102,
 	},
-	["Ankxel"] = {
-		[1] = 7613,
+	["Fatmanhank"] = {
+		[1] = 7081,
 	},
 	["Gastal"] = {
 		[1] = 12116,
@@ -31158,53 +31083,53 @@ DPSMateUser = {
 	["Intu"] = {
 		[1] = 7289,
 	},
-	["Jakan"] = {
-		[1] = 5106,
+	["Orclocklull"] = {
+		[1] = 2072,
 	},
 	["CungaLunga"] = {
 		[1] = 12426,
 	},
-	["Astil"] = {
-		[1] = 12084,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 36,
+	["Jubbis"] = {
+		[1] = 3564,
 	},
-	["Grimsun"] = {
-		[1] = 9683,
+	["Kuloutoua"] = {
+		[1] = 6846,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[7] = "NFU YOUNG GUARD",
+		[8] = 14,
 	},
-	["Murock"] = {
-		[1] = 12011,
+	["Stafil"] = {
+		[1] = 3821,
 	},
-	["Hopiapoeka"] = {
-		[1] = 3981,
+	["Cooz"] = {
+		[1] = 10084,
 	},
-	["Memefire"] = {
-		[1] = 10834,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 33,
+	["Deathknight Captain"] = {
+		[1] = 2334,
 	},
 	["Barbecueboy"] = {
 		[1] = 9122,
 	},
-	["Noknip"] = {
-		[1] = 5201,
+	["Elemental Protection Totem"] = {
+		[1] = 9373,
 	},
-	["Taskmaster Fizzule"] = {
-		[1] = 7941,
-	},
-	["Yukiwong"] = {
-		[1] = 8941,
-	},
-	["Jubbis"] = {
-		[1] = 3564,
-	},
-	["Jadeth"] = {
-		[1] = 761,
-		[2] = "warrior",
-		[3] = -1,
+	["Bambole"] = {
+		[1] = 1944,
+		[2] = "shaman",
+		[3] = 1,
+		[4] = false,
 		[8] = 60,
+	},
+	["Scarlet Chaplain"] = {
+		[1] = 10593,
+	},
+	["Mid"] = {
+		[1] = 7392,
+	},
+	["Morgthan"] = {
+		[1] = 7877,
 	},
 	["Fremforfan"] = {
 		[1] = 11992,
@@ -31221,14 +31146,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 36,
 	},
-	["Horna"] = {
-		[1] = 224,
+	["Dzsyg"] = {
+		[1] = 3347,
 	},
-	["Ultrafancy"] = {
-		[1] = 5338,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 11,
+	["Strength"] = {
+		[1] = 333,
 	},
 	["Januk"] = {
 		[1] = 10482,
@@ -31236,8 +31158,8 @@ DPSMateUser = {
 	["Iamafrostmag"] = {
 		[1] = 1047,
 	},
-	["Stafil"] = {
-		[1] = 3821,
+	["Ghosu"] = {
+		[1] = 9618,
 	},
 	["Parieth"] = {
 		[1] = 6556,
@@ -31245,11 +31167,15 @@ DPSMateUser = {
 	["Golemagg the Incinerator"] = {
 		[1] = 973,
 	},
-	["Elemental Protection Totem"] = {
-		[1] = 9373,
+	["Caidou"] = {
+		[1] = 9735,
+		[2] = "druid",
+		[3] = -1,
+		[4] = false,
+		[8] = 27,
 	},
-	["Gerodium"] = {
-		[1] = 5842,
+	["Sanix"] = {
+		[1] = 1131,
 	},
 	["Lotthos"] = {
 		[1] = 9505,
@@ -31257,8 +31183,12 @@ DPSMateUser = {
 	["Paduz"] = {
 		[1] = 10532,
 	},
-	["Dzsyg"] = {
-		[1] = 3347,
+	["Hawken"] = {
+		[1] = 1737,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[8] = 60,
 	},
 	["Altrk"] = {
 		[1] = 3335,
@@ -31266,8 +31196,8 @@ DPSMateUser = {
 	["Rakeao"] = {
 		[1] = 12055,
 	},
-	["Timetrave"] = {
-		[1] = 11631,
+	["Thokjuk"] = {
+		[1] = 7496,
 	},
 	["Finalvlash"] = {
 		[1] = 9707,
@@ -31290,22 +31220,19 @@ DPSMateUser = {
 	["Gelyal"] = {
 		[1] = 5173,
 	},
-	["Grak'thang"] = {
-		[1] = 7366,
+	["Anniezz"] = {
+		[1] = 713,
+	},
+	["Lucifron"] = {
+		[1] = 958,
+	},
+	["Olympruss"] = {
+		[1] = 7057,
+	},
+	["AGd"] = {
+		[1] = 1103,
 		[4] = true,
-		[6] = 7365,
-	},
-	["Mid"] = {
-		[1] = 7392,
-	},
-	["Schmolo"] = {
-		[1] = 13034,
-	},
-	["Lilniglet"] = {
-		[1] = 3100,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 1,
+		[6] = 1055,
 	},
 	["Grifer"] = {
 		[1] = 9508,
@@ -31313,8 +31240,8 @@ DPSMateUser = {
 	["Blackwindd"] = {
 		[1] = 10001,
 	},
-	["Tatars"] = {
-		[1] = 5110,
+	["Rayzer"] = {
+		[1] = 210,
 	},
 	["Gatmuss"] = {
 		[1] = 2102,
@@ -31325,26 +31252,31 @@ DPSMateUser = {
 	["Konqen"] = {
 		[1] = 10252,
 	},
-	["Scarybarry"] = {
-		[1] = 8373,
-	},
-	["Lucifron"] = {
-		[1] = 958,
-	},
-	["Olympruss"] = {
-		[1] = 7057,
-	},
-	["Anniezz"] = {
-		[1] = 713,
-	},
-	["KittyPurry"] = {
-		[1] = 8358,
+	["Schrody"] = {
+		[1] = 3175,
 	},
 	["Xianrenban"] = {
 		[1] = 5028,
 	},
-	["Doomwarder"] = {
-		[1] = 12896,
+	["Deeler"] = {
+		[1] = 711,
+	},
+	["Neyrra"] = {
+		[1] = 8456,
+	},
+	["Kriger"] = {
+		[1] = 4109,
+	},
+	["Ltn"] = {
+		[1] = 8276,
+		[2] = "warrior",
+		[3] = -1,
+		[4] = false,
+		[7] = "Wormnation boys",
+		[8] = 22,
+	},
+	["Soulflayer"] = {
+		[1] = 364,
 	},
 	["Soulid"] = {
 		[1] = 3472,
@@ -31352,53 +31284,11 @@ DPSMateUser = {
 	["Juse"] = {
 		[1] = 1259,
 	},
-	["Taljya"] = {
-		[1] = 12521,
+	["Bokrogrago"] = {
+		[1] = 12806,
 	},
-	["Strength of Earth Totem"] = {
-		[1] = 5793,
-	},
-	["Razormane Battleguard"] = {
-		[1] = 5818,
-	},
-	["Raging Agam'ar"] = {
-		[1] = 9390,
-	},
-	["Wrathtail Sorceress"] = {
-		[1] = 8956,
-	},
-	["Clavito"] = {
-		[1] = 764,
-	},
-	["Karlonduty"] = {
-		[1] = 13094,
-	},
-	["Soulflayer"] = {
-		[1] = 364,
-	},
-	["Karloz"] = {
-		[1] = 4762,
-	},
-	["Roguebuddy"] = {
-		[1] = 5390,
-	},
-	["Butfase"] = {
-		[1] = 4584,
-	},
-	["Magicv"] = {
-		[1] = 10803,
-	},
-	["Kobold Miner"] = {
-		[1] = 2134,
-	},
-	["Protectorcz"] = {
-		[1] = 2939,
-	},
-	["Geminate"] = {
-		[1] = 10021,
-	},
-	["Ynwa"] = {
-		[1] = 6700,
+	["Lkcici"] = {
+		[1] = 4763,
 	},
 	["Janpredator"] = {
 		[1] = 7274,
@@ -31406,32 +31296,80 @@ DPSMateUser = {
 	["Fire Nova Totem"] = {
 		[1] = 6807,
 	},
-	["Onefishfinge"] = {
-		[1] = 10195,
-	},
 	["Mottling"] = {
 		[1] = 1682,
 	},
-	["Shankntank"] = {
-		[1] = 10556,
-	},
-	["Shedlol"] = {
-		[1] = 10633,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 31,
-	},
-	["Bulltool"] = {
-		[1] = 9758,
+	["Doomwarder"] = {
+		[1] = 12896,
 	},
 	["Fetterstone"] = {
 		[1] = 12111,
 	},
-	["Lepic"] = {
-		[1] = 4158,
+	["Kr√ºmel"] = {
+		[1] = 726,
+	},
+	["Karloz"] = {
+		[1] = 4762,
+	},
+	["Synesthra"] = {
+		[1] = 9445,
+	},
+	["Healbish"] = {
+		[1] = 1589,
 	},
 	["Exeecute"] = {
 		[1] = 5921,
+	},
+	["Garloz"] = {
+		[1] = 4990,
+	},
+	["Protectorcz"] = {
+		[1] = 2939,
+	},
+	["Patocalypto"] = {
+		[1] = 5548,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 16,
+	},
+	["Ynwa"] = {
+		[1] = 6700,
+	},
+	["Absolon"] = {
+		[1] = 10645,
+	},
+	["Xenhos"] = {
+		[1] = 9263,
+	},
+	["Onefishfinge"] = {
+		[1] = 10195,
+	},
+	["Thebigxx"] = {
+		[1] = 9864,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 27,
+	},
+	["Shankntank"] = {
+		[1] = 10556,
+	},
+	["Myxin"] = {
+		[1] = 2089,
+	},
+	["Bulltool"] = {
+		[1] = 9758,
+	},
+	["Nhyf"] = {
+		[1] = 7142,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 33,
+	},
+	["Lepic"] = {
+		[1] = 4158,
+	},
+	["Deetruck"] = {
+		[1] = 12524,
 	},
 	["Rikkets"] = {
 		[1] = 3726,
@@ -31439,8 +31377,8 @@ DPSMateUser = {
 	["Demeer"] = {
 		[1] = 4598,
 	},
-	["Squirtmuffin"] = {
-		[1] = 8839,
+	["Yellee"] = {
+		[1] = 1137,
 	},
 	["Cruzzyy"] = {
 		[1] = 11941,
@@ -31454,32 +31392,32 @@ DPSMateUser = {
 	["Gravelsnout Surveyor"] = {
 		[1] = 9653,
 	},
-	["Flathogath"] = {
-		[1] = 11200,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 31,
+	["Dunloop"] = {
+		[1] = 6632,
 	},
-	["Patocalypto"] = {
-		[1] = 5548,
+	["Strich"] = {
+		[1] = 9940,
+	},
+	["Xleetigerq"] = {
+		[1] = 9694,
 		[2] = "rogue",
 		[3] = -1,
-		[8] = 16,
+		[8] = 60,
 	},
-	["Thaline"] = {
-		[1] = 97,
+	["Aeronel"] = {
+		[1] = 8285,
 	},
-	["Babadubajaga"] = {
-		[1] = 10006,
-	},
-	["Brutalas"] = {
-		[1] = 8882,
+	["Geminate"] = {
+		[1] = 10021,
 	},
 	["Sidstebossen"] = {
 		[1] = 11582,
 	},
-	["Cambogia"] = {
-		[1] = 8410,
+	["Jaroq"] = {
+		[1] = 8036,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 19,
 	},
 	["Payo"] = {
 		[1] = 5480,
@@ -31493,32 +31431,29 @@ DPSMateUser = {
 	["Ishwar"] = {
 		[1] = 5644,
 	},
-	["Geezmo"] = {
-		[1] = 6103,
+	["Suvikomi"] = {
+		[1] = 6325,
 	},
-	["Nhyf"] = {
-		[1] = 7142,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 33,
-	},
-	["Solomans"] = {
-		[1] = 6331,
-	},
-	["Replacement"] = {
-		[1] = 6723,
-	},
-	["Yellee"] = {
-		[1] = 1137,
+	["Meii"] = {
+		[1] = 11548,
 	},
 	["Gragup"] = {
 		[1] = 4960,
 	},
-	["Jaroq"] = {
-		[1] = 8036,
+	["Replacement"] = {
+		[1] = 6723,
+	},
+	["Exaviuz"] = {
+		[1] = 372,
+	},
+	["Thaline"] = {
+		[1] = 97,
+	},
+	["Taikaneekeri"] = {
+		[1] = 6737,
 		[2] = "priest",
 		[3] = -1,
-		[8] = 19,
+		[8] = 11,
 	},
 	["Slainie"] = {
 		[1] = 5675,
@@ -31526,23 +31461,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Dunloop"] = {
-		[1] = 6632,
+	["Spinolom"] = {
+		[1] = 3567,
 	},
-	["RazorMane"] = {
-		[1] = 7196,
+	["Noonly"] = {
+		[1] = 11616,
 	},
 	["Kneggacutter"] = {
 		[1] = 4365,
 	},
-	["Sixpack"] = {
-		[1] = 3469,
+	["Chinasimo"] = {
+		[1] = 5197,
 	},
 	["Oversight"] = {
 		[1] = 7508,
 	},
-	["Slyntax"] = {
-		[1] = 12495,
+	["Yx"] = {
+		[1] = 390,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Alzam"] = {
 		[1] = 7940,
@@ -31550,56 +31488,22 @@ DPSMateUser = {
 	["Dogrokaya"] = {
 		[1] = 5930,
 	},
-	["Bikongzhige"] = {
-		[1] = 8879,
+	["RazorMane"] = {
+		[1] = 7196,
 	},
-	["Corrupted Bronze Whelp"] = {
-		[1] = 1085,
+	["Vinda"] = {
+		[1] = 3596,
 	},
-	["Mescaline"] = {
-		[1] = 136,
+	["Shaine"] = {
+		[1] = 7024,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 11,
 	},
 	["Ronthus"] = {
 		[1] = 13220,
 		[2] = "warrior",
 		[3] = -1,
-		[8] = 60,
-	},
-	["Exaviuz"] = {
-		[1] = 372,
-	},
-	["Eeldalol"] = {
-		[1] = 5543,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 23,
-	},
-	["Bilibililili"] = {
-		[1] = 12239,
-	},
-	["Grit"] = {
-		[1] = 3163,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 2,
-	},
-	["Spinolom"] = {
-		[1] = 3567,
-	},
-	["Johnspring"] = {
-		[1] = 9845,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 28,
-	},
-	["Chinasimo"] = {
-		[1] = 5197,
-	},
-	["Wickd"] = {
-		[1] = 613,
-		[2] = "mage",
-		[3] = 1,
-		[4] = false,
 		[8] = 60,
 	},
 	["Roguesa"] = {
@@ -31608,14 +31512,48 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 32,
 	},
-	["Valikotika"] = {
-		[1] = 5888,
+	["Eeldalol"] = {
+		[1] = 5543,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 23,
 	},
-	["Yx"] = {
-		[1] = 390,
-		[2] = "paladin",
+	["Bighua"] = {
+		[1] = 12637,
+	},
+	["Grit"] = {
+		[1] = 3163,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 2,
+	},
+	["Cambogia"] = {
+		[1] = 8410,
+	},
+	["Johnspring"] = {
+		[1] = 9845,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 28,
+	},
+	["Wangxiaos"] = {
+		[1] = 3892,
+	},
+	["Wickd"] = {
+		[1] = 613,
+		[2] = "mage",
 		[3] = 1,
+		[4] = false,
 		[8] = 60,
+	},
+	["Slyntax"] = {
+		[1] = 12495,
+	},
+	["Brutalas"] = {
+		[1] = 8882,
+	},
+	["Nuketo"] = {
+		[1] = 2810,
 	},
 	["Highperch"] = {
 		[1] = 9863,
@@ -31625,8 +31563,8 @@ DPSMateUser = {
 		[2] = "mage",
 		[3] = 1,
 	},
-	["Scarlet Monk"] = {
-		[1] = 10595,
+	["Xunys"] = {
+		[1] = 7243,
 	},
 	["Wuk"] = {
 		[1] = 11276,
@@ -31639,23 +31577,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 4,
 	},
-	["Lugat"] = {
-		[1] = 12060,
+	["Highlord"] = {
+		[1] = 3057,
 	},
-	["Nuketo"] = {
-		[1] = 2810,
+	["Dun Garok Mountaineer"] = {
+		[1] = 10221,
 	},
-	["Keanuereevez"] = {
-		[1] = 2100,
+	["Spookman"] = {
+		[1] = 722,
 	},
-	["Stormybolt"] = {
-		[1] = 3327,
+	["Bilibililili"] = {
+		[1] = 12239,
 	},
-	["Shaine"] = {
-		[1] = 7024,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 11,
+	["Ivvee"] = {
+		[1] = 2670,
 	},
 	["Cemendemon"] = {
 		[1] = 4086,
@@ -31663,8 +31598,8 @@ DPSMateUser = {
 	["Ammilon"] = {
 		[1] = 4341,
 	},
-	["Svs"] = {
-		[1] = 10067,
+	["Hangarf"] = {
+		[1] = 4469,
 	},
 	["Akril"] = {
 		[1] = 3374,
@@ -31675,22 +31610,20 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 35,
 	},
-	["Tomson"] = {
-		[1] = 10938,
-		[2] = "druid",
-		[3] = 1,
+	["Egomania"] = {
+		[1] = 3919,
 	},
-	["Hangarf"] = {
-		[1] = 4469,
+	["Valikotika"] = {
+		[1] = 5888,
 	},
-	["Dun Garok Mountaineer"] = {
-		[1] = 10221,
+	["Keanuereevez"] = {
+		[1] = 2100,
 	},
-	["Xunys"] = {
-		[1] = 7243,
+	["Grimtaz"] = {
+		[1] = 7398,
 	},
-	["Bass"] = {
-		[1] = 99,
+	["Trasheye"] = {
+		[1] = 8432,
 	},
 	["Ruccus"] = {
 		[1] = 7773,
@@ -31702,17 +31635,20 @@ DPSMateUser = {
 	["Ookla"] = {
 		[1] = 422,
 	},
-	["Akhbarlol"] = {
-		[1] = 526,
+	["Toomykins"] = {
+		[1] = 5831,
 	},
 	["Tewix"] = {
 		[1] = 806,
 	},
-	["Ivvee"] = {
-		[1] = 2670,
+	["Gatlinxx"] = {
+		[1] = 7633,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Areyman"] = {
-		[1] = 8341,
+	["Porass"] = {
+		[1] = 12098,
 	},
 	["Caduim"] = {
 		[1] = 5732,
@@ -31720,23 +31656,20 @@ DPSMateUser = {
 	["Archmage Arugal"] = {
 		[1] = 8638,
 	},
-	["Isliceyou"] = {
-		[1] = 2175,
+	["Vesuri"] = {
+		[1] = 11120,
 	},
 	["Drfrostmd"] = {
 		[1] = 9063,
 	},
-	["Staro"] = {
-		[1] = 509,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 60,
+	["Sblurf"] = {
+		[1] = 4267,
 	},
-	["Grimtaz"] = {
-		[1] = 7398,
+	["Awenx"] = {
+		[1] = 2722,
 	},
-	["Porass"] = {
-		[1] = 12098,
+	["Lockniz"] = {
+		[1] = 7282,
 	},
 	["Karulla"] = {
 		[1] = 4048,
@@ -31747,8 +31680,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Youropponent"] = {
-		[1] = 4051,
+	["SHOTMONKEY"] = {
+		[1] = 6194,
 	},
 	["Foxina"] = {
 		[1] = 11590,
@@ -31756,8 +31689,11 @@ DPSMateUser = {
 	["Jumani"] = {
 		[1] = 6238,
 	},
-	["Awenx"] = {
-		[1] = 2722,
+	["Staro"] = {
+		[1] = 509,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Selyssa"] = {
 		[1] = 1065,
@@ -31765,14 +31701,14 @@ DPSMateUser = {
 	["Pusycat"] = {
 		[1] = 2004,
 	},
-	["Doyla"] = {
-		[1] = 5966,
-	},
-	["Gatlinxx"] = {
-		[1] = 7633,
-		[2] = "warrior",
+	["Crolda"] = {
+		[1] = 3105,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 60,
+		[8] = 1,
+	},
+	["Eyria"] = {
+		[1] = 9756,
 	},
 	["Bape"] = {
 		[1] = 11442,
@@ -31780,8 +31716,8 @@ DPSMateUser = {
 	["Dalock"] = {
 		[1] = 2202,
 	},
-	["Bronze Drakonid"] = {
-		[1] = 2305,
+	["High Priestess Arlokk"] = {
+		[1] = 354,
 	},
 	["Fastkiller"] = {
 		[1] = 3653,
@@ -31789,44 +31725,41 @@ DPSMateUser = {
 	["Deluge"] = {
 		[1] = 2185,
 	},
-	["Bloodbane"] = {
-		[1] = 7078,
+	["Bigpapai"] = {
+		[1] = 540,
 	},
-	["Vesuri"] = {
-		[1] = 11120,
+	["Khironz"] = {
+		[1] = 8670,
 	},
 	["Kitaecsoset"] = {
 		[1] = 458,
 	},
-	["Nagrash"] = {
-		[1] = 5839,
+	["Tayke"] = {
+		[1] = 581,
 	},
 	["Lynxh"] = {
 		[1] = 12541,
 	},
-	["Prata"] = {
-		[1] = 758,
+	["Johnnymauser"] = {
+		[1] = 10117,
 	},
-	["Adzoq"] = {
-		[1] = 3736,
+	["Reprodutor"] = {
+		[1] = 9195,
 	},
-	["Crolda"] = {
-		[1] = 3105,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 1,
+	["Rakun"] = {
+		[1] = 1791,
 	},
-	["Niyuu"] = {
-		[1] = 6744,
+	["Norca"] = {
+		[1] = 4812,
 	},
-	["Valisa"] = {
-		[1] = 5901,
+	["Dallenar"] = {
+		[1] = 6499,
 	},
-	["Bigpapai"] = {
-		[1] = 540,
+	["Bigboy"] = {
+		[1] = 947,
 	},
-	["Totec"] = {
-		[1] = 11196,
+	["Lumipalloo"] = {
+		[1] = 8688,
 	},
 	["Valenntin"] = {
 		[1] = 4831,
@@ -31843,20 +31776,27 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Spawn of Fankriss"] = {
-		[1] = 2594,
+	["Vvancleef"] = {
+		[1] = 12297,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 15,
 	},
-	["Khironz"] = {
-		[1] = 8670,
+	["Hecklerr"] = {
+		[1] = 10710,
 	},
-	["Tayke"] = {
-		[1] = 581,
+	["Thoraxx"] = {
+		[1] = 317,
+		[2] = "warrior",
+		[3] = 1,
+		[4] = false,
+		[8] = 60,
 	},
 	["Dahnaldjr"] = {
 		[1] = 2556,
 	},
-	["Norca"] = {
-		[1] = 4812,
+	["Poisonice"] = {
+		[1] = 4793,
 	},
 	["Bringmesic"] = {
 		[1] = 10553,
@@ -31864,23 +31804,23 @@ DPSMateUser = {
 	["Nozuonodier"] = {
 		[1] = 12324,
 	},
-	["Poisonice"] = {
-		[1] = 4793,
+	["Snayze"] = {
+		[1] = 9501,
 	},
-	["Johnnymauser"] = {
-		[1] = 10117,
+	["Devlan"] = {
+		[1] = 10313,
 	},
-	["Lotuko"] = {
-		[1] = 4867,
+	["Deadvoid"] = {
+		[1] = 8918,
 	},
-	["Hecklerr"] = {
-		[1] = 10710,
+	["Xioxio"] = {
+		[1] = 1812,
 	},
 	["Atoma"] = {
 		[1] = 11501,
 	},
-	["Jiangpan"] = {
-		[1] = 12705,
+	["Bloodbane"] = {
+		[1] = 7078,
 	},
 	["Mamajaglad"] = {
 		[1] = 10756,
@@ -31897,20 +31837,23 @@ DPSMateUser = {
 	["Wushiliu"] = {
 		[1] = 4170,
 	},
-	["Snayze"] = {
-		[1] = 9501,
+	["Pmsbot"] = {
+		[1] = 2951,
 	},
-	["Ghang"] = {
-		[1] = 9499,
+	["Iam"] = {
+		[1] = 11368,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 40,
 	},
 	["Fras Siabi"] = {
 		[1] = 2135,
 	},
-	["Deadvoid"] = {
-		[1] = 8918,
+	["Tamsioji"] = {
+		[1] = 6503,
 	},
-	["Pmsbot"] = {
-		[1] = 2951,
+	["Niyuu"] = {
+		[1] = 6744,
 	},
 	["Tripxz"] = {
 		[1] = 6209,
@@ -31921,11 +31864,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 26,
 	},
-	["Iam"] = {
-		[1] = 11368,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 40,
+	["Pohmelo"] = {
+		[1] = 8812,
 	},
 	["Curaambulant"] = {
 		[1] = 3881,
@@ -31954,11 +31894,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 36,
 	},
-	["Leogron"] = {
-		[1] = 8506,
+	["Graperogue"] = {
+		[1] = 4632,
 	},
-	["Rektarok"] = {
-		[1] = 10279,
+	["Divinehoops"] = {
+		[1] = 75,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Forswagen"] = {
 		[1] = 5006,
@@ -31966,22 +31909,20 @@ DPSMateUser = {
 	["Preust"] = {
 		[1] = 4024,
 	},
-	["Saltstone Crystalhide"] = {
-		[1] = 10768,
+	["Osley"] = {
+		[1] = 1709,
 	},
-	["Fey Dragon"] = {
-		[1] = 8222,
+	["Layz"] = {
+		[1] = 1156,
 	},
-	["Telabim"] = {
-		[1] = 1061,
+	["Lotuko"] = {
+		[1] = 4867,
 	},
-	["Felyse"] = {
-		[1] = 2260,
-		[2] = "hunter",
-		[3] = 1,
-		[4] = false,
-		[7] = "Nightmare On Elf Street",
-		[8] = 60,
+	["Entonnb"] = {
+		[1] = 5464,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 54,
 	},
 	["Hexelele"] = {
 		[1] = 3384,
@@ -31992,14 +31933,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 11,
 	},
-	["Graperogue"] = {
-		[1] = 4632,
+	["Taurukk"] = {
+		[1] = 6597,
 	},
-	["Knyllarej"] = {
-		[1] = 2036,
+	["Sajuuk"] = {
+		[1] = 920,
 	},
-	["Araseth"] = {
-		[1] = 12592,
+	["Acidrap"] = {
+		[1] = 818,
 	},
 	["Algernon"] = {
 		[1] = 418,
@@ -32007,8 +31948,8 @@ DPSMateUser = {
 	["Sputtervalve"] = {
 		[1] = 9416,
 	},
-	["Joesuny"] = {
-		[1] = 10132,
+	["Araseth"] = {
+		[1] = 12592,
 	},
 	["Depsa"] = {
 		[1] = 2044,
@@ -32022,20 +31963,26 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 32,
 	},
-	["Abbathth"] = {
-		[1] = 11979,
+	["Ospas"] = {
+		[1] = 8189,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 31,
 	},
-	["Caina"] = {
-		[1] = 8783,
+	["Gohlozz"] = {
+		[1] = 12405,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 41,
 	},
-	["Tsjuder"] = {
-		[1] = 11923,
+	["Vision"] = {
+		[1] = 1417,
 	},
 	["Â•ãÊñó"] = {
 		[1] = 2223,
 	},
-	["Genduershao"] = {
-		[1] = 3808,
+	["Gevjran"] = {
+		[1] = 7642,
 	},
 	["Royalpredat"] = {
 		[1] = 3241,
@@ -32043,8 +31990,8 @@ DPSMateUser = {
 	["Allofyoudie"] = {
 		[1] = 7447,
 	},
-	["Mirdu"] = {
-		[1] = 2711,
+	["Moomhannis"] = {
+		[1] = 5810,
 	},
 	["Ambervin"] = {
 		[1] = 4388,
@@ -32055,51 +32002,46 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 35,
 	},
-	["Taurukk"] = {
-		[1] = 6597,
+	["Onebrother"] = {
+		[1] = 8914,
 	},
 	["Sodew"] = {
 		[1] = 7716,
 	},
-	["Sajuuk"] = {
-		[1] = 920,
+	["Levilda"] = {
+		[1] = 5254,
 	},
-	["Sniperz"] = {
-		[1] = 2268,
-		[2] = "hunter",
-		[3] = -1,
-		[4] = false,
-		[5] = "Wolf",
-		[7] = "I love memes",
-		[8] = 60,
+	["Ossirian the Unscarred"] = {
+		[1] = 881,
 	},
-	["Acidrap"] = {
-		[1] = 818,
+	["Boulderfist Ogre"] = {
+		[1] = 10506,
 	},
 	["Rulyal"] = {
 		[1] = 4813,
 	},
-	["Ïd"] = {
-		[1] = 1443,
-		[4] = true,
-		[6] = 1911,
+	["Fuga"] = {
+		[1] = 2228,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Arexxion"] = {
-		[1] = 12091,
-		[2] = "warlock",
-		[3] = 1,
+	["Alioa"] = {
+		[1] = 1990,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Schizophren"] = {
 		[1] = 3040,
 	},
-	["Tsea"] = {
-		[1] = 7702,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 16,
+	["Colopvp"] = {
+		[1] = 4333,
 	},
-	["Samoritu"] = {
-		[1] = 3604,
+	["Kovarsky"] = {
+		[1] = 10614,
+		[2] = "mage",
+		[3] = 1,
 	},
 	["Moli"] = {
 		[1] = 3904,
@@ -32116,17 +32058,17 @@ DPSMateUser = {
 	["Feej"] = {
 		[1] = 9098,
 	},
-	["Daidinn"] = {
-		[1] = 703,
+	["Drekirim"] = {
+		[1] = 8750,
 	},
-	["Burdenhunter"] = {
-		[1] = 11951,
+	["Abbathth"] = {
+		[1] = 11979,
 	},
-	["Erfileo"] = {
-		[1] = 1011,
+	["Dybou"] = {
+		[1] = 2785,
 	},
-	["Enterdbunana"] = {
-		[1] = 3226,
+	["Lerck"] = {
+		[1] = 10998,
 	},
 	["Shmidt"] = {
 		[1] = 5337,
@@ -32134,14 +32076,14 @@ DPSMateUser = {
 	["Salpho"] = {
 		[1] = 12189,
 	},
-	["Ossirian the Unscarred"] = {
-		[1] = 881,
-	},
-	["Alioa"] = {
-		[1] = 1990,
-		[2] = "rogue",
+	["Aztarott"] = {
+		[1] = 8172,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 60,
+		[8] = 23,
+	},
+	["Citylovely"] = {
+		[1] = 12350,
 	},
 	["Khorag"] = {
 		[1] = 10491,
@@ -32158,17 +32100,23 @@ DPSMateUser = {
 	["Devvus"] = {
 		[1] = 5444,
 	},
-	["Whitestripe"] = {
-		[1] = 121,
+	["Jikai"] = {
+		[1] = 9787,
 	},
 	["Eskulia"] = {
 		[1] = 3395,
 	},
-	["Clypsakavi"] = {
-		[1] = 8526,
+	["Sniperz"] = {
+		[1] = 2268,
+		[2] = "hunter",
+		[3] = -1,
+		[4] = false,
+		[5] = "Wolf",
+		[7] = "I love memes",
+		[8] = 60,
 	},
-	["Boulderfist Ogre"] = {
-		[1] = 10506,
+	["Conveyance"] = {
+		[1] = 6740,
 	},
 	["Isgramor"] = {
 		[1] = 12106,
@@ -32176,8 +32124,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 29,
 	},
-	["Colopvp"] = {
-		[1] = 4333,
+	["Spagies"] = {
+		[1] = 3650,
 	},
 	["Fartalizer"] = {
 		[1] = 10873,
@@ -32185,19 +32133,16 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 34,
 	},
-	["Fuga"] = {
-		[1] = 2228,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
-	},
-	["\nÏd"] = {
-		[1] = 1740,
+	["Ïd"] = {
+		[1] = 1443,
 		[4] = true,
-		[6] = 1731,
+		[6] = 1911,
 	},
-	["Suune"] = {
-		[1] = 7265,
+	["Frabby"] = {
+		[1] = 4195,
+	},
+	["Sabushadin"] = {
+		[1] = 433,
 	},
 	["Fetidda"] = {
 		[1] = 12781,
@@ -32205,23 +32150,26 @@ DPSMateUser = {
 	["Maomaozai"] = {
 		[1] = 9908,
 	},
-	["Juk'los"] = {
-		[1] = 12943,
+	["Losifer"] = {
+		[1] = 13144,
 	},
 	["Iwolf"] = {
 		[1] = 1795,
 	},
-	["Jikai"] = {
-		[1] = 9787,
+	["Sniped"] = {
+		[1] = 8311,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 20,
 	},
 	["Mansikki"] = {
 		[1] = 1154,
 	},
-	["Phankresh"] = {
-		[1] = 10189,
+	["Zhevra Charger"] = {
+		[1] = 7189,
 	},
-	["Winchel"] = {
-		[1] = 7939,
+	["Belpeol"] = {
+		[1] = 3870,
 	},
 	["Munkle"] = {
 		[1] = 13299,
@@ -32229,17 +32177,20 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 27,
 	},
-	["Shootystar"] = {
-		[1] = 1563,
+	["Suncaller"] = {
+		[1] = 7169,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 10,
 	},
-	["Yousisters"] = {
-		[1] = 3014,
+	["Dualist"] = {
+		[1] = 11488,
 	},
-	["Xwen"] = {
-		[1] = 7329,
+	["Peonstomprx"] = {
+		[1] = 7923,
 	},
-	["Zhevra Charger"] = {
-		[1] = 7189,
+	["Cryogelidus"] = {
+		[1] = 6611,
 	},
 	["Boonerdooner"] = {
 		[1] = 10874,
@@ -32247,14 +32198,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Nhaendre"] = {
-		[1] = 3247,
+	["Lotherinka"] = {
+		[1] = 12285,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 28,
 	},
-	["Deepeyes"] = {
-		[1] = 7210,
+	["Deviate Coiler"] = {
+		[1] = 7080,
 	},
-	["Belpeol"] = {
-		[1] = 3870,
+	["Dzoxx"] = {
+		[1] = 8866,
 	},
 	["Upkesama"] = {
 		[1] = 7175,
@@ -32262,17 +32216,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 20,
 	},
-	["Dhralla"] = {
-		[1] = 7193,
+	["Gamesearch"] = {
+		[1] = 5219,
 	},
-	["Torronator"] = {
-		[1] = 9773,
+	["Vonsickle"] = {
+		[1] = 5659,
 	},
-	["Suncaller"] = {
-		[1] = 7169,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 10,
+	["Iamtwo"] = {
+		[1] = 3049,
 	},
 	["Thoribour"] = {
 		[1] = 6869,
@@ -32280,8 +32231,11 @@ DPSMateUser = {
 	["Alxim"] = {
 		[1] = 2172,
 	},
-	["Peonstomprx"] = {
-		[1] = 7923,
+	["Hunterdkdk"] = {
+		[1] = 12074,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 33,
 	},
 	["Izida"] = {
 		[1] = 9655,
@@ -32289,8 +32243,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 26,
 	},
-	["Shekerru"] = {
-		[1] = 8698,
+	["Zfjmm"] = {
+		[1] = 7264,
 	},
 	["Raysia"] = {
 		[1] = 2648,
@@ -32301,48 +32255,41 @@ DPSMateUser = {
 	["Wildshaman"] = {
 		[1] = 11915,
 	},
-	["rito"] = {
-		[1] = 6656,
+	["Chizhuozi"] = {
+		[1] = 12330,
 	},
 	["Druikuttaja"] = {
 		[1] = 8481,
 	},
-	["Jimmyboystby"] = {
-		[1] = 52,
+	["Coolbones"] = {
+		[1] = 7027,
 	},
 	["Waitinost"] = {
 		[1] = 1012,
 	},
-	["Poisonbinder"] = {
-		[1] = 3542,
+	["Diaperdoom"] = {
+		[1] = 8884,
 	},
-	["Cnoksm"] = {
-		[1] = 7766,
-		[2] = "shaman",
+	["Jhomthang"] = {
+		[1] = 7050,
+	},
+	["Mopek"] = {
+		[1] = 5230,
+		[2] = "priest",
 		[3] = -1,
-		[4] = false,
-		[7] = "Honor and Blood",
-		[8] = 14,
+		[8] = 4,
 	},
-	["Dawnlight"] = {
-		[1] = 9687,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 35,
+	["Gimuub"] = {
+		[1] = 5927,
 	},
-	["Sloxq"] = {
-		[1] = 11500,
+	["Rhuugrom"] = {
+		[1] = 527,
 	},
-	["Zaten"] = {
-		[1] = 8209,
-		[2] = "warlock",
-		[3] = 1,
+	["Superdori"] = {
+		[1] = 66,
 	},
-	["Runfa"] = {
-		[1] = 10767,
-	},
-	["Stabfang"] = {
-		[1] = 8515,
+	["Kzaka"] = {
+		[1] = 7410,
 	},
 	["Onratao"] = {
 		[1] = 10328,
@@ -32353,17 +32300,23 @@ DPSMateUser = {
 	["Resttpowered"] = {
 		[1] = 5754,
 	},
-	["Royal"] = {
-		[1] = 7464,
+	["Funkle"] = {
+		[1] = 13297,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 26,
 	},
 	["Contristati"] = {
 		[1] = 7284,
 	},
-	["Vonsickle"] = {
-		[1] = 5659,
+	["Prestij"] = {
+		[1] = 3012,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 1,
 	},
-	["Jackblack"] = {
-		[1] = 4012,
+	["Yousisters"] = {
+		[1] = 3014,
 	},
 	["Tronpa"] = {
 		[1] = 8070,
@@ -32377,29 +32330,32 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 25,
 	},
-	["Grimtide"] = {
-		[1] = 2877,
+	["Thora Feathermoon"] = {
+		[1] = 7352,
 	},
-	["Pandemius"] = {
-		[1] = 4255,
-	},
-	["Violentjerk"] = {
-		[1] = 9701,
-		[2] = "rogue",
+	["Sataniral"] = {
+		[1] = 8566,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 32,
+		[8] = 12,
+	},
+	["Skurkelele"] = {
+		[1] = 3883,
 	},
 	["Unbalanced"] = {
 		[1] = 2876,
 	},
-	["Goatleader"] = {
-		[1] = 9769,
+	["Armsstrong"] = {
+		[1] = 1793,
 	},
-	["Jesaispas"] = {
-		[1] = 6987,
+	["Stagz"] = {
+		[1] = 2989,
 	},
-	["Eolgreatest"] = {
-		[1] = 9623,
+	["Duessa"] = {
+		[1] = 8662,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 37,
 	},
 	["Mindblowerx"] = {
 		[1] = 3740,
@@ -32407,26 +32363,23 @@ DPSMateUser = {
 	["Kamane"] = {
 		[1] = 2845,
 	},
-	["Untrue"] = {
-		[1] = 4657,
+	["Haunting Phantasm"] = {
+		[1] = 10578,
 	},
 	["Elonar"] = {
 		[1] = 275,
 	},
-	["Diaperdoom"] = {
-		[1] = 8884,
+	["Stabfang"] = {
+		[1] = 8515,
 	},
 	["Fnuggii"] = {
 		[1] = 4972,
 	},
-	["Mopek"] = {
-		[1] = 5230,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 4,
+	["Bepmyxan"] = {
+		[1] = 4936,
 	},
-	["Ayyllmaoo"] = {
-		[1] = 765,
+	["Sawgon"] = {
+		[1] = 2913,
 	},
 	["Xof"] = {
 		[1] = 1125,
@@ -32434,20 +32387,22 @@ DPSMateUser = {
 	["Dustbelcher Wyrmhunter"] = {
 		[1] = 12414,
 	},
-	["Funkle"] = {
-		[1] = 13297,
-		[2] = "paladin",
+	["Sweeper"] = {
+		[1] = 5954,
+	},
+	["Vasia"] = {
+		[1] = 314,
+		[2] = "hunter",
 		[3] = 1,
-		[8] = 26,
+		[4] = false,
+		[7] = "Butyrka",
+		[8] = 60,
 	},
-	["Thora Feathermoon"] = {
-		[1] = 7352,
+	["Steroidfree"] = {
+		[1] = 7285,
 	},
-	["Mavri"] = {
-		[1] = 7291,
-	},
-	["Spannabis"] = {
-		[1] = 11593,
+	["Sloxq"] = {
+		[1] = 11500,
 	},
 	["Belgarat"] = {
 		[1] = 11666,
@@ -32459,8 +32414,8 @@ DPSMateUser = {
 	["Flayer"] = {
 		[1] = 4996,
 	},
-	["Twilight"] = {
-		[1] = 7669,
+	["Durmil"] = {
+		[1] = 2018,
 	},
 	["Darknessc"] = {
 		[1] = 8074,
@@ -32468,14 +32423,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 36,
 	},
-	["Olol"] = {
-		[1] = 288,
+	["Apsaber"] = {
+		[1] = 12291,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 25,
 	},
-	["Spikesmash"] = {
-		[1] = 4096,
+	["Shamzyy"] = {
+		[1] = 9671,
 	},
-	["Csper"] = {
-		[1] = 12937,
+	["Dhralla"] = {
+		[1] = 7193,
 	},
 	["Persiancats"] = {
 		[1] = 6462,
@@ -32483,12 +32441,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 32,
 	},
-	["Ubba"] = {
-		[1] = 177,
-		[2] = "paladin",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Adasts"] = {
+		[1] = 7654,
 	},
 	["Onlylovelol"] = {
 		[1] = 12329,
@@ -32499,11 +32453,11 @@ DPSMateUser = {
 	["Mummumm"] = {
 		[1] = 6923,
 	},
-	["Kzaka"] = {
-		[1] = 7410,
+	["Whitestripe"] = {
+		[1] = 121,
 	},
-	["Gwendolen"] = {
-		[1] = 12597,
+	["Underick"] = {
+		[1] = 4265,
 	},
 	["Xentero"] = {
 		[1] = 4135,
@@ -32520,8 +32474,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Blindfish"] = {
-		[1] = 6409,
+	["Lanayasz"] = {
+		[1] = 6315,
 	},
 	["Hrup"] = {
 		[1] = 7040,
@@ -32529,8 +32483,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 13,
 	},
-	["Babagusi"] = {
-		[1] = 219,
+	["Masteel"] = {
+		[1] = 10064,
 	},
 	["Fisler"] = {
 		[1] = 11806,
@@ -32538,29 +32492,29 @@ DPSMateUser = {
 	["Cykanuggetz"] = {
 		[1] = 9409,
 	},
-	["Stagz"] = {
-		[1] = 2989,
+	["Neua"] = {
+		[1] = 12070,
 	},
-	["Ragefang"] = {
-		[1] = 7925,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 20,
+	["Twilight"] = {
+		[1] = 7669,
 	},
 	["F√ºrass"] = {
 		[1] = 2738,
 	},
-	["Durmil"] = {
-		[1] = 2018,
+	["Rasvamaija"] = {
+		[1] = 11207,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 36,
 	},
-	["Pistolshot"] = {
-		[1] = 6119,
+	["Jesaispas"] = {
+		[1] = 6987,
 	},
-	["Zeydorf"] = {
-		[1] = 5315,
+	["Nessient"] = {
+		[1] = 5146,
 	},
-	["Syphone"] = {
-		[1] = 3682,
+	["Sarthea"] = {
+		[1] = 10567,
 	},
 	["Goroh"] = {
 		[1] = 1189,
@@ -32571,17 +32525,20 @@ DPSMateUser = {
 	["Mantonelli"] = {
 		[1] = 480,
 	},
-	["Whereskitty"] = {
-		[1] = 7486,
+	["Dazzo"] = {
+		[1] = 14,
 	},
-	["Viydel"] = {
-		[1] = 8267,
+	["Drywallow Snapper"] = {
+		[1] = 8935,
 	},
-	["Bepmyxan"] = {
-		[1] = 4936,
+	["Kegman"] = {
+		[1] = 2176,
 	},
-	["Gryffindorr"] = {
-		[1] = 3662,
+	["Vyvyk"] = {
+		[1] = 6488,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Mountain Yeti"] = {
 		[1] = 10631,
@@ -32589,16 +32546,17 @@ DPSMateUser = {
 	["Maledictio"] = {
 		[1] = 3006,
 	},
-	["Lanayasz"] = {
-		[1] = 6315,
+	["Cinikka"] = {
+		[1] = 2956,
 	},
-	["Bonfaya"] = {
-		[1] = 2113,
+	["Deepdmg"] = {
+		[1] = 3097,
 	},
-	["Tsirup"] = {
-		[1] = 11297,
-		[2] = "paladin",
+	["Ytsan"] = {
+		[1] = 12478,
+		[2] = "hunter",
 		[3] = 1,
+		[8] = 37,
 	},
 	["Xilok"] = {
 		[1] = 7808,
@@ -32607,14 +32565,14 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 19,
 	},
-	["Steroidfree"] = {
-		[1] = 7285,
+	["rito"] = {
+		[1] = 6656,
 	},
 	["Razormane Seer"] = {
 		[1] = 8312,
 	},
-	["Acornborn"] = {
-		[1] = 7673,
+	["Qua"] = {
+		[1] = 10240,
 	},
 	["Refurbished"] = {
 		[1] = 4639,
@@ -32625,42 +32583,41 @@ DPSMateUser = {
 	["Enduu"] = {
 		[1] = 10446,
 	},
-	["Bestwrld"] = {
-		[1] = 20,
+	["Skol"] = {
+		[1] = 2552,
 	},
-	["Sofaknips"] = {
-		[1] = 11047,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 31,
+	["Charge"] = {
+		[1] = 47,
 	},
 	["Nawidderbaba"] = {
 		[1] = 12145,
 	},
-	["Vaaroth"] = {
-		[1] = 6046,
+	["Guinsoo"] = {
+		[1] = 593,
 	},
-	["Sarthea"] = {
-		[1] = 10567,
+	["Rocklee"] = {
+		[1] = 12390,
 	},
-	["Fakkdeglol"] = {
-		[1] = 7117,
+	["Dawnlight"] = {
+		[1] = 9687,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 35,
 	},
-	["Djsteelp"] = {
-		[1] = 7160,
-		[2] = "warrior",
+	["Baridae"] = {
+		[1] = 6895,
+		[2] = "mage",
 		[3] = -1,
-		[4] = false,
-		[8] = 17,
+		[8] = 13,
 	},
-	["Cloudious"] = {
-		[1] = 9046,
+	["Dioka"] = {
+		[1] = 5795,
 	},
-	["Sylaricarr"] = {
-		[1] = 5087,
+	["Gwendolen"] = {
+		[1] = 12597,
 	},
-	["Zeitgeber"] = {
-		[1] = 9747,
+	["Darkspeller"] = {
+		[1] = 9448,
 	},
 	["Huolor"] = {
 		[1] = 6456,
@@ -32673,20 +32630,23 @@ DPSMateUser = {
 		[7] = "Legendary Squad",
 		[8] = 60,
 	},
-	["Dazzo"] = {
-		[1] = 14,
+	["Pyroerlend"] = {
+		[1] = 3412,
 	},
 	["Demonwrath"] = {
 		[1] = 11924,
 	},
-	["Farlight"] = {
-		[1] = 1240,
+	["Spikesmash"] = {
+		[1] = 4096,
 	},
-	["Csxfan"] = {
-		[1] = 3246,
+	["Gruurl"] = {
+		[1] = 5508,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 12,
 	},
-	["Xlapatsas"] = {
-		[1] = 2021,
+	["Nullify"] = {
+		[1] = 2831,
 	},
 	["Sixpencer"] = {
 		[1] = 2156,
@@ -32697,17 +32657,14 @@ DPSMateUser = {
 	["Sulix"] = {
 		[1] = 182,
 	},
-	["Madoshi"] = {
-		[1] = 1328,
+	["Oclockz"] = {
+		[1] = 3833,
 	},
 	["Foddah"] = {
 		[1] = 8736,
 	},
-	["Ytsan"] = {
-		[1] = 12478,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 37,
+	["Zurbuk"] = {
+		[1] = 7418,
 	},
 	["Icetraycube"] = {
 		[1] = 494,
@@ -32715,17 +32672,14 @@ DPSMateUser = {
 	["Lkbiubiubiu"] = {
 		[1] = 11676,
 	},
-	["Gruurl"] = {
-		[1] = 5508,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 12,
+	["Sylaricarr"] = {
+		[1] = 5087,
 	},
-	["Ixk"] = {
-		[1] = 9667,
+	["Rambote"] = {
+		[1] = 12393,
 	},
-	["Fearfade"] = {
-		[1] = 252,
+	["Cyndera"] = {
+		[1] = 2466,
 	},
 	["Narenth"] = {
 		[1] = 3928,
@@ -32733,14 +32687,11 @@ DPSMateUser = {
 	["Deathfunera"] = {
 		[1] = 11946,
 	},
-	["Qua"] = {
-		[1] = 10240,
+	["Anabocce"] = {
+		[1] = 10062,
 	},
-	["Camodus"] = {
-		[1] = 13289,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 31,
+	["Madoshi"] = {
+		[1] = 1328,
 	},
 	["Fashuang"] = {
 		[1] = 3790,
@@ -32751,11 +32702,8 @@ DPSMateUser = {
 	["Detyasmerti"] = {
 		[1] = 9536,
 	},
-	["Touka"] = {
-		[1] = 5565,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 21,
+	["Akeus"] = {
+		[1] = 4136,
 	},
 	["Cowabungacow"] = {
 		[1] = 9067,
@@ -32763,8 +32711,12 @@ DPSMateUser = {
 	["Tailwing"] = {
 		[1] = 12701,
 	},
-	["Charge"] = {
-		[1] = 47,
+	["Djsteelp"] = {
+		[1] = 7160,
+		[2] = "warrior",
+		[3] = -1,
+		[4] = false,
+		[8] = 17,
 	},
 	["Wxlw"] = {
 		[1] = 10319,
@@ -32775,14 +32727,17 @@ DPSMateUser = {
 	["Nezzliok the Dire"] = {
 		[1] = 11844,
 	},
-	["Tangmos"] = {
-		[1] = 12305,
+	["Cloudious"] = {
+		[1] = 9046,
 	},
 	["Alakki"] = {
 		[1] = 8008,
 	},
-	["Ggulik"] = {
-		[1] = 1302,
+	["Rayser"] = {
+		[1] = 8199,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 24,
 	},
 	["Molestinho"] = {
 		[1] = 5158,
@@ -32790,8 +32745,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 9,
 	},
-	["Ikont"] = {
-		[1] = 6190,
+	["Malenshar"] = {
+		[1] = 6208,
 	},
 	["Ghoham"] = {
 		[1] = 2914,
@@ -32799,26 +32754,23 @@ DPSMateUser = {
 	["Micamy"] = {
 		[1] = 4277,
 	},
-	["Yekexin"] = {
-		[1] = 10110,
+	["Lighter"] = {
+		[1] = 8745,
 	},
 	["Kjelsjend"] = {
 		[1] = 2646,
 	},
-	["Feodarron"] = {
-		[1] = 11719,
+	["Myskillsheal"] = {
+		[1] = 1869,
 	},
-	["Devthtrxp"] = {
-		[1] = 9494,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 24,
+	["Battleguard Sartura"] = {
+		[1] = 2585,
 	},
 	["BEARMUH"] = {
 		[1] = 13227,
 	},
-	["Darkspeller"] = {
-		[1] = 9448,
+	["Worg"] = {
+		[1] = 8604,
 	},
 	["Antonis"] = {
 		[1] = 2276,
@@ -32835,8 +32787,8 @@ DPSMateUser = {
 	["Knutbrolaf"] = {
 		[1] = 2698,
 	},
-	["Cyndera"] = {
-		[1] = 2466,
+	["Wingman"] = {
+		[1] = 5728,
 	},
 	["Badgerlord"] = {
 		[1] = 8646,
@@ -32847,17 +32799,17 @@ DPSMateUser = {
 	["Parm"] = {
 		[1] = 1376,
 	},
-	["Flaaroon"] = {
-		[1] = 697,
+	["Mendo"] = {
+		[1] = 1022,
 	},
-	["Deboi"] = {
-		[1] = 6178,
+	["Kocopotblu"] = {
+		[1] = 7293,
 	},
 	["Garghul"] = {
 		[1] = 9444,
 	},
-	["Anabocce"] = {
-		[1] = 10062,
+	["Testrog"] = {
+		[1] = 232,
 	},
 	["Kriemhilde"] = {
 		[1] = 1355,
@@ -32871,11 +32823,11 @@ DPSMateUser = {
 	["Mylly"] = {
 		[1] = 2821,
 	},
-	["Xarden"] = {
-		[1] = 2772,
+	["Sylvictus"] = {
+		[1] = 10738,
 	},
-	["Mleczarz"] = {
-		[1] = 6746,
+	["Rockingo"] = {
+		[1] = 12707,
 	},
 	["Mauiwowiee"] = {
 		[1] = 6347,
@@ -32892,11 +32844,11 @@ DPSMateUser = {
 	["Syhoc"] = {
 		[1] = 6735,
 	},
-	["Dagtuk"] = {
-		[1] = 3000,
+	["Asupmadude"] = {
+		[1] = 2169,
 	},
-	["Feteshistka"] = {
-		[1] = 11344,
+	["Feiosa"] = {
+		[1] = 6222,
 	},
 	["Matolcsy"] = {
 		[1] = 13314,
@@ -32907,19 +32859,16 @@ DPSMateUser = {
 	["Helnos"] = {
 		[1] = 7814,
 	},
-	["Oxbox"] = {
-		[1] = 6609,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 20,
+	["Miinuss"] = {
+		[1] = 9808,
 	},
 	["Healstocar"] = {
 		[1] = 11283,
 		[2] = "mage",
 		[3] = 1,
 	},
-	["Icylube"] = {
-		[1] = 3123,
+	["Yekexin"] = {
+		[1] = 10110,
 	},
 	["Nucaosb"] = {
 		[1] = 7846,
@@ -32927,8 +32876,8 @@ DPSMateUser = {
 	["Thesyzer"] = {
 		[1] = 3810,
 	},
-	["Kragzazt"] = {
-		[1] = 7326,
+	["Dankpank"] = {
+		[1] = 12578,
 	},
 	["Vishera"] = {
 		[1] = 4453,
@@ -32936,20 +32885,20 @@ DPSMateUser = {
 	["Mellissi"] = {
 		[1] = 3236,
 	},
-	["Mendo"] = {
-		[1] = 1022,
+	["Lucrothx"] = {
+		[1] = 3318,
 	},
 	["Layos"] = {
 		[1] = 4561,
 	},
-	["Kocopotblu"] = {
-		[1] = 7293,
+	["Galinhao"] = {
+		[1] = 8772,
 	},
-	["Revrix"] = {
-		[1] = 4065,
+	["Erotik"] = {
+		[1] = 10301,
 	},
-	["Serith"] = {
-		[1] = 8351,
+	["Flinda"] = {
+		[1] = 4956,
 	},
 	["Asphixia"] = {
 		[1] = 12561,
@@ -32961,41 +32910,41 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 60,
 	},
-	["Steezz"] = {
-		[1] = 11659,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 32,
-	},
-	["Barryg"] = {
-		[1] = 10653,
-	},
-	["Fleeting Plainstrider"] = {
-		[1] = 5514,
-	},
-	["Dopic"] = {
-		[1] = 13284,
+	["Devthtrxp"] = {
+		[1] = 9494,
 		[2] = "mage",
-		[3] = 1,
-		[8] = 33,
+		[3] = -1,
+		[8] = 24,
+	},
+	["Asyc"] = {
+		[1] = 3772,
+	},
+	["Flaaroon"] = {
+		[1] = 697,
+	},
+	["Deflax"] = {
+		[1] = 5418,
 	},
 	["Shtroumpf"] = {
 		[1] = 8033,
 	},
-	["Oxotner"] = {
-		[1] = 10201,
+	["Beefbully"] = {
+		[1] = 7664,
 	},
 	["Invibell"] = {
 		[1] = 1627,
 	},
-	["Rockingo"] = {
-		[1] = 12707,
+	["Cenzarius"] = {
+		[1] = 8261,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 31,
 	},
 	["Mana Spring Totem"] = {
 		[1] = 10188,
 	},
-	["Helliukk"] = {
-		[1] = 9928,
+	["Feteshistka"] = {
+		[1] = 11344,
 	},
 	["Ardhos"] = {
 		[1] = 2467,
@@ -33018,24 +32967,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Ctpoutejib"] = {
-		[1] = 1429,
-		[2] = "shaman",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Burning Blade Adept"] = {
+		[1] = 12831,
 	},
 	["Magorr"] = {
 		[1] = 1614,
 	},
-	["Bristleback Geomancer"] = {
-		[1] = 7097,
+	["Wilanxp"] = {
+		[1] = 3071,
 	},
-	["Miinuss"] = {
-		[1] = 9808,
+	["Foxanda"] = {
+		[1] = 8536,
 	},
-	["Mosh'Ogg Brute"] = {
-		[1] = 11697,
+	["Chloelol"] = {
+		[1] = 2318,
 	},
 	["Grimtotem Sorcerer"] = {
 		[1] = 8072,
@@ -33043,55 +32988,55 @@ DPSMateUser = {
 	["Cendew"] = {
 		[1] = 196,
 	},
-	["Lava Spout Totem"] = {
-		[1] = 9383,
+	["Drekthar"] = {
+		[1] = 5603,
 	},
-	["Sylvictus"] = {
-		[1] = 10738,
+	["Bleyzor"] = {
+		[1] = 10463,
 	},
-	["Asupmadude"] = {
-		[1] = 2169,
+	["Murp"] = {
+		[1] = 6091,
 	},
-	["Volteikarai"] = {
-		[1] = 10014,
+	["Dopic"] = {
+		[1] = 13284,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 33,
 	},
 	["Tarzankata"] = {
 		[1] = 3739,
 	},
-	["Asyc"] = {
-		[1] = 3772,
+	["Severartery"] = {
+		[1] = 9544,
 	},
-	["Bubblenboil"] = {
-		[1] = 5557,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 44,
+	["Helliukk"] = {
+		[1] = 9928,
 	},
 	["Geroh"] = {
 		[1] = 8653,
 	},
-	["Deflax"] = {
-		[1] = 5418,
+	["Deviate Adder"] = {
+		[1] = 7523,
 	},
 	["Diddydot"] = {
 		[1] = 6092,
 		[2] = "warlock",
 		[3] = 1,
 	},
-	["Placeholder"] = {
-		[1] = 10265,
+	["Vaz"] = {
+		[1] = 2491,
 	},
-	["Alkane"] = {
-		[1] = 6482,
+	["Bloodpig"] = {
+		[1] = 4502,
 	},
-	["Lallmush"] = {
-		[1] = 4986,
+	["Vipzi"] = {
+		[1] = 12504,
 	},
-	["Handycow"] = {
-		[1] = 11505,
+	["Denica"] = {
+		[1] = 671,
 	},
-	["Wilanxp"] = {
-		[1] = 3071,
+	["Volrin"] = {
+		[1] = 5104,
 	},
 	["Acidz"] = {
 		[1] = 3898,
@@ -33099,11 +33044,8 @@ DPSMateUser = {
 	["Hasancehef"] = {
 		[1] = 9763,
 	},
-	["Macestunhehe"] = {
-		[1] = 10677,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 30,
+	["Dagkin"] = {
+		[1] = 5218,
 	},
 	["Zigelfel"] = {
 		[1] = 6777,
@@ -33112,14 +33054,17 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 13,
 	},
-	["Chloelol"] = {
-		[1] = 2318,
+	["Steezz"] = {
+		[1] = 11659,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 32,
 	},
 	["Epyc"] = {
 		[1] = 778,
 	},
-	["Sergules"] = {
-		[1] = 518,
+	["Srpepis"] = {
+		[1] = 4929,
 	},
 	["Thuugbull"] = {
 		[1] = 8485,
@@ -33130,26 +33075,20 @@ DPSMateUser = {
 	["Deathsinger"] = {
 		[1] = 1520,
 	},
-	["Momomovv"] = {
-		[1] = 10258,
+	["Aoeing"] = {
+		[1] = 2367,
 	},
-	["Xosz"] = {
-		[1] = 3990,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 1,
+	["Depressionz"] = {
+		[1] = 2058,
 	},
-	["Lebens"] = {
-		[1] = 6486,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 16,
+	["Divinefire"] = {
+		[1] = 591,
 	},
-	["Vaz"] = {
-		[1] = 2491,
+	["Volnam"] = {
+		[1] = 4805,
 	},
-	["Bloodpig"] = {
-		[1] = 4502,
+	["Hammerz"] = {
+		[1] = 2164,
 	},
 	["Sugar"] = {
 		[1] = 8957,
@@ -33160,28 +33099,29 @@ DPSMateUser = {
 	["Betelgeyse"] = {
 		[1] = 12789,
 	},
-	["Denica"] = {
-		[1] = 671,
+	["Pujin"] = {
+		[1] = 7422,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 24,
 	},
-	["Murp"] = {
-		[1] = 6091,
+	["Noeey"] = {
+		[1] = 4668,
 	},
-	["Greyta"] = {
-		[1] = 7938,
+	["Lebens"] = {
+		[1] = 6486,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 16,
 	},
-	["Delthe"] = {
-		[1] = 12631,
+	["Firlefranz"] = {
+		[1] = 6242,
 	},
-	["Olrin"] = {
-		[1] = 1860,
-		[2] = "warlock",
-		[3] = 1,
-		[4] = false,
-		[5] = "n",
-		[8] = 60,
+	["Komuch"] = {
+		[1] = 11827,
 	},
-	["Soontm"] = {
-		[1] = 1516,
+	["Itmerog"] = {
+		[1] = 693,
 	},
 	["Zelios"] = {
 		[1] = 3208,
@@ -33190,8 +33130,11 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 3,
 	},
-	["Chadwicks"] = {
-		[1] = 4143,
+	["Dreifea"] = {
+		[1] = 13295,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 23,
 	},
 	["Leckx"] = {
 		[1] = 1891,
@@ -33214,181 +33157,96 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Divinefire"] = {
-		[1] = 591,
+	["Flyingmoo"] = {
+		[1] = 9960,
 	},
-	["Dezrok"] = {
-		[1] = 6017,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 10,
+	["Frostd"] = {
+		[1] = 602,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Manuelhung"] = {
 		[1] = 471,
 	},
-	["Loktar√∏gar"] = {
-		[1] = 1700,
-	},
-	["Pujin"] = {
-		[1] = 7422,
-		[2] = "hunter",
+	["Troly"] = {
+		[1] = 7858,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 24,
+		[8] = 6,
 	},
-	["Depressionz"] = {
-		[1] = 2058,
+	["Braindeadlol"] = {
+		[1] = 4605,
+	},
+	["Abillitybr"] = {
+		[1] = 3130,
 	},
 	["Jakloz"] = {
 		[1] = 8244,
 		[4] = true,
 		[6] = 8242,
 	},
-	["Roccosifredy"] = {
-		[1] = 6821,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 28,
+	["Scaryskeleto"] = {
+		[1] = 3390,
 	},
-	["Gray Bear"] = {
-		[1] = 9154,
+	["Newfamaz"] = {
+		[1] = 4316,
 	},
-	["Dreifea"] = {
-		[1] = 13295,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 23,
+	["Sharptalon"] = {
+		[1] = 8405,
 	},
 	["Pathos"] = {
 		[1] = 3333,
 	},
-	["Dontcry"] = {
-		[1] = 194,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 60,
+	["Hokchris"] = {
+		[1] = 4786,
 	},
-	["Bashyoheadin"] = {
-		[1] = 11138,
+	["Delthe"] = {
+		[1] = 12631,
 	},
-	["Razorfen Servitor"] = {
-		[1] = 9347,
+	["Magistrate Barthilas"] = {
+		[1] = 2138,
 	},
-	["Kilrong"] = {
-		[1] = 8791,
+	["Severed Sleeper"] = {
+		[1] = 8400,
 	},
-	["Shemale"] = {
-		[1] = 5336,
+	["Kreefum"] = {
+		[1] = 498,
+		[4] = true,
+		[6] = 475,
 	},
 	["Joumase"] = {
 		[1] = 5976,
 	},
-	["Mechagay"] = {
-		[1] = 8539,
+	["Dadaism"] = {
+		[1] = 3340,
 	},
-	["Spectralx"] = {
-		[1] = 4300,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 4,
+	["Chadwicks"] = {
+		[1] = 4143,
 	},
 	["Arnothief"] = {
 		[1] = 4558,
 	},
-	["Braindeadlol"] = {
-		[1] = 4605,
+	["Svendelin"] = {
+		[1] = 3534,
 	},
-	["Favamon"] = {
-		[1] = 2154,
+	["Meestrshanky"] = {
+		[1] = 3256,
 	},
 	["Guho"] = {
 		[1] = 13107,
 	},
-	["Barrel"] = {
-		[1] = 11421,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 32,
+	["Deedlenickk"] = {
+		[1] = 8257,
 	},
 	["Pigtip"] = {
 		[1] = 254,
 	},
-	["Linyuxing"] = {
-		[1] = 12424,
-	},
-	["Abillitybr"] = {
-		[1] = 3130,
-	},
-	["Sin'Dall"] = {
-		[1] = 11791,
-	},
-	["Aquamoto"] = {
-		[1] = 2735,
-	},
-	["Braizar"] = {
-		[1] = 5129,
-	},
-	["Polskidowski"] = {
-		[1] = 10028,
-	},
-	["Lawlbloom"] = {
-		[1] = 1265,
-	},
-	["Arctanis"] = {
-		[1] = 4124,
-	},
-	["Koji"] = {
-		[1] = 6256,
-	},
-	["Yaztuk"] = {
-		[1] = 10480,
-	},
-	["Luvstoospwg"] = {
-		[1] = 3920,
-	},
-	["Vicious Gray Bear"] = {
-		[1] = 8595,
-	},
-	["Cikexintiao"] = {
-		[1] = 12358,
-	},
-	["Deedlenickk"] = {
-		[1] = 8257,
-	},
-	["Satar"] = {
-		[1] = 7318,
-	},
-	["Bjornulf"] = {
-		[1] = 12965,
-	},
-	["Firewalker"] = {
-		[1] = 968,
-	},
 	["Stigmata"] = {
 		[1] = 466,
 	},
-	["Shurrikluo"] = {
-		[1] = 7661,
-	},
-	["Emeril"] = {
-		[1] = 7451,
-	},
-	["Kerle"] = {
-		[1] = 532,
-	},
-	["Gromkara"] = {
-		[1] = 11371,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 43,
-	},
-	["Svendelin"] = {
-		[1] = 3534,
-	},
-	["Tarpit"] = {
-		[1] = 2016,
-	},
-	["Slowpoke"] = {
-		[1] = 7093,
+	["Mauiiwowie"] = {
+		[1] = 8282,
 	},
 	["Akhil"] = {
 		[1] = 1746,
@@ -33398,40 +33256,118 @@ DPSMateUser = {
 		[7] = "Cosa Nostra",
 		[8] = 60,
 	},
-	["Gibbonz"] = {
-		[1] = 2048,
+	["Aquamoto"] = {
+		[1] = 2735,
+	},
+	["Kapturak"] = {
+		[1] = 1565,
+	},
+	["Polskidowski"] = {
+		[1] = 10028,
+	},
+	["Lawlbloom"] = {
+		[1] = 1265,
+	},
+	["Aleae"] = {
+		[1] = 10601,
+	},
+	["Juremaxd"] = {
+		[1] = 5331,
+	},
+	["Yaztuk"] = {
+		[1] = 10480,
+	},
+	["Parabola"] = {
+		[1] = 13249,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 38,
+	},
+	["Ruiling"] = {
+		[1] = 7637,
+	},
+	["Cikexintiao"] = {
+		[1] = 12358,
+	},
+	["Randevu"] = {
+		[1] = 3523,
+	},
+	["Henchmen"] = {
+		[1] = 8886,
+	},
+	["Bjornulf"] = {
+		[1] = 12965,
+	},
+	["Fire"] = {
+		[1] = 356,
+	},
+	["Aoefarm"] = {
+		[1] = 473,
+	},
+	["Shurrikluo"] = {
+		[1] = 7661,
+	},
+	["Unrealname"] = {
+		[1] = 5051,
+	},
+	["Eyesofdreams"] = {
+		[1] = 11002,
+	},
+	["Gromkara"] = {
+		[1] = 11371,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 43,
+	},
+	["Bonepiley"] = {
+		[1] = 5137,
+	},
+	["Mechagay"] = {
+		[1] = 8539,
+	},
+	["Slowpoke"] = {
+		[1] = 7093,
+	},
+	["Shadowbraker"] = {
+		[1] = 8217,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 22,
+	},
+	["Garqua"] = {
+		[1] = 264,
 	},
 	["◊\nÏ5"] = {
 		[1] = 1939,
 		[4] = true,
 		[6] = 1896,
 	},
-	["Aoefarm"] = {
-		[1] = 473,
+	["Darthabyss"] = {
+		[1] = 12497,
 	},
-	["Buchberger"] = {
-		[1] = 4856,
+	["Paynisaynis"] = {
+		[1] = 1690,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Anytips"] = {
-		[1] = 3846,
+	["Blackwing Taskmaster"] = {
+		[1] = 1087,
 	},
-	["Kapturak"] = {
-		[1] = 1565,
+	["Tyraela"] = {
+		[1] = 7227,
 	},
 	["Healthiscow"] = {
 		[1] = 9078,
 	},
-	["Hrotghar"] = {
-		[1] = 5172,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 9,
+	["Emeril"] = {
+		[1] = 7451,
 	},
 	["Kittypwn"] = {
 		[1] = 9175,
 	},
-	["Ruiling"] = {
-		[1] = 7637,
+	["Restogar"] = {
+		[1] = 8908,
 	},
 	["Dothrax"] = {
 		[1] = 10709,
@@ -33439,8 +33375,8 @@ DPSMateUser = {
 	["Kronieh"] = {
 		[1] = 1524,
 	},
-	["Galak Messenger"] = {
-		[1] = 9720,
+	["Natsumiru"] = {
+		[1] = 9194,
 	},
 	["Kazurogg"] = {
 		[1] = 7000,
@@ -33451,11 +33387,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 17,
 	},
-	["Grauzdins"] = {
-		[1] = 9216,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 17,
+	["Hitbutrun"] = {
+		[1] = 3033,
 	},
 	["Pizpad"] = {
 		[1] = 3809,
@@ -33475,41 +33408,32 @@ DPSMateUser = {
 	["Zulian Prowler"] = {
 		[1] = 355,
 	},
-	["Guatonacandy"] = {
-		[1] = 6363,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 12,
+	["Iamnotdead"] = {
+		[1] = 4317,
 	},
-	["Tesselate"] = {
-		[1] = 6803,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 17,
+	["Gibbonz"] = {
+		[1] = 2048,
 	},
-	["Garqua"] = {
-		[1] = 264,
+	["Pokemanz"] = {
+		[1] = 3124,
 	},
-	["Darthabyss"] = {
-		[1] = 12497,
+	["Misht"] = {
+		[1] = 4234,
 	},
-	["Grukaa"] = {
-		[1] = 2926,
+	["Faustex"] = {
+		[1] = 1898,
 	},
-	["Marlol"] = {
-		[1] = 7863,
+	["Ktulh"] = {
+		[1] = 5313,
 	},
 	["Copiusrage"] = {
 		[1] = 2459,
 	},
-	["Ikinn"] = {
-		[1] = 3933,
+	["Marganiam"] = {
+		[1] = 5404,
 	},
-	["Shadowbraker"] = {
-		[1] = 8217,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 22,
+	["Gelgar"] = {
+		[1] = 1395,
 	},
 	["Laurwen"] = {
 		[1] = 2061,
@@ -33517,23 +33441,20 @@ DPSMateUser = {
 	["Amide"] = {
 		[1] = 6000,
 	},
-	["Sprk"] = {
-		[1] = 9476,
+	["Ikinn"] = {
+		[1] = 3933,
 	},
-	["Natsumiru"] = {
-		[1] = 9194,
+	["Firewalker"] = {
+		[1] = 968,
 	},
 	["Nadav"] = {
 		[1] = 6334,
 	},
-	["Paynisaynis"] = {
-		[1] = 1690,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 60,
+	["Mortemone"] = {
+		[1] = 12602,
 	},
-	["Wato"] = {
-		[1] = 2667,
+	["Kondoc"] = {
+		[1] = 2870,
 	},
 	["Ulrich"] = {
 		[1] = 9848,
@@ -33549,17 +33470,14 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 40,
 	},
-	["Blonka"] = {
-		[1] = 4871,
+	["Momomovv"] = {
+		[1] = 10258,
 	},
 	["Lorne"] = {
 		[1] = 102,
 	},
-	["Slappslyna"] = {
-		[1] = 9822,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 25,
+	["Fartiasd"] = {
+		[1] = 1822,
 	},
 	["Zenurik"] = {
 		[1] = 9762,
@@ -33577,8 +33495,8 @@ DPSMateUser = {
 		[2] = "warrior",
 		[3] = 1,
 	},
-	["Tyraela"] = {
-		[1] = 7227,
+	["Akheenka"] = {
+		[1] = 2222,
 	},
 	["Sangefuti"] = {
 		[1] = 12380,
@@ -33592,8 +33510,8 @@ DPSMateUser = {
 	["Bringthepom"] = {
 		[1] = 11552,
 	},
-	["Restogar"] = {
-		[1] = 8908,
+	["Fibrile"] = {
+		[1] = 8148,
 	},
 	["Jfioejfioe"] = {
 		[1] = 12378,
@@ -33601,17 +33519,14 @@ DPSMateUser = {
 	["Lepi"] = {
 		[1] = 2830,
 	},
-	["Rhauge"] = {
-		[1] = 2342,
+	["Woosah"] = {
+		[1] = 12551,
 	},
-	["Nellysummers"] = {
-		[1] = 11975,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 60,
+	["Maslinka"] = {
+		[1] = 12138,
 	},
-	["Windshear Digger"] = {
-		[1] = 8157,
+	["Damnmage"] = {
+		[1] = 3552,
 	},
 	["Nerriel"] = {
 		[1] = 10983,
@@ -33619,8 +33534,11 @@ DPSMateUser = {
 	["Rhemus"] = {
 		[1] = 8808,
 	},
-	["Faustex"] = {
-		[1] = 1898,
+	["Discodog"] = {
+		[1] = 10154,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 33,
 	},
 	["Neilboss"] = {
 		[1] = 5729,
@@ -33628,20 +33546,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Ktulh"] = {
-		[1] = 5313,
+	["Tesselate"] = {
+		[1] = 6803,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 17,
 	},
-	["Tharielle"] = {
-		[1] = 88,
+	["Marlol"] = {
+		[1] = 7863,
 	},
-	["Brouk"] = {
-		[1] = 10104,
+	["Grrntwo"] = {
+		[1] = 813,
 	},
-	["Gelgar"] = {
-		[1] = 1395,
+	["Wato"] = {
+		[1] = 2667,
 	},
-	["Fartiasd"] = {
-		[1] = 1822,
+	["Lifestealer"] = {
+		[1] = 7419,
 	},
 	["Quezina"] = {
 		[1] = 157,
@@ -33649,25 +33570,23 @@ DPSMateUser = {
 	["Zelven"] = {
 		[1] = 3217,
 	},
-	["Unholyt"] = {
-		[1] = 1983,
-		[2] = "rogue",
+	["Moonrage Darkrunner"] = {
+		[1] = 12545,
+	},
+	["Worthy"] = {
+		[1] = 11312,
+		[2] = "warrior",
 		[3] = -1,
-		[4] = false,
-		[7] = "Independents",
 		[8] = 60,
 	},
-	["Haymm"] = {
-		[1] = 9989,
-	},
-	["Kurzen Medicine Man"] = {
-		[1] = 11256,
+	["Esy"] = {
+		[1] = 12273,
 	},
 	["Bregottmacka"] = {
 		[1] = 5860,
 	},
-	["Argon"] = {
-		[1] = 11214,
+	["Lightning Totem"] = {
+		[1] = 2747,
 	},
 	["Chooey"] = {
 		[1] = 11399,
@@ -33675,14 +33594,14 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 31,
 	},
-	["Sentk"] = {
-		[1] = 13024,
+	["Eatzleep"] = {
+		[1] = 7331,
 	},
-	["Ceca"] = {
-		[1] = 5599,
+	["Positiveand"] = {
+		[1] = 12733,
 	},
-	["Dragogg"] = {
-		[1] = 5983,
+	["Evincible"] = {
+		[1] = 4342,
 	},
 	["Ziemage"] = {
 		[1] = 9060,
@@ -33696,8 +33615,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 32,
 	},
-	["Lotorpriest"] = {
-		[1] = 3889,
+	["Aty"] = {
+		[1] = 10960,
 	},
 	["Kex"] = {
 		[1] = 9602,
@@ -33705,114 +33624,82 @@ DPSMateUser = {
 	["Seluce"] = {
 		[1] = 1595,
 	},
-	["Aquariuser"] = {
-		[1] = 5274,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 21,
+	["Sweetnuts"] = {
+		[1] = 7870,
 	},
 	["Drywhisker Kobold"] = {
 		[1] = 12059,
 	},
-	["Discodog"] = {
-		[1] = 10154,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 33,
+	["Muatara"] = {
+		[1] = 398,
 	},
-	["Ruitog"] = {
-		[1] = 6284,
+	["Ttszzs"] = {
+		[1] = 4098,
 	},
-	["Great Courser"] = {
-		[1] = 8226,
+	["Luvstoospwg"] = {
+		[1] = 3920,
 	},
-	["Radioactive"] = {
-		[1] = 992,
+	["Ytwoquake"] = {
+		[1] = 3961,
 	},
 	["Noop"] = {
 		[1] = 6946,
 	},
-	["Nitro"] = {
-		[1] = 8115,
-	},
-	["Duoduomaomao"] = {
-		[1] = 11930,
-	},
-	["Iddru"] = {
-		[1] = 172,
-		[2] = "druid",
+	["Razorramona"] = {
+		[1] = 8112,
+		[2] = "warrior",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Lightning Totem"] = {
-		[1] = 2747,
-	},
-	["Ozziee"] = {
-		[1] = 9220,
-		[2] = "mage",
+	["Getgoodmate"] = {
+		[1] = 9803,
+		[2] = "rogue",
 		[3] = -1,
 		[8] = 23,
+	},
+	["Rhauge"] = {
+		[1] = 2342,
+	},
+	["Unholyt"] = {
+		[1] = 1983,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[7] = "Independents",
+		[8] = 60,
+	},
+	["Sojonis"] = {
+		[1] = 3595,
 	},
 	["Honnapick"] = {
 		[1] = 6202,
 	},
-	["Positiveand"] = {
-		[1] = 12733,
-	},
-	["Supertankman"] = {
-		[1] = 12438,
-		[2] = "warrior",
+	["Sonmy"] = {
+		[1] = 2961,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 39,
+		[8] = 4,
 	},
-	["Boeseronkel"] = {
-		[1] = 9744,
+	["Adarin"] = {
+		[1] = 7350,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 20,
+	},
+	["Lotorpriest"] = {
+		[1] = 3889,
 	},
 	["Bargak"] = {
 		[1] = 2636,
 	},
-	["Moglietiamo"] = {
-		[1] = 3028,
+	["Lasienkeli"] = {
+		[1] = 4690,
 	},
-	["Shade of Naxxramas"] = {
-		[1] = 2337,
+	["Tankeamesta"] = {
+		[1] = 6900,
 	},
-	["Serzh"] = {
-		[1] = 12741,
-	},
-	["Turbiini"] = {
-		[1] = 2728,
-		[2] = "shaman",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
-	},
-	["Flashdwight"] = {
-		[1] = 4775,
-	},
-	["Pixelator"] = {
-		[1] = 1136,
-	},
-	["Pritti"] = {
-		[1] = 13149,
-	},
-	["Teslalow"] = {
-		[1] = 57,
-	},
-	["Muatara"] = {
-		[1] = 398,
-	},
-	["Poobucket"] = {
-		[1] = 3431,
-	},
-	["Mekietassbem"] = {
-		[1] = 10714,
-	},
-	["Skullcrushrz"] = {
-		[1] = 8420,
-	},
-	["Thunderhead"] = {
-		[1] = 7346,
+	["Rohac"] = {
+		[1] = 1509,
 	},
 	["Sspll"] = {
 		[1] = 8201,
@@ -33820,14 +33707,44 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 26,
 	},
+	["Flashdwight"] = {
+		[1] = 4775,
+	},
+	["Bellatrix"] = {
+		[1] = 3579,
+	},
+	["Pritti"] = {
+		[1] = 13149,
+	},
+	["Teslalow"] = {
+		[1] = 57,
+	},
+	["Sandog"] = {
+		[1] = 10034,
+	},
+	["Poobucket"] = {
+		[1] = 3431,
+	},
+	["Mekietassbem"] = {
+		[1] = 10714,
+	},
+	["High Priestess Mar'li"] = {
+		[1] = 342,
+	},
+	["Samuel Fipps"] = {
+		[1] = 3569,
+	},
+	["Dragogg"] = {
+		[1] = 5983,
+	},
 	["Aces"] = {
 		[1] = 612,
 	},
 	["Fancerton"] = {
 		[1] = 7816,
 	},
-	["Aelador"] = {
-		[1] = 1363,
+	["Elionna"] = {
+		[1] = 11800,
 	},
 	["Giinn"] = {
 		[1] = 7365,
@@ -33841,16 +33758,14 @@ DPSMateUser = {
 	["Mealticket"] = {
 		[1] = 2793,
 	},
-	["Niniehl"] = {
-		[1] = 1485,
+	["Buried"] = {
+		[1] = 8509,
 		[2] = "priest",
-		[3] = -1,
-		[4] = false,
-		[7] = "Omni",
-		[8] = 60,
+		[3] = 1,
+		[8] = 11,
 	},
-	["Golfwang"] = {
-		[1] = 7444,
+	["Darkchilde"] = {
+		[1] = 6829,
 	},
 	["Hurtlsd"] = {
 		[1] = 9807,
@@ -33858,23 +33773,20 @@ DPSMateUser = {
 	["Yargak"] = {
 		[1] = 1193,
 	},
-	["Grambart"] = {
-		[1] = 6243,
+	["Rubikfiddler"] = {
+		[1] = 5455,
 	},
-	["Pearface"] = {
-		[1] = 10740,
+	["Juustojanne"] = {
+		[1] = 11108,
 	},
 	["Piquitx"] = {
 		[1] = 7880,
 	},
-	["Getgoodmate"] = {
-		[1] = 9803,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 23,
+	["Thewiseone"] = {
+		[1] = 1790,
 	},
-	["Fettklysa"] = {
-		[1] = 5917,
+	["Meruis"] = {
+		[1] = 5584,
 	},
 	["Gorbachov"] = {
 		[1] = 1759,
@@ -33885,11 +33797,13 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 27,
 	},
-	["Zlevyn"] = {
-		[1] = 144,
+	["Amalivis"] = {
+		[1] = 8958,
 	},
-	["Ytwoquake"] = {
-		[1] = 3961,
+	["Eltonj"] = {
+		[1] = 10322,
+		[2] = "druid",
+		[3] = 1,
 	},
 	["Marshn"] = {
 		[1] = 13300,
@@ -33906,44 +33820,47 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Plaguescream"] = {
-		[1] = 3858,
+	["Vidanzor"] = {
+		[1] = 3164,
 	},
 	["Hoknar"] = {
 		[1] = 7349,
 	},
-	["Tankeamesta"] = {
-		[1] = 6900,
+	["Holypriestla"] = {
+		[1] = 11454,
 	},
-	["Sandog"] = {
-		[1] = 10034,
+	["Drywhisker Digger"] = {
+		[1] = 12067,
 	},
-	["coco"] = {
-		[1] = 10323,
+	["Aae"] = {
+		[1] = 4009,
 	},
-	["Bewitcher"] = {
-		[1] = 4524,
+	["Sublimed"] = {
+		[1] = 6389,
 	},
 	["Gamon"] = {
 		[1] = 5490,
 	},
-	["Zilkin"] = {
-		[1] = 3475,
+	["Dpyr"] = {
+		[1] = 10742,
 	},
 	["Grak'gorg"] = {
 		[1] = 8973,
 	},
-	["Rubikfiddler"] = {
-		[1] = 5455,
+	["Thunderhead"] = {
+		[1] = 7346,
 	},
-	["Sojonis"] = {
-		[1] = 3595,
+	["Duoduomaomao"] = {
+		[1] = 11930,
 	},
-	["Darkchilde"] = {
-		[1] = 6829,
+	["Rimjab"] = {
+		[1] = 2893,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Deadray"] = {
-		[1] = 12698,
+	["Grambart"] = {
+		[1] = 6243,
 	},
 	["Seria"] = {
 		[1] = 3223,
@@ -33979,26 +33896,37 @@ DPSMateUser = {
 	["Knopka"] = {
 		[1] = 6504,
 	},
-	["Juustojanne"] = {
-		[1] = 11108,
+	["Idonthealya"] = {
+		[1] = 34,
+		[2] = "paladin",
+		[3] = -1,
+		[4] = false,
+		[7] = "Pugmasters",
+		[8] = 60,
 	},
 	["Undead Ravager"] = {
 		[1] = 12904,
 	},
-	["Aiweiwei"] = {
-		[1] = 9910,
+	["Momostar"] = {
+		[1] = 10129,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 33,
 	},
-	["Druid of the Fang"] = {
-		[1] = 7520,
+	["Komisarz"] = {
+		[1] = 5574,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 14,
 	},
 	["Dius"] = {
 		[1] = 6120,
 	},
-	["Liamnelson"] = {
-		[1] = 9709,
+	["Yooinna"] = {
+		[1] = 12815,
 		[2] = "warrior",
 		[3] = 1,
-		[8] = 32,
+		[8] = 35,
 	},
 	["Taalina"] = {
 		[1] = 10828,
@@ -34012,43 +33940,47 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 34,
 	},
-	["Gandalf"] = {
-		[1] = 8080,
-		[4] = true,
-		[6] = 5738,
+	["Deedet"] = {
+		[1] = 3592,
 	},
-	["Sochnenkaya"] = {
-		[1] = 5124,
+	["Jzong"] = {
+		[1] = 3302,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 4,
 	},
 	["Belrot"] = {
 		[1] = 3861,
 	},
-	["Samuel Fipps"] = {
-		[1] = 3569,
+	["coco"] = {
+		[1] = 10323,
 	},
-	["Decurs"] = {
-		[1] = 1908,
+	["Newkie"] = {
+		[1] = 7974,
 	},
-	["Everarda"] = {
-		[1] = 4428,
+	["Dojca"] = {
+		[1] = 9138,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Pilengator"] = {
 		[1] = 3298,
 	},
-	["Buried"] = {
-		[1] = 8509,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 11,
+	["Kelessick"] = {
+		[1] = 8387,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 21,
 	},
-	["Kriptonixo"] = {
-		[1] = 6682,
+	["Ghaammon"] = {
+		[1] = 10433,
 	},
 	["wangcai"] = {
 		[1] = 1192,
 	},
-	["Stopendr"] = {
-		[1] = 1550,
+	["Trallefaze"] = {
+		[1] = 8029,
 	},
 	["Catinaxx"] = {
 		[1] = 1029,
@@ -34065,10 +33997,8 @@ DPSMateUser = {
 	["Amnesia"] = {
 		[1] = 11904,
 	},
-	["Eltonj"] = {
-		[1] = 10322,
-		[2] = "druid",
-		[3] = 1,
+	["Dekael"] = {
+		[1] = 8467,
 	},
 	["Fajken"] = {
 		[1] = 10780,
@@ -34079,29 +34009,23 @@ DPSMateUser = {
 	["Noknik"] = {
 		[1] = 12469,
 	},
-	["Yooinna"] = {
-		[1] = 12815,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 35,
+	["Nallien"] = {
+		[1] = 10263,
 	},
-	["Nazkul"] = {
-		[1] = 11853,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Balpen"] = {
+		[1] = 9461,
 	},
-	["Shusui"] = {
-		[1] = 9482,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 60,
+	["Qmousse"] = {
+		[1] = 4133,
 	},
 	["Chotog"] = {
 		[1] = 1505,
 	},
-	["Neriv"] = {
-		[1] = 7548,
+	["Liamnelson"] = {
+		[1] = 9709,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 32,
 	},
 	["Tarasca"] = {
 		[1] = 10600,
@@ -34109,26 +34033,29 @@ DPSMateUser = {
 	["Tywrty"] = {
 		[1] = 199,
 	},
-	["Newkie"] = {
-		[1] = 7974,
+	["Sharik"] = {
+		[1] = 6172,
 	},
-	["Jfx"] = {
-		[1] = 6380,
-		[2] = "warlock",
+	["Nazkul"] = {
+		[1] = 11853,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 34,
+		[8] = 60,
 	},
-	["Holypriestla"] = {
-		[1] = 11454,
+	["Zilkin"] = {
+		[1] = 3475,
 	},
-	["Aae"] = {
-		[1] = 4009,
+	["Sochnenkaya"] = {
+		[1] = 5124,
 	},
-	["Starmoo"] = {
-		[1] = 9963,
+	["Mvd"] = {
+		[1] = 5744,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Superfireman"] = {
-		[1] = 7699,
+	["Roess"] = {
+		[1] = 6472,
 	},
 	["Sorago"] = {
 		[1] = 8527,
@@ -34145,44 +34072,47 @@ DPSMateUser = {
 	["Babbabibi"] = {
 		[1] = 3573,
 	},
-	["Arallin"] = {
-		[1] = 7916,
+	["Flowerscn"] = {
+		[1] = 6865,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 35,
 	},
-	["Harley"] = {
-		[1] = 11994,
+	["Frys"] = {
+		[1] = 65,
 	},
 	["Ceagull"] = {
 		[1] = 2676,
 	},
-	["Sublimed"] = {
-		[1] = 6389,
+	["Liosan"] = {
+		[1] = 2850,
 	},
 	["Trollzeye"] = {
 		[1] = 9903,
 	},
-	["Komisarz"] = {
-		[1] = 5574,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 14,
+	["Missionnaire"] = {
+		[1] = 2193,
 	},
-	["Glasshide Gazer"] = {
-		[1] = 2614,
+	["Rottenness"] = {
+		[1] = 3762,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 4,
 	},
 	["Blackfathom Tide Priestess"] = {
 		[1] = 8962,
 	},
-	["Deedet"] = {
-		[1] = 3592,
-	},
-	["Jzong"] = {
-		[1] = 3302,
-		[2] = "mage",
+	["Shusui"] = {
+		[1] = 9482,
+		[2] = "priest",
 		[3] = -1,
-		[8] = 4,
+		[8] = 60,
 	},
-	["Sbstjn"] = {
-		[1] = 7021,
+	["Murkshallow Snapclaw"] = {
+		[1] = 8992,
+	},
+	["Decurs"] = {
+		[1] = 1908,
 	},
 	["Rithraiden"] = {
 		[1] = 2660,
@@ -34193,11 +34123,11 @@ DPSMateUser = {
 	["Luciferik"] = {
 		[1] = 12697,
 	},
-	["Ggvvp"] = {
-		[1] = 3111,
+	["Druid of the Fang"] = {
+		[1] = 7520,
 	},
-	["Gaada"] = {
-		[1] = 4720,
+	["Everarda"] = {
+		[1] = 4428,
 	},
 	["Juraidde"] = {
 		[1] = 1396,
@@ -34208,86 +34138,38 @@ DPSMateUser = {
 	["Falx"] = {
 		[1] = 12845,
 	},
-	["Dekael"] = {
-		[1] = 8467,
+	["Bizpad"] = {
+		[1] = 4997,
 	},
-	["Doyeq"] = {
-		[1] = 6068,
+	["Maknuz"] = {
+		[1] = 8647,
 	},
 	["Rzarecta"] = {
 		[1] = 10907,
 	},
-	["Flowerscn"] = {
-		[1] = 6865,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 35,
+	["Pappakush"] = {
+		[1] = 3493,
 	},
 	["Blitsx"] = {
 		[1] = 6382,
 	},
-	["Kelessick"] = {
-		[1] = 8387,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 21,
-	},
-	["Qmousse"] = {
-		[1] = 4133,
-	},
-	["Burenqa"] = {
-		[1] = 9924,
-	},
-	["Missionnaire"] = {
-		[1] = 2193,
-	},
-	["Chopad"] = {
-		[1] = 7685,
-	},
-	["Okemage"] = {
-		[1] = 2200,
-	},
-	["Balabosha"] = {
-		[1] = 5091,
-	},
-	["Outofmanaa"] = {
-		[1] = 446,
-	},
-	["Rottenness"] = {
-		[1] = 3762,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 4,
-	},
-	["Elindriel"] = {
-		[1] = 2919,
-	},
-	["Roess"] = {
-		[1] = 6472,
-	},
-	["Maradosha"] = {
-		[1] = 5562,
-	},
-	["Hardcorejoe"] = {
-		[1] = 8599,
-	},
-	["Mvd"] = {
-		[1] = 5744,
-		[2] = "warrior",
+	["Yiffe"] = {
+		[1] = 6468,
+		[2] = "druid",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Kenthalt"] = {
-		[1] = 5225,
+	["Cursemypurse"] = {
+		[1] = 7357,
 	},
-	["Thornybull"] = {
-		[1] = 12778,
+	["Neriv"] = {
+		[1] = 7548,
 	},
-	["Roguebait"] = {
-		[1] = 13164,
+	["Trollsvett"] = {
+		[1] = 7424,
 	},
-	["Borntoslay"] = {
-		[1] = 8288,
+	["Chopad"] = {
+		[1] = 7685,
 	},
 	["Kpblckaa"] = {
 		[1] = 9489,
@@ -34295,17 +34177,67 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 27,
 	},
+	["Fukwit"] = {
+		[1] = 153,
+	},
+	["Outofmanaa"] = {
+		[1] = 446,
+	},
+	["Brainsgirl"] = {
+		[1] = 5036,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 6,
+	},
+	["Loveluoyong"] = {
+		[1] = 7719,
+	},
+	["Okemage"] = {
+		[1] = 2200,
+	},
+	["Maradosha"] = {
+		[1] = 5562,
+	},
+	["Sheepoopee"] = {
+		[1] = 1936,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Rassyu"] = {
+		[1] = 8743,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Kenthalt"] = {
+		[1] = 5225,
+	},
+	["Landazar"] = {
+		[1] = 1207,
+	},
+	["Roguebait"] = {
+		[1] = 13164,
+	},
+	["Borntoslay"] = {
+		[1] = 8288,
+	},
+	["Jfx"] = {
+		[1] = 6380,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 34,
+	},
 	["Olaar"] = {
 		[1] = 9211,
 	},
-	["Bendiesel"] = {
-		[1] = 6562,
+	["Mumphy"] = {
+		[1] = 12465,
+		[2] = "warrior",
+		[3] = 1,
 	},
-	["Shurupchik"] = {
-		[1] = 7996,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 16,
+	["Huejanus"] = {
+		[1] = 2420,
 	},
 	["Geltip"] = {
 		[1] = 297,
@@ -34331,8 +34263,8 @@ DPSMateUser = {
 	["Repassion"] = {
 		[1] = 12487,
 	},
-	["Raviolipasta"] = {
-		[1] = 9608,
+	["Qpad"] = {
+		[1] = 4348,
 	},
 	["Alexuu"] = {
 		[1] = 12905,
@@ -34340,17 +34272,17 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 35,
 	},
-	["Obsesif"] = {
-		[1] = 4644,
+	["Superfireman"] = {
+		[1] = 7699,
 	},
-	["Murkshallow Snapclaw"] = {
-		[1] = 8992,
+	["Everman"] = {
+		[1] = 11553,
 	},
-	["Sullidad"] = {
-		[1] = 7340,
+	["Thornybull"] = {
+		[1] = 12778,
 	},
-	["Bizpad"] = {
-		[1] = 4997,
+	["Tartal"] = {
+		[1] = 6291,
 	},
 	["Impressive"] = {
 		[1] = 3652,
@@ -34361,53 +34293,46 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 11,
 	},
-	["Maknuz"] = {
-		[1] = 8647,
+	["Hardcorejoe"] = {
+		[1] = 8599,
 	},
 	["Eymalla"] = {
 		[1] = 4263,
 	},
-	["Yiffe"] = {
-		[1] = 6468,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 60,
+	["Ragemaw"] = {
+		[1] = 1060,
 	},
 	["Quznam"] = {
 		[1] = 4451,
 	},
-	["Rogueonesk"] = {
-		[1] = 4406,
+	["Elindriel"] = {
+		[1] = 2919,
 	},
 	["Dabyrie Militia"] = {
 		[1] = 10356,
 	},
-	["Arturino"] = {
-		[1] = 6705,
-		[2] = "druid",
+	["Rayblack"] = {
+		[1] = 10699,
+	},
+	["Rupbis"] = {
+		[1] = 695,
+	},
+	["Kosmoor"] = {
+		[1] = 7412,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 12,
+		[8] = 17,
 	},
-	["Loveluoyong"] = {
-		[1] = 7719,
+	["Balabosha"] = {
+		[1] = 5091,
 	},
-	["Momentum"] = {
-		[1] = 2884,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Ï"] = {
+		[1] = 1946,
+		[4] = true,
+		[6] = 1896,
 	},
-	["Xioyu"] = {
-		[1] = 11354,
-	},
-	["Glavpyos"] = {
-		[1] = 13282,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 23,
-	},
-	["Rozez"] = {
-		[1] = 4695,
+	["Umpi"] = {
+		[1] = 9150,
 	},
 	["Lgx"] = {
 		[1] = 374,
@@ -34421,114 +34346,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 22,
 	},
-	["Umpi"] = {
-		[1] = 9150,
+	["Lowcall"] = {
+		[1] = 4574,
 	},
-	["Otimenlevae"] = {
-		[1] = 11863,
-	},
-	["Chonam"] = {
-		[1] = 5041,
-	},
-	["Shadowboom"] = {
-		[1] = 1519,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 60,
-	},
-	["Topciu"] = {
-		[1] = 5184,
-	},
-	["Shallamon"] = {
-		[1] = 6654,
-	},
-	["Assinian"] = {
-		[1] = 11102,
-	},
-	["Matken"] = {
-		[1] = 11624,
-	},
-	["Rabbit"] = {
-		[1] = 3010,
-	},
-	["Elus"] = {
-		[1] = 7130,
-		[2] = "priest",
-		[3] = 1,
-	},
-	["Awkwardz"] = {
-		[1] = 11612,
-	},
-	["Sheepoopee"] = {
-		[1] = 1936,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
-	},
-	["Dotsyndrome"] = {
-		[1] = 13255,
-	},
-	["Ragemaw"] = {
-		[1] = 1060,
-	},
-	["Tsix"] = {
-		[1] = 8337,
-	},
-	["Mumphy"] = {
-		[1] = 12465,
-		[2] = "warrior",
-		[3] = 1,
-	},
-	["Escapeartist"] = {
-		[1] = 1479,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 60,
-	},
-	["Guerta"] = {
-		[1] = 5564,
-	},
-	["Murq"] = {
-		[1] = 1837,
-	},
-	["Albinoni"] = {
-		[1] = 4019,
-	},
-	["Elesin"] = {
-		[1] = 3510,
-	},
-	["Fartmaster"] = {
-		[1] = 179,
-	},
-	["Clearness"] = {
-		[1] = 4417,
-	},
-	["Golemec"] = {
-		[1] = 2724,
-	},
-	["Anasim"] = {
-		[1] = 12972,
-	},
-	["Cenarion Botanist"] = {
-		[1] = 8223,
-	},
-	["Ysj"] = {
-		[1] = 3737,
-	},
-	["Solomonx"] = {
-		[1] = 3098,
-	},
-	["Domonx"] = {
-		[1] = 3355,
-	},
-	["Decrepit Darkhound"] = {
-		[1] = 4751,
-	},
-	["Ghonam"] = {
-		[1] = 4933,
-	},
-	["Dlz"] = {
-		[1] = 1123,
+	["Meliance"] = {
+		[1] = 1980,
 	},
 	["Jakyfaky"] = {
 		[1] = 12543,
@@ -34539,17 +34361,116 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 37,
 	},
+	["Topciu"] = {
+		[1] = 5184,
+	},
+	["Shallamon"] = {
+		[1] = 6654,
+	},
+	["Chonam"] = {
+		[1] = 5041,
+	},
+	["Matken"] = {
+		[1] = 11624,
+	},
+	["Zhulrok"] = {
+		[1] = 5256,
+	},
+	["Rabbit"] = {
+		[1] = 3010,
+	},
+	["Awkwardz"] = {
+		[1] = 11612,
+	},
+	["Ataegina"] = {
+		[1] = 1031,
+	},
+	["Dotsyndrome"] = {
+		[1] = 13255,
+	},
+	["Dahlinor"] = {
+		[1] = 10572,
+	},
+	["Tsix"] = {
+		[1] = 8337,
+	},
+	["Young Mesa Buzzard"] = {
+		[1] = 10493,
+	},
+	["Escapeartist"] = {
+		[1] = 1479,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
+	},
+	["Guerta"] = {
+		[1] = 5564,
+	},
+	["Arturino"] = {
+		[1] = 6705,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 12,
+	},
+	["Albinoni"] = {
+		[1] = 4019,
+	},
+	["Elesin"] = {
+		[1] = 3510,
+	},
+	["Fartmaster"] = {
+		[1] = 179,
+	},
+	["Kamil"] = {
+		[1] = 1458,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
+	},
+	["Golemec"] = {
+		[1] = 2724,
+	},
+	["Xioyu"] = {
+		[1] = 11354,
+	},
+	["Cenarion Botanist"] = {
+		[1] = 8223,
+	},
+	["Ysj"] = {
+		[1] = 3737,
+	},
+	["Solomonx"] = {
+		[1] = 3098,
+	},
+	["Kamafeu"] = {
+		[1] = 4294,
+	},
+	["Decrepit Darkhound"] = {
+		[1] = 4751,
+	},
+	["Ghonam"] = {
+		[1] = 4933,
+	},
+	["Zuzuka"] = {
+		[1] = 1625,
+	},
+	["Aptemka"] = {
+		[1] = 12534,
+	},
+	["Nosku"] = {
+		[1] = 1852,
+	},
 	["Frankylol"] = {
 		[1] = 11919,
 	},
 	["Infected Squirrel"] = {
 		[1] = 8568,
 	},
-	["Dankcronz"] = {
-		[1] = 6253,
+	["Kims"] = {
+		[1] = 650,
 	},
-	["Rupbis"] = {
-		[1] = 695,
+	["Gycat"] = {
+		[1] = 10139,
 	},
 	["Acto"] = {
 		[1] = 9987,
@@ -34577,14 +34498,11 @@ DPSMateUser = {
 	["Jfrog"] = {
 		[1] = 3114,
 	},
-	["Skillzone"] = {
-		[1] = 1117,
+	["Unclegrimmy"] = {
+		[1] = 5725,
 	},
-	["Kosmoor"] = {
-		[1] = 7412,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 17,
+	["Tarmogoyf"] = {
+		[1] = 11677,
 	},
 	["Ziffarg"] = {
 		[1] = 12036,
@@ -34595,26 +34513,29 @@ DPSMateUser = {
 	["Near"] = {
 		[1] = 4537,
 	},
-	["Lymax"] = {
-		[1] = 755,
+	["Helenka"] = {
+		[1] = 12586,
 	},
-	["Vodoochild"] = {
-		[1] = 11796,
+	["Louiskoo"] = {
+		[1] = 4724,
 	},
 	["Stromgarde Cavalryman"] = {
 		[1] = 12112,
 	},
-	["Vegangainzz"] = {
-		[1] = 5590,
+	["Rozez"] = {
+		[1] = 4695,
 	},
-	["Chump"] = {
-		[1] = 200,
+	["Vodoochild"] = {
+		[1] = 11796,
 	},
-	["Gycat"] = {
-		[1] = 10139,
+	["Vindicator"] = {
+		[1] = 5740,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 20,
 	},
-	["Jeroom"] = {
-		[1] = 5474,
+	["Quaraz"] = {
+		[1] = 3851,
 	},
 	["Yogabonito"] = {
 		[1] = 5653,
@@ -34622,14 +34543,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Tazed"] = {
-		[1] = 553,
-		[2] = "mage",
+	["Domonx"] = {
+		[1] = 3355,
+	},
+	["Shadowboom"] = {
+		[1] = 1519,
+		[2] = "priest",
 		[3] = 1,
 		[8] = 60,
-	},
-	["Thouk"] = {
-		[1] = 8774,
 	},
 	["LASTRESETDPSMATE"] = {
 		[1] = 1,
@@ -34638,11 +34559,17 @@ DPSMateUser = {
 	["Qianzizhizao"] = {
 		[1] = 12980,
 	},
-	["Quilguard Champion"] = {
-		[1] = 9370,
+	["Gumana"] = {
+		[1] = 785,
 	},
-	["Witchwing Slayer"] = {
-		[1] = 6907,
+	["Uvetta"] = {
+		[1] = 11310,
+		[2] = "warlock",
+		[3] = -1,
+		[4] = false,
+		[5] = "Ormthyk",
+		[7] = "The Italian Job",
+		[8] = 39,
 	},
 	["Ltugo"] = {
 		[1] = 2941,
@@ -34650,23 +34577,20 @@ DPSMateUser = {
 	["Hjz"] = {
 		[1] = 769,
 	},
-	["Kamafeu"] = {
-		[1] = 4294,
+	["Saso"] = {
+		[1] = 8643,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 40,
 	},
 	["Gurubashi Axe Thrower"] = {
 		[1] = 335,
 	},
-	["Nicoderm"] = {
-		[1] = 6725,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 12,
+	["Wildht"] = {
+		[1] = 11934,
 	},
-	["Paiken"] = {
-		[1] = 12909,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 37,
+	["Lymax"] = {
+		[1] = 755,
 	},
 	["Sethex"] = {
 		[1] = 11709,
@@ -34674,20 +34598,17 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 42,
 	},
-	["Xofreid"] = {
-		[1] = 4334,
+	["Oklopnik"] = {
+		[1] = 10048,
 	},
-	["Kims"] = {
-		[1] = 650,
+	["Brokenarmor"] = {
+		[1] = 6774,
 	},
-	["Biletoad"] = {
-		[1] = 7537,
+	["Dioxin"] = {
+		[1] = 12696,
 	},
-	["Tobyto"] = {
-		[1] = 4836,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 17,
+	["Bazed"] = {
+		[1] = 2216,
 	},
 	["Lillitthh"] = {
 		[1] = 8818,
@@ -34701,8 +34622,11 @@ DPSMateUser = {
 	["Helvaren"] = {
 		[1] = 3032,
 	},
-	["Unclegrimmy"] = {
-		[1] = 5725,
+	["Frostery"] = {
+		[1] = 5420,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 9,
 	},
 	["Maitre"] = {
 		[1] = 11248,
@@ -34713,8 +34637,8 @@ DPSMateUser = {
 	["Mongolli"] = {
 		[1] = 5339,
 	},
-	["Quaraz"] = {
-		[1] = 3851,
+	["Dezlol"] = {
+		[1] = 937,
 	},
 	["Iloverocks"] = {
 		[1] = 4206,
@@ -34725,8 +34649,8 @@ DPSMateUser = {
 	["Genio"] = {
 		[1] = 8055,
 	},
-	["Kapha"] = {
-		[1] = 9192,
+	["Rymax"] = {
+		[1] = 7064,
 	},
 	["Prometheusy"] = {
 		[1] = 12703,
@@ -34740,32 +34664,23 @@ DPSMateUser = {
 	["Zargat"] = {
 		[1] = 9532,
 	},
-	["Orbq"] = {
-		[1] = 4260,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 5,
+	["Bypxec"] = {
+		[1] = 2233,
 	},
 	["Pipfip"] = {
 		[1] = 4797,
 	},
-	["Woodraider"] = {
-		[1] = 7958,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 20,
+	["Phus"] = {
+		[1] = 24,
 	},
 	["Bear"] = {
 		[1] = 6367,
 	},
-	["Uvetta"] = {
-		[1] = 11310,
-		[2] = "warlock",
+	["Pirita"] = {
+		[1] = 3073,
+		[2] = "mage",
 		[3] = -1,
-		[4] = false,
-		[5] = "Ormthyk",
-		[7] = "The Italian Job",
-		[8] = 39,
+		[8] = 4,
 	},
 	["Cesnog"] = {
 		[1] = 3845,
@@ -34779,8 +34694,8 @@ DPSMateUser = {
 	["ZJY"] = {
 		[1] = 9876,
 	},
-	["Rhonnie"] = {
-		[1] = 1261,
+	["Hadouken"] = {
+		[1] = 11940,
 	},
 	["Bloomersx"] = {
 		[1] = 10585,
@@ -34791,29 +34706,26 @@ DPSMateUser = {
 	["Lorridun"] = {
 		[1] = 7323,
 	},
-	["Ronaldofan"] = {
-		[1] = 9814,
+	["Hatti"] = {
+		[1] = 10877,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 21,
 	},
 	["Onyxian Warder"] = {
 		[1] = 276,
 	},
-	["Frostery"] = {
-		[1] = 5420,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 9,
+	["Bierdosezwei"] = {
+		[1] = 1586,
 	},
-	["Oklopnik"] = {
-		[1] = 10048,
+	["Jorge"] = {
+		[1] = 2832,
 	},
 	["Blarc"] = {
 		[1] = 9844,
 	},
-	["Pemmou"] = {
-		[1] = 6433,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 1,
+	["Tarnar"] = {
+		[1] = 4849,
 	},
 	["Kidzagutta"] = {
 		[1] = 10368,
@@ -34823,38 +34735,41 @@ DPSMateUser = {
 		[7] = "Crucial Focus",
 		[8] = 38,
 	},
-	["Shadath"] = {
-		[1] = 3016,
-		[2] = "mage",
+	["Executpewpew"] = {
+		[1] = 10451,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 2,
+		[8] = 16,
 	},
-	["Magistok"] = {
-		[1] = 62,
-	},
-	["Pirita"] = {
-		[1] = 3073,
-		[2] = "mage",
+	["Orbq"] = {
+		[1] = 4260,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 4,
+		[8] = 5,
 	},
-	["Hadouken"] = {
-		[1] = 11940,
+	["Stateville"] = {
+		[1] = 10932,
 	},
-	["Carcass"] = {
-		[1] = 4692,
+	["Captured Farmer"] = {
+		[1] = 8601,
+	},
+	["Limonaba"] = {
+		[1] = 9959,
 	},
 	["Qwerzu"] = {
 		[1] = 1241,
 	},
-	["Dezlol"] = {
-		[1] = 937,
+	["Gaz"] = {
+		[1] = 5800,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 27,
 	},
 	["Hendur"] = {
 		[1] = 5168,
 	},
-	["Genecide"] = {
-		[1] = 7632,
+	["Trentilla"] = {
+		[1] = 7609,
 	},
 	["Madduck"] = {
 		[1] = 580,
@@ -34862,8 +34777,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Bierdosezwei"] = {
-		[1] = 1586,
+	["Nightcreeper"] = {
+		[1] = 10185,
 	},
 	["Tbop"] = {
 		[1] = 9156,
@@ -34874,17 +34789,14 @@ DPSMateUser = {
 	["Mahovni"] = {
 		[1] = 7045,
 	},
-	["Bypxec"] = {
-		[1] = 2233,
+	["Genecide"] = {
+		[1] = 7632,
 	},
-	["Donaton"] = {
-		[1] = 5267,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 32,
+	["Carcass"] = {
+		[1] = 4692,
 	},
-	["Jorge"] = {
-		[1] = 2832,
+	["Otimenlevae"] = {
+		[1] = 11863,
 	},
 	["Litelite"] = {
 		[1] = 889,
@@ -34897,44 +34809,17 @@ DPSMateUser = {
 		[7] = "The love of daddy",
 		[8] = 3,
 	},
-	["Ramina"] = {
-		[1] = 3270,
+	["Morden"] = {
+		[1] = 9197,
 	},
 	["Vinsfeld"] = {
 		[1] = 5229,
 	},
-	["Gaz"] = {
-		[1] = 5800,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 27,
-	},
-	["Trentilla"] = {
-		[1] = 7609,
-	},
-	["Bolierman"] = {
-		[1] = 9151,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 38,
-	},
-	["Goreblastz"] = {
-		[1] = 916,
-	},
-	["Forgeyaboutm"] = {
-		[1] = 7249,
-	},
-	["Morden"] = {
-		[1] = 9197,
-	},
-	["Rotting Agam'ar"] = {
-		[1] = 9393,
+	["Kkekk"] = {
+		[1] = 1953,
 	},
 	["Mage Hunter"] = {
 		[1] = 12895,
-	},
-	["Illuminati"] = {
-		[1] = 9920,
 	},
 	["Hogfarmer"] = {
 		[1] = 6280,
@@ -34942,38 +34827,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 14,
 	},
-	["Woz"] = {
-		[1] = 2706,
+	["Goreblastz"] = {
+		[1] = 916,
 	},
-	["Titanwah"] = {
-		[1] = 3264,
+	["Forgeyaboutm"] = {
+		[1] = 7249,
 	},
-	["Tankstatus"] = {
-		[1] = 11913,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 35,
+	["Shadath"] = {
+		[1] = 3016,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 2,
 	},
 	["Kolkar Wrangler"] = {
 		[1] = 6098,
-	},
-	["Rhi"] = {
-		[1] = 2571,
-	},
-	["Fergeson"] = {
-		[1] = 12519,
-	},
-	["Warpanda"] = {
-		[1] = 8421,
-	},
-	["Rubbaduck"] = {
-		[1] = 2483,
-	},
-	["Holah"] = {
-		[1] = 6005,
-	},
-	["Wkedison"] = {
-		[1] = 9891,
 	},
 	["Cheyto"] = {
 		[1] = 5030,
@@ -34984,41 +34851,77 @@ DPSMateUser = {
 		[7] = "Russian sanctions",
 		[8] = 19,
 	},
+	["Illuminati"] = {
+		[1] = 9920,
+	},
+	["Dataplex"] = {
+		[1] = 12562,
+	},
+	["Woz"] = {
+		[1] = 2706,
+	},
+	["Sidaa"] = {
+		[1] = 11508,
+	},
+	["Tankstatus"] = {
+		[1] = 11913,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 35,
+	},
 	["Pumpghost"] = {
 		[1] = 8721,
 		[2] = "warrior",
 		[3] = -1,
 		[8] = 12,
 	},
-	["Necotix"] = {
-		[1] = 3182,
+	["Rhi"] = {
+		[1] = 2571,
 	},
-	["Gigihadid"] = {
-		[1] = 536,
-		[2] = "mage",
-		[3] = 1,
-		[4] = false,
-		[7] = "Oprah Windfury",
-		[8] = 60,
+	["Fergeson"] = {
+		[1] = 12519,
+	},
+	["Sdfassf"] = {
+		[1] = 2375,
+	},
+	["Rubbaduck"] = {
+		[1] = 2483,
+	},
+	["Holah"] = {
+		[1] = 6005,
+	},
+	["Klambot"] = {
+		[1] = 503,
+	},
+	["Azzy"] = {
+		[1] = 3971,
+	},
+	["Sloppymayor"] = {
+		[1] = 8287,
+	},
+	["Neveron"] = {
+		[1] = 8021,
+	},
+	["Skurt"] = {
+		[1] = 123,
 	},
 	["Mcsneezy"] = {
 		[1] = 5432,
 	},
-	["Thunderhawk Cloudscraper"] = {
-		[1] = 9161,
+	["Jinzi"] = {
+		[1] = 6360,
 	},
-	["Bowmeharder"] = {
-		[1] = 6851,
-		[2] = "hunter",
-		[3] = -1,
-		[4] = false,
-		[8] = 12,
+	["Pirobard"] = {
+		[1] = 4681,
 	},
 	["Agam'ar"] = {
 		[1] = 9392,
 	},
-	["Snaikki"] = {
-		[1] = 3558,
+	["Alxalxx"] = {
+		[1] = 5815,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 29,
 	},
 	["king"] = {
 		[1] = 12044,
@@ -35026,14 +34929,11 @@ DPSMateUser = {
 	["Seriselda"] = {
 		[1] = 11495,
 	},
-	["Oddo"] = {
-		[1] = 676,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 60,
+	["Coramana"] = {
+		[1] = 4359,
 	},
-	["Molten Giant"] = {
-		[1] = 950,
+	["Cherrokee"] = {
+		[1] = 13156,
 	},
 	["Pagtai"] = {
 		[1] = 5142,
@@ -35041,11 +34941,8 @@ DPSMateUser = {
 	["Mypcilka"] = {
 		[1] = 9577,
 	},
-	["Sadem"] = {
-		[1] = 8695,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 60,
+	["Shmuckums"] = {
+		[1] = 1755,
 	},
 	["Mirdok"] = {
 		[1] = 8102,
@@ -35053,23 +34950,26 @@ DPSMateUser = {
 	["Plate Ogre"] = {
 		[1] = 2383,
 	},
-	["Jinzi"] = {
-		[1] = 6360,
+	["Tonyfat"] = {
+		[1] = 3042,
 	},
-	["Tongpy"] = {
-		[1] = 3293,
+	["Magiemarv"] = {
+		[1] = 2664,
 	},
-	["Kayuko"] = {
-		[1] = 5837,
+	["Nagera"] = {
+		[1] = 8053,
 	},
-	["Pirobard"] = {
-		[1] = 4681,
+	["Flomaster"] = {
+		[1] = 8441,
 	},
 	["Torkku"] = {
 		[1] = 12721,
 	},
-	["Huinisanguan"] = {
-		[1] = 12459,
+	["Rottefjes"] = {
+		[1] = 2071,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Tormented Officer"] = {
 		[1] = 8624,
@@ -35077,20 +34977,23 @@ DPSMateUser = {
 	["Oldfuzi"] = {
 		[1] = 7407,
 	},
-	["Tonyfat"] = {
-		[1] = 3042,
+	["Enduro"] = {
+		[1] = 667,
 	},
 	["Ceglak"] = {
 		[1] = 8073,
 	},
-	["Karumx"] = {
-		[1] = 4423,
+	["Skunakek"] = {
+		[1] = 2226,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Feneruz"] = {
-		[1] = 483,
+	["Charred Ancient"] = {
+		[1] = 10224,
 	},
-	["Twilight Acolyte"] = {
-		[1] = 9009,
+	["Ridge Huntress"] = {
+		[1] = 12314,
 	},
 	["Piznar"] = {
 		[1] = 4257,
@@ -35110,8 +35013,8 @@ DPSMateUser = {
 	["Hato"] = {
 		[1] = 6239,
 	},
-	["Dancie"] = {
-		[1] = 1904,
+	["Kondda"] = {
+		[1] = 5554,
 	},
 	["Betancor"] = {
 		[1] = 13011,
@@ -35122,14 +35025,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Coramana"] = {
-		[1] = 4359,
+	["Derog"] = {
+		[1] = 4859,
 	},
-	["Shmuckums"] = {
-		[1] = 1755,
+	["Tongpy"] = {
+		[1] = 3293,
 	},
-	["Chila"] = {
-		[1] = 7016,
+	["Mowjoe"] = {
+		[1] = 3556,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 4,
 	},
 	["Grunzdading"] = {
 		[1] = 5403,
@@ -35137,23 +35043,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 50,
 	},
-	["Magiemarv"] = {
-		[1] = 2664,
+	["Jabulani"] = {
+		[1] = 7437,
 	},
-	["Ekenvi"] = {
-		[1] = 12050,
+	["Kiffigata"] = {
+		[1] = 3818,
 	},
-	["Eminnances"] = {
-		[1] = 12007,
+	["Huinisanguan"] = {
+		[1] = 12459,
 	},
 	["Fii"] = {
 		[1] = 2770,
 	},
-	["Talfinkle"] = {
-		[1] = 10508,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 32,
+	["Karumx"] = {
+		[1] = 4423,
 	},
 	["Gurubashi Champion"] = {
 		[1] = 347,
@@ -35164,11 +35067,14 @@ DPSMateUser = {
 	["Than"] = {
 		[1] = 4570,
 	},
-	["Regen"] = {
-		[1] = 6375,
+	["Ekenvi"] = {
+		[1] = 12050,
 	},
-	["Xiaoyuming"] = {
-		[1] = 3002,
+	["Happinessm"] = {
+		[1] = 7801,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Vilkkuz"] = {
 		[1] = 3152,
@@ -35179,8 +35085,8 @@ DPSMateUser = {
 	["Nerty"] = {
 		[1] = 7304,
 	},
-	["Derog"] = {
-		[1] = 4859,
+	["Boulderfist Brute"] = {
+		[1] = 12160,
 	},
 	["Artfool"] = {
 		[1] = 9106,
@@ -35188,23 +35094,22 @@ DPSMateUser = {
 	["Durexa"] = {
 		[1] = 5317,
 	},
-	["Thyrcana"] = {
-		[1] = 1343,
+	["Kpeatypee"] = {
+		[1] = 2610,
 	},
-	["Scago"] = {
-		[1] = 1298,
+	["Weilianmus"] = {
+		[1] = 3875,
 	},
-	["Soulravager"] = {
-		[1] = 2347,
+	["Jhaztast"] = {
+		[1] = 9245,
+		[4] = true,
+		[6] = 9246,
 	},
-	["Sowan"] = {
-		[1] = 11515,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Jegen"] = {
+		[1] = 8303,
 	},
-	["Giskaqt"] = {
-		[1] = 1770,
+	["Itschi"] = {
+		[1] = 4944,
 	},
 	["Dicnk"] = {
 		[1] = 2054,
@@ -35230,26 +35135,29 @@ DPSMateUser = {
 	["Pirotecnik"] = {
 		[1] = 9530,
 	},
-	["Ziltog"] = {
-		[1] = 4918,
+	["Illill"] = {
+		[1] = 26,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Durotagiss"] = {
 		[1] = 5690,
 	},
-	["Zodiaco"] = {
-		[1] = 5241,
+	["Regen"] = {
+		[1] = 6375,
 	},
-	["Kiffigata"] = {
-		[1] = 3818,
-	},
-	["Chubarik"] = {
-		[1] = 10971,
+	["Jobjorgos"] = {
+		[1] = 8902,
 	},
 	["Trauz"] = {
 		[1] = 11639,
 		[2] = "warrior",
 		[3] = -1,
 		[8] = 32,
+	},
+	["Mchodds"] = {
+		[1] = 9075,
 	},
 	["Jabrohni"] = {
 		[1] = 9619,
@@ -35258,17 +35166,23 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 26,
 	},
-	["Orcgasum"] = {
-		[1] = 11909,
+	["Bdhome"] = {
+		[1] = 9865,
 	},
-	["Taryap"] = {
-		[1] = 5544,
+	["Yinghy"] = {
+		[1] = 8330,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 31,
 	},
-	["Frgtr"] = {
-		[1] = 304,
+	["Kurma"] = {
+		[1] = 4579,
 	},
-	["Jegen"] = {
-		[1] = 8303,
+	["Bluwahfull"] = {
+		[1] = 10397,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Agramag"] = {
 		[1] = 13000,
@@ -35279,28 +35193,20 @@ DPSMateUser = {
 	["Nikolaisatan"] = {
 		[1] = 12588,
 	},
-	["Hearts"] = {
-		[1] = 13258,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Holybinder"] = {
+		[1] = 734,
 	},
-	["Fridgepal"] = {
-		[1] = 11744,
-		[2] = "paladin",
-		[3] = 1,
+	["Soulravager"] = {
+		[1] = 2347,
 	},
-	["Zaggir"] = {
-		[1] = 9601,
+	["Paikiller"] = {
+		[1] = 7783,
 	},
 	["Tardbarn"] = {
 		[1] = 10253,
 	},
-	["Eyeeye"] = {
-		[1] = 5715,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 14,
+	["Babygoon"] = {
+		[1] = 6755,
 	},
 	["Evilpizza"] = {
 		[1] = 10292,
@@ -35316,44 +35222,41 @@ DPSMateUser = {
 	["Jasonbourne"] = {
 		[1] = 588,
 	},
-	["Carmein"] = {
-		[1] = 12591,
+	["Eyeeye"] = {
+		[1] = 5715,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 14,
 	},
 	["Phenomenon"] = {
 		[1] = 2419,
 	},
-	["Razormane Water Seeker"] = {
-		[1] = 5527,
+	["Mooloko"] = {
+		[1] = 2847,
 	},
-	["Letiss"] = {
-		[1] = 9294,
+	["Piltrikitron"] = {
+		[1] = 1626,
 	},
-	["Jhaztast"] = {
-		[1] = 9245,
-		[4] = true,
-		[6] = 9246,
+	["Linman"] = {
+		[1] = 11557,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 34,
 	},
-	["Vladmirputin"] = {
-		[1] = 2554,
+	["Piznam"] = {
+		[1] = 3272,
 	},
 	["Abafip"] = {
 		[1] = 5475,
 	},
-	["Kickburg"] = {
-		[1] = 12899,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Dancie"] = {
+		[1] = 1904,
 	},
-	["Galanga"] = {
-		[1] = 8135,
+	["Magmadar"] = {
+		[1] = 960,
 	},
-	["Gnilajakrisa"] = {
-		[1] = 1468,
-		[2] = "priest",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Tungil"] = {
+		[1] = 2009,
 	},
 	["Acedub"] = {
 		[1] = 6356,
@@ -35367,23 +35270,23 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 34,
 	},
-	["Moogis"] = {
-		[1] = 12196,
+	["È≠ÇÊñóÁΩó"] = {
+		[1] = 2243,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Holiduck"] = {
-		[1] = 728,
+	["Antivit"] = {
+		[1] = 11046,
 	},
-	["Redsun"] = {
-		[1] = 10336,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 47,
+	["Flerm"] = {
+		[1] = 9112,
 	},
-	["Guttalax"] = {
-		[1] = 1811,
+	["Begone"] = {
+		[1] = 679,
 	},
-	["Pyrite"] = {
-		[1] = 861,
+	["Sshampoo"] = {
+		[1] = 6903,
 	},
 	["Elder Gray Bear"] = {
 		[1] = 8585,
@@ -35391,8 +35294,11 @@ DPSMateUser = {
 	["Arumaeruma"] = {
 		[1] = 12692,
 	},
-	["Kurma"] = {
-		[1] = 4579,
+	["Snowq"] = {
+		[1] = 6686,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 18,
 	},
 	["Pkthert"] = {
 		[1] = 7511,
@@ -35403,8 +35309,8 @@ DPSMateUser = {
 	["Azutek"] = {
 		[1] = 9506,
 	},
-	["Norys"] = {
-		[1] = 8156,
+	["Scago"] = {
+		[1] = 1298,
 	},
 	["High Priestess Jeklik"] = {
 		[1] = 324,
@@ -35412,17 +35318,20 @@ DPSMateUser = {
 	["Puffdelore"] = {
 		[1] = 999,
 	},
-	["Bedemanden"] = {
-		[1] = 8678,
+	["Carmein"] = {
+		[1] = 12591,
 	},
-	["Kranklis"] = {
-		[1] = 3120,
+	["Splawinn"] = {
+		[1] = 2788,
 	},
-	["Bigging"] = {
-		[1] = 1865,
+	["Brainguy"] = {
+		[1] = 4455,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 6,
 	},
-	["Mptree"] = {
-		[1] = 2723,
+	["Updogg"] = {
+		[1] = 8865,
 	},
 	["Deadshots"] = {
 		[1] = 641,
@@ -35430,32 +35339,35 @@ DPSMateUser = {
 	["Lord Kri"] = {
 		[1] = 2582,
 	},
-	["Logansmn"] = {
-		[1] = 1161,
+	["Moocenary"] = {
+		[1] = 5995,
 	},
-	["Royalnachos"] = {
-		[1] = 4376,
+	["Bapk"] = {
+		[1] = 4578,
 	},
 	["Summercem"] = {
 		[1] = 3309,
 	},
-	["Jormungandrs"] = {
-		[1] = 7580,
+	["Mptree"] = {
+		[1] = 2723,
 	},
-	["Flexitarian"] = {
-		[1] = 11707,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 60,
+	["Oberhofer"] = {
+		[1] = 2775,
 	},
-	["Antivit"] = {
-		[1] = 11046,
+	["Mirkfallon Keeper"] = {
+		[1] = 10174,
 	},
-	["Kalmaros"] = {
-		[1] = 9518,
+	["Deva"] = {
+		[1] = 1670,
 	},
 	["Rottendude"] = {
 		[1] = 10686,
+	},
+	["Aeroflot"] = {
+		[1] = 4150,
+	},
+	["Regnaro"] = {
+		[1] = 12505,
 	},
 	["Meshtv"] = {
 		[1] = 8086,
@@ -35463,20 +35375,14 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 26,
 	},
-	["Regnaro"] = {
-		[1] = 12505,
-	},
-	["Bepmyt"] = {
-		[1] = 11701,
-	},
 	["Tuams"] = {
 		[1] = 9127,
 	},
-	["Chengdaoming"] = {
-		[1] = 8377,
+	["Chareltje"] = {
+		[1] = 9676,
 	},
-	["Piltrikitron"] = {
-		[1] = 1626,
+	["Holiduck"] = {
+		[1] = 728,
 	},
 	["Sickest"] = {
 		[1] = 6442,
@@ -35499,14 +35405,14 @@ DPSMateUser = {
 	["Biglebowski"] = {
 		[1] = 11137,
 	},
-	["Amarokk"] = {
-		[1] = 2325,
+	["Jormungandrs"] = {
+		[1] = 7580,
 	},
-	["Splawinn"] = {
-		[1] = 2788,
+	["Bollisn"] = {
+		[1] = 8436,
 	},
-	["Luohao"] = {
-		[1] = 12582,
+	["Baron Geddon"] = {
+		[1] = 972,
 	},
 	["Mauros"] = {
 		[1] = 1345,
@@ -35517,17 +35423,17 @@ DPSMateUser = {
 	["Shiive"] = {
 		[1] = 3520,
 	},
-	["Updogg"] = {
-		[1] = 8865,
+	["Sneepy"] = {
+		[1] = 5297,
 	},
 	["Uptree"] = {
 		[1] = 10027,
 	},
-	["Magmadar"] = {
-		[1] = 960,
+	["Zuttlukt"] = {
+		[1] = 11236,
 	},
-	["Mooloko"] = {
-		[1] = 2847,
+	["Taryap"] = {
+		[1] = 5544,
 	},
 	["Sevenwind"] = {
 		[1] = 171,
@@ -35555,26 +35461,29 @@ DPSMateUser = {
 	["Bulknbad"] = {
 		[1] = 7992,
 	},
-	["Deva"] = {
-		[1] = 1670,
+	["Darkendrahl"] = {
+		[1] = 1155,
 	},
 	["Wylder"] = {
 		[1] = 1900,
 	},
-	["Flerm"] = {
-		[1] = 9112,
+	["Testen"] = {
+		[1] = 776,
 	},
 	["Fidem"] = {
 		[1] = 899,
 	},
-	["Baddabym"] = {
-		[1] = 8520,
+	["Droo"] = {
+		[1] = 821,
 	},
 	["Crz"] = {
 		[1] = 2758,
 	},
-	["Pruimelekker"] = {
-		[1] = 3003,
+	["Preisune"] = {
+		[1] = 9043,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 16,
 	},
 	["Offizier"] = {
 		[1] = 4162,
@@ -35585,26 +35494,29 @@ DPSMateUser = {
 	["Tubbyx"] = {
 		[1] = 4759,
 	},
-	["Imbalabim"] = {
-		[1] = 11782,
+	["Mauri"] = {
+		[1] = 6823,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Deathguard Lundmark"] = {
 		[1] = 4824,
 	},
-	["Azlock"] = {
-		[1] = 10776,
+	["Critizen"] = {
+		[1] = 7244,
 	},
 	["Sawtooth Crocolisk"] = {
 		[1] = 13343,
 	},
-	["Moonlightv"] = {
-		[1] = 2978,
+	["Luohao"] = {
+		[1] = 12582,
 	},
-	["Moocenary"] = {
-		[1] = 5995,
+	["Aylamo"] = {
+		[1] = 2310,
 	},
-	["Bapk"] = {
-		[1] = 4578,
+	["Rotting Dead"] = {
+		[1] = 4773,
 	},
 	["Kidlee"] = {
 		[1] = 672,
@@ -35624,8 +35536,8 @@ DPSMateUser = {
 	["Ronald"] = {
 		[1] = 6667,
 	},
-	["Mamamia"] = {
-		[1] = 8744,
+	["Nacksout"] = {
+		[1] = 12655,
 	},
 	["Copypaste"] = {
 		[1] = 456,
@@ -35633,40 +35545,34 @@ DPSMateUser = {
 	["Breadgun"] = {
 		[1] = 894,
 	},
-	["Baron Geddon"] = {
-		[1] = 972,
+	["Crusades"] = {
+		[1] = 2374,
 	},
 	["Nordstorm"] = {
 		[1] = 13180,
 	},
-	["Bollisn"] = {
-		[1] = 8436,
+	["Amarokk"] = {
+		[1] = 2325,
 	},
-	["Haththak"] = {
-		[1] = 9810,
+	["Patchwerks"] = {
+		[1] = 2829,
 	},
-	["Lingli"] = {
-		[1] = 1470,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[7] = "Niubility",
-		[8] = 60,
+	["Yillisia"] = {
+		[1] = 7798,
+		[2] = "priest",
+		[3] = 1,
 	},
-	["Nacksout"] = {
-		[1] = 12655,
+	["Vectrix"] = {
+		[1] = 11985,
 	},
 	["Lothnar"] = {
 		[1] = 2710,
 	},
-	["Wuliya"] = {
-		[1] = 7167,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 24,
+	["Kocmu"] = {
+		[1] = 4173,
 	},
-	["Anelfiam"] = {
-		[1] = 4313,
+	["Leila"] = {
+		[1] = 2403,
 	},
 	["Twobface"] = {
 		[1] = 4270,
@@ -35674,17 +35580,17 @@ DPSMateUser = {
 	["Graz'nagma"] = {
 		[1] = 5330,
 	},
-	["Hare"] = {
-		[1] = 8751,
+	["Bludrot"] = {
+		[1] = 11964,
 	},
-	["Aylamo"] = {
-		[1] = 2310,
+	["Shmoopafied"] = {
+		[1] = 9498,
 	},
-	["Tibano"] = {
-		[1] = 8416,
+	["Azlock"] = {
+		[1] = 10776,
 	},
-	["Spicelyfe"] = {
-		[1] = 4981,
+	["Anelfiam"] = {
+		[1] = 4313,
 	},
 	["Enlightenone"] = {
 		[1] = 5925,
@@ -35692,17 +35598,22 @@ DPSMateUser = {
 	["Maydiie"] = {
 		[1] = 2037,
 	},
-	["Irondude"] = {
-		[1] = 7009,
+	["Sepposuhari"] = {
+		[1] = 11009,
 	},
 	["Kuz"] = {
 		[1] = 8328,
 	},
-	["Crusades"] = {
-		[1] = 2374,
+	["Toiletrogue"] = {
+		[1] = 3537,
 	},
-	["Vulksy"] = {
-		[1] = 1219,
+	["Waterloocow"] = {
+		[1] = 6795,
+		[2] = "warrior",
+		[3] = -1,
+		[4] = false,
+		[7] = "lol and wow",
+		[8] = 29,
 	},
 	["Xarago"] = {
 		[1] = 9061,
@@ -35710,14 +35621,14 @@ DPSMateUser = {
 	["Krellick"] = {
 		[1] = 6186,
 	},
-	["Bludrot"] = {
-		[1] = 11964,
+	["Crabjjke"] = {
+		[1] = 12722,
 	},
-	["Saldone"] = {
-		[1] = 539,
+	["Kronzo"] = {
+		[1] = 6669,
 	},
-	["Miszatok"] = {
-		[1] = 4276,
+	["Kairs"] = {
+		[1] = 7488,
 	},
 	["Bowega"] = {
 		[1] = 6406,
@@ -35733,20 +35644,20 @@ DPSMateUser = {
 		[7] = "Gandalfs Haka",
 		[8] = 60,
 	},
-	["Patchwerks"] = {
-		[1] = 2829,
+	["Gotay"] = {
+		[1] = 1981,
 	},
-	["Netimeni"] = {
-		[1] = 1596,
-	},
-	["Lolx"] = {
-		[1] = 9809,
+	["Alwaysteste"] = {
+		[1] = 2827,
 		[2] = "mage",
 		[3] = -1,
-		[8] = 22,
+		[8] = 60,
 	},
-	["Kocmu"] = {
-		[1] = 4173,
+	["Stormlingx"] = {
+		[1] = 863,
+	},
+	["Vulksy"] = {
+		[1] = 1219,
 	},
 	["Bowyou"] = {
 		[1] = 13267,
@@ -35757,17 +35668,14 @@ DPSMateUser = {
 	["Molx"] = {
 		[1] = 12658,
 	},
-	["Leila"] = {
-		[1] = 2403,
+	["Fearcreater"] = {
+		[1] = 4130,
 	},
 	["Sap Beast"] = {
 		[1] = 8221,
 	},
-	["Shoyi"] = {
-		[1] = 5310,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 11,
+	["Oldmoney"] = {
+		[1] = 10951,
 	},
 	["Burnsy"] = {
 		[1] = 10243,
@@ -35775,35 +35683,41 @@ DPSMateUser = {
 	["Splasher"] = {
 		[1] = 2432,
 	},
-	["Fredas"] = {
-		[1] = 9716,
+	["Xiaolata"] = {
+		[1] = 12357,
 	},
-	["Gfasho"] = {
-		[1] = 2205,
+	["Okamie"] = {
+		[1] = 9656,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 35,
 	},
-	["Fakinsupahh"] = {
-		[1] = 8538,
+	["Tridoknight"] = {
+		[1] = 9031,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 23,
 	},
 	["Black Ravager"] = {
 		[1] = 13296,
 	},
-	["Kronzo"] = {
-		[1] = 6669,
+	["Pruimelekker"] = {
+		[1] = 3003,
 	},
 	["Rotting Ancestor"] = {
 		[1] = 5210,
 	},
-	["Oldmoney"] = {
-		[1] = 10951,
+	["Miszatok"] = {
+		[1] = 4276,
 	},
 	["Moxpwns"] = {
 		[1] = 9338,
 	},
-	["Kairs"] = {
-		[1] = 7488,
+	["Thago"] = {
+		[1] = 6658,
 	},
-	["Sarjuk"] = {
-		[1] = 9243,
+	["Gti"] = {
+		[1] = 10855,
 	},
 	["Meisel"] = {
 		[1] = 12092,
@@ -35814,11 +35728,11 @@ DPSMateUser = {
 	["Dudud"] = {
 		[1] = 2980,
 	},
-	["Laiy"] = {
-		[1] = 5384,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Freyy"] = {
+		[1] = 8264,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 20,
 	},
 	["Faceoff"] = {
 		[1] = 6372,
@@ -35826,64 +35740,61 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 15,
 	},
-	["Envoymajeh"] = {
-		[1] = 7625,
+	["fillerlily"] = {
+		[1] = 6715,
 	},
 	["Mickeyknoxx"] = {
 		[1] = 2838,
 	},
-	["Nirithes"] = {
-		[1] = 11028,
+	["Kayuko"] = {
+		[1] = 5837,
 	},
-	["Thago"] = {
-		[1] = 6658,
-	},
-	["Tridoknight"] = {
-		[1] = 9031,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 23,
-	},
-	["Alwaysteste"] = {
-		[1] = 2827,
-		[2] = "mage",
+	["Ironcliff"] = {
+		[1] = 1808,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 60,
+		[8] = 52,
+	},
+	["Razorclaw the Butcher"] = {
+		[1] = 8614,
+	},
+	["Netimeni"] = {
+		[1] = 1596,
 	},
 	["Jhonnysnow"] = {
 		[1] = 3927,
 	},
-	["Uravghuntard"] = {
-		[1] = 12537,
+	["Sylfaen"] = {
+		[1] = 9118,
 	},
 	["Tritonis"] = {
 		[1] = 4935,
 	},
-	["Venin"] = {
-		[1] = 10308,
-		[2] = "hunter",
+	["Laiy"] = {
+		[1] = 5384,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 12,
+		[8] = 60,
 	},
 	["Chofip"] = {
 		[1] = 4868,
 	},
-	["fillerlily"] = {
-		[1] = 6715,
-	},
-	["Arxkanite"] = {
-		[1] = 9820,
-		[2] = "mage",
-		[3] = 1,
-	},
-	["Priesticute"] = {
-		[1] = 8648,
-		[2] = "priest",
+	["Lingli"] = {
+		[1] = 1470,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 18,
+		[4] = false,
+		[7] = "Niubility",
+		[8] = 60,
+	},
+	["Devyxdd"] = {
+		[1] = 6464,
 	},
 	["Ghofip"] = {
 		[1] = 4818,
+	},
+	["Nirithes"] = {
+		[1] = 11028,
 	},
 	["Kanya"] = {
 		[1] = 2566,
@@ -35891,17 +35802,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Freyy"] = {
-		[1] = 8264,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 20,
+	["Alysaalysa"] = {
+		[1] = 8298,
 	},
-	["Devyxdd"] = {
-		[1] = 6464,
+	["Praimer"] = {
+		[1] = 10156,
 	},
-	["Jameskunt"] = {
-		[1] = 7987,
+	["Zidar"] = {
+		[1] = 152,
 	},
 	["Lincler"] = {
 		[1] = 1424,
@@ -35909,8 +35817,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Moam"] = {
-		[1] = 878,
+	["Eijki"] = {
+		[1] = 10377,
 	},
 	["Megamag"] = {
 		[1] = 11768,
@@ -35918,21 +35826,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 34,
 	},
-	["Marveller"] = {
-		[1] = 461,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Duskwolf"] = {
+		[1] = 5458,
 	},
 	["Krogar"] = {
 		[1] = 11446,
 	},
-	["Bloodseeker Bat"] = {
-		[1] = 320,
+	["Rattlecage Soldier"] = {
+		[1] = 5178,
 	},
-	["Jimmpan"] = {
-		[1] = 2733,
+	["Kailiy"] = {
+		[1] = 9590,
 	},
 	["Infectore"] = {
 		[1] = 12584,
@@ -35946,8 +35850,8 @@ DPSMateUser = {
 	["Snowynight"] = {
 		[1] = 2248,
 	},
-	["Blood of Agamaggan"] = {
-		[1] = 9391,
+	["Ambulatory"] = {
+		[1] = 5334,
 	},
 	["Biscuitgirl"] = {
 		[1] = 12945,
@@ -35958,35 +35862,35 @@ DPSMateUser = {
 	["Ditto"] = {
 		[1] = 906,
 	},
-	["Morcwollburg"] = {
-		[1] = 9109,
+	["Seeutoo"] = {
+		[1] = 9993,
 	},
-	["Fartoofrail"] = {
-		[1] = 4331,
+	["Erearaes"] = {
+		[1] = 1792,
 	},
-	["Rattlecage Soldier"] = {
-		[1] = 5178,
+	["Yeavine"] = {
+		[1] = 10124,
 	},
 	["Finalized"] = {
 		[1] = 3572,
 	},
-	["Bubbledbeard"] = {
-		[1] = 1217,
+	["Twistofcain"] = {
+		[1] = 7915,
 	},
-	["Vendept"] = {
-		[1] = 12589,
+	["Flyhert"] = {
+		[1] = 3317,
 	},
 	["Crag Coyote"] = {
 		[1] = 13246,
 	},
-	["Eijki"] = {
-		[1] = 10377,
+	["Bwadangul"] = {
+		[1] = 11378,
 	},
 	["Wakalong"] = {
 		[1] = 11140,
 	},
-	["Duskwolf"] = {
-		[1] = 5458,
+	["Suxarec"] = {
+		[1] = 1947,
 	},
 	["Thugpalace"] = {
 		[1] = 11091,
@@ -35994,11 +35898,11 @@ DPSMateUser = {
 	["Faleari"] = {
 		[1] = 2560,
 	},
-	["Splintie"] = {
-		[1] = 6565,
+	["Ormjuk"] = {
+		[1] = 7144,
 	},
-	["Erearaes"] = {
-		[1] = 1792,
+	["Shadeya"] = {
+		[1] = 13363,
 	},
 	["Sinosoldat"] = {
 		[1] = 8335,
@@ -36006,53 +35910,50 @@ DPSMateUser = {
 	["Gadraks"] = {
 		[1] = 7209,
 	},
-	["Vades"] = {
-		[1] = 3853,
+	["Cursedcapn"] = {
+		[1] = 4038,
 	},
-	["Abraxaas"] = {
-		[1] = 8012,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 34,
+	["Shamanoula"] = {
+		[1] = 1072,
 	},
-	["Ambulatory"] = {
-		[1] = 5334,
+	["Naples"] = {
+		[1] = 2453,
 	},
-	["Dviel"] = {
-		[1] = 4616,
+	["Morcwollburg"] = {
+		[1] = 9109,
 	},
 	["Scarlet Missionary"] = {
 		[1] = 5046,
 	},
-	["Wedem"] = {
-		[1] = 8271,
+	["Anfall"] = {
+		[1] = 315,
 	},
 	["Demosfen"] = {
 		[1] = 4032,
 	},
-	["Prisonerq"] = {
-		[1] = 9937,
+	["Siktirdei"] = {
+		[1] = 1716,
 	},
 	["Trilsk"] = {
 		[1] = 13111,
 	},
-	["Hltler"] = {
-		[1] = 4346,
+	["Besnakeraa"] = {
+		[1] = 13388,
 	},
-	["Substension"] = {
-		[1] = 3323,
+	["Greenfield"] = {
+		[1] = 10761,
 	},
 	["Hedengaard"] = {
 		[1] = 9436,
 	},
-	["Dinozzo"] = {
-		[1] = 3670,
+	["Otto"] = {
+		[1] = 1787,
 	},
 	["Wratherr"] = {
 		[1] = 9880,
 	},
-	["Burnone"] = {
-		[1] = 11496,
+	["Allykillah"] = {
+		[1] = 6703,
 	},
 	["Magicfrag"] = {
 		[1] = 7710,
@@ -36060,8 +35961,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 6,
 	},
-	["Iilili"] = {
-		[1] = 3586,
+	["Paladax"] = {
+		[1] = 13213,
 	},
 	["Whoopz"] = {
 		[1] = 11413,
@@ -36075,11 +35976,11 @@ DPSMateUser = {
 	["Smokess"] = {
 		[1] = 2055,
 	},
-	["Hillsbrad Peasant"] = {
-		[1] = 10171,
+	["Voyages"] = {
+		[1] = 376,
 	},
-	["Cykablyats"] = {
-		[1] = 1612,
+	["Sinepegral"] = {
+		[1] = 9333,
 	},
 	["Evilwizard"] = {
 		[1] = 7235,
@@ -36087,54 +35988,52 @@ DPSMateUser = {
 	["Floda"] = {
 		[1] = 1834,
 	},
-	["Narallil"] = {
-		[1] = 9097,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 53,
+	["Bubbledbeard"] = {
+		[1] = 1217,
 	},
-	["Ormjuk"] = {
-		[1] = 7144,
+	["Hublot"] = {
+		[1] = 1196,
+		[4] = true,
+		[6] = 1221,
 	},
-	["Naples"] = {
-		[1] = 2453,
-	},
-	["Anfall"] = {
-		[1] = 315,
-	},
-	["Mikah"] = {
-		[1] = 295,
+	["Strezzor"] = {
+		[1] = 3465,
 	},
 	["Tranom"] = {
 		[1] = 11537,
 	},
-	["Siktirdei"] = {
-		[1] = 1716,
+	["Mikah"] = {
+		[1] = 295,
 	},
-	["Mooztang"] = {
-		[1] = 6922,
+	["Sammouse"] = {
+		[1] = 4117,
 	},
-	["Hatefury Rogue"] = {
-		[1] = 10848,
+	["Zag'doc"] = {
+		[1] = 6664,
 	},
-	["Zoon"] = {
-		[1] = 3687,
-		[2] = "rogue",
-		[3] = -1,
-		[4] = false,
-		[8] = 4,
+	["Attaackk"] = {
+		[1] = 5085,
+	},
+	["Hulkinpants"] = {
+		[1] = 5880,
+	},
+	["Fag"] = {
+		[1] = 1379,
 	},
 	["Grimnagma"] = {
 		[1] = 10940,
 	},
-	["Quztip"] = {
-		[1] = 4072,
+	["Klintz"] = {
+		[1] = 3373,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 5,
 	},
 	["Robotv"] = {
 		[1] = 240,
 	},
-	["Jaimer"] = {
-		[1] = 3193,
+	["Skorpien"] = {
+		[1] = 3884,
 	},
 	["Lourly"] = {
 		[1] = 8307,
@@ -36147,16 +36046,11 @@ DPSMateUser = {
 	["Iknowyourmom"] = {
 		[1] = 8875,
 	},
-	["Torgahr"] = {
-		[1] = 5625,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 38,
+	["Xestria"] = {
+		[1] = 6459,
 	},
-	["Hublot"] = {
-		[1] = 1196,
-		[4] = true,
-		[6] = 1221,
+	["Bansheer"] = {
+		[1] = 4401,
 	},
 	["Zulikulimu"] = {
 		[1] = 2389,
@@ -36164,8 +36058,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Allrius"] = {
-		[1] = 3983,
+	["Tianying"] = {
+		[1] = 3722,
 	},
 	["Dwbeck"] = {
 		[1] = 2895,
@@ -36176,32 +36070,29 @@ DPSMateUser = {
 	["Leadieur"] = {
 		[1] = 4609,
 	},
-	["Valeheart"] = {
-		[1] = 2639,
+	["Navalibasov"] = {
+		[1] = 3015,
 	},
 	["Ruitip"] = {
 		[1] = 4650,
 	},
-	["Plzbufftrix"] = {
-		[1] = 5119,
+	["Badasswarr"] = {
+		[1] = 9080,
 	},
-	["Klintz"] = {
-		[1] = 3373,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 5,
+	["Goukaqu"] = {
+		[1] = 2916,
 	},
 	["Eckinoz"] = {
 		[1] = 9517,
 	},
-	["Strezzor"] = {
-		[1] = 3465,
+	["Coneja"] = {
+		[1] = 802,
 	},
-	["Attaackk"] = {
-		[1] = 5085,
+	["Blood of Agamaggan"] = {
+		[1] = 9391,
 	},
-	["Bakgat"] = {
-		[1] = 8296,
+	["Mordre"] = {
+		[1] = 5144,
 	},
 	["Infernal"] = {
 		[1] = 2889,
@@ -36212,20 +36103,23 @@ DPSMateUser = {
 	["Snackqt"] = {
 		[1] = 9396,
 	},
-	["Zag'doc"] = {
-		[1] = 6664,
+	["Vades"] = {
+		[1] = 3853,
 	},
 	["Qqdagger"] = {
 		[1] = 1708,
 	},
-	["Navalibasov"] = {
-		[1] = 3015,
+	["Shqm"] = {
+		[1] = 1925,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Brevhz"] = {
-		[1] = 5775,
+	["Tinkerer Sniggles"] = {
+		[1] = 6775,
 	},
-	["Pogostu"] = {
-		[1] = 11543,
+	["Spithack"] = {
+		[1] = 3616,
 	},
 	["Stumpf"] = {
 		[1] = 292,
@@ -36233,55 +36127,53 @@ DPSMateUser = {
 	["Nasilnik"] = {
 		[1] = 9342,
 	},
-	["Fdeatxd"] = {
-		[1] = 2787,
+	["Jaimer"] = {
+		[1] = 3193,
 	},
-	["Snusn"] = {
-		[1] = 1499,
+	["Zaubertrix"] = {
+		[1] = 7041,
 	},
 	["Wooly Kodo"] = {
 		[1] = 7347,
 	},
-	["Alwaysrusia"] = {
-		[1] = 42,
+	["Takasitos"] = {
+		[1] = 2621,
 	},
-	["Badasswarr"] = {
-		[1] = 9080,
+	["Burnone"] = {
+		[1] = 11496,
 	},
 	["Hunttester"] = {
 		[1] = 1886,
 	},
-	["Skitzofreek"] = {
-		[1] = 6938,
+	["Valeheart"] = {
+		[1] = 2639,
 	},
-	["Xestria"] = {
-		[1] = 6459,
+	["Greater Plainstrider"] = {
+		[1] = 5522,
 	},
 	["Venture Co. Enforcer"] = {
 		[1] = 6797,
 	},
-	["Coneja"] = {
-		[1] = 802,
+	["Explorer"] = {
+		[1] = 3452,
 	},
 	["Haseltine"] = {
 		[1] = 8701,
 	},
-	["Altman"] = {
-		[1] = 1466,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[7] = "Niubility",
-		[8] = 60,
+	["Semilk"] = {
+		[1] = 7784,
 	},
-	["Squared"] = {
-		[1] = 2622,
+	["Grakin"] = {
+		[1] = 6295,
 	},
 	["Shadowspirit"] = {
 		[1] = 1723,
 	},
-	["Greater Plainstrider"] = {
-		[1] = 5522,
+	["Huyarior"] = {
+		[1] = 5351,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 10,
 	},
 	["Brosting"] = {
 		[1] = 10716,
@@ -36289,29 +36181,29 @@ DPSMateUser = {
 	["Yiwangg"] = {
 		[1] = 13116,
 	},
-	["Soulthief"] = {
-		[1] = 1773,
+	["Rewall"] = {
+		[1] = 6047,
 	},
-	["Djrageg√∏dx"] = {
-		[1] = 2224,
-		[2] = "warrior",
+	["Amatsumi"] = {
+		[1] = 6988,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 60,
+		[8] = 21,
 	},
-	["Trilheda"] = {
-		[1] = 2388,
-	},
-	["Batusai"] = {
-		[1] = 3878,
-	},
-	["Blackpriest"] = {
-		[1] = 1223,
-	},
-	["Steveharvey"] = {
-		[1] = 11792,
+	["Margull"] = {
+		[1] = 9680,
 	},
 	["Eskorbuto"] = {
 		[1] = 564,
+	},
+	["Slamming"] = {
+		[1] = 1619,
+	},
+	["Yaztai"] = {
+		[1] = 3600,
+	},
+	["Zanofar"] = {
+		[1] = 7221,
 	},
 	["Lambkin"] = {
 		[1] = 7606,
@@ -36319,8 +36211,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Tangnar"] = {
-		[1] = 9690,
+	["Chanmander"] = {
+		[1] = 4067,
 	},
 	["Undead Scarab"] = {
 		[1] = 2151,
@@ -36328,17 +36220,17 @@ DPSMateUser = {
 	["Nobyx"] = {
 		[1] = 664,
 	},
-	["Gizmou"] = {
-		[1] = 6839,
+	["Hjelpes"] = {
+		[1] = 7149,
 		[2] = "shaman",
 		[3] = -1,
-		[8] = 21,
+		[8] = 17,
 	},
 	["Pohnis"] = {
 		[1] = 5556,
 	},
-	["Zanofar"] = {
-		[1] = 7221,
+	["Skitzofreek"] = {
+		[1] = 6938,
 	},
 	["Symetriejo"] = {
 		[1] = 2654,
@@ -36352,38 +36244,43 @@ DPSMateUser = {
 	["Xbotmachine"] = {
 		[1] = 7678,
 	},
-	["Smell"] = {
-		[1] = 2899,
-	},
-	["Slamming"] = {
-		[1] = 1619,
-	},
 	["Kuriboh"] = {
 		[1] = 11255,
 		[2] = "druid",
 		[3] = 1,
 		[8] = 30,
 	},
-	["Deadem"] = {
-		[1] = 1308,
-		[2] = "warlock",
+	["Rataz"] = {
+		[1] = 9850,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 60,
+		[4] = false,
+		[7] = "Dogs of War",
+		[8] = 29,
+	},
+	["Droemacian"] = {
+		[1] = 11601,
+	},
+	["Squared"] = {
+		[1] = 2622,
 	},
 	["Hwasini"] = {
 		[1] = 11969,
 	},
-	["Stumps"] = {
-		[1] = 562,
+	["Prismriver"] = {
+		[1] = 2116,
 	},
-	["Thewarior"] = {
-		[1] = 678,
+	["Scarlet Adept"] = {
+		[1] = 10589,
 	},
 	["Fweepy"] = {
 		[1] = 12727,
 	},
-	["Jimmypop"] = {
-		[1] = 2000,
+	["Marcus"] = {
+		[1] = 10330,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 33,
 	},
 	["Hopss"] = {
 		[1] = 9034,
@@ -36391,20 +36288,14 @@ DPSMateUser = {
 	["Elizium"] = {
 		[1] = 9901,
 	},
-	["Wizk"] = {
-		[1] = 7053,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 13,
+	["Dodjer"] = {
+		[1] = 1883,
 	},
-	["Joahna"] = {
-		[1] = 7472,
+	["Nenya"] = {
+		[1] = 8892,
 	},
-	["Marcus"] = {
-		[1] = 10330,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 33,
+	["Sagitarleon"] = {
+		[1] = 5707,
 	},
 	["Geronimo"] = {
 		[1] = 8459,
@@ -36423,23 +36314,23 @@ DPSMateUser = {
 	["Ilseuinhell"] = {
 		[1] = 1176,
 	},
-	["Helgefossmo"] = {
-		[1] = 286,
+	["Bosance"] = {
+		[1] = 5871,
 	},
-	["Broskia"] = {
-		[1] = 1853,
+	["Blackpriest"] = {
+		[1] = 1223,
 	},
 	["Bamafan"] = {
 		[1] = 12180,
 	},
-	["Prismriver"] = {
-		[1] = 2116,
+	["Pastajoe"] = {
+		[1] = 1532,
 	},
 	["Hunkpapa"] = {
 		[1] = 6148,
 	},
-	["Djeyz"] = {
-		[1] = 8907,
+	["Singapoor"] = {
+		[1] = 6901,
 	},
 	["Shlomox"] = {
 		[1] = 10994,
@@ -36450,17 +36341,20 @@ DPSMateUser = {
 	["Aladdin"] = {
 		[1] = 1177,
 	},
-	["Nenya"] = {
-		[1] = 8892,
+	["Ravert"] = {
+		[1] = 8860,
 	},
-	["Cinimon"] = {
-		[1] = 2551,
+	["Ahran"] = {
+		[1] = 12556,
 	},
-	["Singapoor"] = {
-		[1] = 6901,
+	["Jimmypop"] = {
+		[1] = 2000,
 	},
-	["Tupp"] = {
-		[1] = 11483,
+	["Gizmou"] = {
+		[1] = 6839,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 21,
 	},
 	["Infexted"] = {
 		[1] = 9691,
@@ -36468,8 +36362,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 28,
 	},
-	["Kulliradio"] = {
-		[1] = 5024,
+	["Pipuri"] = {
+		[1] = 4653,
 	},
 	["Spacekirgiz"] = {
 		[1] = 11830,
@@ -36480,14 +36374,11 @@ DPSMateUser = {
 	["Moedom"] = {
 		[1] = 10335,
 	},
-	["Huldin"] = {
-		[1] = 11630,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 58,
+	["Xamot"] = {
+		[1] = 4912,
 	},
-	["Cbags"] = {
-		[1] = 3274,
+	["Malgrond"] = {
+		[1] = 5469,
 	},
 	["Thosewords"] = {
 		[1] = 4699,
@@ -36498,17 +36389,17 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 33,
 	},
-	["Bhjghcvg"] = {
-		[1] = 691,
+	["Kulliradio"] = {
+		[1] = 5024,
 	},
 	["lillonki"] = {
 		[1] = 10909,
 	},
-	["Chillheart"] = {
-		[1] = 12842,
+	["Cinimon"] = {
+		[1] = 2551,
 	},
-	["Redbeards"] = {
-		[1] = 9465,
+	["Wretched Zombie"] = {
+		[1] = 2960,
 	},
 	["Bimbobarbie"] = {
 		[1] = 11334,
@@ -36516,8 +36407,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 40,
 	},
-	["Pastajoe"] = {
-		[1] = 1532,
+	["Exorium"] = {
+		[1] = 8719,
 	},
 	["Firebrigade"] = {
 		[1] = 1764,
@@ -36525,11 +36416,11 @@ DPSMateUser = {
 	["Qicidaru"] = {
 		[1] = 4189,
 	},
-	["Ravert"] = {
-		[1] = 8860,
+	["Flea"] = {
+		[1] = 100,
 	},
-	["Gayninja"] = {
-		[1] = 8699,
+	["Frosttits"] = {
+		[1] = 12916,
 	},
 	["Kilativ"] = {
 		[1] = 13377,
@@ -36540,23 +36431,20 @@ DPSMateUser = {
 	["Crag Stalker"] = {
 		[1] = 9288,
 	},
-	["Ltmars"] = {
-		[1] = 11110,
+	["Redbeards"] = {
+		[1] = 9465,
 	},
-	["Wretched Zombie"] = {
-		[1] = 2960,
+	["Espinz"] = {
+		[1] = 12713,
 	},
-	["Diemydarling"] = {
-		[1] = 1414,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Velpon"] = {
+		[1] = 659,
 	},
 	["Ebonroc"] = {
 		[1] = 1097,
 	},
-	["Laztai"] = {
-		[1] = 4624,
+	["Heralath Fallowbrook"] = {
+		[1] = 9389,
 	},
 	["Akxqt"] = {
 		[1] = 2349,
@@ -36576,14 +36464,17 @@ DPSMateUser = {
 	["Unnameable"] = {
 		[1] = 10805,
 	},
-	["Grimga"] = {
-		[1] = 6824,
+	["Roogug"] = {
+		[1] = 9394,
 	},
-	["Scarlet Warrior"] = {
-		[1] = 4850,
+	["Czika"] = {
+		[1] = 2011,
 	},
-	["Herqis"] = {
-		[1] = 7035,
+	["Huldin"] = {
+		[1] = 11630,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 58,
 	},
 	["Reknat"] = {
 		[1] = 2703,
@@ -36591,8 +36482,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Velpon"] = {
-		[1] = 659,
+	["Helgefossmo"] = {
+		[1] = 286,
 	},
 	["Oczymm"] = {
 		[1] = 10149,
@@ -36600,11 +36491,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Znoffis"] = {
-		[1] = 9160,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 17,
+	["Captured Scarlet Zealot"] = {
+		[1] = 4764,
 	},
 	["Falset"] = {
 		[1] = 3661,
@@ -36612,17 +36500,17 @@ DPSMateUser = {
 	["Tiggles"] = {
 		[1] = 5127,
 	},
+	["Helpmeme"] = {
+		[1] = 5348,
+	},
 	["Mcslicer"] = {
 		[1] = 3597,
 	},
-	["Loidi"] = {
-		[1] = 2093,
+	["Eutropio"] = {
+		[1] = 8444,
 	},
-	["Kritian"] = {
-		[1] = 3357,
-	},
-	["Helpmeme"] = {
-		[1] = 5348,
+	["Kcitymarket"] = {
+		[1] = 1929,
 	},
 	["Marsh Flesheater"] = {
 		[1] = 13354,
@@ -36630,28 +36518,29 @@ DPSMateUser = {
 	["Grounding Totem"] = {
 		[1] = 1422,
 	},
-	["Mandlig"] = {
-		[1] = 3499,
+	["Dofflamingo"] = {
+		[1] = 12345,
 	},
-	["Psiklone"] = {
-		[1] = 13058,
+	["Btnh"] = {
+		[1] = 8953,
 	},
-	["Blazic"] = {
-		[1] = 3393,
+	["Merentioni"] = {
+		[1] = 6132,
 	},
-	["Turbotorjus"] = {
-		[1] = 5311,
+	["Sallena"] = {
+		[1] = 7251,
 	},
-	["Jumboshrimpu"] = {
-		[1] = 11185,
-		[2] = "paladin",
-		[3] = 1,
+	["Johnxu"] = {
+		[1] = 4447,
 	},
 	["Wartongue"] = {
 		[1] = 5676,
 	},
-	["Keeper Ordanus"] = {
-		[1] = 8760,
+	["Shammyen"] = {
+		[1] = 2281,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Giovanni"] = {
 		[1] = 8781,
@@ -36669,8 +36558,8 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 40,
 	},
-	["Kcitymarket"] = {
-		[1] = 1929,
+	["Darkdarkness"] = {
+		[1] = 5270,
 	},
 	["Deriseyd"] = {
 		[1] = 11982,
@@ -36684,53 +36573,56 @@ DPSMateUser = {
 	["DeepThroat"] = {
 		[1] = 9882,
 	},
-	["Mantas"] = {
-		[1] = 2697,
-	},
 	["Belkin"] = {
 		[1] = 2897,
 	},
-	["Freewind Brave"] = {
-		[1] = 9630,
+	["Jyce"] = {
+		[1] = 3041,
 	},
-	["Allindor"] = {
-		[1] = 3503,
+	["Milkcow"] = {
+		[1] = 7891,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 25,
 	},
-	["Pastorgriff"] = {
-		[1] = 12699,
+	["Darkcoin"] = {
+		[1] = 2984,
 	},
-	["Foxxling"] = {
-		[1] = 1461,
+	["Walrow"] = {
+		[1] = 5366,
+	},
+	["Towbee"] = {
+		[1] = 4419,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 2,
 	},
 	["Frekklock"] = {
 		[1] = 8770,
 	},
-	["Adelo"] = {
-		[1] = 6436,
+	["Fellie"] = {
+		[1] = 12491,
 	},
-	["Shammyen"] = {
-		[1] = 2281,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Loidi"] = {
+		[1] = 2093,
 	},
-	["Carvinmarvin"] = {
-		[1] = 12995,
+	["Dielina"] = {
+		[1] = 1640,
 	},
 	["Boulderfist Enforcer"] = {
 		[1] = 12073,
 	},
-	["Ronderlynt"] = {
-		[1] = 2760,
+	["Littleboy"] = {
+		[1] = 3113,
 	},
-	["Noyes"] = {
-		[1] = 159,
+	["Turbotorjus"] = {
+		[1] = 5311,
 	},
 	["Kuddeldaddel"] = {
 		[1] = 6973,
 	},
-	["Darkcoin"] = {
-		[1] = 2984,
+	["Niley"] = {
+		[1] = 6109,
 	},
 	["Tyranicalz"] = {
 		[1] = 375,
@@ -36741,26 +36633,23 @@ DPSMateUser = {
 	["Demon Portal"] = {
 		[1] = 1095,
 	},
-	["Milkcow"] = {
-		[1] = 7891,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 25,
+	["Sithh"] = {
+		[1] = 8016,
 	},
 	["Locklocklock"] = {
 		[1] = 788,
 	},
-	["Fingelton"] = {
-		[1] = 11033,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 41,
+	["Zelegend"] = {
+		[1] = 12768,
 	},
-	["Sefolosha"] = {
-		[1] = 9712,
+	["Overblow"] = {
+		[1] = 4895,
 	},
-	["Littleboy"] = {
-		[1] = 3113,
+	["Nebbot"] = {
+		[1] = 9330,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 28,
 	},
 	["Antibiotick"] = {
 		[1] = 11280,
@@ -36776,26 +36665,27 @@ DPSMateUser = {
 	["Allador"] = {
 		[1] = 1266,
 	},
-	["Quinzcocaine"] = {
-		[1] = 12577,
+	["Cukkab"] = {
+		[1] = 6963,
 	},
 	["Gravehardt"] = {
 		[1] = 10424,
 	},
-	["itslit"] = {
-		[1] = 7141,
-	},
-	["Jamg"] = {
-		[1] = 13318,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 27,
-	},
-	["Niley"] = {
-		[1] = 6109,
+	["Grammogg"] = {
+		[1] = 12126,
 	},
 	["Vanquish"] = {
 		[1] = 4961,
+	},
+	["Arwz"] = {
+		[1] = 2922,
+	},
+	["Darkfour"] = {
+		[1] = 89,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[8] = 60,
 	},
 	["Tauratank"] = {
 		[1] = 10296,
@@ -36803,11 +36693,10 @@ DPSMateUser = {
 	["Psyhopata"] = {
 		[1] = 5463,
 	},
-	["Crucialx"] = {
-		[1] = 1741,
-		[2] = "priest",
+	["Jumboshrimpu"] = {
+		[1] = 11185,
+		[2] = "paladin",
 		[3] = 1,
-		[8] = 60,
 	},
 	["Neraxor"] = {
 		[1] = 13155,
@@ -36830,29 +36719,32 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Arwz"] = {
-		[1] = 2922,
+	["Hexhexerf"] = {
+		[1] = 3868,
 	},
 	["Xava"] = {
 		[1] = 13173,
 	},
-	["Harrizon"] = {
-		[1] = 4610,
+	["Betrayos"] = {
+		[1] = 10452,
 	},
-	["Finkreg"] = {
-		[1] = 7230,
-	},
-	["Warrystars"] = {
-		[1] = 10130,
-		[2] = "warrior",
+	["Fingelton"] = {
+		[1] = 11033,
+		[2] = "mage",
 		[3] = 1,
-		[8] = 33,
+		[8] = 41,
+	},
+	["Retardsquad"] = {
+		[1] = 5234,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 28,
 	},
 	["Rusgrim"] = {
 		[1] = 10100,
 	},
-	["Derbirah"] = {
-		[1] = 4169,
+	["Forthelichki"] = {
+		[1] = 1233,
 	},
 	["Citgo"] = {
 		[1] = 69,
@@ -36869,17 +36761,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 37,
 	},
-	["Derplekill"] = {
-		[1] = 10519,
+	["Lay"] = {
+		[1] = 2819,
 	},
-	["Kutuma"] = {
-		[1] = 2875,
+	["Theunded"] = {
+		[1] = 3157,
 	},
-	["Ruguowoshidj"] = {
-		[1] = 176,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Kamisayo"] = {
+		[1] = 7995,
 	},
 	["Uongongozan"] = {
 		[1] = 5873,
@@ -36890,24 +36779,19 @@ DPSMateUser = {
 	["Haitaoo"] = {
 		[1] = 10025,
 	},
-	["Ogrexx"] = {
-		[1] = 6475,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 9,
+	["Illidanevil"] = {
+		[1] = 2791,
 	},
 	["Jinsihou"] = {
 		[1] = 9980,
 	},
-	["Darkfour"] = {
-		[1] = 89,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Marmagony"] = {
+		[1] = 11197,
+		[2] = "warlock",
+		[3] = 1,
 	},
-	["Lay"] = {
-		[1] = 2819,
+	["Harrizon"] = {
+		[1] = 4610,
 	},
 	["Tankrip"] = {
 		[1] = 595,
@@ -36924,11 +36808,11 @@ DPSMateUser = {
 	["Joojz"] = {
 		[1] = 8451,
 	},
-	["Barackobama"] = {
-		[1] = 1888,
+	["Starsboy"] = {
+		[1] = 6859,
 	},
-	["Bobiboba"] = {
-		[1] = 3385,
+	["Zay"] = {
+		[1] = 128,
 	},
 	["Thinhosa"] = {
 		[1] = 7155,
@@ -36941,14 +36825,14 @@ DPSMateUser = {
 	["Lakishaa"] = {
 		[1] = 11435,
 	},
-	["Kamisayo"] = {
-		[1] = 7995,
+	["Osculer"] = {
+		[1] = 3916,
 	},
 	["Subzeroll"] = {
 		[1] = 3905,
 	},
-	["Fenrus the Devourer"] = {
-		[1] = 8631,
+	["Tresed"] = {
+		[1] = 10293,
 	},
 	["Xay"] = {
 		[1] = 698,
@@ -36965,11 +36849,11 @@ DPSMateUser = {
 	["Chepster"] = {
 		[1] = 3918,
 	},
-	["Betrayos"] = {
-		[1] = 10452,
+	["Finkreg"] = {
+		[1] = 7230,
 	},
-	["Zay"] = {
-		[1] = 128,
+	["Azadriel"] = {
+		[1] = 3045,
 	},
 	["Nawxx"] = {
 		[1] = 11114,
@@ -36977,20 +36861,20 @@ DPSMateUser = {
 	["Groarr"] = {
 		[1] = 7056,
 	},
-	["Budbonjovi"] = {
-		[1] = 6429,
+	["Yacopok"] = {
+		[1] = 8780,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Berine"] = {
 		[1] = 4822,
 	},
-	["Forthelichki"] = {
-		[1] = 1233,
+	["Atreya"] = {
+		[1] = 6498,
 	},
-	["Bcube"] = {
-		[1] = 12085,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 37,
+	["Fullybaked"] = {
+		[1] = 6061,
 	},
 	["Caneco"] = {
 		[1] = 8584,
@@ -37015,25 +36899,23 @@ DPSMateUser = {
 	["Proxis"] = {
 		[1] = 1901,
 	},
-	["Fingertrah"] = {
-		[1] = 7288,
+	["Nadava"] = {
+		[1] = 6162,
 	},
-	["Vassi"] = {
-		[1] = 7295,
-		[2] = "rogue",
+	["Spcrusher"] = {
+		[1] = 7222,
+	},
+	["Pilscollins"] = {
+		[1] = 4800,
+		[2] = "priest",
 		[3] = -1,
-		[8] = 21,
+		[8] = 15,
 	},
-	["Warthog"] = {
-		[1] = 548,
+	["Vryala"] = {
+		[1] = 4607,
 	},
-	["Meredy"] = {
-		[1] = 10878,
-		[2] = "warlock",
-		[3] = 1,
-	},
-	["Atreya"] = {
-		[1] = 6498,
+	["Schanung"] = {
+		[1] = 12773,
 	},
 	["Powadude"] = {
 		[1] = 3381,
@@ -37041,23 +36923,23 @@ DPSMateUser = {
 	["Hillsbrad Councilman"] = {
 		[1] = 10167,
 	},
-	["Fullybaked"] = {
-		[1] = 6061,
+	["Fenrus the Devourer"] = {
+		[1] = 8631,
 	},
-	["Zulgu"] = {
-		[1] = 9627,
+	["Bboi"] = {
+		[1] = 2293,
 	},
-	["Reverze"] = {
-		[1] = 12964,
+	["Noctissal"] = {
+		[1] = 4044,
 	},
-	["Pugboy"] = {
-		[1] = 12193,
-	},
-	["Inqtrl"] = {
-		[1] = 4305,
+	["Fingertrah"] = {
+		[1] = 7288,
 	},
 	["Forverlove"] = {
 		[1] = 12375,
+	},
+	["Kulsen"] = {
+		[1] = 1307,
 	},
 	["Guinn"] = {
 		[1] = 11493,
@@ -37079,11 +36961,11 @@ DPSMateUser = {
 	["Killgege"] = {
 		[1] = 12963,
 	},
-	["Zulglab"] = {
-		[1] = 1299,
+	["Pugboy"] = {
+		[1] = 12193,
 	},
-	["Spcrusher"] = {
-		[1] = 7222,
+	["Cyclowner"] = {
+		[1] = 9487,
 	},
 	["Iorrel"] = {
 		[1] = 9480,
@@ -37091,8 +36973,8 @@ DPSMateUser = {
 	["Ihpotatoes"] = {
 		[1] = 1114,
 	},
-	["Younimagegui"] = {
-		[1] = 4183,
+	["Gatar"] = {
+		[1] = 9120,
 	},
 	["Kalja"] = {
 		[1] = 6443,
@@ -37103,17 +36985,23 @@ DPSMateUser = {
 	["Belario"] = {
 		[1] = 11794,
 	},
-	["Ylva"] = {
-		[1] = 12090,
+	["Wuchen"] = {
+		[1] = 4273,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 2,
 	},
 	["Blueskyozor"] = {
 		[1] = 4114,
 	},
-	["Saahil"] = {
-		[1] = 817,
+	["Gcveintee"] = {
+		[1] = 5205,
 	},
-	["Roccoborocco"] = {
-		[1] = 2561,
+	["Tah"] = {
+		[1] = 13223,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 38,
 	},
 	["Illilliiliil"] = {
 		[1] = 12501,
@@ -37121,14 +37009,14 @@ DPSMateUser = {
 	["Hyunjoo"] = {
 		[1] = 987,
 	},
-	["Venson"] = {
-		[1] = 7198,
+	["Electryz"] = {
+		[1] = 5922,
 	},
 	["Xplotionz"] = {
 		[1] = 9454,
 	},
-	["Ipolylol"] = {
-		[1] = 230,
+	["Sitiffana"] = {
+		[1] = 596,
 	},
 	["Tankomann"] = {
 		[1] = 12981,
@@ -37136,11 +37024,11 @@ DPSMateUser = {
 	["Razorfen Totemic"] = {
 		[1] = 9367,
 	},
-	["Wabunga"] = {
-		[1] = 13052,
+	["Inqtrl"] = {
+		[1] = 4305,
 	},
-	["Electryz"] = {
-		[1] = 5922,
+	["Stollz"] = {
+		[1] = 11111,
 	},
 	["Obscenee"] = {
 		[1] = 8291,
@@ -37168,11 +37056,13 @@ DPSMateUser = {
 	["Mirelaholy"] = {
 		[1] = 11769,
 	},
-	["Schanung"] = {
-		[1] = 12773,
+	["Venson"] = {
+		[1] = 7198,
 	},
-	["Momotot"] = {
-		[1] = 10794,
+	["\\d"] = {
+		[1] = 1935,
+		[4] = true,
+		[6] = 1221,
 	},
 	["Thagomizer"] = {
 		[1] = 5718,
@@ -37195,11 +37085,11 @@ DPSMateUser = {
 	["Tuuri"] = {
 		[1] = 11490,
 	},
-	["Shameles"] = {
-		[1] = 8906,
+	["Illucious"] = {
+		[1] = 4506,
 	},
-	["Sitiffana"] = {
-		[1] = 596,
+	["Muchomojo"] = {
+		[1] = 10044,
 	},
 	["Toopnotch"] = {
 		[1] = 3380,
@@ -37207,17 +37097,17 @@ DPSMateUser = {
 	["Theonlycol"] = {
 		[1] = 2436,
 	},
-	["Wuchen"] = {
-		[1] = 4273,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 2,
+	["Holyfok"] = {
+		[1] = 1703,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Posttruth"] = {
-		[1] = 8578,
+	["Wabunga"] = {
+		[1] = 13052,
 	},
-	["Stollz"] = {
-		[1] = 11111,
+	["Kal'nagma"] = {
+		[1] = 10777,
 	},
 	["Kazgueul"] = {
 		[1] = 5947,
@@ -37225,20 +37115,14 @@ DPSMateUser = {
 	["Tahip"] = {
 		[1] = 12790,
 	},
-	["Alyina"] = {
-		[1] = 8184,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 30,
+	["Krendil"] = {
+		[1] = 3805,
 	},
 	["Pangj"] = {
 		[1] = 8917,
 	},
-	["Blecker"] = {
-		[1] = 11764,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 40,
+	["Kurynga"] = {
+		[1] = 3828,
 	},
 	["Ulkadusk"] = {
 		[1] = 2201,
@@ -37246,8 +37130,11 @@ DPSMateUser = {
 	["Laznip"] = {
 		[1] = 4637,
 	},
-	["Alphi"] = {
-		[1] = 1857,
+	["Manezinho"] = {
+		[1] = 8284,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 20,
 	},
 	["Dritijeans"] = {
 		[1] = 7173,
@@ -37258,32 +37145,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 13,
 	},
-	["Tailchaser"] = {
-		[1] = 9595,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Yveyn"] = {
+		[1] = 5238,
 	},
 	["Dainaru"] = {
 		[1] = 10063,
 	},
-	["Benman"] = {
-		[1] = 4085,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[8] = 27,
+	["Posttruth"] = {
+		[1] = 8578,
 	},
-	["\\d"] = {
-		[1] = 1935,
-		[4] = true,
-		[6] = 1221,
+	["Onyxian Whelp"] = {
+		[1] = 279,
 	},
 	["Bunny"] = {
 		[1] = 748,
 	},
-	["Illucious"] = {
-		[1] = 4506,
+	["Ranged"] = {
+		[1] = 1268,
 	},
 	["Jopis"] = {
 		[1] = 11671,
@@ -37294,8 +37172,8 @@ DPSMateUser = {
 	["Rot Hide Gnoll"] = {
 		[1] = 4898,
 	},
-	["Yveyn"] = {
-		[1] = 5238,
+	["Ipolylol"] = {
+		[1] = 230,
 	},
 	["Mannysodead"] = {
 		[1] = 8850,
@@ -37303,23 +37181,23 @@ DPSMateUser = {
 	["Sappath"] = {
 		[1] = 6411,
 	},
-	["Holyfok"] = {
-		[1] = 1703,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 60,
+	["Sidetrace"] = {
+		[1] = 10497,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 29,
 	},
-	["Nerdie"] = {
-		[1] = 7400,
+	["Halfblazed"] = {
+		[1] = 3656,
 	},
-	["Kurynga"] = {
-		[1] = 3828,
+	["Zag'thang"] = {
+		[1] = 9637,
 	},
 	["Draztik"] = {
 		[1] = 7426,
 	},
-	["Huibui"] = {
-		[1] = 7205,
+	["Razormane Hunter"] = {
+		[1] = 5608,
 	},
 	["Granddad"] = {
 		[1] = 6558,
@@ -37330,8 +37208,11 @@ DPSMateUser = {
 	["Jalmarsberg"] = {
 		[1] = 11797,
 	},
-	["Ranssi"] = {
-		[1] = 5414,
+	["Blecker"] = {
+		[1] = 11764,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 40,
 	},
 	["Judha"] = {
 		[1] = 8018,
@@ -37342,17 +37223,17 @@ DPSMateUser = {
 	["Dmh"] = {
 		[1] = 2950,
 	},
-	["Krendil"] = {
-		[1] = 3805,
+	["Deviate Viper"] = {
+		[1] = 7524,
 	},
-	["Manezinho"] = {
-		[1] = 8284,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 20,
+	["Questlove"] = {
+		[1] = 6696,
 	},
-	["Onyxian Whelp"] = {
-		[1] = 279,
+	["Tagon"] = {
+		[1] = 2280,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Derrida"] = {
 		[1] = 1776,
@@ -37375,11 +37256,11 @@ DPSMateUser = {
 	["Masculinity"] = {
 		[1] = 8474,
 	},
-	["Deviate Viper"] = {
-		[1] = 7524,
-	},
 	["Lilh"] = {
 		[1] = 4203,
+	},
+	["Ballie"] = {
+		[1] = 720,
 	},
 	["Linkii"] = {
 		[1] = 7730,
@@ -37393,32 +37274,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 44,
 	},
-	["Tagon"] = {
-		[1] = 2280,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 60,
+	["Ranssi"] = {
+		[1] = 5414,
 	},
-	["Deathbladerb"] = {
-		[1] = 7874,
+	["kissa"] = {
+		[1] = 10210,
 	},
-	["Damarus"] = {
-		[1] = 5428,
+	["Leemi"] = {
+		[1] = 6678,
 	},
-	["Snoopdog"] = {
-		[1] = 832,
+	["Zeoliza"] = {
+		[1] = 4942,
 	},
-	["Rofla"] = {
-		[1] = 1416,
-		[2] = "paladin",
-		[3] = -1,
-		[8] = 60,
+	["Zenng"] = {
+		[1] = 1330,
 	},
 	["Thizzard"] = {
 		[1] = 1208,
 	},
-	["Kharzuk"] = {
-		[1] = 5884,
+	["Ghaha"] = {
+		[1] = 3285,
 	},
 	["Toryngor"] = {
 		[1] = 11972,
@@ -37426,11 +37301,8 @@ DPSMateUser = {
 	["Luizo"] = {
 		[1] = 2901,
 	},
-	["Renardocks"] = {
-		[1] = 2057,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Kharzuk"] = {
+		[1] = 5884,
 	},
 	["Aprifex"] = {
 		[1] = 8295,
@@ -37438,17 +37310,17 @@ DPSMateUser = {
 	["Pacino"] = {
 		[1] = 2541,
 	},
-	["Ballie"] = {
-		[1] = 720,
+	["Tysta"] = {
+		[1] = 6106,
 	},
 	["Crazylyon"] = {
 		[1] = 4288,
 	},
-	["kissa"] = {
-		[1] = 10210,
-	},
 	["Aragamy"] = {
 		[1] = 6066,
+	},
+	["Dankwheat"] = {
+		[1] = 13138,
 	},
 	["Ambushhubo"] = {
 		[1] = 10772,
@@ -37465,8 +37337,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 13,
 	},
-	["bigboss"] = {
-		[1] = 11896,
+	["Galindo"] = {
+		[1] = 7255,
 	},
 	["Releaseheart"] = {
 		[1] = 8915,
@@ -37489,29 +37361,29 @@ DPSMateUser = {
 	["Haastaja"] = {
 		[1] = 9996,
 	},
-	["Mewtwo"] = {
-		[1] = 2765,
+	["bigboss"] = {
+		[1] = 11896,
 	},
 	["Hyukx"] = {
 		[1] = 5647,
 	},
-	["Bozy"] = {
-		[1] = 3717,
+	["Crackerscoob"] = {
+		[1] = 2691,
 	},
-	["Zeoliza"] = {
-		[1] = 4942,
+	["Holykitty"] = {
+		[1] = 2322,
 	},
-	["Varan"] = {
-		[1] = 271,
+	["Pfeilzon"] = {
+		[1] = 12786,
 	},
 	["Kalenka"] = {
 		[1] = 12608,
 	},
-	["Schlocked"] = {
-		[1] = 6674,
+	["Nelfatar"] = {
+		[1] = 9276,
 	},
-	["Feargood"] = {
-		[1] = 11303,
+	["Vicmai"] = {
+		[1] = 3643,
 	},
 	["Gazelle"] = {
 		[1] = 5692,
@@ -37519,17 +37391,17 @@ DPSMateUser = {
 	["Starebare"] = {
 		[1] = 1771,
 	},
-	["Raper"] = {
-		[1] = 2637,
-	},
-	["Galindo"] = {
-		[1] = 7255,
-	},
-	["Okhai"] = {
-		[1] = 8909,
-		[2] = "shaman",
+	["Renardocks"] = {
+		[1] = 2057,
+		[2] = "warrior",
 		[3] = -1,
 		[8] = 60,
+	},
+	["Oioiasudasda"] = {
+		[1] = 1515,
+	},
+	["Mikedtf"] = {
+		[1] = 8763,
 	},
 	["Atostod"] = {
 		[1] = 5752,
@@ -37558,23 +37430,11 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 36,
 	},
-	["Laznam"] = {
-		[1] = 4474,
+	["Zerry"] = {
+		[1] = 12575,
 	},
 	["Notonroids"] = {
 		[1] = 11086,
-	},
-	["Maesttro"] = {
-		[1] = 2490,
-	},
-	["Crackerscoob"] = {
-		[1] = 2691,
-	},
-	["Fdafad"] = {
-		[1] = 578,
-	},
-	["Elenmerbau"] = {
-		[1] = 3992,
 	},
 	["Ciaone"] = {
 		[1] = 4144,
@@ -37582,17 +37442,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 20,
 	},
-	["Dankmemester"] = {
-		[1] = 903,
-	},
-	["Mikedtf"] = {
-		[1] = 8763,
+	["Galak Marauder"] = {
+		[1] = 9721,
 	},
 	["Soulskiller"] = {
 		[1] = 185,
 	},
+	["Elenmerbau"] = {
+		[1] = 3992,
+	},
+	["Talleman"] = {
+		[1] = 11572,
+	},
+	["Dankmemester"] = {
+		[1] = 903,
+	},
+	["Bozy"] = {
+		[1] = 3717,
+	},
 	["Grawlock"] = {
 		[1] = 6560,
+	},
+	["Alkhuf"] = {
+		[1] = 6874,
 	},
 	["Xoxoji"] = {
 		[1] = 2314,
@@ -37600,23 +37472,26 @@ DPSMateUser = {
 	["Pompeya"] = {
 		[1] = 9970,
 	},
-	["Galak Marauder"] = {
-		[1] = 9721,
+	["Schlocked"] = {
+		[1] = 6674,
 	},
-	["Alkhuf"] = {
-		[1] = 6874,
+	["Rofla"] = {
+		[1] = 1416,
+		[2] = "paladin",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Zerry"] = {
-		[1] = 12575,
+	["Fdafad"] = {
+		[1] = 578,
 	},
-	["Nelfatar"] = {
-		[1] = 9276,
+	["Maesttro"] = {
+		[1] = 2490,
 	},
-	["Vicmai"] = {
-		[1] = 3643,
+	["Laznam"] = {
+		[1] = 4474,
 	},
-	["Oioiasudasda"] = {
-		[1] = 1515,
+	["Kvartalen"] = {
+		[1] = 4500,
 	},
 	["Notkav"] = {
 		[1] = 11799,
@@ -37624,20 +37499,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 37,
 	},
-	["Holykitty"] = {
-		[1] = 2322,
+	["Feargood"] = {
+		[1] = 11303,
 	},
-	["Pfeilzon"] = {
-		[1] = 12786,
+	["Politaheals"] = {
+		[1] = 2191,
 	},
-	["Dankwheat"] = {
-		[1] = 13138,
+	["Okhai"] = {
+		[1] = 8909,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Auvheililil"] = {
 		[1] = 11449,
 	},
-	["Ghaha"] = {
-		[1] = 3285,
+	["Raper"] = {
+		[1] = 2637,
 	},
 	["Anso"] = {
 		[1] = 1014,
@@ -37648,23 +37526,11 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Leemi"] = {
-		[1] = 6678,
+	["Varan"] = {
+		[1] = 271,
 	},
-	["Zenng"] = {
-		[1] = 1330,
-	},
-	["Politaheals"] = {
-		[1] = 2191,
-	},
-	["Kvartalen"] = {
-		[1] = 4500,
-	},
-	["Kragphog"] = {
-		[1] = 7133,
-	},
-	["Clesi"] = {
-		[1] = 4748,
+	["Mewtwo"] = {
+		[1] = 2765,
 	},
 	["Sjwarrior"] = {
 		[1] = 1073,
@@ -37672,23 +37538,32 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
+	["Skruvskalle"] = {
+		[1] = 6756,
+	},
+	["Kragphog"] = {
+		[1] = 7133,
+	},
+	["Clesi"] = {
+		[1] = 4748,
+	},
+	["Nerdie"] = {
+		[1] = 7400,
+	},
 	["Bonanaa"] = {
 		[1] = 5933,
 	},
-	["Questlove"] = {
-		[1] = 6696,
+	["Zulglab"] = {
+		[1] = 1299,
 	},
-	["Razormane Hunter"] = {
-		[1] = 5608,
+	["Snoopdog"] = {
+		[1] = 832,
 	},
-	["Halfblazed"] = {
-		[1] = 3656,
+	["Damarus"] = {
+		[1] = 5428,
 	},
-	["Sidetrace"] = {
-		[1] = 10497,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 29,
+	["Deathbladerb"] = {
+		[1] = 7874,
 	},
 	["Lockthal"] = {
 		[1] = 6324,
@@ -37698,8 +37573,11 @@ DPSMateUser = {
 		[7] = "Big D club",
 		[8] = 14,
 	},
-	["Tysta"] = {
-		[1] = 6106,
+	["Ganiccus"] = {
+		[1] = 13335,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 40,
 	},
 	["Scarlet Torturer"] = {
 		[1] = 10575,
@@ -37710,11 +37588,11 @@ DPSMateUser = {
 	["Mescalyo"] = {
 		[1] = 4057,
 	},
+	["Huibui"] = {
+		[1] = 7205,
+	},
 	["Crackysnacky"] = {
 		[1] = 5720,
-	},
-	["Skruvskalle"] = {
-		[1] = 6756,
 	},
 	["Vancwish"] = {
 		[1] = 5497,
@@ -37730,62 +37608,70 @@ DPSMateUser = {
 	["Knugarn"] = {
 		[1] = 7793,
 	},
-	["Talleman"] = {
-		[1] = 11572,
+	["Banjovi"] = {
+		[1] = 9131,
 	},
 	["Highland Fleshstalker"] = {
 		[1] = 10503,
 	},
-	["Banjovi"] = {
-		[1] = 9131,
+	["Saahil"] = {
+		[1] = 817,
 	},
-	["Ranged"] = {
-		[1] = 1268,
+	["Benman"] = {
+		[1] = 4085,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[8] = 27,
 	},
-	["Zag'thang"] = {
-		[1] = 9637,
+	["Tailchaser"] = {
+		[1] = 9595,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Ganiccus"] = {
-		[1] = 13335,
-		[2] = "priest",
+	["Bannada"] = {
+		[1] = 11745,
+		[2] = "warrior",
 		[3] = 1,
-		[8] = 40,
 	},
-	["Tah"] = {
-		[1] = 13223,
+	["Alyina"] = {
+		[1] = 8184,
 		[2] = "rogue",
 		[3] = 1,
-		[8] = 38,
+		[8] = 30,
 	},
-	["Gcveintee"] = {
-		[1] = 5205,
+	["Alphi"] = {
+		[1] = 1857,
 	},
 	["Hillsbrad Farmer"] = {
 		[1] = 9162,
 	},
-	["Gatar"] = {
-		[1] = 9120,
+	["Ylva"] = {
+		[1] = 12090,
 	},
-	["Cyclowner"] = {
-		[1] = 9487,
+	["Momotot"] = {
+		[1] = 10794,
 	},
-	["Kal'nagma"] = {
-		[1] = 10777,
+	["Shameles"] = {
+		[1] = 8906,
 	},
 	["Purgo"] = {
 		[1] = 3485,
 	},
-	["Muchomojo"] = {
-		[1] = 10044,
+	["Budbonjovi"] = {
+		[1] = 6429,
 	},
-	["Noctissal"] = {
-		[1] = 4044,
+	["Bubbleruler"] = {
+		[1] = 9345,
+		[2] = "paladin",
+		[3] = 1,
 	},
 	["Frostituerad"] = {
 		[1] = 5363,
 	},
-	["Bboi"] = {
-		[1] = 2293,
+	["Roccoborocco"] = {
+		[1] = 2561,
 	},
 	["Korrakk"] = {
 		[1] = 8577,
@@ -37802,8 +37688,8 @@ DPSMateUser = {
 		[7] = "Niubility",
 		[8] = 60,
 	},
-	["Vryala"] = {
-		[1] = 4607,
+	["Younimagegui"] = {
+		[1] = 4183,
 	},
 	["Monath"] = {
 		[1] = 5872,
@@ -37817,43 +37703,52 @@ DPSMateUser = {
 	["Chargarth"] = {
 		[1] = 6804,
 	},
-	["Kulsen"] = {
-		[1] = 1307,
+	["Barackobama"] = {
+		[1] = 1888,
 	},
 	["Illusionary Phantasm"] = {
 		[1] = 10579,
 	},
-	["Yacopok"] = {
-		[1] = 8780,
-		[2] = "druid",
+	["Reverze"] = {
+		[1] = 12964,
+	},
+	["Zulgu"] = {
+		[1] = 9627,
+	},
+	["Ogrexx"] = {
+		[1] = 6475,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 60,
+		[8] = 9,
 	},
-	["Azadriel"] = {
-		[1] = 3045,
-	},
-	["Bubbleruler"] = {
-		[1] = 9345,
-		[2] = "paladin",
+	["Meredy"] = {
+		[1] = 10878,
+		[2] = "warlock",
 		[3] = 1,
 	},
-	["Nadava"] = {
-		[1] = 6162,
+	["Vassi"] = {
+		[1] = 7295,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 21,
 	},
-	["Tresed"] = {
-		[1] = 10293,
+	["Warthog"] = {
+		[1] = 548,
 	},
-	["Starsboy"] = {
-		[1] = 6859,
-	},
-	["Osculer"] = {
-		[1] = 3916,
+	["Warrystars"] = {
+		[1] = 10130,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 33,
 	},
 	["Frzen"] = {
 		[1] = 8439,
 	},
-	["Illidanevil"] = {
-		[1] = 2791,
+	["Bcube"] = {
+		[1] = 12085,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 37,
 	},
 	["Mcstabolot"] = {
 		[1] = 12835,
@@ -37861,8 +37756,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 31,
 	},
-	["Theunded"] = {
-		[1] = 3157,
+	["Deathguard"] = {
+		[1] = 4728,
 	},
 	["Moderbein"] = {
 		[1] = 12695,
@@ -37872,13 +37767,11 @@ DPSMateUser = {
 		[2] = "warrior",
 		[3] = 1,
 	},
-	["Deathguard"] = {
-		[1] = 4728,
+	["Bobiboba"] = {
+		[1] = 3385,
 	},
-	["Bannada"] = {
-		[1] = 11745,
-		[2] = "warrior",
-		[3] = 1,
+	["Derplekill"] = {
+		[1] = 10519,
 	},
 	["Topapa"] = {
 		[1] = 10123,
@@ -37886,11 +37779,8 @@ DPSMateUser = {
 	["Evelmilla"] = {
 		[1] = 1975,
 	},
-	["Pilscollins"] = {
-		[1] = 4800,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 15,
+	["Derbirah"] = {
+		[1] = 4169,
 	},
 	["Newon"] = {
 		[1] = 5821,
@@ -37898,11 +37788,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 10,
 	},
-	["Grammogg"] = {
-		[1] = 12126,
+	["Ruguowoshidj"] = {
+		[1] = 176,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Cukkab"] = {
-		[1] = 6963,
+	["Kutuma"] = {
+		[1] = 2875,
 	},
 	["Xarog"] = {
 		[1] = 2764,
@@ -37913,43 +37806,44 @@ DPSMateUser = {
 	["Armazeddon"] = {
 		[1] = 3978,
 	},
-	["Marmagony"] = {
-		[1] = 11197,
-		[2] = "warlock",
+	["Crucialx"] = {
+		[1] = 1741,
+		[2] = "priest",
 		[3] = 1,
+		[8] = 60,
 	},
 	["Swaggerido"] = {
 		[1] = 1880,
 	},
-	["Sithh"] = {
-		[1] = 8016,
+	["Sefolosha"] = {
+		[1] = 9712,
 	},
-	["Retardsquad"] = {
-		[1] = 5234,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 28,
+	["Crystal Spine Basilisk"] = {
+		[1] = 11388,
 	},
-	["Dielina"] = {
-		[1] = 1640,
+	["itslit"] = {
+		[1] = 7141,
 	},
-	["Fellie"] = {
-		[1] = 12491,
+	["Jamg"] = {
+		[1] = 13318,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 27,
 	},
 	["Blackandedgy"] = {
 		[1] = 13247,
 	},
-	["Walrow"] = {
-		[1] = 5366,
+	["Quinzcocaine"] = {
+		[1] = 12577,
 	},
 	["Wttzm"] = {
 		[1] = 11579,
 	},
-	["Jyce"] = {
-		[1] = 3041,
+	["Noyes"] = {
+		[1] = 159,
 	},
-	["Hexhexerf"] = {
-		[1] = 3868,
+	["Foxxling"] = {
+		[1] = 1461,
 	},
 	["Tinks"] = {
 		[1] = 1370,
@@ -37957,95 +37851,95 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Btnh"] = {
-		[1] = 8953,
+	["Allindor"] = {
+		[1] = 3503,
 	},
-	["Johnxu"] = {
-		[1] = 4447,
+	["Ronderlynt"] = {
+		[1] = 2760,
 	},
-	["Sallena"] = {
-		[1] = 7251,
+	["Carvinmarvin"] = {
+		[1] = 12995,
 	},
-	["Merentioni"] = {
-		[1] = 6132,
+	["Adelo"] = {
+		[1] = 6436,
 	},
-	["Overblow"] = {
-		[1] = 4895,
+	["Freewind Brave"] = {
+		[1] = 9630,
 	},
-	["Dofflamingo"] = {
-		[1] = 12345,
+	["Pastorgriff"] = {
+		[1] = 12699,
 	},
-	["Zelegend"] = {
-		[1] = 12768,
+	["Gayninja"] = {
+		[1] = 8699,
 	},
-	["Nebbot"] = {
-		[1] = 9330,
-		[2] = "druid",
+	["Mantas"] = {
+		[1] = 2697,
+	},
+	["Znoffis"] = {
+		[1] = 9160,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 28,
+		[8] = 17,
 	},
-	["Eutropio"] = {
-		[1] = 8444,
+	["Djeyz"] = {
+		[1] = 8907,
 	},
-	["Crystal Spine Basilisk"] = {
-		[1] = 11388,
-	},
-	["Captured Scarlet Zealot"] = {
-		[1] = 4764,
+	["Keeper Ordanus"] = {
+		[1] = 8760,
 	},
 	["Shinfel"] = {
 		[1] = 2433,
 	},
-	["Towbee"] = {
-		[1] = 4419,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 2,
+	["Neprun"] = {
+		[1] = 10010,
 	},
-	["Czika"] = {
-		[1] = 2011,
+	["Blazic"] = {
+		[1] = 3393,
 	},
-	["Roogug"] = {
-		[1] = 9394,
+	["Psiklone"] = {
+		[1] = 13058,
 	},
-	["Heralath Fallowbrook"] = {
-		[1] = 9389,
+	["Mandlig"] = {
+		[1] = 3499,
 	},
 	["Curbie"] = {
 		[1] = 12617,
 	},
-	["Frosttits"] = {
-		[1] = 12916,
+	["Kritian"] = {
+		[1] = 3357,
 	},
-	["Darkdarkness"] = {
-		[1] = 5270,
+	["Zorua"] = {
+		[1] = 6613,
 	},
 	["Galak Wrangler"] = {
 		[1] = 9611,
 	},
-	["Neprun"] = {
-		[1] = 10010,
+	["Herqis"] = {
+		[1] = 7035,
 	},
-	["Flea"] = {
-		[1] = 100,
+	["Scarlet Warrior"] = {
+		[1] = 4850,
 	},
-	["Exorium"] = {
-		[1] = 8719,
+	["Grimga"] = {
+		[1] = 6824,
 	},
 	["Bartukk"] = {
 		[1] = 4517,
 	},
-	["Malgrond"] = {
-		[1] = 5469,
+	["Ltmars"] = {
+		[1] = 11110,
 	},
-	["Pipuri"] = {
-		[1] = 4653,
+	["Laztai"] = {
+		[1] = 4624,
 	},
-	["Ahran"] = {
-		[1] = 12556,
+	["Diemydarling"] = {
+		[1] = 1414,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Xamot"] = {
-		[1] = 4912,
+	["Tupp"] = {
+		[1] = 11483,
 	},
 	["Pizmir"] = {
 		[1] = 4881,
@@ -38056,17 +37950,17 @@ DPSMateUser = {
 	["Konic"] = {
 		[1] = 857,
 	},
-	["Bosance"] = {
-		[1] = 5871,
+	["Chillheart"] = {
+		[1] = 12842,
 	},
-	["Espinz"] = {
-		[1] = 12713,
+	["Bhjghcvg"] = {
+		[1] = 691,
 	},
-	["Dodjer"] = {
-		[1] = 1883,
+	["Cbags"] = {
+		[1] = 3274,
 	},
-	["Zorua"] = {
-		[1] = 6613,
+	["Loaden"] = {
+		[1] = 997,
 	},
 	["Sneuro"] = {
 		[1] = 1881,
@@ -38077,106 +37971,47 @@ DPSMateUser = {
 	["Tagamaga"] = {
 		[1] = 3079,
 	},
-	["Loaden"] = {
-		[1] = 997,
+	["Deathgrinds"] = {
+		[1] = 9766,
 	},
 	["Elder Plainstrider"] = {
 		[1] = 7215,
 	},
-	["Hjelpes"] = {
-		[1] = 7149,
-		[2] = "shaman",
+	["Broskia"] = {
+		[1] = 1853,
+	},
+	["Wizk"] = {
+		[1] = 7053,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 17,
+		[8] = 13,
 	},
-	["Deathgrinds"] = {
-		[1] = 9766,
+	["Joahna"] = {
+		[1] = 7472,
 	},
-	["Yaztai"] = {
-		[1] = 3600,
-	},
-	["Chanmander"] = {
-		[1] = 4067,
+	["Batusai"] = {
+		[1] = 3878,
 	},
 	["Living"] = {
 		[1] = 9101,
 	},
-	["Margull"] = {
-		[1] = 9680,
+	["Thewarior"] = {
+		[1] = 678,
 	},
-	["Droemacian"] = {
-		[1] = 11601,
+	["Stumps"] = {
+		[1] = 562,
 	},
-	["Amatsumi"] = {
-		[1] = 6988,
-		[2] = "mage",
+	["Deadem"] = {
+		[1] = 1308,
+		[2] = "warlock",
 		[3] = -1,
-		[8] = 21,
+		[8] = 60,
 	},
-	["Sagitarleon"] = {
-		[1] = 5707,
+	["Smell"] = {
+		[1] = 2899,
 	},
-	["Rewall"] = {
-		[1] = 6047,
-	},
-	["Scarlet Adept"] = {
-		[1] = 10589,
-	},
-	["Grakin"] = {
-		[1] = 6295,
-	},
-	["Semilk"] = {
-		[1] = 7784,
-	},
-	["Explorer"] = {
-		[1] = 3452,
-	},
-	["Rataz"] = {
-		[1] = 9850,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[7] = "Dogs of War",
-		[8] = 29,
-	},
-	["Takasitos"] = {
-		[1] = 2621,
-	},
-	["Zaubertrix"] = {
-		[1] = 7041,
-	},
-	["Tinkerer Sniggles"] = {
-		[1] = 6775,
-	},
-	["Spithack"] = {
-		[1] = 3616,
-	},
-	["Mordre"] = {
-		[1] = 5144,
-	},
-	["Kal'zazt"] = {
-		[1] = 9189,
-	},
-	["Nagash"] = {
-		[1] = 5452,
-	},
-	["Huyarior"] = {
-		[1] = 5351,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 10,
-	},
-	["Tianying"] = {
-		[1] = 3722,
-	},
-	["Bansheer"] = {
-		[1] = 4401,
-	},
-	["Soon"] = {
-		[1] = 3955,
-	},
-	["Skorpien"] = {
-		[1] = 3884,
+	["Fdeatxd"] = {
+		[1] = 2787,
 	},
 	["Neildtyson"] = {
 		[1] = 8176,
@@ -38184,17 +38019,76 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 22,
 	},
-	["Fag"] = {
-		[1] = 1379,
+	["Tangnar"] = {
+		[1] = 9690,
 	},
-	["Shqm"] = {
-		[1] = 1925,
-		[2] = "shaman",
+	["Steveharvey"] = {
+		[1] = 11792,
+	},
+	["Trilheda"] = {
+		[1] = 2388,
+	},
+	["Djrageg√∏dx"] = {
+		[1] = 2224,
+		[2] = "warrior",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Hulkinpants"] = {
-		[1] = 5880,
+	["Hatefury Rogue"] = {
+		[1] = 10848,
+	},
+	["Mooztang"] = {
+		[1] = 6922,
+	},
+	["Soulthief"] = {
+		[1] = 1773,
+	},
+	["Allrius"] = {
+		[1] = 3983,
+	},
+	["Altman"] = {
+		[1] = 1466,
+		[2] = "warrior",
+		[3] = -1,
+		[4] = false,
+		[7] = "Niubility",
+		[8] = 60,
+	},
+	["Kal'zazt"] = {
+		[1] = 9189,
+	},
+	["Nagash"] = {
+		[1] = 5452,
+	},
+	["Bakgat"] = {
+		[1] = 8296,
+	},
+	["Alwaysrusia"] = {
+		[1] = 42,
+	},
+	["Snusn"] = {
+		[1] = 1499,
+	},
+	["Soon"] = {
+		[1] = 3955,
+	},
+	["Pogostu"] = {
+		[1] = 11543,
+	},
+	["Oddzz"] = {
+		[1] = 8548,
+	},
+	["Vidalia"] = {
+		[1] = 12065,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 32,
+	},
+	["Brevhz"] = {
+		[1] = 5775,
+	},
+	["Hillsbrad Peasant"] = {
+		[1] = 10171,
 	},
 	["Sabarsin"] = {
 		[1] = 7991,
@@ -38208,23 +38102,33 @@ DPSMateUser = {
 	["Chooda"] = {
 		[1] = 11948,
 	},
-	["Goukaqu"] = {
-		[1] = 2916,
+	["Plzbufftrix"] = {
+		[1] = 5119,
 	},
-	["Sinepegral"] = {
-		[1] = 9333,
+	["Iilili"] = {
+		[1] = 3586,
 	},
-	["Voyages"] = {
-		[1] = 376,
+	["Quztip"] = {
+		[1] = 4072,
 	},
-	["Paladax"] = {
-		[1] = 13213,
+	["Zoon"] = {
+		[1] = 3687,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[8] = 4,
 	},
-	["Allykillah"] = {
-		[1] = 6703,
+	["Torgahr"] = {
+		[1] = 5625,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 38,
 	},
-	["Otto"] = {
-		[1] = 1787,
+	["Narallil"] = {
+		[1] = 9097,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 53,
 	},
 	["Bleak Worg"] = {
 		[1] = 8572,
@@ -38235,17 +38139,14 @@ DPSMateUser = {
 	["Pedrilla"] = {
 		[1] = 37,
 	},
-	["Vidalia"] = {
-		[1] = 12065,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 32,
+	["Hltler"] = {
+		[1] = 4346,
 	},
 	["Worldhello"] = {
 		[1] = 126,
 	},
-	["Shamanoula"] = {
-		[1] = 1072,
+	["Cykablyats"] = {
+		[1] = 1612,
 	},
 	["Keylaz"] = {
 		[1] = 626,
@@ -38255,56 +38156,63 @@ DPSMateUser = {
 		[2] = "rogue",
 		[3] = 1,
 	},
-	["Suxarec"] = {
-		[1] = 1947,
+	["Jimmpan"] = {
+		[1] = 2733,
 	},
-	["Bwadangul"] = {
-		[1] = 11378,
+	["Dinozzo"] = {
+		[1] = 3670,
 	},
-	["Oddzz"] = {
-		[1] = 8548,
+	["Substension"] = {
+		[1] = 3323,
 	},
-	["Flyhert"] = {
-		[1] = 3317,
+	["Prisonerq"] = {
+		[1] = 9937,
 	},
-	["Twistofcain"] = {
-		[1] = 7915,
+	["Wedem"] = {
+		[1] = 8271,
 	},
-	["Seeutoo"] = {
-		[1] = 9993,
+	["Dviel"] = {
+		[1] = 4616,
 	},
 	["Extrasuny"] = {
 		[1] = 10999,
 	},
-	["Greenfield"] = {
-		[1] = 10761,
+	["Abraxaas"] = {
+		[1] = 8012,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 34,
 	},
-	["Sammouse"] = {
-		[1] = 4117,
-	},
-	["Kailiy"] = {
-		[1] = 9590,
-	},
-	["Kraul Bat"] = {
-		[1] = 9378,
-	},
-	["Cursedcapn"] = {
-		[1] = 4038,
-	},
-	["Praimer"] = {
-		[1] = 10156,
-	},
-	["Zidar"] = {
-		[1] = 152,
+	["Splintie"] = {
+		[1] = 6565,
 	},
 	["Vaba"] = {
 		[1] = 6399,
 	},
-	["Shadeya"] = {
-		[1] = 13363,
+	["Kraul Bat"] = {
+		[1] = 9378,
 	},
-	["Alysaalysa"] = {
-		[1] = 8298,
+	["Fartoofrail"] = {
+		[1] = 4331,
+	},
+	["Vendept"] = {
+		[1] = 12589,
+	},
+	["Bloodseeker Bat"] = {
+		[1] = 320,
+	},
+	["Marveller"] = {
+		[1] = 461,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[8] = 60,
+	},
+	["Moam"] = {
+		[1] = 878,
+	},
+	["Uravghuntard"] = {
+		[1] = 12537,
 	},
 	["Hyot"] = {
 		[1] = 11159,
@@ -38315,84 +38223,85 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Yeavine"] = {
-		[1] = 10124,
+	["Rok'Alim the Pounder"] = {
+		[1] = 9736,
 	},
 	["Jaketzu"] = {
 		[1] = 11625,
 	},
-	["Gti"] = {
-		[1] = 10855,
+	["Jameskunt"] = {
+		[1] = 7987,
 	},
 	["Chonez"] = {
 		[1] = 12191,
 	},
-	["Ironcliff"] = {
-		[1] = 1808,
-		[2] = "warrior",
+	["Venin"] = {
+		[1] = 10308,
+		[2] = "hunter",
 		[3] = -1,
-		[8] = 52,
+		[8] = 12,
 	},
-	["Okamie"] = {
-		[1] = 9656,
-		[2] = "druid",
+	["Priesticute"] = {
+		[1] = 8648,
+		[2] = "priest",
 		[3] = -1,
-		[8] = 35,
+		[8] = 18,
 	},
-	["Xiaolata"] = {
-		[1] = 12357,
+	["Arxkanite"] = {
+		[1] = 9820,
+		[2] = "mage",
+		[3] = 1,
 	},
 	["Flokyy"] = {
 		[1] = 12202,
 	},
-	["Fearcreater"] = {
-		[1] = 4130,
+	["Saldone"] = {
+		[1] = 539,
 	},
 	["Victoryes"] = {
 		[1] = 4646,
 	},
-	["Stormlingx"] = {
-		[1] = 863,
+	["Envoymajeh"] = {
+		[1] = 7625,
 	},
 	["Kreenig Snarlsnout"] = {
 		[1] = 6849,
 	},
-	["Gotay"] = {
-		[1] = 1981,
+	["Sarjuk"] = {
+		[1] = 9243,
 	},
 	["Drzomboss"] = {
 		[1] = 3663,
 	},
-	["Waterloocow"] = {
-		[1] = 6795,
-		[2] = "warrior",
+	["Mamamia"] = {
+		[1] = 8744,
+	},
+	["Lolx"] = {
+		[1] = 9809,
+		[2] = "mage",
 		[3] = -1,
-		[4] = false,
-		[7] = "lol and wow",
-		[8] = 29,
+		[8] = 22,
 	},
-	["Toiletrogue"] = {
-		[1] = 3537,
+	["Fakinsupahh"] = {
+		[1] = 8538,
 	},
-	["Sepposuhari"] = {
-		[1] = 11009,
+	["Spicelyfe"] = {
+		[1] = 4981,
 	},
-	["Rok'Alim the Pounder"] = {
-		[1] = 9736,
+	["Gfasho"] = {
+		[1] = 2205,
 	},
-	["Sylfaen"] = {
-		[1] = 9118,
+	["Fredas"] = {
+		[1] = 9716,
 	},
-	["Razorclaw the Butcher"] = {
-		[1] = 8614,
+	["Psylo"] = {
+		[1] = 13384,
 	},
-	["Shmoopafied"] = {
-		[1] = 9498,
-	},
-	["Yillisia"] = {
-		[1] = 7798,
-		[2] = "priest",
-		[3] = 1,
+	["Shoyi"] = {
+		[1] = 5310,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 11,
 	},
 	["Brukmoon"] = {
 		[1] = 3184,
@@ -38412,14 +38321,14 @@ DPSMateUser = {
 	["Rubbedub"] = {
 		[1] = 4680,
 	},
-	["Rotting Dead"] = {
-		[1] = 4773,
+	["Banezillax"] = {
+		[1] = 7071,
 	},
 	["Allmanimal"] = {
 		[1] = 10444,
 	},
-	["Critizen"] = {
-		[1] = 7244,
+	["Irondude"] = {
+		[1] = 7009,
 	},
 	["Gorbal"] = {
 		[1] = 245,
@@ -38427,56 +38336,57 @@ DPSMateUser = {
 	["Maltherus"] = {
 		[1] = 7342,
 	},
-	["Mauri"] = {
-		[1] = 6823,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 13,
-	},
-	["Crabjjke"] = {
-		[1] = 12722,
-	},
-	["Preisune"] = {
-		[1] = 9043,
+	["Wuliya"] = {
+		[1] = 7167,
 		[2] = "hunter",
 		[3] = 1,
-		[8] = 16,
+		[8] = 24,
 	},
-	["Droo"] = {
-		[1] = 821,
+	["Tibano"] = {
+		[1] = 8416,
 	},
-	["Testen"] = {
-		[1] = 776,
+	["Royalnachos"] = {
+		[1] = 4376,
 	},
-	["Zuttlukt"] = {
-		[1] = 11236,
+	["Hare"] = {
+		[1] = 8751,
+	},
+	["Bigging"] = {
+		[1] = 1865,
+	},
+	["Haththak"] = {
+		[1] = 9810,
 	},
 	["Hagis"] = {
 		[1] = 9682,
 	},
-	["Ixiap"] = {
-		[1] = 4733,
+	["Casketsnap"] = {
+		[1] = 1663,
+		[2] = "priest",
+		[3] = -1,
+		[4] = false,
+		[8] = 60,
 	},
 	["Ravaged Corpse"] = {
 		[1] = 4753,
 	},
-	["Chareltje"] = {
-		[1] = 9676,
+	["Muutuja"] = {
+		[1] = 11664,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 41,
 	},
-	["Aeroflot"] = {
-		[1] = 4150,
+	["Imbalabim"] = {
+		[1] = 11782,
 	},
-	["Banezillax"] = {
-		[1] = 7071,
+	["Moogis"] = {
+		[1] = 12196,
 	},
-	["Oberhofer"] = {
-		[1] = 2775,
+	["Baddabym"] = {
+		[1] = 8520,
 	},
-	["Brainguy"] = {
-		[1] = 4455,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 6,
+	["Ixiap"] = {
+		[1] = 4733,
 	},
 	["Bigsie"] = {
 		[1] = 11463,
@@ -38490,14 +38400,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 4,
 	},
-	["Snowq"] = {
-		[1] = 6686,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 18,
+	["Moonlightv"] = {
+		[1] = 2978,
 	},
-	["Zqf"] = {
-		[1] = 10281,
+	["Bepmyt"] = {
+		[1] = 11701,
 	},
 	["Colorgraphy"] = {
 		[1] = 4940,
@@ -38505,14 +38412,20 @@ DPSMateUser = {
 	["Xancrazy"] = {
 		[1] = 5790,
 	},
-	["Vectrix"] = {
-		[1] = 11985,
+	["Hearts"] = {
+		[1] = 13258,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Sshampoo"] = {
-		[1] = 6903,
+	["Kalmaros"] = {
+		[1] = 9518,
 	},
-	["Begone"] = {
-		[1] = 679,
+	["Flexitarian"] = {
+		[1] = 11707,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Duckrubber"] = {
 		[1] = 8737,
@@ -38520,38 +38433,32 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 24,
 	},
-	["Darkendrahl"] = {
-		[1] = 1155,
+	["Kranklis"] = {
+		[1] = 3120,
 	},
-	["È≠ÇÊñóÁΩó"] = {
-		[1] = 2243,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 60,
+	["Logansmn"] = {
+		[1] = 1161,
 	},
 	["Csaleon"] = {
 		[1] = 6989,
 	},
-	["Muutuja"] = {
-		[1] = 11664,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 41,
+	["Chubarik"] = {
+		[1] = 10971,
 	},
-	["Babygoon"] = {
-		[1] = 6755,
+	["Zqf"] = {
+		[1] = 10281,
 	},
-	["Piznam"] = {
-		[1] = 3272,
+	["Norys"] = {
+		[1] = 8156,
 	},
-	["Paikiller"] = {
-		[1] = 7783,
+	["Chengdaoming"] = {
+		[1] = 8377,
 	},
 	["Tazzdinga"] = {
 		[1] = 7217,
 	},
-	["Holybinder"] = {
-		[1] = 734,
+	["Bedemanden"] = {
+		[1] = 8678,
 	},
 	["Skygg"] = {
 		[1] = 13310,
@@ -38559,65 +38466,66 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 23,
 	},
-	["Mchodds"] = {
-		[1] = 9075,
+	["Pyrite"] = {
+		[1] = 861,
 	},
-	["Mirkfallon Keeper"] = {
-		[1] = 10174,
+	["Guttalax"] = {
+		[1] = 1811,
 	},
-	["Jobjorgos"] = {
-		[1] = 8902,
+	["Redsun"] = {
+		[1] = 10336,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 47,
 	},
 	["Earthshater"] = {
 		[1] = 5887,
 	},
-	["Yinghy"] = {
-		[1] = 8330,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 31,
-	},
-	["Bdhome"] = {
-		[1] = 9865,
-	},
-	["Dagreodan"] = {
-		[1] = 10760,
-	},
-	["Illill"] = {
-		[1] = 26,
+	["Kickburg"] = {
+		[1] = 12899,
 		[2] = "rogue",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Tungil"] = {
-		[1] = 2009,
+	["Vladmirputin"] = {
+		[1] = 2554,
+	},
+	["Dagreodan"] = {
+		[1] = 10760,
+	},
+	["Gnilajakrisa"] = {
+		[1] = 1468,
+		[2] = "priest",
+		[3] = -1,
+		[4] = false,
+		[8] = 60,
+	},
+	["Galanga"] = {
+		[1] = 8135,
 	},
 	["Rot Hide Graverobber"] = {
 		[1] = 4891,
 	},
-	["Itschi"] = {
-		[1] = 4944,
+	["Zaggir"] = {
+		[1] = 9601,
 	},
-	["Kpeatypee"] = {
-		[1] = 2610,
+	["Zodiaco"] = {
+		[1] = 5241,
 	},
-	["Sneepy"] = {
-		[1] = 5297,
+	["Letiss"] = {
+		[1] = 9294,
 	},
-	["Weilianmus"] = {
-		[1] = 3875,
+	["Frgtr"] = {
+		[1] = 304,
 	},
-	["Linman"] = {
-		[1] = 11557,
-		[2] = "mage",
+	["Sowan"] = {
+		[1] = 11515,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 34,
+		[8] = 60,
 	},
-	["Happinessm"] = {
-		[1] = 7801,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 13,
+	["Orcgasum"] = {
+		[1] = 11909,
 	},
 	["Sedania"] = {
 		[1] = 6785,
@@ -38625,59 +38533,52 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 20,
 	},
-	["Mowjoe"] = {
-		[1] = 3556,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 4,
+	["Razormane Water Seeker"] = {
+		[1] = 5527,
 	},
-	["Barbaltross"] = {
-		[1] = 10262,
+	["Fridgepal"] = {
+		[1] = 11744,
+		[2] = "paladin",
+		[3] = 1,
 	},
 	["Fixxer"] = {
 		[1] = 1068,
 	},
-	["Jabulani"] = {
-		[1] = 7437,
+	["Giskaqt"] = {
+		[1] = 1770,
 	},
 	["Bazookek"] = {
 		[1] = 3397,
 	},
-	["Bluwahfull"] = {
-		[1] = 10397,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Barbaltross"] = {
+		[1] = 10262,
+	},
+	["Ziltog"] = {
+		[1] = 4918,
+	},
+	["Thyrcana"] = {
+		[1] = 1343,
 	},
 	["Creekie"] = {
 		[1] = 5864,
 	},
-	["Kondda"] = {
-		[1] = 5554,
-	},
-	["Rottefjes"] = {
-		[1] = 2071,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
-	},
 	["Bhind"] = {
 		[1] = 4611,
 	},
-	["Charred Ancient"] = {
-		[1] = 10224,
-	},
-	["Skunakek"] = {
-		[1] = 2226,
+	["Talfinkle"] = {
+		[1] = 10508,
 		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+		[3] = 1,
+		[8] = 32,
+	},
+	["Eminnances"] = {
+		[1] = 12007,
 	},
 	["Arabic"] = {
 		[1] = 11012,
 	},
-	["Nagera"] = {
-		[1] = 8053,
+	["Xiaoyuming"] = {
+		[1] = 3002,
 	},
 	["Denetor"] = {
 		[1] = 12144,
@@ -38685,30 +38586,23 @@ DPSMateUser = {
 	["Kybeon"] = {
 		[1] = 8042,
 	},
-	["Casketsnap"] = {
-		[1] = 1663,
-		[2] = "priest",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Ronaldofan"] = {
+		[1] = 9814,
 	},
-	["Boulderfist Brute"] = {
-		[1] = 12160,
+	["Chila"] = {
+		[1] = 7016,
 	},
 	["Themi"] = {
 		[1] = 3253,
 	},
-	["Cherrokee"] = {
-		[1] = 13156,
+	["Twilight Acolyte"] = {
+		[1] = 9009,
 	},
 	["Stonevault Bonesnapper"] = {
 		[1] = 12421,
 	},
-	["Alxalxx"] = {
-		[1] = 5815,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 29,
+	["Feneruz"] = {
+		[1] = 483,
 	},
 	["Murkedonyou"] = {
 		[1] = 2244,
@@ -38716,41 +38610,56 @@ DPSMateUser = {
 	["Gibbpad"] = {
 		[1] = 6211,
 	},
-	["Skurt"] = {
-		[1] = 123,
+	["Sadem"] = {
+		[1] = 8695,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Neveron"] = {
-		[1] = 8021,
+	["Molten Giant"] = {
+		[1] = 950,
 	},
-	["Ridge Huntress"] = {
-		[1] = 12314,
+	["Oddo"] = {
+		[1] = 676,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Sloppymayor"] = {
-		[1] = 8287,
+	["Snaikki"] = {
+		[1] = 3558,
 	},
-	["Azzy"] = {
-		[1] = 3971,
+	["Necotix"] = {
+		[1] = 3182,
 	},
-	["Enduro"] = {
-		[1] = 667,
+	["Thunderhawk Cloudscraper"] = {
+		[1] = 9161,
 	},
-	["Flomaster"] = {
-		[1] = 8441,
+	["Gigihadid"] = {
+		[1] = 536,
+		[2] = "mage",
+		[3] = 1,
+		[4] = false,
+		[7] = "Oprah Windfury",
+		[8] = 60,
 	},
-	["Klambot"] = {
-		[1] = 503,
+	["Warpanda"] = {
+		[1] = 8421,
 	},
-	["Dataplex"] = {
-		[1] = 12562,
+	["Bowmeharder"] = {
+		[1] = 6851,
+		[2] = "hunter",
+		[3] = -1,
+		[4] = false,
+		[8] = 12,
 	},
 	["Blandez"] = {
 		[1] = 4509,
 	},
-	["Sidaa"] = {
-		[1] = 11508,
+	["Wkedison"] = {
+		[1] = 9891,
 	},
-	["Sdfassf"] = {
-		[1] = 2375,
+	["Bankies"] = {
+		[1] = 109,
 	},
 	["Cured Gazelle"] = {
 		[1] = 5671,
@@ -38758,8 +38667,8 @@ DPSMateUser = {
 	["Amokin"] = {
 		[1] = 822,
 	},
-	["Bankies"] = {
-		[1] = 109,
+	["Qg"] = {
+		[1] = 2846,
 	},
 	["Necrows"] = {
 		[1] = 6121,
@@ -38767,44 +38676,44 @@ DPSMateUser = {
 	["Dosta"] = {
 		[1] = 3235,
 	},
-	["Nightcreeper"] = {
-		[1] = 10185,
+	["Titanwah"] = {
+		[1] = 3264,
 	},
-	["Qg"] = {
-		[1] = 2846,
+	["Dakreep"] = {
+		[1] = 7913,
 	},
 	["Retardan"] = {
 		[1] = 2372,
 	},
-	["Limonaba"] = {
-		[1] = 9959,
+	["Rotting Agam'ar"] = {
+		[1] = 9393,
 	},
 	["Lestasy"] = {
 		[1] = 8362,
 	},
-	["Executpewpew"] = {
-		[1] = 10451,
-		[2] = "rogue",
+	["Bolierman"] = {
+		[1] = 9151,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 16,
+		[8] = 38,
 	},
-	["Kkekk"] = {
-		[1] = 1953,
+	["Dlz"] = {
+		[1] = 1123,
 	},
-	["Tarnar"] = {
-		[1] = 4849,
+	["Ramina"] = {
+		[1] = 3270,
 	},
 	["Squirthonor"] = {
 		[1] = 5470,
 	},
-	["Hatti"] = {
-		[1] = 10877,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 21,
+	["Kapha"] = {
+		[1] = 9192,
 	},
-	["Captured Farmer"] = {
-		[1] = 8601,
+	["Donaton"] = {
+		[1] = 5267,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 32,
 	},
 	["Comfers"] = {
 		[1] = 309,
@@ -38815,17 +38724,20 @@ DPSMateUser = {
 	["Musta"] = {
 		[1] = 10703,
 	},
-	["Brokenarmor"] = {
-		[1] = 6774,
+	["Jeroom"] = {
+		[1] = 5474,
 	},
-	["Wildht"] = {
-		[1] = 11934,
+	["Magistok"] = {
+		[1] = 62,
 	},
-	["Bazed"] = {
-		[1] = 2216,
+	["Pemmou"] = {
+		[1] = 6433,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 1,
 	},
-	["Gumana"] = {
-		[1] = 785,
+	["Qiandu"] = {
+		[1] = 12961,
 	},
 	["Harryblaster"] = {
 		[1] = 4326,
@@ -38833,17 +38745,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 22,
 	},
-	["Stateville"] = {
-		[1] = 10932,
-	},
-	["Dakreep"] = {
-		[1] = 7913,
-	},
-	["Saso"] = {
-		[1] = 8643,
-		[2] = "mage",
+	["Mundfein"] = {
+		[1] = 8764,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 40,
+		[8] = 8,
+	},
+	["Rhonnie"] = {
+		[1] = 1261,
+	},
+	["Woodraider"] = {
+		[1] = 7958,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 20,
 	},
 	["Makkresh"] = {
 		[1] = 6786,
@@ -38854,44 +38769,53 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Phus"] = {
-		[1] = 24,
+	["Fixiyo"] = {
+		[1] = 4487,
 	},
 	["Mugnos"] = {
 		[1] = 12611,
 	},
-	["Rymax"] = {
-		[1] = 7064,
+	["Biletoad"] = {
+		[1] = 7537,
 	},
-	["Qiandu"] = {
-		[1] = 12961,
+	["Thouk"] = {
+		[1] = 8774,
 	},
-	["Louiskoo"] = {
-		[1] = 4724,
+	["Xofreid"] = {
+		[1] = 4334,
 	},
-	["Helenka"] = {
-		[1] = 12586,
+	["Paiken"] = {
+		[1] = 12909,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 37,
 	},
-	["Tarmogoyf"] = {
-		[1] = 11677,
+	["Nicoderm"] = {
+		[1] = 6725,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 12,
 	},
 	["Electrodo"] = {
 		[1] = 1988,
 	},
-	["Kamil"] = {
-		[1] = 1458,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 60,
+	["Tobyto"] = {
+		[1] = 4836,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 17,
 	},
 	["Salemslot"] = {
 		[1] = 3218,
 	},
-	["Zuzuka"] = {
-		[1] = 1625,
+	["Tazed"] = {
+		[1] = 553,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Dioxin"] = {
-		[1] = 12696,
+	["Murq"] = {
+		[1] = 1837,
 	},
 	["Zhengzhan"] = {
 		[1] = 13175,
@@ -38902,38 +38826,37 @@ DPSMateUser = {
 	["Buttrash"] = {
 		[1] = 10535,
 	},
-	["Ataegina"] = {
-		[1] = 1031,
+	["Elus"] = {
+		[1] = 7130,
+		[2] = "priest",
+		[3] = 1,
 	},
-	["Meliance"] = {
-		[1] = 1980,
+	["Witchwing Slayer"] = {
+		[1] = 6907,
 	},
-	["Zhulrok"] = {
-		[1] = 5256,
+	["Skillzone"] = {
+		[1] = 1117,
 	},
-	["Akbaa"] = {
-		[1] = 6916,
+	["Quilguard Champion"] = {
+		[1] = 9370,
 	},
-	["Vindicator"] = {
-		[1] = 5740,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 20,
+	["Glavpyos"] = {
+		[1] = 13282,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 23,
 	},
-	["Tartal"] = {
-		[1] = 6291,
+	["Bonus"] = {
+		[1] = 10584,
 	},
-	["Everman"] = {
-		[1] = 11553,
+	["Chump"] = {
+		[1] = 200,
 	},
-	["Lowcall"] = {
-		[1] = 4574,
+	["Anasim"] = {
+		[1] = 12972,
 	},
-	["Mundfein"] = {
-		[1] = 8764,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 8,
+	["Vegangainzz"] = {
+		[1] = 5590,
 	},
 	["Rulnik"] = {
 		[1] = 3204,
@@ -38947,14 +38870,14 @@ DPSMateUser = {
 	["Barmaleus"] = {
 		[1] = 7888,
 	},
-	["Rayblack"] = {
-		[1] = 10699,
+	["Assinian"] = {
+		[1] = 11102,
 	},
-	["Nosku"] = {
-		[1] = 1852,
+	["Vilebranch Speaker"] = {
+		[1] = 348,
 	},
-	["Qpad"] = {
-		[1] = 4348,
+	["Akbaa"] = {
+		[1] = 6916,
 	},
 	["Tedmosbi"] = {
 		[1] = 2565,
@@ -38967,43 +38890,41 @@ DPSMateUser = {
 		[7] = "Blutdurst",
 		[8] = 60,
 	},
-	["Landazar"] = {
-		[1] = 1207,
+	["Clearness"] = {
+		[1] = 4417,
 	},
 	["Panther"] = {
 		[1] = 11040,
 	},
-	["Bonus"] = {
-		[1] = 10584,
+	["Dankcronz"] = {
+		[1] = 6253,
 	},
 	["Mathimus"] = {
 		[1] = 10191,
 	},
-	["Ï"] = {
-		[1] = 1946,
-		[4] = true,
-		[6] = 1896,
+	["Obsesif"] = {
+		[1] = 4644,
 	},
-	["Pigtog"] = {
-		[1] = 8727,
-	},
-	["Rassyu"] = {
-		[1] = 8743,
-		[2] = "priest",
+	["Momentum"] = {
+		[1] = 2884,
+		[2] = "mage",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Young Mesa Buzzard"] = {
-		[1] = 10493,
+	["Rogueonesk"] = {
+		[1] = 4406,
 	},
-	["Dahlinor"] = {
-		[1] = 10572,
+	["Lucrylline"] = {
+		[1] = 1521,
+	},
+	["Doyeq"] = {
+		[1] = 6068,
 	},
 	["Merdyy"] = {
 		[1] = 8100,
 	},
-	["Fukwit"] = {
-		[1] = 153,
+	["Sullidad"] = {
+		[1] = 7340,
 	},
 	["Maadvillainy"] = {
 		[1] = 8110,
@@ -39011,8 +38932,11 @@ DPSMateUser = {
 	["Capsthelol"] = {
 		[1] = 3265,
 	},
-	["Cursemypurse"] = {
-		[1] = 7357,
+	["Shurupchik"] = {
+		[1] = 7996,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 16,
 	},
 	["Seekdayz"] = {
 		[1] = 7183,
@@ -39023,14 +38947,35 @@ DPSMateUser = {
 	["Sinnystrike"] = {
 		[1] = 7878,
 	},
-	["Vilebranch Speaker"] = {
-		[1] = 348,
+	["Pigtog"] = {
+		[1] = 8727,
 	},
-	["Aptemka"] = {
-		[1] = 12534,
+	["Kriptonixo"] = {
+		[1] = 6682,
 	},
 	["Venture Co. Drudger"] = {
 		[1] = 6769,
+	},
+	["Bendiesel"] = {
+		[1] = 6562,
+	},
+	["Raviolipasta"] = {
+		[1] = 9608,
+	},
+	["Echinopsis"] = {
+		[1] = 115,
+	},
+	["Gaada"] = {
+		[1] = 4720,
+	},
+	["Ggvvp"] = {
+		[1] = 3111,
+	},
+	["Aiweiwei"] = {
+		[1] = 9910,
+	},
+	["Dovoljno"] = {
+		[1] = 3216,
 	},
 	["Dre"] = {
 		[1] = 5147,
@@ -39038,32 +38983,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 4,
 	},
-	["Frys"] = {
-		[1] = 65,
-	},
-	["Echinopsis"] = {
-		[1] = 115,
-	},
-	["Balpen"] = {
-		[1] = 9461,
-	},
-	["Dojca"] = {
-		[1] = 9138,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
-	},
-	["Lucrylline"] = {
-		[1] = 1521,
-	},
-	["Dovoljno"] = {
-		[1] = 3216,
-	},
-	["Mililaile"] = {
-		[1] = 3844,
-	},
-	["Fixiyo"] = {
-		[1] = 4487,
+	["Burenqa"] = {
+		[1] = 9924,
 	},
 	["Neebet"] = {
 		[1] = 11202,
@@ -39084,50 +39005,48 @@ DPSMateUser = {
 	["Allah"] = {
 		[1] = 10659,
 	},
-	["Trallefaze"] = {
-		[1] = 8029,
+	["Harley"] = {
+		[1] = 11994,
 	},
-	["Ghaammon"] = {
-		[1] = 10433,
+	["Arallin"] = {
+		[1] = 7916,
 	},
-	["Brainsgirl"] = {
-		[1] = 5036,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 6,
+	["Fettklysa"] = {
+		[1] = 5917,
 	},
 	["Prollox"] = {
 		[1] = 316,
 	},
-	["Raylock"] = {
-		[1] = 2465,
+	["Mfitno"] = {
+		[1] = 9930,
 	},
-	["Trollsvett"] = {
-		[1] = 7424,
+	["Sbstjn"] = {
+		[1] = 7021,
 	},
-	["Dpyr"] = {
-		[1] = 10742,
+	["Mililaile"] = {
+		[1] = 3844,
 	},
 	["Bergmann"] = {
 		[1] = 6914,
 	},
-	["Pappakush"] = {
-		[1] = 3493,
+	["Glasshide Gazer"] = {
+		[1] = 2614,
 	},
 	["Jentan"] = {
 		[1] = 12248,
 	},
-	["Momostar"] = {
-		[1] = 10129,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 33,
+	["Stopendr"] = {
+		[1] = 1550,
 	},
-	["Sharik"] = {
-		[1] = 6172,
+	["Raylock"] = {
+		[1] = 2465,
 	},
-	["Vidanzor"] = {
-		[1] = 3164,
+	["Hakuhatsu"] = {
+		[1] = 7363,
+		[2] = "warrior",
+		[3] = -1,
+		[4] = false,
+		[8] = 13,
 	},
 	["Shoell"] = {
 		[1] = 414,
@@ -39138,23 +39057,34 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 39,
 	},
-	["Killitall"] = {
-		[1] = 7060,
+	["Turbiini"] = {
+		[1] = 2728,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[8] = 60,
 	},
-	["Thewiseone"] = {
-		[1] = 1790,
+	["Serzh"] = {
+		[1] = 12741,
 	},
-	["Amalivis"] = {
-		[1] = 8958,
+	["Gandalf"] = {
+		[1] = 8080,
+		[4] = true,
+		[6] = 5738,
 	},
 	["Volkanos"] = {
 		[1] = 11903,
 	},
-	["High Priestess Mar'li"] = {
-		[1] = 342,
+	["Niniehl"] = {
+		[1] = 1485,
+		[2] = "priest",
+		[3] = -1,
+		[4] = false,
+		[7] = "Omni",
+		[8] = 60,
 	},
-	["Bellatrix"] = {
-		[1] = 3579,
+	["Aelador"] = {
+		[1] = 1363,
 	},
 	["Papadopulos"] = {
 		[1] = 11227,
@@ -39162,11 +39092,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 32,
 	},
-	["Adarin"] = {
-		[1] = 7350,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 20,
+	["Starmoo"] = {
+		[1] = 9963,
 	},
 	["Alestaxd"] = {
 		[1] = 6979,
@@ -39174,45 +39101,38 @@ DPSMateUser = {
 	["Dracus"] = {
 		[1] = 3170,
 	},
-	["Nallien"] = {
-		[1] = 10263,
+	["Killitall"] = {
+		[1] = 7060,
 	},
-	["Mfitno"] = {
-		[1] = 9930,
+	["Shade of Naxxramas"] = {
+		[1] = 2337,
 	},
-	["Liosan"] = {
-		[1] = 2850,
+	["Deadray"] = {
+		[1] = 12698,
 	},
-	["Razorramona"] = {
-		[1] = 8112,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Bewitcher"] = {
+		[1] = 4524,
 	},
 	["Liez"] = {
 		[1] = 7561,
 	},
-	["Rohac"] = {
-		[1] = 1509,
+	["Pearface"] = {
+		[1] = 10740,
 	},
 	["Haasinger"] = {
 		[1] = 2110,
 	},
-	["Lasienkeli"] = {
-		[1] = 4690,
+	["Golfwang"] = {
+		[1] = 7444,
 	},
-	["Bladedead"] = {
-		[1] = 9481,
+	["Plaguescream"] = {
+		[1] = 3858,
 	},
-	["Hakuhatsu"] = {
-		[1] = 7363,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[8] = 13,
+	["Windshear Digger"] = {
+		[1] = 8157,
 	},
-	["Ttszzs"] = {
-		[1] = 4098,
+	["Zlevyn"] = {
+		[1] = 144,
 	},
 	["Follafrikii"] = {
 		[1] = 1413,
@@ -39226,96 +39146,92 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 16,
 	},
-	["Huejanus"] = {
-		[1] = 2420,
+	["Kaffeochsnus"] = {
+		[1] = 4434,
 	},
 	["Gariona"] = {
 		[1] = 2480,
 	},
-	["Idonthealya"] = {
-		[1] = 34,
-		[2] = "paladin",
+	["Skullcrushrz"] = {
+		[1] = 8420,
+	},
+	["Bladedead"] = {
+		[1] = 9481,
+	},
+	["Moglietiamo"] = {
+		[1] = 3028,
+	},
+	["Boeseronkel"] = {
+		[1] = 9744,
+	},
+	["Supertankman"] = {
+		[1] = 12438,
+		[2] = "warrior",
 		[3] = -1,
-		[4] = false,
-		[7] = "Pugmasters",
-		[8] = 60,
+		[8] = 39,
 	},
-	["Meruis"] = {
-		[1] = 5584,
-	},
-	["Sweetnuts"] = {
-		[1] = 7870,
-	},
-	["Aty"] = {
-		[1] = 10960,
-	},
-	["Evincible"] = {
-		[1] = 4342,
-	},
-	["Rimjab"] = {
-		[1] = 2893,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 60,
+	["Pixelator"] = {
+		[1] = 1136,
 	},
 	["Ssd"] = {
 		[1] = 743,
 	},
-	["Worthy"] = {
-		[1] = 11312,
-		[2] = "warrior",
+	["Ozziee"] = {
+		[1] = 9220,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 23,
+	},
+	["Radioactive"] = {
+		[1] = 992,
+	},
+	["Iddru"] = {
+		[1] = 172,
+		[2] = "druid",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Esy"] = {
-		[1] = 12273,
+	["Ruitog"] = {
+		[1] = 6284,
 	},
-	["Rougeen"] = {
-		[1] = 443,
+	["Nitro"] = {
+		[1] = 8115,
 	},
-	["Moonrage Darkrunner"] = {
-		[1] = 12545,
-	},
-	["Elionna"] = {
-		[1] = 11800,
-	},
-	["Grrntwo"] = {
-		[1] = 813,
+	["Aquariuser"] = {
+		[1] = 5274,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 21,
 	},
 	["Piru"] = {
 		[1] = 10565,
 	},
-	["Damnmage"] = {
-		[1] = 3552,
+	["Great Courser"] = {
+		[1] = 8226,
 	},
-	["Drywhisker Digger"] = {
-		[1] = 12067,
+	["Trosha"] = {
+		[1] = 9472,
 	},
-	["Maslinka"] = {
-		[1] = 12138,
+	["Sentk"] = {
+		[1] = 13024,
 	},
-	["Woosah"] = {
-		[1] = 12551,
+	["Argon"] = {
+		[1] = 11214,
 	},
-	["Fibrile"] = {
-		[1] = 8148,
+	["Kurzen Medicine Man"] = {
+		[1] = 11256,
 	},
-	["Akheenka"] = {
-		[1] = 2222,
+	["Haymm"] = {
+		[1] = 9989,
 	},
-	["Chern"] = {
-		[1] = 1922,
-		[2] = "mage",
-		[3] = 1,
-		[4] = false,
-		[7] = "Niubility",
-		[8] = 60,
+	["Rougeen"] = {
+		[1] = 443,
 	},
-	["Qinedalae"] = {
-		[1] = 6144,
+	["Ceca"] = {
+		[1] = 5599,
 	},
-	["Kondoc"] = {
-		[1] = 2870,
+	["Brouk"] = {
+		[1] = 10104,
 	},
 	["Furyday"] = {
 		[1] = 2207,
@@ -39328,26 +39244,37 @@ DPSMateUser = {
 	["Bigbigboo"] = {
 		[1] = 12751,
 	},
-	["Marganiam"] = {
-		[1] = 5404,
+	["Nellysummers"] = {
+		[1] = 11975,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Hitbutrun"] = {
-		[1] = 3033,
+	["Chern"] = {
+		[1] = 1922,
+		[2] = "mage",
+		[3] = 1,
+		[4] = false,
+		[7] = "Niubility",
+		[8] = 60,
 	},
-	["Blackwing Taskmaster"] = {
-		[1] = 1087,
+	["Qinedalae"] = {
+		[1] = 6144,
 	},
-	["Sonmy"] = {
-		[1] = 2961,
+	["Tharielle"] = {
+		[1] = 88,
+	},
+	["Slappslyna"] = {
+		[1] = 9822,
 		[2] = "rogue",
 		[3] = -1,
+		[8] = 25,
+	},
+	["Pappitar"] = {
+		[1] = 3398,
+		[2] = "priest",
+		[3] = -1,
 		[8] = 4,
-	},
-	["Iamnotdead"] = {
-		[1] = 4317,
-	},
-	["Kaffeochsnus"] = {
-		[1] = 4434,
 	},
 	["Bearpigcat"] = {
 		[1] = 10007,
@@ -39364,53 +39291,59 @@ DPSMateUser = {
 	["Klathnar"] = {
 		[1] = 7383,
 	},
-	["Lifestealer"] = {
-		[1] = 7419,
+	["Blonka"] = {
+		[1] = 4871,
 	},
-	["Fire"] = {
-		[1] = 356,
+	["Arctanis"] = {
+		[1] = 4124,
 	},
-	["Henchmen"] = {
-		[1] = 8886,
+	["Sprk"] = {
+		[1] = 9476,
 	},
 	["Tonrar"] = {
 		[1] = 6649,
 	},
-	["Bonepiley"] = {
-		[1] = 5137,
+	["Guatonacandy"] = {
+		[1] = 6363,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 12,
 	},
-	["Eyesofdreams"] = {
-		[1] = 11002,
+	["Grauzdins"] = {
+		[1] = 9216,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 17,
 	},
-	["Unrealname"] = {
-		[1] = 5051,
+	["Galak Messenger"] = {
+		[1] = 9720,
 	},
-	["Juremaxd"] = {
-		[1] = 5331,
+	["Grukaa"] = {
+		[1] = 2926,
 	},
-	["Aleae"] = {
-		[1] = 10601,
+	["Tarpit"] = {
+		[1] = 2016,
 	},
 	["Jerrysun"] = {
 		[1] = 9942,
 	},
-	["Parabola"] = {
-		[1] = 13249,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 38,
+	["Buchberger"] = {
+		[1] = 4856,
 	},
-	["Pferdeposter"] = {
-		[1] = 6952,
-	},
-	["Trosha"] = {
-		[1] = 9472,
-	},
-	["Pappitar"] = {
-		[1] = 3398,
+	["Hrotghar"] = {
+		[1] = 5172,
 		[2] = "priest",
 		[3] = -1,
-		[8] = 4,
+		[8] = 9,
+	},
+	["Vammaneekeri"] = {
+		[1] = 3103,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 1,
+	},
+	["Anytips"] = {
+		[1] = 3846,
 	},
 	["Celephia"] = {
 		[1] = 2814,
@@ -39421,82 +39354,83 @@ DPSMateUser = {
 	["Victorfreeze"] = {
 		[1] = 5926,
 	},
-	["Misht"] = {
-		[1] = 4234,
+	["Pferdeposter"] = {
+		[1] = 6952,
 	},
-	["Pokemanz"] = {
-		[1] = 3124,
+	["Kerle"] = {
+		[1] = 532,
 	},
-	["Meestrshanky"] = {
-		[1] = 3256,
+	["Satar"] = {
+		[1] = 7318,
 	},
 	["Thatsmyloot"] = {
 		[1] = 5609,
 	},
-	["Kreefum"] = {
-		[1] = 498,
-		[4] = true,
-		[6] = 475,
+	["Vicious Gray Bear"] = {
+		[1] = 8595,
 	},
-	["Dadaism"] = {
-		[1] = 3340,
+	["Koji"] = {
+		[1] = 6256,
 	},
 	["Cgez"] = {
 		[1] = 3450,
 	},
-	["Severed Sleeper"] = {
-		[1] = 8400,
+	["Braizar"] = {
+		[1] = 5129,
 	},
-	["Magistrate Barthilas"] = {
-		[1] = 2138,
+	["Sin'Dall"] = {
+		[1] = 11791,
 	},
 	["Murdurer"] = {
 		[1] = 3427,
 	},
-	["Hokchris"] = {
-		[1] = 4786,
+	["Linyuxing"] = {
+		[1] = 12424,
 	},
-	["Newfamaz"] = {
-		[1] = 4316,
+	["Barrel"] = {
+		[1] = 11421,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 32,
 	},
-	["Scaryskeleto"] = {
-		[1] = 3390,
+	["Favamon"] = {
+		[1] = 2154,
 	},
-	["Vammaneekeri"] = {
-		[1] = 3103,
+	["Spectralx"] = {
+		[1] = 4300,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 4,
+	},
+	["Shemale"] = {
+		[1] = 5336,
+	},
+	["Kilrong"] = {
+		[1] = 8791,
+	},
+	["Dontcry"] = {
+		[1] = 194,
 		[2] = "rogue",
-		[3] = -1,
-		[8] = 1,
-	},
-	["Randevu"] = {
-		[1] = 3523,
-	},
-	["Troly"] = {
-		[1] = 7858,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 6,
-	},
-	["Frostd"] = {
-		[1] = 602,
-		[2] = "paladin",
 		[3] = 1,
 		[8] = 60,
 	},
-	["Firlefranz"] = {
-		[1] = 6242,
+	["Gray Bear"] = {
+		[1] = 9154,
 	},
-	["Itmerog"] = {
-		[1] = 693,
+	["Razorfen Servitor"] = {
+		[1] = 9347,
 	},
-	["Komuch"] = {
-		[1] = 11827,
+	["Bashyoheadin"] = {
+		[1] = 11138,
+	},
+	["Roccosifredy"] = {
+		[1] = 6821,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 28,
 	},
 	["Osgil"] = {
 		[1] = 6086,
-	},
-	["Noeey"] = {
-		[1] = 4668,
 	},
 	["Fluffl"] = {
 		[1] = 60,
@@ -39504,47 +39438,58 @@ DPSMateUser = {
 	["Mopcpudp"] = {
 		[1] = 3554,
 	},
-	["Aoeing"] = {
-		[1] = 2367,
+	["Loktar√∏gar"] = {
+		[1] = 1700,
 	},
-	["Srpepis"] = {
-		[1] = 4929,
+	["Ugottrumped"] = {
+		[1] = 797,
 	},
-	["Dagkin"] = {
-		[1] = 5218,
+	["Dezrok"] = {
+		[1] = 6017,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 10,
 	},
-	["Eatzleep"] = {
-		[1] = 7331,
+	["Soontm"] = {
+		[1] = 1516,
 	},
-	["Mortemone"] = {
-		[1] = 12602,
+	["Olrin"] = {
+		[1] = 1860,
+		[2] = "warlock",
+		[3] = 1,
+		[4] = false,
+		[5] = "n",
+		[8] = 60,
 	},
-	["Volrin"] = {
-		[1] = 5104,
+	["Fleeting Plainstrider"] = {
+		[1] = 5514,
 	},
 	["Meliamp"] = {
 		[1] = 9033,
 	},
-	["Vipzi"] = {
-		[1] = 12504,
+	["Greyta"] = {
+		[1] = 7938,
 	},
-	["Sharptalon"] = {
-		[1] = 8405,
+	["Tangmos"] = {
+		[1] = 12305,
 	},
-	["Volnam"] = {
-		[1] = 4805,
+	["Agalma"] = {
+		[1] = 9638,
 	},
 	["Ghaafenn"] = {
 		[1] = 1150,
 	},
-	["Bleyzor"] = {
-		[1] = 10463,
+	["Xosz"] = {
+		[1] = 3990,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 1,
 	},
 	["Shazze"] = {
 		[1] = 5915,
 	},
-	["Flyingmoo"] = {
-		[1] = 9960,
+	["Eldora"] = {
+		[1] = 10982,
 	},
 	["Jakpep"] = {
 		[1] = 4652,
@@ -39552,101 +39497,111 @@ DPSMateUser = {
 	["Bloodscalp Tiger"] = {
 		[1] = 383,
 	},
-	["Zeenn"] = {
-		[1] = 6383,
+	["Sergules"] = {
+		[1] = 518,
 	},
-	["Burning Blade Adept"] = {
-		[1] = 12831,
+	["Lallmush"] = {
+		[1] = 4986,
 	},
-	["Ugottrumped"] = {
-		[1] = 797,
+	["Macestunhehe"] = {
+		[1] = 10677,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 30,
 	},
-	["Beefbully"] = {
-		[1] = 7664,
+	["Placeholder"] = {
+		[1] = 10265,
 	},
-	["Hammerz"] = {
-		[1] = 2164,
+	["Handycow"] = {
+		[1] = 11505,
 	},
 	["Jawburnedoff"] = {
 		[1] = 10317,
 	},
-	["Agalma"] = {
-		[1] = 9638,
+	["Alkane"] = {
+		[1] = 6482,
 	},
 	["Biztip"] = {
 		[1] = 2634,
 	},
-	["Flinda"] = {
-		[1] = 4956,
+	["Lava Spout Totem"] = {
+		[1] = 9383,
 	},
-	["Erotik"] = {
-		[1] = 10301,
+	["Mosh'Ogg Brute"] = {
+		[1] = 11697,
 	},
-	["Dankpank"] = {
-		[1] = 12578,
+	["Bristleback Geomancer"] = {
+		[1] = 7097,
 	},
 	["Mauzy"] = {
 		[1] = 1958,
 	},
-	["Testrog"] = {
-		[1] = 232,
+	["Zeenn"] = {
+		[1] = 6383,
 	},
-	["Feiosa"] = {
-		[1] = 6222,
+	["Oxotner"] = {
+		[1] = 10201,
 	},
-	["Eldora"] = {
-		[1] = 10982,
+	["Volteikarai"] = {
+		[1] = 10014,
 	},
-	["Deviate Adder"] = {
-		[1] = 7523,
-	},
-	["Severartery"] = {
-		[1] = 9544,
-	},
-	["Drekthar"] = {
-		[1] = 5603,
-	},
-	["Worg"] = {
-		[1] = 8604,
-	},
-	["Battleguard Sartura"] = {
-		[1] = 2585,
-	},
-	["Wingman"] = {
-		[1] = 5728,
-	},
-	["Mauiiwowie"] = {
-		[1] = 8282,
-	},
-	["Myskillsheal"] = {
-		[1] = 1869,
-	},
-	["Foxanda"] = {
-		[1] = 8536,
-	},
-	["Lighter"] = {
-		[1] = 8745,
-	},
-	["Malenshar"] = {
-		[1] = 6208,
-	},
-	["Rayser"] = {
-		[1] = 8199,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 24,
-	},
-	["Cenzarius"] = {
-		[1] = 8261,
+	["Bubblenboil"] = {
+		[1] = 5557,
 		[2] = "hunter",
 		[3] = -1,
-		[8] = 31,
+		[8] = 44,
 	},
-	["Akeus"] = {
-		[1] = 4136,
+	["Ctpoutejib"] = {
+		[1] = 1429,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[8] = 60,
 	},
-	["Pekka"] = {
-		[1] = 7252,
+	["Barryg"] = {
+		[1] = 10653,
+	},
+	["Touka"] = {
+		[1] = 5565,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 21,
+	},
+	["Serith"] = {
+		[1] = 8351,
+	},
+	["Kragzazt"] = {
+		[1] = 7326,
+	},
+	["Revrix"] = {
+		[1] = 4065,
+	},
+	["Icylube"] = {
+		[1] = 3123,
+	},
+	["Milkshakey"] = {
+		[1] = 10371,
+	},
+	["Dagtuk"] = {
+		[1] = 3000,
+	},
+	["Fakkdeglol"] = {
+		[1] = 7117,
+	},
+	["Oxbox"] = {
+		[1] = 6609,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 20,
+	},
+	["Mleczarz"] = {
+		[1] = 6746,
+	},
+	["Puschok"] = {
+		[1] = 8462,
+	},
+	["Xarden"] = {
+		[1] = 2772,
 	},
 	["Hardchoke"] = {
 		[1] = 6806,
@@ -39658,23 +39613,23 @@ DPSMateUser = {
 	["Bizgup"] = {
 		[1] = 4924,
 	},
-	["Galinhao"] = {
-		[1] = 8772,
+	["Deboi"] = {
+		[1] = 6178,
 	},
-	["Rambote"] = {
-		[1] = 12393,
+	["Feodarron"] = {
+		[1] = 11719,
 	},
-	["Lucrothx"] = {
-		[1] = 3318,
+	["Pekka"] = {
+		[1] = 7252,
 	},
-	["Oclockz"] = {
-		[1] = 3833,
+	["Ikont"] = {
+		[1] = 6190,
 	},
-	["Nullify"] = {
-		[1] = 2831,
+	["Viydel"] = {
+		[1] = 8267,
 	},
-	["Pyroerlend"] = {
-		[1] = 3412,
+	["Thanlos"] = {
+		[1] = 5949,
 	},
 	["Vanekparenek"] = {
 		[1] = 9900,
@@ -39682,20 +39637,23 @@ DPSMateUser = {
 	["Kertunsisko"] = {
 		[1] = 5227,
 	},
-	["Dioka"] = {
-		[1] = 5795,
+	["Camodus"] = {
+		[1] = 13289,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 31,
 	},
 	["Death's Head Adept"] = {
 		[1] = 9357,
 	},
-	["Guinsoo"] = {
-		[1] = 593,
+	["Csxfan"] = {
+		[1] = 3246,
 	},
 	["FBIwarning"] = {
 		[1] = 10822,
 	},
-	["Milkshakey"] = {
-		[1] = 10371,
+	["Ggulik"] = {
+		[1] = 1302,
 	},
 	["Hjsyswbwb"] = {
 		[1] = 7797,
@@ -39703,11 +39661,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Skol"] = {
-		[1] = 2552,
+	["Xlapatsas"] = {
+		[1] = 2021,
 	},
-	["Puschok"] = {
-		[1] = 8462,
+	["Fearfade"] = {
+		[1] = 252,
 	},
 	["Monzzed"] = {
 		[1] = 11703,
@@ -39715,65 +39673,61 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 36,
 	},
-	["Deepdmg"] = {
-		[1] = 3097,
+	["Ixk"] = {
+		[1] = 9667,
 	},
-	["Vyvyk"] = {
-		[1] = 6488,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Babagusi"] = {
+		[1] = 219,
 	},
-	["Thanlos"] = {
-		[1] = 5949,
+	["Blindfish"] = {
+		[1] = 6409,
 	},
-	["Drywallow Snapper"] = {
-		[1] = 8935,
+	["Farlight"] = {
+		[1] = 1240,
 	},
 	["Zmokaren"] = {
 		[1] = 2084,
 	},
-	["Masteel"] = {
-		[1] = 10064,
+	["Zeitgeber"] = {
+		[1] = 9747,
 	},
-	["Nessient"] = {
-		[1] = 5146,
+	["Sofaknips"] = {
+		[1] = 11047,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 31,
 	},
-	["Neua"] = {
-		[1] = 12070,
+	["Bestwrld"] = {
+		[1] = 20,
 	},
-	["Zurbuk"] = {
-		[1] = 7418,
+	["Untrue"] = {
+		[1] = 4657,
 	},
-	["Baridae"] = {
-		[1] = 6895,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 13,
+	["Vaaroth"] = {
+		[1] = 6046,
 	},
-	["Underick"] = {
-		[1] = 4265,
-	},
-	["Rocklee"] = {
-		[1] = 12390,
-	},
-	["Adasts"] = {
-		[1] = 7654,
-	},
-	["Jasonbourn"] = {
-		[1] = 9981,
-	},
-	["Shamzyy"] = {
-		[1] = 9671,
-	},
-	["Apsaber"] = {
-		[1] = 12291,
+	["Tsirup"] = {
+		[1] = 11297,
 		[2] = "paladin",
 		[3] = 1,
-		[8] = 25,
 	},
-	["Skurkelele"] = {
-		[1] = 3883,
+	["Pistolshot"] = {
+		[1] = 6119,
+	},
+	["Gryffindorr"] = {
+		[1] = 3662,
+	},
+	["Tana√´"] = {
+		[1] = 2628,
+	},
+	["Whereskitty"] = {
+		[1] = 7486,
+	},
+	["Syphone"] = {
+		[1] = 3682,
+	},
+	["Acornborn"] = {
+		[1] = 7673,
 	},
 	["Merex"] = {
 		[1] = 733,
@@ -39784,8 +39738,8 @@ DPSMateUser = {
 	["Ruggles"] = {
 		[1] = 4654,
 	},
-	["Cinikka"] = {
-		[1] = 2956,
+	["Bonfaya"] = {
+		[1] = 2113,
 	},
 	["Mordack"] = {
 		[1] = 3429,
@@ -39796,107 +39750,106 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 38,
 	},
-	["Duessa"] = {
-		[1] = 8662,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 37,
+	["Csper"] = {
+		[1] = 12937,
 	},
-	["Kegman"] = {
-		[1] = 2176,
+	["Jasonbourn"] = {
+		[1] = 9981,
 	},
-	["Armsstrong"] = {
-		[1] = 1793,
+	["Olol"] = {
+		[1] = 288,
 	},
 	["Makeupqt"] = {
 		[1] = 9770,
 	},
-	["Sataniral"] = {
-		[1] = 8566,
-		[2] = "mage",
+	["Spannabis"] = {
+		[1] = 11593,
+	},
+	["Ragefang"] = {
+		[1] = 7925,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 12,
+		[8] = 20,
 	},
-	["Rasvamaija"] = {
-		[1] = 11207,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 36,
+	["Ayyllmaoo"] = {
+		[1] = 765,
 	},
-	["Prestij"] = {
-		[1] = 3012,
-		[2] = "rogue",
+	["Zeydorf"] = {
+		[1] = 5315,
+	},
+	["Torronator"] = {
+		[1] = 9773,
+	},
+	["Ubba"] = {
+		[1] = 177,
+		[2] = "paladin",
 		[3] = -1,
-		[8] = 1,
+		[4] = false,
+		[8] = 60,
 	},
-	["Tana√´"] = {
-		[1] = 2628,
+	["Jackblack"] = {
+		[1] = 4012,
 	},
-	["Superdori"] = {
-		[1] = 66,
-	},
-	["Rhuugrom"] = {
-		[1] = 527,
-	},
-	["Gimuub"] = {
-		[1] = 5927,
-	},
-	["Sawgon"] = {
-		[1] = 2913,
+	["Mavri"] = {
+		[1] = 7291,
 	},
 	["Argumentum"] = {
 		[1] = 4287,
 	},
-	["Jhomthang"] = {
-		[1] = 7050,
+	["Violentjerk"] = {
+		[1] = 9701,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 32,
 	},
-	["Coolbones"] = {
-		[1] = 7027,
+	["Eolgreatest"] = {
+		[1] = 9623,
 	},
-	["Haunting Phantasm"] = {
-		[1] = 10578,
+	["Goatleader"] = {
+		[1] = 9769,
 	},
 	["Lhtc"] = {
 		[1] = 3751,
 	},
-	["Zfjmm"] = {
-		[1] = 7264,
+	["Royal"] = {
+		[1] = 7464,
 	},
-	["Hunterdkdk"] = {
-		[1] = 12074,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 33,
+	["Pandemius"] = {
+		[1] = 4255,
 	},
-	["Iamtwo"] = {
-		[1] = 3049,
+	["Grimtide"] = {
+		[1] = 2877,
 	},
 	["Rattmuff"] = {
 		[1] = 3727,
 	},
-	["Gamesearch"] = {
-		[1] = 5219,
+	["Runfa"] = {
+		[1] = 10767,
 	},
-	["Dzoxx"] = {
-		[1] = 8866,
-	},
-	["Deviate Coiler"] = {
-		[1] = 7080,
-	},
-	["Lotherinka"] = {
-		[1] = 12285,
-		[2] = "druid",
+	["Zaten"] = {
+		[1] = 8209,
+		[2] = "warlock",
 		[3] = 1,
-		[8] = 28,
 	},
-	["Cryogelidus"] = {
-		[1] = 6611,
+	["Cnoksm"] = {
+		[1] = 7766,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[7] = "Honor and Blood",
+		[8] = 14,
+	},
+	["Poisonbinder"] = {
+		[1] = 3542,
+	},
+	["Jimmyboystby"] = {
+		[1] = 52,
 	},
 	["Mcnugget"] = {
 		[1] = 2880,
 	},
-	["Dualist"] = {
-		[1] = 11488,
+	["Shekerru"] = {
+		[1] = 8698,
 	},
 	["Hubberactiv"] = {
 		[1] = 4368,
@@ -39907,120 +39860,17 @@ DPSMateUser = {
 	["Wanglingfash"] = {
 		[1] = 12339,
 	},
-	["Sniped"] = {
-		[1] = 8311,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 20,
+	["Nhaendre"] = {
+		[1] = 3247,
 	},
-	["Losifer"] = {
-		[1] = 13144,
+	["Xwen"] = {
+		[1] = 7329,
 	},
-	["Sabushadin"] = {
-		[1] = 433,
+	["Deepeyes"] = {
+		[1] = 7210,
 	},
-	["Sweeper"] = {
-		[1] = 5954,
-	},
-	["Chizhuozi"] = {
-		[1] = 12330,
-	},
-	["Spagies"] = {
-		[1] = 3650,
-	},
-	["Conveyance"] = {
-		[1] = 6740,
-	},
-	["Solasharrb"] = {
-		[1] = 8541,
-	},
-	["Aztarott"] = {
-		[1] = 8172,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 23,
-	},
-	["Dybou"] = {
-		[1] = 2785,
-	},
-	["Drekirim"] = {
-		[1] = 8750,
-	},
-	["Kovarsky"] = {
-		[1] = 10614,
-		[2] = "mage",
-		[3] = 1,
-	},
-	["Hogaboga"] = {
-		[1] = 12673,
-	},
-	["Sandfury Speaker"] = {
-		[1] = 329,
-	},
-	["Warlockui"] = {
-		[1] = 2629,
-	},
-	["Scorpid Reaver"] = {
-		[1] = 10773,
-	},
-	["Levilda"] = {
-		[1] = 5254,
-	},
-	["Frabby"] = {
-		[1] = 4195,
-	},
-	["Onebrother"] = {
-		[1] = 8914,
-	},
-	["Moomhannis"] = {
-		[1] = 5810,
-	},
-	["Gevjran"] = {
-		[1] = 7642,
-	},
-	["Vision"] = {
-		[1] = 1417,
-	},
-	["Gohlozz"] = {
-		[1] = 12405,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 41,
-	},
-	["Ospas"] = {
-		[1] = 8189,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 31,
-	},
-	["Hatagbg"] = {
-		[1] = 472,
-	},
-	["Lerck"] = {
-		[1] = 10998,
-	},
-	["Tuneno"] = {
-		[1] = 7257,
-	},
-	["Vasia"] = {
-		[1] = 314,
-		[2] = "hunter",
-		[3] = 1,
-		[4] = false,
-		[7] = "Butyrka",
-		[8] = 60,
-	},
-	["Citylovely"] = {
-		[1] = 12350,
-	},
-	["Entonnb"] = {
-		[1] = 5464,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 54,
-	},
-	["Garzosh"] = {
-		[1] = 12755,
+	["Shootystar"] = {
+		[1] = 1563,
 	},
 	["Discpriest"] = {
 		[1] = 9251,
@@ -40028,16 +39878,106 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 28,
 	},
-	["Layz"] = {
-		[1] = 1156,
+	["Tsjuder"] = {
+		[1] = 11923,
 	},
-	["Osley"] = {
-		[1] = 1709,
+	["Winchel"] = {
+		[1] = 7939,
 	},
-	["Divinehoops"] = {
-		[1] = 75,
-		[2] = "warrior",
+	["Solasharrb"] = {
+		[1] = 8541,
+	},
+	["Phankresh"] = {
+		[1] = 10189,
+	},
+	["Clypsakavi"] = {
+		[1] = 8526,
+	},
+	["\nÏd"] = {
+		[1] = 1740,
+		[4] = true,
+		[6] = 1731,
+	},
+	["Juk'los"] = {
+		[1] = 12943,
+	},
+	["Hogaboga"] = {
+		[1] = 12673,
+	},
+	["Suune"] = {
+		[1] = 7265,
+	},
+	["Warlockui"] = {
+		[1] = 2629,
+	},
+	["Scorpid Reaver"] = {
+		[1] = 10773,
+	},
+	["Sandfury Speaker"] = {
+		[1] = 329,
+	},
+	["Enterdbunana"] = {
+		[1] = 3226,
+	},
+	["Erfileo"] = {
+		[1] = 1011,
+	},
+	["Burdenhunter"] = {
+		[1] = 11951,
+	},
+	["Daidinn"] = {
+		[1] = 703,
+	},
+	["Samoritu"] = {
+		[1] = 3604,
+	},
+	["Tsea"] = {
+		[1] = 7702,
+		[2] = "rogue",
 		[3] = -1,
+		[8] = 16,
+	},
+	["Arexxion"] = {
+		[1] = 12091,
+		[2] = "warlock",
+		[3] = 1,
+	},
+	["Hatagbg"] = {
+		[1] = 472,
+	},
+	["Fremberg"] = {
+		[1] = 4421,
+	},
+	["Tuneno"] = {
+		[1] = 7257,
+	},
+	["Willyferall"] = {
+		[1] = 2665,
+	},
+	["Mirdu"] = {
+		[1] = 2711,
+	},
+	["Genduershao"] = {
+		[1] = 3808,
+	},
+	["Garzosh"] = {
+		[1] = 12755,
+	},
+	["Caina"] = {
+		[1] = 8783,
+	},
+	["Joesuny"] = {
+		[1] = 10132,
+	},
+	["Knyllarej"] = {
+		[1] = 2036,
+	},
+	["Felyse"] = {
+		[1] = 2260,
+		[2] = "hunter",
+		[3] = 1,
+		[4] = false,
+		[7] = "Nightmare On Elf Street",
 		[8] = 60,
 	},
 	["Fomynator"] = {
@@ -40049,26 +39989,29 @@ DPSMateUser = {
 	["Ragnokar"] = {
 		[1] = 6435,
 	},
-	["Fremberg"] = {
-		[1] = 4421,
+	["Telabim"] = {
+		[1] = 1061,
 	},
-	["Pohmelo"] = {
-		[1] = 8812,
+	["Leogron"] = {
+		[1] = 8506,
 	},
-	["Tamsioji"] = {
-		[1] = 6503,
+	["Saltstone Crystalhide"] = {
+		[1] = 10768,
 	},
 	["Megashock"] = {
 		[1] = 6064,
 	},
-	["Xioxio"] = {
-		[1] = 1812,
+	["Fey Dragon"] = {
+		[1] = 8222,
 	},
-	["Willyferall"] = {
-		[1] = 2665,
+	["Lazis"] = {
+		[1] = 12108,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 42,
 	},
-	["Devlan"] = {
-		[1] = 10313,
+	["Rektarok"] = {
+		[1] = 10279,
 	},
 	["Turbobuns"] = {
 		[1] = 8815,
@@ -40082,24 +40025,17 @@ DPSMateUser = {
 	["Jergosh the Invoker"] = {
 		[1] = 6357,
 	},
-	["Vvancleef"] = {
-		[1] = 12297,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 15,
+	["Ghang"] = {
+		[1] = 9499,
 	},
-	["Thoraxx"] = {
-		[1] = 317,
-		[2] = "warrior",
-		[3] = 1,
-		[4] = false,
-		[8] = 60,
+	["Captain Perrine"] = {
+		[1] = 5052,
 	},
-	["Dallenar"] = {
-		[1] = 6499,
+	["Jiangpan"] = {
+		[1] = 12705,
 	},
-	["Lumipalloo"] = {
-		[1] = 8688,
+	["Isliceyou"] = {
+		[1] = 2175,
 	},
 	["Shang"] = {
 		[1] = 10145,
@@ -40120,56 +40056,53 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 31,
 	},
-	["High Priestess Arlokk"] = {
-		[1] = 354,
+	["Spawn of Fankriss"] = {
+		[1] = 2594,
 	},
-	["Eyria"] = {
-		[1] = 9756,
+	["Totec"] = {
+		[1] = 11196,
 	},
-	["Lazis"] = {
-		[1] = 12108,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 42,
+	["Valisa"] = {
+		[1] = 5901,
 	},
-	["SHOTMONKEY"] = {
-		[1] = 6194,
+	["Adzoq"] = {
+		[1] = 3736,
 	},
-	["Lockniz"] = {
-		[1] = 7282,
+	["Prata"] = {
+		[1] = 758,
 	},
-	["Reprodutor"] = {
-		[1] = 9195,
+	["Lugat"] = {
+		[1] = 12060,
 	},
 	["Endver"] = {
 		[1] = 12029,
 	},
-	["Sblurf"] = {
-		[1] = 4267,
+	["Nagrash"] = {
+		[1] = 5839,
 	},
-	["Captain Perrine"] = {
-		[1] = 5052,
+	["Akhbarlol"] = {
+		[1] = 526,
 	},
 	["Papastrength"] = {
 		[1] = 1807,
 	},
-	["Bigboy"] = {
-		[1] = 947,
+	["Bronze Drakonid"] = {
+		[1] = 2305,
 	},
 	["Zilnik"] = {
 		[1] = 4634,
 	},
-	["Rakun"] = {
-		[1] = 1791,
-	},
-	["Trasheye"] = {
-		[1] = 8432,
-	},
 	["Zigzuggins"] = {
 		[1] = 6225,
 	},
-	["Toomykins"] = {
-		[1] = 5831,
+	["Doyla"] = {
+		[1] = 5966,
+	},
+	["Youropponent"] = {
+		[1] = 4051,
+	},
+	["Pulusein"] = {
+		[1] = 13085,
 	},
 	["Wishmoney"] = {
 		[1] = 4320,
@@ -40180,14 +40113,14 @@ DPSMateUser = {
 	["Euphx"] = {
 		[1] = 4176,
 	},
-	["Egomania"] = {
-		[1] = 3919,
+	["Stormybolt"] = {
+		[1] = 3327,
 	},
-	["Highlord"] = {
-		[1] = 3057,
+	["Areyman"] = {
+		[1] = 8341,
 	},
-	["Spookman"] = {
-		[1] = 722,
+	["Bass"] = {
+		[1] = 99,
 	},
 	["Kenax"] = {
 		[1] = 9859,
@@ -40198,11 +40131,13 @@ DPSMateUser = {
 	["Zhar'vhug"] = {
 		[1] = 7059,
 	},
-	["Wangxiaos"] = {
-		[1] = 3892,
+	["Svs"] = {
+		[1] = 10067,
 	},
-	["Bighua"] = {
-		[1] = 12637,
+	["Tomson"] = {
+		[1] = 10938,
+		[2] = "druid",
+		[3] = 1,
 	},
 	["Felah"] = {
 		[1] = 6627,
@@ -40213,8 +40148,8 @@ DPSMateUser = {
 	["Satanyc"] = {
 		[1] = 7556,
 	},
-	["Pulusein"] = {
-		[1] = 13085,
+	["Scarlet Monk"] = {
+		[1] = 10595,
 	},
 	["Lainday"] = {
 		[1] = 2976,
@@ -40231,8 +40166,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 30,
 	},
-	["Noonly"] = {
-		[1] = 11616,
+	["Xristodoulos"] = {
+		[1] = 9512,
 	},
 	["Profaa"] = {
 		[1] = 11172,
@@ -40243,23 +40178,20 @@ DPSMateUser = {
 	["Gomson"] = {
 		[1] = 7643,
 	},
-	["Suvikomi"] = {
-		[1] = 6325,
+	["Mescaline"] = {
+		[1] = 136,
 	},
-	["Meii"] = {
-		[1] = 11548,
+	["Corrupted Bronze Whelp"] = {
+		[1] = 1085,
 	},
-	["Xristodoulos"] = {
-		[1] = 9512,
+	["Bikongzhige"] = {
+		[1] = 8879,
 	},
 	["Quzmir"] = {
 		[1] = 5068,
 	},
-	["Xleetigerq"] = {
-		[1] = 9694,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Sixpack"] = {
+		[1] = 3469,
 	},
 	["Phpbestlan"] = {
 		[1] = 11158,
@@ -40276,44 +40208,44 @@ DPSMateUser = {
 	["Ghuldar"] = {
 		[1] = 9576,
 	},
-	["Myxin"] = {
-		[1] = 2089,
+	["Karlonduty"] = {
+		[1] = 13094,
 	},
-	["Thebigxx"] = {
-		[1] = 9864,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 27,
+	["Solomans"] = {
+		[1] = 6331,
 	},
-	["Xenhos"] = {
-		[1] = 9263,
+	["Taljya"] = {
+		[1] = 12521,
 	},
-	["Absolon"] = {
-		[1] = 10645,
+	["Geezmo"] = {
+		[1] = 6103,
 	},
-	["Taikaneekeri"] = {
-		[1] = 6737,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 11,
+	["Babadubajaga"] = {
+		[1] = 10006,
 	},
 	["Death's Head Ward Keeper"] = {
 		[1] = 9384,
 	},
-	["Healbish"] = {
-		[1] = 1589,
+	["Flathogath"] = {
+		[1] = 11200,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 31,
 	},
-	["Synesthra"] = {
-		[1] = 9445,
+	["Kobold Miner"] = {
+		[1] = 2134,
 	},
-	["Kr√ºmel"] = {
-		[1] = 726,
+	["Squirtmuffin"] = {
+		[1] = 8839,
 	},
 	["Cynn"] = {
 		[1] = 2501,
 	},
-	["Strich"] = {
-		[1] = 9940,
+	["Shedlol"] = {
+		[1] = 10633,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 31,
 	},
 	["Zhevra Runner"] = {
 		[1] = 5571,
@@ -40321,57 +40253,53 @@ DPSMateUser = {
 	["Shandiannan"] = {
 		[1] = 8302,
 	},
-	["Theq"] = {
-		[1] = 846,
+	["Zuldana"] = {
+		[1] = 11828,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 32,
 	},
 	["Dotclipse"] = {
 		[1] = 3628,
 	},
-	["Lkcici"] = {
-		[1] = 4763,
+	["Theq"] = {
+		[1] = 846,
 	},
-	["Bokrogrago"] = {
-		[1] = 12806,
+	["Magicv"] = {
+		[1] = 10803,
 	},
-	["Deetruck"] = {
-		[1] = 12524,
+	["Butfase"] = {
+		[1] = 4584,
 	},
-	["Aeronel"] = {
-		[1] = 8285,
+	["Roguebuddy"] = {
+		[1] = 5390,
 	},
 	["Boxtoo"] = {
 		[1] = 2790,
 	},
-	["Ltn"] = {
-		[1] = 8276,
-		[2] = "warrior",
-		[3] = -1,
-		[4] = false,
-		[7] = "Wormnation boys",
-		[8] = 22,
+	["Wrathtail Sorceress"] = {
+		[1] = 8956,
 	},
-	["Deeler"] = {
-		[1] = 711,
+	["Clavito"] = {
+		[1] = 764,
 	},
-	["Neyrra"] = {
-		[1] = 8456,
+	["Razormane Battleguard"] = {
+		[1] = 5818,
 	},
-	["Schrody"] = {
-		[1] = 3175,
+	["Raging Agam'ar"] = {
+		[1] = 9390,
 	},
 	["Swaz"] = {
 		[1] = 3506,
 	},
-	["AGd"] = {
-		[1] = 1103,
-		[4] = true,
-		[6] = 1055,
+	["Strength of Earth Totem"] = {
+		[1] = 5793,
 	},
-	["Rayzer"] = {
-		[1] = 210,
+	["KittyPurry"] = {
+		[1] = 8358,
 	},
-	["Kriger"] = {
-		[1] = 4109,
+	["Witewalker"] = {
+		[1] = 3185,
 	},
 	["Ravenous Darkhound"] = {
 		[1] = 10561,
@@ -40379,34 +40307,34 @@ DPSMateUser = {
 	["Morkkor"] = {
 		[1] = 8349,
 	},
-	["Thokjuk"] = {
-		[1] = 7496,
-	},
-	["Hawken"] = {
-		[1] = 1737,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
-	},
-	["Vinda"] = {
-		[1] = 3596,
-	},
-	["Sanix"] = {
-		[1] = 1131,
-	},
-	["Caidou"] = {
-		[1] = 9735,
+	["Memefire"] = {
+		[1] = 10834,
 		[2] = "druid",
+		[3] = 1,
+		[8] = 33,
+	},
+	["Scarybarry"] = {
+		[1] = 8373,
+	},
+	["Tatars"] = {
+		[1] = 5110,
+	},
+	["Depends"] = {
+		[1] = 7432,
+	},
+	["Lilniglet"] = {
+		[1] = 3100,
+		[2] = "priest",
 		[3] = -1,
-		[4] = false,
-		[8] = 27,
+		[8] = 1,
 	},
-	["Ghosu"] = {
-		[1] = 9618,
+	["Grak'thang"] = {
+		[1] = 7366,
+		[4] = true,
+		[6] = 7365,
 	},
-	["Morgthan"] = {
-		[1] = 7877,
+	["Schmolo"] = {
+		[1] = 13034,
 	},
 	["Redolol"] = {
 		[1] = 3765,
@@ -40414,38 +40342,35 @@ DPSMateUser = {
 	["Morowy"] = {
 		[1] = 7072,
 	},
-	["Bambole"] = {
-		[1] = 1944,
-		[2] = "shaman",
-		[3] = 1,
-		[4] = false,
-		[8] = 60,
+	["Timetrave"] = {
+		[1] = 11631,
 	},
-	["Scarlet Chaplain"] = {
-		[1] = 10593,
+	["Maryjeyn"] = {
+		[1] = 3194,
 	},
 	["Kuppad"] = {
 		[1] = 5299,
 	},
-	["Cooz"] = {
-		[1] = 10084,
+	["Gerodium"] = {
+		[1] = 5842,
 	},
 	["Fillez"] = {
 		[1] = 1401,
 	},
-	["Kuloutoua"] = {
-		[1] = 6846,
-		[2] = "rogue",
+	["Ultrafancy"] = {
+		[1] = 5338,
+		[2] = "priest",
 		[3] = -1,
-		[4] = false,
-		[7] = "NFU YOUNG GUARD",
-		[8] = 14,
+		[8] = 11,
 	},
-	["Depends"] = {
-		[1] = 7432,
+	["Horna"] = {
+		[1] = 224,
 	},
-	["Orclocklull"] = {
-		[1] = 2072,
+	["Jadeth"] = {
+		[1] = 761,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Darthkko"] = {
 		[1] = 2862,
@@ -40453,14 +40378,17 @@ DPSMateUser = {
 	["Shammybr"] = {
 		[1] = 6219,
 	},
-	["Nak"] = {
-		[1] = 8319,
+	["Perefrancis"] = {
+		[1] = 11364,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 35,
 	},
-	["Mokador"] = {
-		[1] = 8844,
+	["Noknip"] = {
+		[1] = 5201,
 	},
-	["Deathknight Captain"] = {
-		[1] = 2334,
+	["Taskmaster Fizzule"] = {
+		[1] = 7941,
 	},
 	["Yojimbon"] = {
 		[1] = 5876,
@@ -40468,107 +40396,100 @@ DPSMateUser = {
 	["Konnagma"] = {
 		[1] = 9157,
 	},
-	["Aristhos"] = {
-		[1] = 11309,
+	["Hopiapoeka"] = {
+		[1] = 3981,
 	},
-	["Nervar"] = {
-		[1] = 11258,
-		[2] = "priest",
+	["Astil"] = {
+		[1] = 12084,
+		[2] = "druid",
 		[3] = 1,
-		[8] = 34,
+		[8] = 36,
 	},
 	["Klathmoth"] = {
 		[1] = 11042,
 	},
-	["Gyanny"] = {
-		[1] = 4953,
+	["Grimsun"] = {
+		[1] = 9683,
 	},
-	["Millenia"] = {
-		[1] = 2860,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 60,
+	["Jakan"] = {
+		[1] = 5106,
 	},
 	["Katadan"] = {
 		[1] = 4458,
 	},
-	["Perefrancis"] = {
-		[1] = 11364,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 35,
+	["Ankxel"] = {
+		[1] = 7613,
 	},
-	["Gamanorama"] = {
-		[1] = 7676,
+	["Lurifix"] = {
+		[1] = 6244,
 	},
-	["Tritika"] = {
-		[1] = 5559,
+	["King Bangalash"] = {
+		[1] = 11679,
 	},
-	["Death's Head Priest"] = {
-		[1] = 9387,
+	["Buntat"] = {
+		[1] = 3410,
 	},
-	["Woozimoo"] = {
-		[1] = 9753,
+	["Honorkiller"] = {
+		[1] = 9209,
 	},
-	["Thoktast"] = {
-		[1] = 7469,
+	["Kadelam"] = {
+		[1] = 7973,
 	},
-	["Naturesup"] = {
-		[1] = 389,
+	["Chrimsone"] = {
+		[1] = 2327,
 	},
-	["Faleceu"] = {
-		[1] = 3660,
-	},
-	["Frostovich"] = {
-		[1] = 10310,
-	},
-	["Bigpenishole"] = {
-		[1] = 4338,
-	},
-	["Vanhell"] = {
-		[1] = 4311,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 4,
-	},
-	["Handlock"] = {
-		[1] = 6883,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 12,
-	},
-	["Drunner"] = {
-		[1] = 21,
-	},
-	["Witewalker"] = {
-		[1] = 3185,
-	},
-	["Zomboy"] = {
-		[1] = 6871,
-	},
-	["Foodndrink"] = {
-		[1] = 8239,
+	["Faceless"] = {
+		[1] = 7827,
 		[2] = "mage",
 		[3] = -1,
+		[8] = 18,
+	},
+	["Kicktac"] = {
+		[1] = 583,
+	},
+	["Konjuk"] = {
+		[1] = 8,
+	},
+	["T√°uno"] = {
+		[1] = 2820,
+	},
+	["Wild Buck"] = {
+		[1] = 8974,
+	},
+	["Asmy"] = {
+		[1] = 11778,
+	},
+	["Santiaos"] = {
+		[1] = 3424,
+	},
+	["Waterboy"] = {
+		[1] = 5061,
+	},
+	["Zarthel"] = {
+		[1] = 730,
+	},
+	["Hearfish"] = {
+		[1] = 298,
+		[2] = "hunter",
+		[3] = 1,
+		[4] = false,
+		[5] = "Wolf",
 		[8] = 60,
 	},
-	["Krudtk"] = {
-		[1] = 13074,
+	["Nurtsy"] = {
+		[1] = 11461,
 	},
-	["Xathula"] = {
-		[1] = 4211,
-	},
-	["Shootyourmom"] = {
-		[1] = 8429,
+	["Shihaizhou"] = {
+		[1] = 6994,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 17,
 	},
 	["Capela"] = {
 		[1] = 9713,
 	},
-	["Kindlyeyes"] = {
-		[1] = 10879,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 22,
+	["Evoomee"] = {
+		[1] = 2319,
 	},
 	["Divinedildo"] = {
 		[1] = 11735,
@@ -40584,14 +40505,17 @@ DPSMateUser = {
 		[7] = "ESPORT BACKPEDALINGZ",
 		[8] = 21,
 	},
-	["Razormane Wolf"] = {
-		[1] = 5606,
+	["Dutchsmoke"] = {
+		[1] = 7018,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 15,
 	},
-	["Quaz"] = {
-		[1] = 9679,
+	["Deathblade"] = {
+		[1] = 847,
 	},
-	["Visionmomo"] = {
-		[1] = 13105,
+	["Fengli"] = {
+		[1] = 8910,
 	},
 	["Wykthor"] = {
 		[1] = 2115,
@@ -40599,44 +40523,8 @@ DPSMateUser = {
 	["Carefree"] = {
 		[1] = 3095,
 	},
-	["Dizzk"] = {
-		[1] = 7416,
-	},
-	["Exulkor"] = {
-		[1] = 3408,
-	},
-	["Roshon"] = {
-		[1] = 5344,
-	},
-	["Blamo"] = {
-		[1] = 8980,
-	},
-	["Asmy"] = {
-		[1] = 11778,
-	},
-	["Drtroll"] = {
-		[1] = 11098,
-	},
-	["Hodenboxer"] = {
-		[1] = 6530,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 13,
-	},
-	["Fakur"] = {
-		[1] = 3647,
-	},
-	["Phamine"] = {
-		[1] = 6045,
-	},
-	["Leepybear"] = {
-		[1] = 2873,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 60,
-	},
-	["Slez"] = {
-		[1] = 10251,
+	["Oswind"] = {
+		[1] = 2987,
 	},
 	["Mklovin"] = {
 		[1] = 2033,
@@ -40644,6 +40532,39 @@ DPSMateUser = {
 		[3] = -1,
 		[4] = false,
 		[8] = 60,
+	},
+	["Roshon"] = {
+		[1] = 5344,
+	},
+	["Blamo"] = {
+		[1] = 8980,
+	},
+	["Ranson"] = {
+		[1] = 3541,
+	},
+	["Drtroll"] = {
+		[1] = 11098,
+	},
+	["Wapx"] = {
+		[1] = 12169,
+	},
+	["Fakur"] = {
+		[1] = 3647,
+	},
+	["Phamine"] = {
+		[1] = 6045,
+	},
+	["Hodenboxer"] = {
+		[1] = 6530,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 13,
+	},
+	["Slez"] = {
+		[1] = 10251,
+	},
+	["Yeylol"] = {
+		[1] = 12782,
 	},
 	["Bellop"] = {
 		[1] = 4665,
@@ -40653,8 +40574,8 @@ DPSMateUser = {
 	["Aeeos"] = {
 		[1] = 6420,
 	},
-	["Mslisna"] = {
-		[1] = 5666,
+	["Animaljoe"] = {
+		[1] = 7576,
 	},
 	["Myria"] = {
 		[1] = 477,
@@ -40674,61 +40595,11 @@ DPSMateUser = {
 	["Kioskenx"] = {
 		[1] = 3519,
 	},
-	["Peterhansen"] = {
-		[1] = 2235,
+	["Gimlet"] = {
+		[1] = 5633,
 	},
-	["Dire Mottled Boar"] = {
-		[1] = 8762,
-	},
-	["Gouges"] = {
-		[1] = 9126,
-	},
-	["Shadowxing"] = {
-		[1] = 8531,
-	},
-	["Huskirita"] = {
-		[1] = 1965,
-	},
-	["Malorah"] = {
-		[1] = 10307,
-	},
-	["Zusukie"] = {
-		[1] = 6412,
-	},
-	["Shadowfang Glutton"] = {
-		[1] = 8615,
-	},
-	["Philyon"] = {
-		[1] = 5896,
-	},
-	["Maxx"] = {
-		[1] = 1567,
-	},
-	["Csugamii"] = {
-		[1] = 7838,
-	},
-	["Rockwing Screecher"] = {
-		[1] = 2149,
-	},
-	["Eightyhd"] = {
-		[1] = 11680,
-	},
-	["Mcgee"] = {
-		[1] = 12272,
-	},
-	["Bluerage"] = {
-		[1] = 449,
-	},
-	["Verdantine Boughguard"] = {
-		[1] = 1606,
-	},
-	["Black"] = {
-		[1] = 1023,
-	},
-	["Excited"] = {
-		[1] = 7776,
-		[4] = true,
-		[6] = 7775,
+	["Spawn of Mar'li"] = {
+		[1] = 343,
 	},
 	["Khalal"] = {
 		[1] = 11424,
@@ -40736,77 +40607,139 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 37,
 	},
+	["Lancher"] = {
+		[1] = 1105,
+		[2] = "warrior",
+		[3] = 1,
+		[4] = false,
+		[7] = "Hard Times",
+		[8] = 60,
+	},
+	["Huskirita"] = {
+		[1] = 1965,
+	},
+	["Malorah"] = {
+		[1] = 10307,
+	},
+	["Ibumetin"] = {
+		[1] = 3081,
+		[2] = "priest",
+		[3] = -1,
+		[4] = false,
+		[8] = 3,
+	},
+	["Firebat"] = {
+		[1] = 12559,
+	},
+	["Philyon"] = {
+		[1] = 5896,
+	},
+	["Hugechaos"] = {
+		[1] = 8803,
+	},
+	["Hukthyk"] = {
+		[1] = 5993,
+	},
+	["Zyam"] = {
+		[1] = 10911,
+	},
+	["Eightyhd"] = {
+		[1] = 11680,
+	},
+	["Sisterhazel"] = {
+		[1] = 11034,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 36,
+	},
+	["Bluerage"] = {
+		[1] = 449,
+	},
+	["Verdantine Boughguard"] = {
+		[1] = 1606,
+	},
+	["Mutedmaggot"] = {
+		[1] = 4832,
+	},
+	["Jerrkys"] = {
+		[1] = 3484,
+	},
+	["Daunty"] = {
+		[1] = 6825,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 34,
+	},
 	["Katerinaki"] = {
 		[1] = 6446,
 	},
 	["Dotjaw"] = {
 		[1] = 3233,
 	},
-	["Fight"] = {
-		[1] = 1124,
+	["Alousv"] = {
+		[1] = 10830,
 	},
 	["Fukksamtycke"] = {
 		[1] = 8768,
 	},
-	["Cleycley"] = {
-		[1] = 2928,
+	["Luuthido"] = {
+		[1] = 6695,
 	},
-	["Doinah"] = {
-		[1] = 9639,
+	["Excited"] = {
+		[1] = 7776,
+		[4] = true,
+		[6] = 7775,
 	},
 	["Simith"] = {
 		[1] = 7253,
 	},
-	["Wardom"] = {
-		[1] = 5576,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 19,
+	["Rayman"] = {
+		[1] = 1652,
 	},
 	["Redhothead"] = {
 		[1] = 12970,
 	},
-	["Smartiemijet"] = {
-		[1] = 10501,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 34,
+	["Doinah"] = {
+		[1] = 9639,
 	},
 	["Mischa"] = {
 		[1] = 8327,
 	},
-	["Jerrkys"] = {
-		[1] = 3484,
+	["Zhurdon"] = {
+		[1] = 11078,
 	},
 	["Asscheek"] = {
 		[1] = 11823,
 	},
-	["Snapjaw"] = {
-		[1] = 10606,
+	["Adeane"] = {
+		[1] = 1010,
 	},
 	["Mad Scientist"] = {
 		[1] = 2744,
 	},
-	["Blackwing Technician"] = {
-		[1] = 1076,
+	["Deezol"] = {
+		[1] = 8286,
 	},
-	["Arhybes"] = {
-		[1] = 5165,
+	["Bud"] = {
+		[1] = 3326,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 3,
 	},
 	["Brizon"] = {
 		[1] = 3729,
 	},
-	["Hpqq"] = {
-		[1] = 10,
+	["Hamsandwhich"] = {
+		[1] = 6524,
 	},
-	["Veolria"] = {
-		[1] = 4592,
+	["Atinus"] = {
+		[1] = 772,
 	},
 	["Kreecher"] = {
 		[1] = 6227,
 	},
-	["Rayman"] = {
-		[1] = 1652,
+	["Santecruz"] = {
+		[1] = 9534,
 	},
 	["Klostein"] = {
 		[1] = 12187,
@@ -40814,58 +40747,59 @@ DPSMateUser = {
 	["Jubtuk"] = {
 		[1] = 5296,
 	},
-	["Suddenkill"] = {
-		[1] = 3344,
+	["Felbot"] = {
+		[1] = 9635,
 	},
 	["Mcyerba"] = {
 		[1] = 6466,
 	},
-	["Reaywindseek"] = {
-		[1] = 10285,
+	["Wolfrikc"] = {
+		[1] = 3054,
 	},
 	["Raging Cliff Stormer"] = {
 		[1] = 8216,
 	},
-	["Shekelstone"] = {
-		[1] = 9065,
+	["Erdera"] = {
+		[1] = 4473,
 	},
-	["Zhurdon"] = {
-		[1] = 11078,
+	["Prisuha"] = {
+		[1] = 1201,
 	},
-	["Grokke"] = {
-		[1] = 9200,
+	["Oldgray"] = {
+		[1] = 6595,
 	},
-	["Meltyou"] = {
-		[1] = 4563,
+	["Keksmus"] = {
+		[1] = 3911,
 	},
 	["Fallefalcon"] = {
 		[1] = 10374,
 	},
-	["Pedr"] = {
-		[1] = 787,
+	["Stromgarde Defender"] = {
+		[1] = 12431,
 	},
-	["[["] = {
-		[1] = 1450,
-		[4] = true,
-		[6] = 1449,
+	["Elder Stranglethorn Tiger"] = {
+		[1] = 11022,
 	},
-	["Jinjing"] = {
-		[1] = 3037,
+	["Grimtotem Stomper"] = {
+		[1] = 9296,
 	},
 	["Testwarriorr"] = {
 		[1] = 2923,
 	},
-	["Shadowgurl"] = {
-		[1] = 10747,
+	["Lulugirl"] = {
+		[1] = 1295,
 	},
 	["Vunters"] = {
 		[1] = 5902,
 	},
-	["Santecruz"] = {
-		[1] = 9534,
+	["Biggismalls"] = {
+		[1] = 4226,
 	},
-	["Zverowar"] = {
-		[1] = 12684,
+	["Circos"] = {
+		[1] = 10872,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 28,
 	},
 	["Incende"] = {
 		[1] = 3128,
@@ -40873,20 +40807,23 @@ DPSMateUser = {
 	["Plasticstick"] = {
 		[1] = 9108,
 	},
-	["Brodo"] = {
-		[1] = 8728,
-	},
 	["Daideneg"] = {
 		[1] = 9503,
 	},
-	["Mikalateia"] = {
-		[1] = 8961,
+	["Muddie"] = {
+		[1] = 5920,
+	},
+	["Qncunx"] = {
+		[1] = 4119,
 	},
 	["Rupercht"] = {
 		[1] = 1048,
 	},
-	["Mlly"] = {
-		[1] = 1952,
+	["Jaqueslacan"] = {
+		[1] = 2227,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Zulsorah"] = {
 		[1] = 2688,
@@ -40894,29 +40831,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Seal"] = {
-		[1] = 12535,
+	["Smaugaden"] = {
+		[1] = 5542,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 21,
 	},
-	["Staby"] = {
-		[1] = 11628,
+	["Zaggra"] = {
+		[1] = 12026,
 	},
-	["Niata"] = {
-		[1] = 10574,
+	["Stormsnout"] = {
+		[1] = 6004,
 	},
 	["Taassadar"] = {
 		[1] = 10394,
 	},
-	["Sasabeliy"] = {
-		[1] = 6997,
+	["Ogrepowerd"] = {
+		[1] = 8890,
 	},
 	["Baedor"] = {
 		[1] = 5071,
 	},
-	["Carrythatbox"] = {
-		[1] = 5503,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Greenfist"] = {
+		[1] = 13098,
 	},
 	["Kolkar Destroyer"] = {
 		[1] = 12848,
@@ -40924,8 +40861,8 @@ DPSMateUser = {
 	["Olly"] = {
 		[1] = 1340,
 	},
-	["Rat"] = {
-		[1] = 360,
+	["Skanvar"] = {
+		[1] = 4917,
 	},
 	["Mosh'Ogg Witch Doctor"] = {
 		[1] = 11678,
@@ -40933,8 +40870,8 @@ DPSMateUser = {
 	["Bimborice"] = {
 		[1] = 1910,
 	},
-	["Vanzant"] = {
-		[1] = 4533,
+	["Djip"] = {
+		[1] = 3876,
 	},
 	["Ogham"] = {
 		[1] = 7616,
@@ -40948,23 +40885,23 @@ DPSMateUser = {
 	["Aftermath"] = {
 		[1] = 4443,
 	},
-	["Thciri"] = {
-		[1] = 12483,
+	["Xileiman"] = {
+		[1] = 4811,
 		[2] = "rogue",
-		[3] = 1,
-		[8] = 39,
+		[3] = -1,
+		[8] = 5,
 	},
-	["Slaninka"] = {
-		[1] = 7470,
+	["Nokliah"] = {
+		[1] = 10199,
 	},
-	["Korosu"] = {
-		[1] = 2940,
+	["Nuklearfried"] = {
+		[1] = 12606,
 	},
-	["Qiaqialian"] = {
-		[1] = 7701,
+	["Tawny Grisette"] = {
+		[1] = 13068,
 	},
-	["Hollystorm"] = {
-		[1] = 1574,
+	["Kainord"] = {
+		[1] = 5812,
 	},
 	["Garbash"] = {
 		[1] = 6826,
@@ -40972,32 +40909,32 @@ DPSMateUser = {
 	["Saigrom"] = {
 		[1] = 6540,
 	},
-	["Listien"] = {
-		[1] = 11763,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 38,
+	["Kusqt"] = {
+		[1] = 11540,
 	},
 	["Fdhyc"] = {
 		[1] = 12245,
 	},
-	["Corrupted Green Whelp"] = {
-		[1] = 1086,
+	["Arauto"] = {
+		[1] = 4405,
 	},
-	["Rapez"] = {
-		[1] = 3811,
+	["Soulemon"] = {
+		[1] = 11767,
 	},
-	["Makharg"] = {
-		[1] = 645,
+	["Kebaab"] = {
+		[1] = 1507,
 	},
 	["Knusa"] = {
 		[1] = 712,
 	},
-	["Llaell"] = {
-		[1] = 7866,
+	["Garrukh"] = {
+		[1] = 6710,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 15,
 	},
-	["Vizionisth"] = {
-		[1] = 781,
+	["Axiba"] = {
+		[1] = 11945,
 	},
 	["Xtal"] = {
 		[1] = 948,
@@ -41005,74 +40942,20 @@ DPSMateUser = {
 	["Xblazin"] = {
 		[1] = 5878,
 	},
-	["Brackenwall Enforcer"] = {
-		[1] = 11328,
+	["Sunqtn"] = {
+		[1] = 561,
 	},
 	["Magrathea"] = {
 		[1] = 392,
 	},
-	["Astrus"] = {
-		[1] = 3690,
-	},
-	["Tawny Grisette"] = {
-		[1] = 13068,
-	},
-	["Roadblock"] = {
-		[1] = 681,
-	},
-	["Bael'dun Officer"] = {
-		[1] = 10169,
-	},
-	["Bobkat"] = {
-		[1] = 4874,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 42,
-	},
-	["Klikcmr"] = {
-		[1] = 3479,
-	},
-	["Coldshot"] = {
-		[1] = 11516,
-	},
-	["Huanletudou"] = {
-		[1] = 7689,
-	},
-	["Colino"] = {
-		[1] = 3764,
+	["Scoli"] = {
+		[1] = 12229,
 	},
 	["Itemized"] = {
 		[1] = 9423,
 	},
-	["Kolkar Stormer"] = {
-		[1] = 6104,
-	},
-	["Xtii"] = {
-		[1] = 3997,
-	},
-	["Mackyang"] = {
-		[1] = 7749,
-	},
-	["Rifo"] = {
-		[1] = 11402,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 31,
-	},
-	["Dynshis"] = {
-		[1] = 7750,
-	},
-	["Premn"] = {
-		[1] = 8847,
-	},
-	["Reidon"] = {
-		[1] = 8401,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 27,
-	},
-	["Iouy"] = {
-		[1] = 3219,
+	["Roadblock"] = {
+		[1] = 681,
 	},
 	["Polychrom"] = {
 		[1] = 13287,
@@ -41080,11 +40963,71 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 23,
 	},
-	["Neihz"] = {
-		[1] = 5567,
+	["Bobkat"] = {
+		[1] = 4874,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 42,
 	},
-	["Traktomir"] = {
-		[1] = 10248,
+	["Kalthel"] = {
+		[1] = 11065,
+	},
+	["Fisticuffs"] = {
+		[1] = 8508,
+	},
+	["Pennycandies"] = {
+		[1] = 11440,
+	},
+	["Nejdan"] = {
+		[1] = 8168,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 23,
+	},
+	["Mackyang"] = {
+		[1] = 7749,
+	},
+	["Kolkar Stormer"] = {
+		[1] = 6104,
+	},
+	["Tytanos"] = {
+		[1] = 11343,
+	},
+	["Razorfen Stalker"] = {
+		[1] = 9377,
+	},
+	["Rifo"] = {
+		[1] = 11402,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 31,
+	},
+	["Hexars"] = {
+		[1] = 5461,
+	},
+	["Feelsbadbro"] = {
+		[1] = 11654,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 36,
+	},
+	["Reidon"] = {
+		[1] = 8401,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 27,
+	},
+	["Hosq"] = {
+		[1] = 11585,
+	},
+	["Octorinia"] = {
+		[1] = 2414,
+	},
+	["Potnya"] = {
+		[1] = 12969,
+	},
+	["Kblol"] = {
+		[1] = 10883,
 	},
 	["Gala"] = {
 		[1] = 5103,
@@ -41092,43 +41035,49 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 10,
 	},
-	["Hosq"] = {
-		[1] = 11585,
+	["Nmzl"] = {
+		[1] = 2108,
 	},
-	["Memeform"] = {
-		[1] = 1383,
+	["Zacharyso"] = {
+		[1] = 12341,
 	},
-	["Trece"] = {
-		[1] = 1247,
+	["Gunsala"] = {
+		[1] = 11395,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 34,
 	},
 	["Gagada"] = {
 		[1] = 13159,
 	},
-	["Sadakuno"] = {
-		[1] = 6546,
+	["Atkozott"] = {
+		[1] = 13044,
 	},
-	["Heheszki"] = {
-		[1] = 632,
+	["Gloganghoe"] = {
+		[1] = 10867,
 	},
 	["Aelus"] = {
 		[1] = 9714,
 		[2] = "druid",
 		[3] = 1,
 	},
-	["Harryboltter"] = {
-		[1] = 3594,
+	["Scabez"] = {
+		[1] = 5303,
 	},
-	["Kippekaffee"] = {
-		[1] = 7882,
+	["Fodao"] = {
+		[1] = 7724,
 	},
-	["Joelj"] = {
-		[1] = 3206,
+	["Vetage"] = {
+		[1] = 3939,
 	},
-	["Jkjfd"] = {
-		[1] = 9955,
+	["Zondare"] = {
+		[1] = 11845,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 37,
 	},
-	["Zacharyso"] = {
-		[1] = 12341,
+	["Diegaa"] = {
+		[1] = 9469,
 	},
 	["Azumalol"] = {
 		[1] = 8250,
@@ -41136,11 +41085,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Kblol"] = {
-		[1] = 10883,
+	["Patrnbaldnes"] = {
+		[1] = 7187,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 17,
 	},
-	["Diegaa"] = {
-		[1] = 9469,
+	["Kolkar Pack Runner"] = {
+		[1] = 5767,
 	},
 	["Hekatos"] = {
 		[1] = 9621,
@@ -41154,11 +41106,11 @@ DPSMateUser = {
 	["Twitchz"] = {
 		[1] = 5759,
 	},
-	["Aimsforknee"] = {
-		[1] = 12620,
+	["Jouninkauppa"] = {
+		[1] = 12739,
 	},
-	["Ramzgoeshard"] = {
-		[1] = 1538,
+	["Ebrilson"] = {
+		[1] = 8472,
 	},
 	["Mornet"] = {
 		[1] = 9783,
@@ -41166,71 +41118,71 @@ DPSMateUser = {
 	["Madeinitaly"] = {
 		[1] = 798,
 	},
-	["Severus"] = {
-		[1] = 4860,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 11,
+	["Frusta"] = {
+		[1] = 11143,
 	},
 	["Mistvale Gorilla"] = {
 		[1] = 11155,
 	},
-	["Ggwpez"] = {
-		[1] = 445,
+	["Mmhpie"] = {
+		[1] = 3154,
 	},
 	["Laserkeule"] = {
 		[1] = 6210,
 	},
-	["Moxigantou"] = {
-		[1] = 8355,
+	["Kindslayer"] = {
+		[1] = 11226,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 29,
 	},
 	["Zephry"] = {
 		[1] = 5249,
 	},
-	["Streetmagic"] = {
-		[1] = 3077,
+	["Skwyd"] = {
+		[1] = 10533,
 	},
 	["Gshammy"] = {
 		[1] = 5919,
 	},
-	["Xakon"] = {
-		[1] = 1523,
+	["Rupuri"] = {
+		[1] = 5243,
 	},
 	["Serginho"] = {
 		[1] = 8428,
 	},
-	["Forsaken Raider"] = {
-		[1] = 8596,
+	["Kennethjones"] = {
+		[1] = 9598,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 33,
 	},
-	["Bopkingjr"] = {
-		[1] = 242,
+	["Bootyjam"] = {
+		[1] = 5093,
 	},
-	["Slitherblade Sea Witch"] = {
-		[1] = 12879,
+	["Vriezermama"] = {
+		[1] = 9473,
 	},
-	["Utopisti"] = {
-		[1] = 10024,
+	["Jamp"] = {
+		[1] = 4304,
 	},
 	["Hakkar"] = {
 		[1] = 370,
 	},
-	["Hildenimenty"] = {
-		[1] = 5928,
+	["Xmclovin"] = {
+		[1] = 5637,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Atrioth"] = {
 		[1] = 4093,
 	},
-	["Trolledxd"] = {
-		[1] = 7,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 60,
+	["Pastoroff"] = {
+		[1] = 10146,
 	},
-	["Synergenix"] = {
-		[1] = 5929,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 36,
+	["Hebestar"] = {
+		[1] = 4080,
 	},
 	["Oomcow"] = {
 		[1] = 7468,
@@ -41244,14 +41196,11 @@ DPSMateUser = {
 	["Diabolikk"] = {
 		[1] = 10387,
 	},
-	["Xmclovin"] = {
-		[1] = 5637,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Bonedeath"] = {
+		[1] = 8656,
 	},
-	["Caretaker Weston"] = {
-		[1] = 12512,
+	["Grimtotem Mercenary"] = {
+		[1] = 8066,
 	},
 	["Symf"] = {
 		[1] = 5923,
@@ -41262,20 +41211,20 @@ DPSMateUser = {
 	["Searing Totem IV"] = {
 		[1] = 11350,
 	},
-	["Necromind"] = {
-		[1] = 13151,
+	["Synmsting"] = {
+		[1] = 9873,
 	},
 	["Fortunaq"] = {
 		[1] = 4823,
 	},
-	["Dread Swoop"] = {
-		[1] = 8933,
+	["Ziggystar"] = {
+		[1] = 2266,
 	},
-	["Qnmb"] = {
-		[1] = 1818,
+	["Gjimb"] = {
+		[1] = 3791,
 	},
-	["Benslayer"] = {
-		[1] = 4830,
+	["Eradicater"] = {
+		[1] = 8782,
 	},
 	["Kainratsu"] = {
 		[1] = 5563,
@@ -41283,14 +41232,17 @@ DPSMateUser = {
 	["Sm√°ck"] = {
 		[1] = 1976,
 	},
-	["Wankingdead"] = {
-		[1] = 3966,
+	["Lied"] = {
+		[1] = 5950,
 	},
 	["Moip"] = {
 		[1] = 1713,
 	},
-	["Fourbillion"] = {
-		[1] = 7983,
+	["Satanico"] = {
+		[1] = 9069,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 20,
 	},
 	["Archipo"] = {
 		[1] = 10860,
@@ -41300,8 +41252,8 @@ DPSMateUser = {
 		[7] = "Systembolaget",
 		[8] = 38,
 	},
-	["Jhomnagma"] = {
-		[1] = 7969,
+	["Catdog"] = {
+		[1] = 5762,
 	},
 	["Deadfriend"] = {
 		[1] = 10547,
@@ -41315,11 +41267,11 @@ DPSMateUser = {
 	["Kitler"] = {
 		[1] = 6314,
 	},
-	["Havron"] = {
-		[1] = 13373,
-		[2] = "warlock",
+	["Ruas"] = {
+		[1] = 11774,
+		[2] = "hunter",
 		[3] = -1,
-		[8] = 5,
+		[8] = 60,
 	},
 	["Omniprescent"] = {
 		[1] = 2589,
@@ -41334,57 +41286,52 @@ DPSMateUser = {
 	["Kharyll"] = {
 		[1] = 5153,
 	},
-	["Vasher"] = {
-		[1] = 8894,
+	["Nachtelf"] = {
+		[1] = 192,
 	},
 	["Barly"] = {
 		[1] = 5768,
 	},
-	["Nyxara"] = {
-		[1] = 5154,
+	["Veliare"] = {
+		[1] = 12671,
 	},
-	["Kuroshawty"] = {
-		[1] = 11355,
+	["Magarruk"] = {
+		[1] = 11675,
 	},
 	["Balrogg"] = {
 		[1] = 11921,
 	},
-	["Richboyx"] = {
-		[1] = 3494,
+	["Shortdemise"] = {
+		[1] = 7861,
+		[2] = "warlock",
+		[3] = -1,
+		[4] = false,
+		[5] = "Zangthang",
+		[8] = 30,
 	},
 	["Plamuurmes"] = {
 		[1] = 2990,
 	},
-	["Swagerino"] = {
-		[1] = 1843,
+	["Ficsi"] = {
+		[1] = 3943,
 	},
 	["Lerrysa"] = {
 		[1] = 130,
 	},
-	["Dyrou"] = {
-		[1] = 1411,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Glow"] = {
+		[1] = 511,
 	},
 	["Cowmangler"] = {
 		[1] = 7547,
 	},
-	["Bloodscalp Hunter"] = {
-		[1] = 385,
+	["Rustybucket"] = {
+		[1] = 12508,
 	},
-	["Pondon"] = {
-		[1] = 10863,
-		[2] = "druid",
-		[3] = 1,
-		[8] = 38,
+	["Xoe"] = {
+		[1] = 5217,
 	},
-	["Spamfrostbt"] = {
-		[1] = 4414,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 6,
+	["Firelord"] = {
+		[1] = 954,
 	},
 	["Silencedpain"] = {
 		[1] = 10891,
@@ -41392,31 +41339,34 @@ DPSMateUser = {
 	["Vanezs"] = {
 		[1] = 9614,
 	},
-	["Discusting"] = {
-		[1] = 3300,
+	["Ludwiglumpz"] = {
+		[1] = 4633,
 	},
-	["Draggoon"] = {
-		[1] = 8591,
-	},
-	["Comefindme"] = {
-		[1] = 7359,
-	},
-	["Vilholm"] = {
-		[1] = 13217,
-		[2] = "warrior",
+	["Fristi"] = {
+		[1] = 11381,
+		[2] = "rogue",
 		[3] = 1,
+		[8] = 40,
 	},
-	["Ramzan"] = {
-		[1] = 9791,
+	["Reppy"] = {
+		[1] = 1025,
+	},
+	["Abedi"] = {
+		[1] = 7811,
+		[2] = "warrior",
+		[3] = -1,
+		[4] = false,
+		[7] = "Better call Thrall",
+		[8] = 18,
+	},
+	["Naglfar"] = {
+		[1] = 7765,
 	},
 	["Lonelykille"] = {
 		[1] = 9965,
 	},
-	["Logically"] = {
-		[1] = 7728,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 48,
+	["Slitherblade Sea Witch"] = {
+		[1] = 12879,
 	},
 	["Rovhatten"] = {
 		[1] = 7180,
@@ -41424,39 +41374,32 @@ DPSMateUser = {
 	["Ysoserious"] = {
 		[1] = 1632,
 	},
-	["Tjenakexet"] = {
-		[1] = 5805,
+	["Yumena"] = {
+		[1] = 12361,
 	},
-	["Ogenomtankt"] = {
-		[1] = 10941,
-		[2] = "priest",
-		[3] = 1,
+	["Dolphulas"] = {
+		[1] = 239,
 	},
-	["Syndicate Watchman"] = {
-		[1] = 12527,
+	["Kesoo"] = {
+		[1] = 12687,
 	},
-	["Strength of Earth Totem III"] = {
-		[1] = 12492,
+	["Partagasmf"] = {
+		[1] = 7792,
 	},
 	["Romulu"] = {
 		[1] = 1569,
 	},
-	["Yumena"] = {
-		[1] = 12361,
+	["Bigog"] = {
+		[1] = 2674,
 	},
 	["Razhonael"] = {
 		[1] = 11977,
 	},
-	["Juk'dok"] = {
-		[1] = 7131,
-		[4] = true,
-		[6] = 5244,
+	["Drsnugz"] = {
+		[1] = 3856,
 	},
-	["Fhakin"] = {
-		[1] = 7124,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 24,
+	["Aeze"] = {
+		[1] = 2311,
 	},
 	["Ostio"] = {
 		[1] = 7688,
@@ -41467,23 +41410,26 @@ DPSMateUser = {
 	["C'Thun"] = {
 		[1] = 2604,
 	},
-	["Diegolu"] = {
-		[1] = 6014,
+	["Fatarre"] = {
+		[1] = 3199,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 4,
 	},
-	["Evilpotatos"] = {
-		[1] = 3292,
+	["Gyrman"] = {
+		[1] = 11711,
 	},
-	["Devthz"] = {
-		[1] = 3930,
+	["Crallix"] = {
+		[1] = 2866,
 	},
-	["Esteedeze"] = {
-		[1] = 2685,
+	["Uthinkudo"] = {
+		[1] = 4286,
 	},
 	["Chillcast"] = {
 		[1] = 3286,
 	},
-	["Gyrman"] = {
-		[1] = 11711,
+	["Bukama"] = {
+		[1] = 162,
 	},
 	["Magma Totem IV"] = {
 		[1] = 281,
@@ -41491,11 +41437,14 @@ DPSMateUser = {
 	["Potemkin"] = {
 		[1] = 6019,
 	},
-	["Ezm"] = {
-		[1] = 887,
+	["Snusbritta"] = {
+		[1] = 12475,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 38,
 	},
-	["Alyonushka"] = {
-		[1] = 9898,
+	["Froobagoof"] = {
+		[1] = 6716,
 	},
 	["Forsakers"] = {
 		[1] = 3823,
@@ -41503,118 +41452,114 @@ DPSMateUser = {
 	["Warsmurfen"] = {
 		[1] = 6835,
 	},
-	["Borodar"] = {
-		[1] = 9208,
-	},
-	["Playnmb"] = {
-		[1] = 12581,
-	},
-	["Allishop"] = {
-		[1] = 1397,
-	},
-	["Froobagoof"] = {
-		[1] = 6716,
-	},
-	["Ravenclaw Champion"] = {
-		[1] = 12542,
-	},
 	["Scoobie"] = {
 		[1] = 11606,
 	},
-	["Peachy"] = {
-		[1] = 1868,
+	["Acunamatata"] = {
+		[1] = 6845,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[7] = "Taylor Swift Fan Club",
+		[8] = 11,
+	},
+	["Pryykun"] = {
+		[1] = 663,
+		[4] = true,
+		[6] = 1467,
+	},
+	["Scarlet Convert"] = {
+		[1] = 3577,
+	},
+	["Plutovka"] = {
+		[1] = 6308,
+	},
+	["Pizzafunghi"] = {
+		[1] = 2917,
+	},
+	["Trolledxd"] = {
+		[1] = 7,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Scarlet Diviner"] = {
 		[1] = 10594,
 	},
-	["Rynthariel the Keymaster"] = {
-		[1] = 10161,
+	["Huffglue"] = {
+		[1] = 6100,
 	},
 	["Qyrin"] = {
 		[1] = 2882,
 	},
-	["PferdeHund"] = {
-		[1] = 6407,
+	["Hoodrychh"] = {
+		[1] = 12134,
 	},
-	["Bigbiglion"] = {
-		[1] = 3639,
+	["Squinoa"] = {
+		[1] = 12166,
 	},
-	["Cowroid"] = {
-		[1] = 5684,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 14,
-	},
-	["Vvarxul"] = {
-		[1] = 13367,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 3,
-	},
-	["Kiminimune"] = {
-		[1] = 10458,
-	},
-	["Dothacker"] = {
-		[1] = 7338,
-	},
-	["Regulargal"] = {
-		[1] = 1692,
-		[2] = "paladin",
-		[3] = 1,
-		[4] = false,
-		[8] = 60,
-	},
-	["Mapler"] = {
-		[1] = 7884,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 60,
-	},
-	["Bienouvert"] = {
-		[1] = 9718,
+	["Davehz"] = {
+		[1] = 9032,
 		[2] = "shaman",
 		[3] = -1,
-		[4] = false,
-		[7] = "Ruines",
-		[8] = 28,
+		[8] = 34,
+	},
+	["Enoo"] = {
+		[1] = 7735,
+	},
+	["Catran"] = {
+		[1] = 11300,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 37,
+	},
+	["Verdan the Everliving"] = {
+		[1] = 7536,
+	},
+	["Sakuyamon"] = {
+		[1] = 258,
+	},
+	["Erwinsmith"] = {
+		[1] = 12364,
+	},
+	["Freeice"] = {
+		[1] = 940,
 	},
 	["Jaegertotem"] = {
 		[1] = 8671,
 	},
-	["Skvernolom"] = {
-		[1] = 2996,
+	["Metlol"] = {
+		[1] = 4292,
 	},
-	["Saevic"] = {
-		[1] = 7266,
+	["Tekniq"] = {
+		[1] = 4223,
 	},
-	["Zlatanz"] = {
-		[1] = 301,
-		[2] = "warrior",
-		[3] = 1,
-		[4] = false,
-		[7] = "Cosa Nostra",
-		[8] = 60,
+	["Shoar"] = {
+		[1] = 9541,
 	},
 	["Odo the Blindwatcher"] = {
 		[1] = 8623,
 	},
-	["Cutson"] = {
-		[1] = 3603,
+	["Caroltian"] = {
+		[1] = 8340,
 	},
-	["Ayouwogan"] = {
-		[1] = 7957,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Daggor"] = {
+		[1] = 9025,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 22,
 	},
-	["Vekniss Guardian"] = {
-		[1] = 2584,
+	["Christians"] = {
+		[1] = 3378,
 	},
 	["Galoptic"] = {
 		[1] = 1338,
 	},
-	["Forest Lurker"] = {
-		[1] = 12292,
+	["Eitrim"] = {
+		[1] = 9042,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 27,
 	},
 	["Kadaiss"] = {
 		[1] = 4939,
@@ -41624,8 +41569,8 @@ DPSMateUser = {
 		[7] = "Blok Ekipa",
 		[8] = 34,
 	},
-	["Zeloteg"] = {
-		[1] = 10081,
+	["Death Talon Captain"] = {
+		[1] = 1079,
 	},
 	["Razorfen Dustweaver"] = {
 		[1] = 9362,
@@ -41633,8 +41578,8 @@ DPSMateUser = {
 	["Notreally"] = {
 		[1] = 2039,
 	},
-	["Â§´Â≠êÂ∫ô"] = {
-		[1] = 1656,
+	["Pagmat"] = {
+		[1] = 5012,
 	},
 	["Analanus"] = {
 		[1] = 7138,
@@ -41645,32 +41590,32 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 20,
 	},
-	["Nusferatu"] = {
-		[1] = 7118,
+	["Borodar"] = {
+		[1] = 9208,
 	},
 	["Lyle"] = {
 		[1] = 4709,
 	},
-	["Meatwado"] = {
-		[1] = 12170,
+	["Foxdemon"] = {
+		[1] = 12626,
 	},
-	["Pagmat"] = {
-		[1] = 5012,
+	["Amarandil"] = {
+		[1] = 4184,
 	},
-	["Phtefani"] = {
-		[1] = 1214,
+	["Maximmus"] = {
+		[1] = 982,
 	},
 	["Biblethumpd"] = {
 		[1] = 2855,
 	},
-	["Chewar"] = {
-		[1] = 10613,
-		[2] = "priest",
+	["Sunsetdrunk"] = {
+		[1] = 10667,
+		[2] = "rogue",
 		[3] = 1,
-		[8] = 38,
+		[8] = 36,
 	},
-	["Apig"] = {
-		[1] = 7276,
+	["Zixro"] = {
+		[1] = 4190,
 	},
 	["Rani"] = {
 		[1] = 1336,
@@ -41681,37 +41626,35 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 9,
 	},
-	["Jansky"] = {
-		[1] = 7147,
+	["Dunan"] = {
+		[1] = 7294,
 	},
-	["Manspread"] = {
-		[1] = 560,
+	["Kroxader"] = {
+		[1] = 6648,
 	},
-	["Trollhenter"] = {
-		[1] = 9587,
+	["Cononchet"] = {
+		[1] = 11598,
 	},
-	["Syd"] = {
-		[1] = 7121,
-		[2] = "mage",
+	["Oosh"] = {
+		[1] = 3505,
+	},
+	["Lahtaajahesu"] = {
+		[1] = 11653,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 20,
-	},
-	["Zangmon"] = {
-		[1] = 11465,
+		[8] = 42,
 	},
 	["Familiitto"] = {
 		[1] = 5069,
 	},
-	["Gatukok"] = {
-		[1] = 5581,
+	["Garreh"] = {
+		[1] = 8704,
 	},
-	["Terorista"] = {
-		[1] = 12271,
-		[2] = "rogue",
-		[3] = 1,
+	["Difonation"] = {
+		[1] = 3689,
 	},
-	["Sabric"] = {
-		[1] = 3965,
+	["Green Scalebane"] = {
+		[1] = 13346,
 	},
 	["Rplilaoye"] = {
 		[1] = 12226,
@@ -41719,21 +41662,24 @@ DPSMateUser = {
 	["Thunder"] = {
 		[1] = 11004,
 	},
-	["Climb"] = {
-		[1] = 566,
+	["Sarvhug"] = {
+		[1] = 12832,
 	},
-	["Somalihuora"] = {
-		[1] = 12675,
-	},
-	["Akila"] = {
-		[1] = 1220,
-	},
-	["Vahvero"] = {
-		[1] = 11674,
-		[2] = "rogue",
+	["Murloock"] = {
+		[1] = 7102,
+		[2] = "warrior",
 		[3] = -1,
 		[4] = false,
-		[8] = 35,
+		[7] = "Dawn of the Horde",
+		[8] = 18,
+	},
+	["Diagnoses"] = {
+		[1] = 11129,
+		[2] = "hunter",
+		[3] = 1,
+	},
+	["Fareplay"] = {
+		[1] = 1638,
 	},
 	["Gobrai"] = {
 		[1] = 4814,
@@ -41741,23 +41687,20 @@ DPSMateUser = {
 	["Saybyebye"] = {
 		[1] = 8466,
 	},
-	["Iravice"] = {
-		[1] = 5302,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 6,
+	["Kalakutas"] = {
+		[1] = 4146,
 	},
-	["Desciples"] = {
-		[1] = 13134,
+	["Luckercrab"] = {
+		[1] = 9558,
 	},
-	["Hancok"] = {
-		[1] = 10744,
+	["Firefirefire"] = {
+		[1] = 1364,
 	},
 	["Aku'mai"] = {
 		[1] = 9021,
 	},
-	["Datboi"] = {
-		[1] = 2397,
+	["Aranogh"] = {
+		[1] = 7047,
 	},
 	["Xenons"] = {
 		[1] = 5400,
@@ -41765,52 +41708,49 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Giveroflive"] = {
-		[1] = 482,
+	["Zmey"] = {
+		[1] = 1062,
 	},
-	["Cornflakess"] = {
-		[1] = 1212,
+	["Legizmo"] = {
+		[1] = 2504,
 	},
 	["Risitasissou"] = {
 		[1] = 12024,
 	},
-	["Supersayn"] = {
-		[1] = 4145,
+	["Pretas"] = {
+		[1] = 4349,
 	},
-	["Kalakutas"] = {
-		[1] = 4146,
-	},
-	["Opasnakrava"] = {
-		[1] = 8085,
-		[2] = "druid",
+	["Pullagullan"] = {
+		[1] = 3641,
+		[2] = "priest",
 		[3] = -1,
-		[8] = 38,
+		[8] = 5,
 	},
-	["àÏ\n"] = {
-		[1] = 1747,
-		[4] = true,
-		[6] = 1731,
+	["Asterianna"] = {
+		[1] = 1806,
 	},
-	["Plmpboss"] = {
-		[1] = 2289,
+	["Leekiller"] = {
+		[1] = 7820,
+	},
+	["Atlantikwall"] = {
+		[1] = 13035,
 	},
 	["Seekerstone"] = {
 		[1] = 11218,
 	},
-	["Joemagic"] = {
-		[1] = 12530,
+	["Dabaobei"] = {
+		[1] = 12063,
+		[2] = "mage",
+		[3] = 1,
 	},
-	["Teytar"] = {
-		[1] = 8564,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 20,
+	["Aazer√≥th"] = {
+		[1] = 2478,
 	},
-	["Orcrow"] = {
-		[1] = 11342,
+	["Karyal"] = {
+		[1] = 1724,
 	},
-	["Tundrahooff"] = {
-		[1] = 13178,
+	["Zezzers"] = {
+		[1] = 1342,
 	},
 	["Ormgorg"] = {
 		[1] = 7779,
@@ -41824,26 +41764,32 @@ DPSMateUser = {
 	["Highland Thrasher"] = {
 		[1] = 10499,
 	},
-	["HellHyena"] = {
-		[1] = 8075,
+	["Memepower"] = {
+		[1] = 7356,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 23,
 	},
-	["Djseppelx"] = {
-		[1] = 7557,
+	["Ddwwss"] = {
+		[1] = 1358,
 	},
-	["Mcsthab"] = {
-		[1] = 5817,
+	["Commendatore"] = {
+		[1] = 6179,
 	},
-	["Monstas"] = {
-		[1] = 3443,
+	["Murathon"] = {
+		[1] = 6361,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 15,
 	},
-	["Zezzers"] = {
-		[1] = 1342,
+	["Coldlol"] = {
+		[1] = 40,
 	},
-	["Nektaar"] = {
-		[1] = 8524,
+	["Benslayer"] = {
+		[1] = 4830,
 	},
-	["Lynnawell"] = {
-		[1] = 841,
+	["Bearsuitup"] = {
+		[1] = 6608,
 	},
 	["Nibuku"] = {
 		[1] = 11894,
@@ -41851,8 +41797,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 38,
 	},
-	["Fellgard"] = {
-		[1] = 12639,
+	["Dalaran Watcher"] = {
+		[1] = 8582,
 	},
 	["Owle"] = {
 		[1] = 3348,
@@ -41868,59 +41814,59 @@ DPSMateUser = {
 		[7] = "DuoMilia",
 		[8] = 37,
 	},
-	["Nelfurion"] = {
-		[1] = 10055,
+	["Cnasty"] = {
+		[1] = 12129,
 	},
 	["Starago"] = {
 		[1] = 493,
 	},
-	["Junfei"] = {
-		[1] = 3316,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 1,
+	["Cowculate"] = {
+		[1] = 7492,
 	},
-	["Barbed Crustacean"] = {
-		[1] = 9011,
+	["Bahatilexa"] = {
+		[1] = 4580,
 	},
-	["Kaja"] = {
-		[1] = 8790,
+	["Sarr"] = {
+		[1] = 2806,
 	},
-	["Qulinx"] = {
-		[1] = 3445,
+	["Glemt"] = {
+		[1] = 2907,
 	},
-	["Nightwind"] = {
-		[1] = 1594,
+	["Mnejezvazzle"] = {
+		[1] = 9181,
 	},
 	["Netherfrost"] = {
 		[1] = 8715,
 	},
-	["Laugh"] = {
-		[1] = 3392,
-		[2] = "priest",
+	["Jublop"] = {
+		[1] = 5100,
+	},
+	["Viali"] = {
+		[1] = 11179,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 36,
+	},
+	["Elijaz"] = {
+		[1] = 2720,
+	},
+	["Koftagy"] = {
+		[1] = 759,
+	},
+	["Noryx"] = {
+		[1] = 11338,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 1,
-	},
-	["Zhadog"] = {
-		[1] = 7581,
-	},
-	["Bjarnir"] = {
-		[1] = 10683,
-	},
-	["Alphadead"] = {
-		[1] = 13092,
-	},
-	["Feeboz"] = {
-		[1] = 12261,
+		[8] = 38,
 	},
 	["Badfinger"] = {
 		[1] = 7190,
 	},
-	["Guthlac"] = {
-		[1] = 1273,
+	["Raycord"] = {
+		[1] = 8354,
 	},
-	["Venomous Cloud Serpent"] = {
-		[1] = 9307,
+	["Kuptip"] = {
+		[1] = 2652,
 	},
 	["Leetblazeit"] = {
 		[1] = 12200,
@@ -41928,29 +41874,29 @@ DPSMateUser = {
 	["Schurke"] = {
 		[1] = 2097,
 	},
-	["Arethousa"] = {
-		[1] = 3482,
+	["Healing"] = {
+		[1] = 975,
 	},
-	["Quatrehuit"] = {
-		[1] = 12194,
+	["Goffauxs"] = {
+		[1] = 13358,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 37,
 	},
-	["Camelia"] = {
-		[1] = 5965,
+	["Biznik"] = {
+		[1] = 1707,
 	},
-	["Abrothiam"] = {
-		[1] = 5786,
-		[2] = "priest",
+	["Strelokagain"] = {
+		[1] = 11928,
+	},
+	["Zulijak"] = {
+		[1] = 8380,
+		[2] = "hunter",
 		[3] = -1,
-		[8] = 16,
+		[8] = 38,
 	},
-	["Lerek"] = {
-		[1] = 9705,
-	},
-	["Shnawzi"] = {
-		[1] = 7110,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 26,
+	["Benedikte"] = {
+		[1] = 4525,
 	},
 	["Rutomoo"] = {
 		[1] = 8058,
@@ -41961,8 +41907,11 @@ DPSMateUser = {
 	["Kenata Dabyrie"] = {
 		[1] = 10363,
 	},
-	["Coolsweet"] = {
-		[1] = 10906,
+	["Orcsucks"] = {
+		[1] = 6285,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 15,
 	},
 	["Goldlust"] = {
 		[1] = 11311,
@@ -41970,11 +41919,14 @@ DPSMateUser = {
 	["Muroq"] = {
 		[1] = 1775,
 	},
-	["Frozenmeow"] = {
-		[1] = 1179,
+	["Electronica"] = {
+		[1] = 4757,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 9,
 	},
-	["Tamam"] = {
-		[1] = 5791,
+	["Zlotan"] = {
+		[1] = 10290,
 	},
 	["Vile Scarab"] = {
 		[1] = 870,
@@ -41985,17 +41937,20 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 37,
 	},
-	["Senk"] = {
-		[1] = 11474,
-	},
-	["Dacus"] = {
-		[1] = 10914,
-	},
-	["Fkjamzy"] = {
-		[1] = 12274,
-		[2] = "hunter",
+	["Yolepooke"] = {
+		[1] = 5761,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 36,
+		[8] = 19,
+	},
+	["Heylucky"] = {
+		[1] = 9442,
+	},
+	["Nrzb"] = {
+		[1] = 4896,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 8,
 	},
 	["Cybill"] = {
 		[1] = 12856,
@@ -42003,14 +41958,14 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 36,
 	},
-	["Heylucky"] = {
-		[1] = 9442,
+	["Boomboomin"] = {
+		[1] = 2062,
 	},
-	["Loxven"] = {
-		[1] = 10381,
+	["Freakadelle"] = {
+		[1] = 5268,
 	},
-	["Oliveryo"] = {
-		[1] = 1527,
+	["Potterstyle"] = {
+		[1] = 10468,
 	},
 	["Surgical Assistant"] = {
 		[1] = 2745,
@@ -42029,35 +41984,43 @@ DPSMateUser = {
 	["Danr"] = {
 		[1] = 4899,
 	},
-	["Vugluskr"] = {
-		[1] = 13059,
+	["Fantacamel"] = {
+		[1] = 4138,
 	},
 	["Madblar"] = {
 		[1] = 3512,
 	},
-	["Xiaoxiaokeai"] = {
-		[1] = 12486,
+	["Funnyman"] = {
+		[1] = 609,
 	},
-	["Supercho"] = {
-		[1] = 3273,
+	["Kaitex"] = {
+		[1] = 4548,
 	},
-	["Polyc"] = {
-		[1] = 6984,
+	["Relye"] = {
+		[1] = 397,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Bangbaby"] = {
-		[1] = 7668,
+	["Beawulf"] = {
+		[1] = 6599,
 	},
-	["Smoh"] = {
-		[1] = 3788,
+	["Allon"] = {
+		[1] = 10858,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 43,
 	},
-	["Creamyy"] = {
-		[1] = 11878,
+	["Famemonsterx"] = {
+		[1] = 1005,
 	},
 	["Korolev"] = {
 		[1] = 8473,
 	},
-	["Ephyy"] = {
-		[1] = 10218,
+	["Thundercoq"] = {
+		[1] = 9252,
+		[2] = "hunter",
+		[3] = 1,
 	},
 	["Healnhorns"] = {
 		[1] = 9250,
@@ -42065,8 +42028,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 26,
 	},
-	["Kaitex"] = {
-		[1] = 4548,
+	["Zigpep"] = {
+		[1] = 9433,
 	},
 	["Kaffekajj"] = {
 		[1] = 6093,
@@ -42074,17 +42037,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 16,
 	},
-	["Zlam"] = {
-		[1] = 4998,
+	["Searing"] = {
+		[1] = 332,
 	},
-	["Tiansb"] = {
-		[1] = 4442,
-		[2] = "mage",
+	["Gizmaduck"] = {
+		[1] = 13374,
+		[2] = "priest",
 		[3] = -1,
 		[8] = 2,
 	},
-	["Famemonsterx"] = {
-		[1] = 1005,
+	["Risen Deathknight"] = {
+		[1] = 2329,
 	},
 	["Dothoe"] = {
 		[1] = 2423,
@@ -42092,62 +42055,38 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Claudegiroux"] = {
-		[1] = 8784,
+	["Xionglaiyou"] = {
+		[1] = 7715,
 	},
-	["Mohikant"] = {
-		[1] = 11291,
-		[2] = "warrior",
+	["Chazcella"] = {
+		[1] = 13281,
+		[2] = "rogue",
 		[3] = 1,
-		[8] = 30,
+		[8] = 31,
 	},
 	["Ocbpremium"] = {
 		[1] = 3490,
 	},
-	["Mountaineer Dokkin"] = {
-		[1] = 12289,
-	},
-	["Obdd"] = {
-		[1] = 3488,
-	},
-	["Jonpeli"] = {
-		[1] = 10934,
-		[2] = "mage",
+	["Heenana"] = {
+		[1] = 5678,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 60,
-	},
-	["Yekill"] = {
-		[1] = 3353,
-	},
-	["Kalakalakkal"] = {
-		[1] = 3738,
-	},
-	["Versed"] = {
-		[1] = 2936,
+		[8] = 17,
 	},
 	["Worlick"] = {
 		[1] = 3007,
 	},
-	["Tezziboii"] = {
-		[1] = 11996,
+	["Soulrappers"] = {
+		[1] = 5851,
 	},
-	["Deathm"] = {
-		[1] = 10889,
+	["Ratchet Bruiser"] = {
+		[1] = 11752,
 	},
-	["Skooler"] = {
-		[1] = 9913,
+	["Kalakalakkal"] = {
+		[1] = 3738,
 	},
-	["Galcianxd"] = {
-		[1] = 3291,
-	},
-	["Schlomo"] = {
-		[1] = 5332,
-	},
-	["Lunea"] = {
-		[1] = 1959,
-	},
-	["Kexalot"] = {
-		[1] = 3343,
+	["Quasii"] = {
+		[1] = 3142,
 	},
 	["Bartrin"] = {
 		[1] = 13192,
@@ -42155,29 +42094,62 @@ DPSMateUser = {
 	["Uthinkyudo"] = {
 		[1] = 2535,
 	},
-	["Nsofd"] = {
-		[1] = 3369,
+	["Abettor"] = {
+		[1] = 6140,
 	},
-	["Bethect"] = {
-		[1] = 12306,
+	["Skooler"] = {
+		[1] = 9913,
 	},
-	["Aliveyra"] = {
-		[1] = 3159,
-		[2] = "priest",
+	["Galcianxd"] = {
+		[1] = 3291,
+	},
+	["Bishes"] = {
+		[1] = 11641,
+	},
+	["Lunea"] = {
+		[1] = 1959,
+	},
+	["Giffelkungen"] = {
+		[1] = 11166,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 1,
+		[8] = 40,
+	},
+	["Dajcycaa"] = {
+		[1] = 2864,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Burkalurka"] = {
+		[1] = 917,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 60,
+	},
+	["Feederer"] = {
+		[1] = 1620,
+	},
+	["Grominex"] = {
+		[1] = 3835,
+	},
+	["Stoov"] = {
+		[1] = 8449,
 	},
 	["Shawnh"] = {
 		[1] = 8037,
 	},
-	["Oogrekra"] = {
-		[1] = 8491,
+	["Minkus"] = {
+		[1] = 10729,
 	},
-	["Doebator"] = {
-		[1] = 4168,
+	["Rylok"] = {
+		[1] = 12123,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 23,
 	},
-	["Lapsi"] = {
-		[1] = 7260,
+	["zhuduiyou"] = {
+		[1] = 10122,
 	},
 	["Pewz"] = {
 		[1] = 13309,
@@ -42188,17 +42160,17 @@ DPSMateUser = {
 	["Ravoldi"] = {
 		[1] = 11072,
 	},
-	["Breakums"] = {
-		[1] = 10571,
+	["Mindless Zombie"] = {
+		[1] = 2962,
 	},
 	["Kissna"] = {
 		[1] = 132,
 	},
-	["Llaman"] = {
-		[1] = 1501,
+	["Silenceborn"] = {
+		[1] = 3712,
 	},
-	["Lagaux"] = {
-		[1] = 10695,
+	["Daylightdies"] = {
+		[1] = 2408,
 	},
 	["Deviate Shambler"] = {
 		[1] = 7529,
@@ -42212,11 +42184,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 28,
 	},
-	["Heimo"] = {
-		[1] = 8739,
+	["Neffraj"] = {
+		[1] = 9346,
 	},
-	["Ugigyg"] = {
-		[1] = 465,
+	["Tannek"] = {
+		[1] = 5746,
 	},
 	["Zdravstvuite"] = {
 		[1] = 10462,
@@ -42224,11 +42196,14 @@ DPSMateUser = {
 	["Chgmel"] = {
 		[1] = 5987,
 	},
-	["Extaze"] = {
-		[1] = 2422,
+	["Tangtaz"] = {
+		[1] = 13073,
 	},
-	["Mindless Zombie"] = {
-		[1] = 2962,
+	["Erer"] = {
+		[1] = 2252,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Aku'mai Servant"] = {
 		[1] = 9019,
@@ -42239,29 +42214,43 @@ DPSMateUser = {
 	["Embersarc"] = {
 		[1] = 11308,
 	},
-	["Buru Egg"] = {
-		[1] = 885,
+	["Gutsygypsy"] = {
+		[1] = 5416,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 11,
 	},
-	["Neffraj"] = {
-		[1] = 9346,
+	["Snusktanken"] = {
+		[1] = 1804,
 	},
-	["Kivan"] = {
-		[1] = 2714,
+	["Edward"] = {
+		[1] = 5378,
 	},
-	["Demdotstho"] = {
-		[1] = 2837,
+	["Iroyp"] = {
+		[1] = 9292,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 28,
 	},
-	["Thies"] = {
-		[1] = 10762,
+	["Valenpa"] = {
+		[1] = 9225,
+		[2] = "druid",
+		[3] = -1,
+		[4] = false,
+		[7] = "LOKO LEGION",
+		[8] = 18,
 	},
-	["Bonedeath"] = {
-		[1] = 8656,
+	["Holyshield"] = {
+		[1] = 5832,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Avrill"] = {
 		[1] = 7216,
 	},
-	["Retrowave"] = {
-		[1] = 12998,
+	["Infinitum"] = {
+		[1] = 6322,
 	},
 	["Hungering Dead"] = {
 		[1] = 5396,
@@ -42272,17 +42261,17 @@ DPSMateUser = {
 	["Hathzazt"] = {
 		[1] = 8711,
 	},
-	["Bixopiruleta"] = {
-		[1] = 3665,
+	["Molten Elemental"] = {
+		[1] = 6111,
 	},
-	["Leninlives"] = {
-		[1] = 10804,
+	["Tengtengcai"] = {
+		[1] = 10896,
 	},
-	["Paulapatton"] = {
-		[1] = 10071,
+	["Lynnawell"] = {
+		[1] = 841,
 	},
-	["Gottmituns"] = {
-		[1] = 1460,
+	["Montzi"] = {
+		[1] = 6918,
 	},
 	["Fatalfalafel"] = {
 		[1] = 9329,
@@ -42292,14 +42281,20 @@ DPSMateUser = {
 		[7] = "The Laughing Inn",
 		[8] = 29,
 	},
-	["Jadian"] = {
-		[1] = 11443,
+	["Ffasdfdsdsa"] = {
+		[1] = 427,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Agaex"] = {
 		[1] = 3974,
 	},
-	["Vlv"] = {
-		[1] = 7697,
+	["Hersk"] = {
+		[1] = 10109,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 55,
 	},
 	["Pesticides"] = {
 		[1] = 7550,
@@ -42307,8 +42302,8 @@ DPSMateUser = {
 	["Thograth"] = {
 		[1] = 9661,
 	},
-	["Highwall"] = {
-		[1] = 11632,
+	["Blowforraid"] = {
+		[1] = 3960,
 	},
 	["Babum"] = {
 		[1] = 8825,
@@ -42316,20 +42311,17 @@ DPSMateUser = {
 	["Turbosperg"] = {
 		[1] = 12047,
 	},
-	["Whitedroode"] = {
-		[1] = 10398,
+	["Seuner"] = {
+		[1] = 11604,
 	},
-	["Simicz"] = {
-		[1] = 4004,
+	["Gdbless"] = {
+		[1] = 1209,
 	},
-	["Severed Dreamer"] = {
-		[1] = 9799,
+	["Zognar"] = {
+		[1] = 7333,
 	},
-	["Scutar"] = {
-		[1] = 6506,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 13,
+	["Waraxe"] = {
+		[1] = 611,
 	},
 	["Bebacker"] = {
 		[1] = 3201,
@@ -42337,44 +42329,35 @@ DPSMateUser = {
 	["Deathguard Saltain"] = {
 		[1] = 4729,
 	},
-	["Gravelicker"] = {
-		[1] = 11281,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 32,
+	["Kamiyo"] = {
+		[1] = 1292,
 	},
-	["Imotepes"] = {
-		[1] = 2985,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 4,
+	["Bonepaw Hyena"] = {
+		[1] = 12885,
 	},
-	["Jeahad"] = {
-		[1] = 1772,
+	["Nyhum"] = {
+		[1] = 5350,
 	},
 	["Ditonator"] = {
 		[1] = 12278,
 	},
-	["Morkret"] = {
-		[1] = 9083,
+	["Tanknsteakk"] = {
+		[1] = 6339,
 	},
-	["Ondore"] = {
-		[1] = 5239,
+	["Rodzaevsky"] = {
+		[1] = 8364,
 	},
 	["Fudos"] = {
 		[1] = 3562,
 	},
-	["Matchamomo"] = {
-		[1] = 11855,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 36,
+	["Mcdrifter"] = {
+		[1] = 10552,
 	},
-	["Ogjoolz"] = {
-		[1] = 9633,
+	["Zoldor"] = {
+		[1] = 7982,
 	},
-	["Siggu"] = {
-		[1] = 10260,
+	["Lagaux"] = {
+		[1] = 10695,
 	},
 	["Ampbeach"] = {
 		[1] = 306,
@@ -42385,28 +42368,23 @@ DPSMateUser = {
 	["ChrisPbacon"] = {
 		[1] = 8386,
 	},
-	["Bukama"] = {
-		[1] = 162,
+	["Carthew"] = {
+		[1] = 10728,
 	},
-	["Zanril"] = {
-		[1] = 11026,
-		[2] = "rogue",
+	["Emmey"] = {
+		[1] = 10992,
+	},
+	["Akirasev"] = {
+		[1] = 12019,
+	},
+	["Wymoras"] = {
+		[1] = 7158,
+	},
+	["Karsemad"] = {
+		[1] = 8590,
+		[2] = "druid",
 		[3] = -1,
-		[4] = false,
-		[7] = "Power",
-		[8] = 36,
-	},
-	["Hiddensin"] = {
-		[1] = 12048,
-	},
-	["Dmfs"] = {
-		[1] = 10903,
-	},
-	["Asphyxiia"] = {
-		[1] = 7679,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 39,
+		[8] = 30,
 	},
 	["Dreadlobster"] = {
 		[1] = 4969,
@@ -42417,23 +42395,20 @@ DPSMateUser = {
 	["Omgdz"] = {
 		[1] = 9327,
 	},
-	["Grimtotem Mercenary"] = {
-		[1] = 8066,
+	["Disruptpwnt"] = {
+		[1] = 8873,
 	},
 	["Dachosenone"] = {
 		[1] = 7741,
 	},
-	["Skitsi"] = {
-		[1] = 11410,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 35,
+	["Laile"] = {
+		[1] = 12787,
 	},
-	["Danjuan"] = {
-		[1] = 12565,
+	["Lucindan"] = {
+		[1] = 3401,
 	},
-	["Kongbean"] = {
-		[1] = 6159,
+	["Petrolatum"] = {
+		[1] = 1559,
 	},
 	["Spaccio"] = {
 		[1] = 11957,
@@ -42441,8 +42416,11 @@ DPSMateUser = {
 	["Eledan"] = {
 		[1] = 929,
 	},
-	["Evanita"] = {
-		[1] = 4382,
+	["Jawdropping"] = {
+		[1] = 9700,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 29,
 	},
 	["Logich"] = {
 		[1] = 7803,
@@ -42450,35 +42428,32 @@ DPSMateUser = {
 	["fracasogamer"] = {
 		[1] = 5783,
 	},
-	["Sensure"] = {
-		[1] = 11367,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 36,
+	["Ynidoom"] = {
+		[1] = 5353,
 	},
 	["Lmaoer"] = {
 		[1] = 9173,
 	},
-	["Celiin"] = {
-		[1] = 6249,
+	["Freezsly"] = {
+		[1] = 7832,
 	},
-	["Mad Magglish"] = {
-		[1] = 7448,
+	["Unrealx"] = {
+		[1] = 106,
 	},
-	["Jamp"] = {
-		[1] = 4304,
+	["Wittygas"] = {
+		[1] = 11547,
 	},
-	["Lasti"] = {
-		[1] = 7504,
+	["Cazic"] = {
+		[1] = 12877,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 37,
 	},
 	["Yougetdown"] = {
 		[1] = 10441,
 	},
-	["Bromlette"] = {
-		[1] = 6480,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 11,
+	["Santerina"] = {
+		[1] = 9945,
 	},
 	["Yunggodx"] = {
 		[1] = 1439,
@@ -42489,120 +42464,122 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 35,
 	},
-	["Forest Moss Creeper"] = {
-		[1] = 9153,
+	["Lolkakiller"] = {
+		[1] = 4140,
 	},
-	["Henry"] = {
-		[1] = 12282,
+	["Jumalauta"] = {
+		[1] = 5372,
 	},
 	["Vuchka"] = {
 		[1] = 523,
 	},
-	["Razzashi Broodwidow"] = {
-		[1] = 337,
+	["Puzic"] = {
+		[1] = 5772,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Iamsam"] = {
 		[1] = 214,
 	},
-	["Pipnime"] = {
-		[1] = 6075,
+	["Hetacoco"] = {
+		[1] = 11895,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 37,
 	},
-	["Petrolatum"] = {
-		[1] = 1559,
+	["Furasshu"] = {
+		[1] = 1854,
 	},
 	["Gakrot"] = {
 		[1] = 4569,
 	},
-	["Finczu"] = {
-		[1] = 3887,
+	["Falconfly"] = {
+		[1] = 11689,
 	},
 	["Bootygrill"] = {
 		[1] = 793,
 	},
-	["Disruptpwnt"] = {
-		[1] = 8873,
+	["Muniac"] = {
+		[1] = 8667,
 	},
 	["Deathhorde"] = {
 		[1] = 4020,
 	},
-	["Efsgsdfg"] = {
-		[1] = 2708,
+	["Evox"] = {
+		[1] = 1497,
 	},
-	["Bishen"] = {
-		[1] = 4651,
+	["Cntang"] = {
+		[1] = 10089,
 	},
-	["Maestrik"] = {
-		[1] = 6087,
+	["TRUMP"] = {
+		[1] = 11826,
 	},
-	["Papafrick"] = {
-		[1] = 6652,
+	["Deiven"] = {
+		[1] = 6050,
 	},
 	["Aftershok"] = {
 		[1] = 1628,
 	},
-	["Helophor"] = {
-		[1] = 8925,
+	["Gatangli"] = {
+		[1] = 4041,
 	},
-	["Linnyx"] = {
-		[1] = 1714,
+	["Roxxor"] = {
+		[1] = 8966,
 	},
 	["Getsumfatkid"] = {
 		[1] = 8550,
 	},
-	["Pochciijute"] = {
-		[1] = 3539,
+	["Draakeedog"] = {
+		[1] = 11318,
 	},
-	["Hammerteem"] = {
-		[1] = 2242,
+	["Xtip"] = {
+		[1] = 12862,
 	},
 	["Timothy Weldon"] = {
 		[1] = 13115,
 	},
-	["Wittygas"] = {
-		[1] = 11547,
+	["Juicys"] = {
+		[1] = 39,
 	},
-	["Oust"] = {
-		[1] = 1836,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[8] = 60,
+	["Dansaarn"] = {
+		[1] = 2171,
 	},
 	["Sphinxmagosi"] = {
 		[1] = 6977,
 	},
-	["Rosemarry"] = {
-		[1] = 3718,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 37,
+	["Humanbean"] = {
+		[1] = 1404,
 	},
-	["Greenas"] = {
-		[1] = 5305,
+	["Hukzazt"] = {
+		[1] = 6516,
 	},
-	["Unfettered Spirit"] = {
-		[1] = 10577,
+	["Axtroo"] = {
+		[1] = 13082,
 	},
-	["Ynidoom"] = {
-		[1] = 5353,
+	["Maraga"] = {
+		[1] = 6757,
 	},
-	["Doahx"] = {
-		[1] = 7025,
+	["Alczervik"] = {
+		[1] = 8134,
 		[2] = "rogue",
 		[3] = -1,
-		[8] = 33,
+		[8] = 20,
 	},
-	["Goldenshine"] = {
-		[1] = 3959,
+	["Jagerathalos"] = {
+		[1] = 7910,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 45,
 	},
-	["Jawz"] = {
-		[1] = 6631,
+	["Jinglebolt"] = {
+		[1] = 4413,
 	},
 	["Tampaxx"] = {
 		[1] = 2543,
 	},
-	["Mohindo"] = {
-		[1] = 9135,
+	["Hardhorn"] = {
+		[1] = 8533,
 	},
 	["Lost One Muckdweller"] = {
 		[1] = 13341,
@@ -42610,131 +42587,26 @@ DPSMateUser = {
 	["Nawz"] = {
 		[1] = 8418,
 	},
-	["Reedness"] = {
-		[1] = 12234,
-	},
-	["Bael'dun Rifleman"] = {
-		[1] = 10209,
-	},
-	["Kengax"] = {
-		[1] = 1828,
-	},
-	["Euboys"] = {
-		[1] = 5535,
-	},
-	["Sloodom"] = {
-		[1] = 2570,
-	},
-	["Razorfen Earthbreaker"] = {
-		[1] = 9371,
-	},
-	["Vyriis"] = {
-		[1] = 5126,
-	},
-	["Pwnographic"] = {
-		[1] = 1518,
-	},
-	["Invictos"] = {
-		[1] = 9470,
-	},
-	["Tuna"] = {
-		[1] = 5964,
-	},
-	["Schah"] = {
-		[1] = 13125,
-	},
-	["Psychohoof"] = {
-		[1] = 7979,
-	},
-	["Shketd"] = {
-		[1] = 7785,
-	},
-	["Ush"] = {
-		[1] = 4927,
-	},
-	["Dansaarn"] = {
-		[1] = 2171,
-	},
-	["Zoocubes"] = {
-		[1] = 3695,
-	},
-	["Razormane Mystic"] = {
-		[1] = 6690,
-	},
-	["Fardax"] = {
-		[1] = 9856,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 32,
-	},
-	["Themilk"] = {
-		[1] = 11152,
-		[2] = "warrior",
+	["Akapaforka"] = {
+		[1] = 1686,
+		[2] = "paladin",
 		[3] = 1,
-		[8] = 39,
+		[8] = 60,
 	},
-	["Fuskaren"] = {
-		[1] = 5738,
-		[2] = "hunter",
-		[3] = -1,
-		[4] = false,
-		[5] = "Gandalf",
-		[7] = "Swedish Jazz Orchestra",
-		[8] = 19,
-	},
-	["Armstrong"] = {
-		[1] = 8035,
-	},
-	["Maraga"] = {
-		[1] = 6757,
-	},
-	["Cssn"] = {
-		[1] = 10765,
-	},
-	["Roxxor"] = {
-		[1] = 8966,
-	},
-	["Timcook"] = {
-		[1] = 12427,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 37,
-	},
-	["Hotfuzzrpd"] = {
-		[1] = 9555,
-	},
-	["Herwig"] = {
-		[1] = 1215,
-	},
-	["Blananan"] = {
-		[1] = 13029,
-	},
-	["Amarandil"] = {
-		[1] = 4184,
-	},
-	["Theramore Marine"] = {
-		[1] = 7322,
+	["Xiaoxiaokeai"] = {
+		[1] = 12486,
 	},
 	["Zeeldaa"] = {
 		[1] = 11620,
 	},
-	["Vile Fin Puddlejumper"] = {
-		[1] = 4857,
+	["Braduljica"] = {
+		[1] = 2404,
 	},
-	["Mutenroshi"] = {
-		[1] = 12805,
+	["Sloodom"] = {
+		[1] = 2570,
 	},
-	["Ghostlysong"] = {
-		[1] = 3168,
-	},
-	["Sacredia"] = {
-		[1] = 5411,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 60,
-	},
-	["Irishka"] = {
-		[1] = 8155,
+	["Deathz"] = {
+		[1] = 164,
 	},
 	["Diakul"] = {
 		[1] = 3842,
@@ -42742,17 +42614,129 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 37,
 	},
+	["Pwnographic"] = {
+		[1] = 1518,
+	},
 	["Ephexx"] = {
 		[1] = 10711,
 	},
 	["Chestbrah"] = {
 		[1] = 11718,
 	},
-	["Gorsk"] = {
-		[1] = 10524,
+	["Drinkins"] = {
+		[1] = 3306,
 	},
-	["Absalom"] = {
-		[1] = 4367,
+	["Mudcrush Durtfeet"] = {
+		[1] = 8940,
+	},
+	["Shketd"] = {
+		[1] = 7785,
+	},
+	["Ush"] = {
+		[1] = 4927,
+	},
+	["Lancelut"] = {
+		[1] = 5273,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[8] = 12,
+	},
+	["Zoocubes"] = {
+		[1] = 3695,
+	},
+	["Razormane Mystic"] = {
+		[1] = 6690,
+	},
+	["Izzyrips"] = {
+		[1] = 5368,
+	},
+	["Themilk"] = {
+		[1] = 11152,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 39,
+	},
+	["Kozzy"] = {
+		[1] = 8376,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Scharmuetzel"] = {
+		[1] = 4943,
+	},
+	["Marvel"] = {
+		[1] = 5886,
+	},
+	["Cssn"] = {
+		[1] = 10765,
+	},
+	["Remembertina"] = {
+		[1] = 3535,
+	},
+	["Timcook"] = {
+		[1] = 12427,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 37,
+	},
+	["Saiyangoku"] = {
+		[1] = 5731,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 13,
+	},
+	["Herwig"] = {
+		[1] = 1215,
+	},
+	["Blananan"] = {
+		[1] = 13029,
+	},
+	["Toadie"] = {
+		[1] = 1332,
+	},
+	["Warchehf"] = {
+		[1] = 1856,
+	},
+	["Tacobanana"] = {
+		[1] = 8691,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Vile Fin Puddlejumper"] = {
+		[1] = 4857,
+	},
+	["Mutenroshi"] = {
+		[1] = 12805,
+	},
+	["Freshnesty"] = {
+		[1] = 1297,
+	},
+	["Noder"] = {
+		[1] = 9413,
+	},
+	["Irishka"] = {
+		[1] = 8155,
+	},
+	["Putinswife"] = {
+		[1] = 2273,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Dfretr"] = {
+		[1] = 1887,
+	},
+	["Haapphom"] = {
+		[1] = 557,
+	},
+	["Burning Blade Shadowmage"] = {
+		[1] = 12829,
+	},
+	["Seelix"] = {
+		[1] = 3350,
 	},
 	["Krav"] = {
 		[1] = 4327,
@@ -42760,33 +42744,29 @@ DPSMateUser = {
 	["Fiintstonez"] = {
 		[1] = 6417,
 	},
-	["Chazcella"] = {
-		[1] = 13281,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 31,
+	["Kronath"] = {
+		[1] = 1809,
 	},
 	["Kulresh"] = {
 		[1] = 6450,
 	},
-	["Lavasummer"] = {
-		[1] = 5814,
+	["Ccomehere"] = {
+		[1] = 12570,
 	},
-	["Noval"] = {
-		[1] = 1410,
-		[2] = "paladin",
-		[3] = 1,
-		[4] = false,
-		[8] = 60,
+	["Nothic"] = {
+		[1] = 11433,
 	},
-	["Kandy"] = {
-		[1] = 1030,
+	["Sjaven"] = {
+		[1] = 3304,
 	},
-	["Milfslayerc"] = {
-		[1] = 939,
+	["Carniceiro"] = {
+		[1] = 10090,
 	},
-	["Freebeer"] = {
-		[1] = 10472,
+	["Mhootai"] = {
+		[1] = 6550,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 21,
 	},
 	["Tigolbitties"] = {
 		[1] = 634,
@@ -42797,29 +42777,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 43,
 	},
-	["Bondelkramer"] = {
-		[1] = 10309,
+	["Cherry"] = {
+		[1] = 11266,
 	},
-	["Xorb"] = {
-		[1] = 9823,
+	["Iilillillili"] = {
+		[1] = 12677,
 	},
-	["Remembertina"] = {
-		[1] = 3535,
-	},
-	["Lustylarry"] = {
-		[1] = 6596,
-	},
-	["Raizen"] = {
-		[1] = 2979,
+	["Dvzz"] = {
+		[1] = 9228,
 		[2] = "mage",
 		[3] = -1,
-		[8] = 35,
+		[8] = 20,
+	},
+	["The Prophet Skeram"] = {
+		[1] = 2579,
+	},
+	["Lawful"] = {
+		[1] = 8024,
 	},
 	["Baffo"] = {
 		[1] = 12612,
 	},
-	["Woopawopp"] = {
-		[1] = 9941,
+	["Laznik"] = {
+		[1] = 4134,
 	},
 	["Skipsmegler"] = {
 		[1] = 4921,
@@ -42827,17 +42807,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 21,
 	},
-	["Vonji"] = {
-		[1] = 10557,
+	["Greedys"] = {
+		[1] = 5895,
 	},
 	["Rejuvant"] = {
 		[1] = 6471,
 	},
-	["Saiyangoku"] = {
-		[1] = 5731,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 13,
+	["Tyrds"] = {
+		[1] = 7477,
 	},
 	["Lifesson"] = {
 		[1] = 8399,
@@ -42848,74 +42825,71 @@ DPSMateUser = {
 	["Princess Huhuran"] = {
 		[1] = 2590,
 	},
-	["Bile Retcher"] = {
-		[1] = 2740,
+	["Absinthlol"] = {
+		[1] = 9563,
 	},
-	["Arnolf"] = {
-		[1] = 541,
+	["Meijiro"] = {
+		[1] = 12974,
 	},
-	["Gladdoss"] = {
-		[1] = 10093,
+	["Corrupted Bloodtalon Scythemaw"] = {
+		[1] = 8759,
 	},
-	["Ragefire Trogg"] = {
-		[1] = 6112,
+	["Thinker"] = {
+		[1] = 12373,
 	},
-	["Deepmoss Creeper"] = {
-		[1] = 8084,
+	["Majic"] = {
+		[1] = 2328,
 	},
-	["Barmos"] = {
-		[1] = 6340,
+	["Qiraji Gladiator"] = {
+		[1] = 864,
 	},
 	["Kerola"] = {
 		[1] = 11880,
 	},
-	["Naumlolz"] = {
-		[1] = 12900,
+	["Gralop"] = {
+		[1] = 3888,
 	},
-	["Haapphom"] = {
-		[1] = 557,
+	["Sierhouyi"] = {
+		[1] = 12387,
 	},
-	["Burning Blade Shadowmage"] = {
-		[1] = 12829,
+	["Snaff"] = {
+		[1] = 9678,
 	},
 	["Elydia"] = {
 		[1] = 2092,
 	},
-	["Bobila"] = {
-		[1] = 7106,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 18,
+	["Moinsi"] = {
+		[1] = 9646,
 	},
-	["Davidsmother"] = {
-		[1] = 9196,
+	["Echeyakee"] = {
+		[1] = 6892,
 	},
-	["Schkura"] = {
-		[1] = 12288,
+	["Haanzo"] = {
+		[1] = 8310,
 	},
-	["Qrrbrbirlbel"] = {
-		[1] = 8277,
+	["Keljizzard"] = {
+		[1] = 3011,
 	},
-	["Mermulsim"] = {
-		[1] = 12207,
+	["Persil"] = {
+		[1] = 1018,
 	},
 	["Frog"] = {
 		[1] = 369,
 	},
-	["Troolzor"] = {
-		[1] = 5803,
+	["Cloctonim"] = {
+		[1] = 9551,
+	},
+	["Reolyx"] = {
+		[1] = 2398,
 		[2] = "hunter",
-		[3] = -1,
-		[8] = 18,
+		[3] = 1,
+		[8] = 60,
 	},
-	["Xxlls"] = {
-		[1] = 4076,
+	["Darksweat"] = {
+		[1] = 7666,
 	},
-	["Desdemonah"] = {
-		[1] = 13043,
-	},
-	["Tschutschu"] = {
-		[1] = 1287,
+	["Kancerino"] = {
+		[1] = 573,
 	},
 	["Svrcko"] = {
 		[1] = 6630,
@@ -42923,8 +42897,8 @@ DPSMateUser = {
 	["Mehz"] = {
 		[1] = 8137,
 	},
-	["Richslayer"] = {
-		[1] = 12593,
+	["Skraplotten"] = {
+		[1] = 5399,
 	},
 	["Wobblu"] = {
 		[1] = 7052,
@@ -42935,29 +42909,23 @@ DPSMateUser = {
 	["Bollemusen"] = {
 		[1] = 1385,
 	},
-	["Sarisun"] = {
-		[1] = 9249,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 20,
+	["Amumux"] = {
+		[1] = 4621,
 	},
-	["Blackfathom Myrmidon"] = {
-		[1] = 8997,
+	["Khk"] = {
+		[1] = 2237,
 	},
 	["Qiannvyouhun"] = {
 		[1] = 4395,
 	},
-	["Olcott"] = {
-		[1] = 3675,
+	["Baesop"] = {
+		[1] = 12195,
 	},
-	["Snoke"] = {
-		[1] = 3386,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 18,
+	["Stoneskin"] = {
+		[1] = 12444,
 	},
-	["Zilicia"] = {
-		[1] = 4807,
+	["Arkarius"] = {
+		[1] = 1166,
 	},
 	["Patientzero"] = {
 		[1] = 12709,
@@ -42965,23 +42933,17 @@ DPSMateUser = {
 	["Brackenwall"] = {
 		[1] = 11329,
 	},
-	["En√∂ltack"] = {
-		[1] = 150,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 60,
+	["Discogodx"] = {
+		[1] = 1375,
 	},
-	["Greedys"] = {
-		[1] = 5895,
+	["Nekkita"] = {
+		[1] = 7382,
 	},
-	["Tyrds"] = {
-		[1] = 7477,
+	["Llawnroc"] = {
+		[1] = 12002,
 	},
-	["Backstab"] = {
-		[1] = 4243,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 4,
+	["Mess"] = {
+		[1] = 5555,
 	},
 	["Extan"] = {
 		[1] = 3279,
@@ -42990,11 +42952,11 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 7,
 	},
-	["Refune"] = {
-		[1] = 5354,
+	["Gavrusha"] = {
+		[1] = 11274,
 	},
-	["Xlydren"] = {
-		[1] = 8468,
+	["Gerenzo Wrenchwhistle"] = {
+		[1] = 8152,
 	},
 	["Slagbag"] = {
 		[1] = 6309,
@@ -43005,56 +42967,50 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Qiraji Gladiator"] = {
-		[1] = 864,
+	["Danzil"] = {
+		[1] = 8665,
 	},
-	["Gralop"] = {
-		[1] = 3888,
+	["Yobayoba"] = {
+		[1] = 4466,
 	},
 	["Yllesocka"] = {
 		[1] = 4063,
 	},
-	["Starkfarsan"] = {
-		[1] = 11560,
+	["Paladerping"] = {
+		[1] = 815,
 	},
-	["Berath"] = {
-		[1] = 8329,
+	["Valerina"] = {
+		[1] = 5894,
 	},
-	["Malegebb"] = {
-		[1] = 10245,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 30,
+	["Wolfgart"] = {
+		[1] = 3203,
 	},
-	["Green Wyrmkin"] = {
-		[1] = 13349,
+	["Lozaro"] = {
+		[1] = 3376,
 	},
-	["Echeyakee"] = {
-		[1] = 6892,
+	["Tjenakexet"] = {
+		[1] = 5805,
 	},
-	["Noriohotta"] = {
-		[1] = 4499,
+	["Jhazgore"] = {
+		[1] = 10798,
 	},
-	["Quazar"] = {
-		[1] = 766,
+	["Skullz"] = {
+		[1] = 9121,
 	},
 	["Rendering"] = {
 		[1] = 12452,
 	},
-	["Szeretlekcic"] = {
-		[1] = 1206,
+	["Xiwa"] = {
+		[1] = 10046,
 	},
 	["Zolltann"] = {
 		[1] = 7450,
 	},
-	["Ish"] = {
-		[1] = 13253,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Ddas"] = {
+		[1] = 12558,
 	},
-	["Skraplotten"] = {
-		[1] = 5399,
+	["Falnyr"] = {
+		[1] = 5918,
 	},
 	["Darkfjun"] = {
 		[1] = 8944,
@@ -43063,26 +43019,27 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 40,
 	},
-	["Hive'Zara Wasp"] = {
-		[1] = 866,
+	["Spliia"] = {
+		[1] = 1462,
+		[2] = "priest",
+		[3] = 1,
+		[4] = false,
+		[8] = 60,
 	},
-	["Jlampo"] = {
-		[1] = 3874,
+	["Mairana"] = {
+		[1] = 5639,
 	},
 	["Sparkleshell Borer"] = {
 		[1] = 10799,
 	},
-	["Ujmnietoboli"] = {
-		[1] = 11645,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 37,
+	["Vinxen"] = {
+		[1] = 8440,
 	},
 	["Polzielol"] = {
 		[1] = 2025,
 	},
-	["Baesop"] = {
-		[1] = 12195,
+	["Thulkrit"] = {
+		[1] = 10984,
 	},
 	["Painkilla"] = {
 		[1] = 4876,
@@ -43090,20 +43047,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 6,
 	},
-	["Mess"] = {
-		[1] = 5555,
+	["Outcast Necromancer"] = {
+		[1] = 12903,
 	},
-	["Veltark"] = {
-		[1] = 8127,
+	["Xfk"] = {
+		[1] = 4069,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 6,
 	},
-	["Megalomania"] = {
-		[1] = 7829,
+	["Hotson"] = {
+		[1] = 4673,
 	},
 	["Jakbis"] = {
 		[1] = 5056,
 	},
-	["Noragami"] = {
-		[1] = 3149,
+	["Msxiaohuozi"] = {
+		[1] = 3728,
 	},
 	["Xiangzi"] = {
 		[1] = 3063,
@@ -43117,8 +43077,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 8,
 	},
-	["Danzil"] = {
-		[1] = 8665,
+	["Wuyanzusama"] = {
+		[1] = 11943,
 	},
 	["Baeorn"] = {
 		[1] = 7163,
@@ -43129,31 +43089,29 @@ DPSMateUser = {
 	["Weiyiningjin"] = {
 		[1] = 5630,
 	},
-	["Lozaro"] = {
-		[1] = 3376,
+	["Lynic"] = {
+		[1] = 10795,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 29,
 	},
-	["However"] = {
-		[1] = 11107,
+	["Revelation"] = {
+		[1] = 10754,
 	},
-	["Phuugrym"] = {
-		[1] = 2514,
-		[4] = true,
-		[6] = 2513,
+	["Sosyopat"] = {
+		[1] = 12999,
 	},
-	["Skullz"] = {
-		[1] = 9121,
+	["Nelc"] = {
+		[1] = 6257,
 	},
-	["Mainekradf"] = {
-		[1] = 1530,
+	["Darkcros"] = {
+		[1] = 12204,
 	},
 	["Mosxara"] = {
 		[1] = 7786,
 	},
-	["Karav"] = {
-		[1] = 13240,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 42,
+	["Oisane"] = {
+		[1] = 10525,
 	},
 	["Sheyna"] = {
 		[1] = 428,
@@ -43161,17 +43119,20 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Durumu"] = {
-		[1] = 12796,
+	["Melaira"] = {
+		[1] = 3702,
 	},
-	["Ilyysea"] = {
-		[1] = 8955,
+	["Vnuchka"] = {
+		[1] = 11403,
+		[2] = "paladin",
+		[3] = 1,
+		[8] = 30,
 	},
-	["Bosukete"] = {
-		[1] = 5342,
+	["Venture Co. Deforester"] = {
+		[1] = 8105,
 	},
-	["Teslo"] = {
-		[1] = 4301,
+	["Maestro"] = {
+		[1] = 12625,
 	},
 	["Krigasomfan"] = {
 		[1] = 4957,
@@ -43182,11 +43143,14 @@ DPSMateUser = {
 	["Ludgert"] = {
 		[1] = 5969,
 	},
-	["Extrim"] = {
-		[1] = 12499,
+	["Torum"] = {
+		[1] = 10432,
 	},
-	["Cydra"] = {
-		[1] = 4107,
+	["Poklonskaja"] = {
+		[1] = 8378,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 30,
 	},
 	["Ibashurhead"] = {
 		[1] = 706,
@@ -43203,65 +43167,85 @@ DPSMateUser = {
 	["Alghos"] = {
 		[1] = 7950,
 	},
-	["Tifani"] = {
-		[1] = 11432,
+	["Astralwalker"] = {
+		[1] = 1753,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Razorfen Warden"] = {
 		[1] = 9388,
 	},
-	["Lumizilat"] = {
-		[1] = 9938,
-	},
-	["Doinb"] = {
-		[1] = 10734,
-		[2] = "mage",
+	["Silliboy"] = {
+		[1] = 269,
+		[2] = "rogue",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Muste"] = {
-		[1] = 3877,
+	["Gevorik"] = {
+		[1] = 11366,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 36,
 	},
-	["Skeletal Acolyte"] = {
-		[1] = 12246,
+	["Therapsida"] = {
+		[1] = 6118,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 31,
+	},
+	["Embrio"] = {
+		[1] = 13244,
 	},
 	["Zebit"] = {
 		[1] = 3461,
 	},
-	["TommyTheCat"] = {
-		[1] = 6954,
+	["Oldregret"] = {
+		[1] = 3457,
 	},
-	["Zeppere"] = {
-		[1] = 5553,
+	["Alcam"] = {
+		[1] = 7951,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[7] = "Communist Party",
+		[8] = 35,
 	},
 	["Deadplastic"] = {
 		[1] = 3937,
 	},
-	["Hairo"] = {
-		[1] = 1402,
+	["Deathfreakz"] = {
+		[1] = 488,
 	},
-	["Nelc"] = {
-		[1] = 6257,
+	["Badabooms"] = {
+		[1] = 407,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Darkcros"] = {
-		[1] = 12204,
+	["Kupnar"] = {
+		[1] = 5113,
 	},
-	["Dardhong"] = {
-		[1] = 9921,
+	["Hyzikss"] = {
+		[1] = 9439,
 	},
-	["Elfanion"] = {
-		[1] = 1995,
+	["Zorkin"] = {
+		[1] = 4641,
 	},
-	["Dorganna"] = {
-		[1] = 3707,
+	["Oozeback"] = {
+		[1] = 10091,
 	},
-	["Oisane"] = {
-		[1] = 10525,
+	["Asdfasdfasd"] = {
+		[1] = 2779,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Kahvi"] = {
-		[1] = 3065,
+	["Jyscel"] = {
+		[1] = 13141,
 	},
-	["Silikonas"] = {
-		[1] = 4741,
+	["Santoro"] = {
+		[1] = 12634,
 	},
 	["Torzil"] = {
 		[1] = 13275,
@@ -43275,59 +43259,65 @@ DPSMateUser = {
 	["Hottorihanso"] = {
 		[1] = 2472,
 	},
-	["Christians"] = {
-		[1] = 3378,
+	["Zottomate"] = {
+		[1] = 417,
 	},
-	["Varikas"] = {
-		[1] = 3953,
+	["Basedjack"] = {
+		[1] = 9693,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 35,
 	},
 	["Quznip"] = {
 		[1] = 2344,
 	},
-	["Hadaluz"] = {
-		[1] = 373,
+	["Vagenius"] = {
+		[1] = 10774,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 30,
 	},
-	["Ferengi"] = {
-		[1] = 138,
+	["Brzrkicedeth"] = {
+		[1] = 13171,
 	},
 	["Sorcas"] = {
 		[1] = 8455,
 	},
-	["Imlysel"] = {
-		[1] = 2650,
+	["Buffout"] = {
+		[1] = 6688,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 12,
 	},
 	["Giant Grizzled Bear"] = {
 		[1] = 8569,
 	},
-	["Sahalala"] = {
-		[1] = 7405,
-		[2] = "hunter",
-		[3] = -1,
-		[4] = false,
-		[5] = "Atack",
-		[7] = "The Light Of Dawn",
-		[8] = 14,
+	["Isilena"] = {
+		[1] = 11052,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 33,
 	},
 	["Narowa"] = {
 		[1] = 11216,
 	},
-	["Trichomona"] = {
-		[1] = 13301,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 27,
+	["Tamed Kodo"] = {
+		[1] = 12859,
 	},
-	["Raura"] = {
-		[1] = 6160,
+	["Bejkon"] = {
+		[1] = 3511,
 	},
-	["Sickmik"] = {
-		[1] = 10477,
-		[2] = "druid",
+	["Hosh"] = {
+		[1] = 11271,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 27,
+		[8] = 33,
 	},
-	["Lucthelucky"] = {
-		[1] = 7617,
+	["Zordon"] = {
+		[1] = 5323,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 10,
 	},
 	["Kokomal"] = {
 		[1] = 9437,
@@ -43335,23 +43325,20 @@ DPSMateUser = {
 	["Maerel"] = {
 		[1] = 7376,
 	},
-	["Exorai"] = {
-		[1] = 6854,
+	["Goodwar"] = {
+		[1] = 9340,
 	},
-	["Retaur"] = {
-		[1] = 9507,
+	["Belmon"] = {
+		[1] = 7153,
 	},
-	["Piznik"] = {
-		[1] = 8161,
+	["Xzorzina"] = {
+		[1] = 1814,
 	},
-	["Xerwo"] = {
-		[1] = 5083,
+	["Skydancer"] = {
+		[1] = 3909,
 	},
-	["Astralwalker"] = {
-		[1] = 1753,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Rhaenar"] = {
+		[1] = 636,
 	},
 	["Glitch"] = {
 		[1] = 2867,
@@ -43359,17 +43346,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Kupnar"] = {
-		[1] = 5113,
+	["Training Dummy"] = {
+		[1] = 11,
 	},
-	["Bisonfutei"] = {
-		[1] = 5655,
+	["Madsmagnus"] = {
+		[1] = 5756,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 12,
 	},
-	["Embrio"] = {
-		[1] = 13244,
+	["Klitora"] = {
+		[1] = 9615,
 	},
-	["Coutobr"] = {
-		[1] = 4210,
+	["Hardpacient"] = {
+		[1] = 5703,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 17,
 	},
 	["Galager"] = {
 		[1] = 5561,
@@ -43377,62 +43370,62 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 25,
 	},
-	["Savagesick"] = {
-		[1] = 7344,
+	["Lazers"] = {
+		[1] = 6742,
 	},
-	["Vishur"] = {
-		[1] = 3433,
+	["Caonimari"] = {
+		[1] = 10346,
 	},
-	["Razzashi Raptor"] = {
-		[1] = 351,
+	["Environment"] = {
+		[1] = 290,
 	},
-	["Sidtryne"] = {
-		[1] = 9176,
+	["Diyuhuangqua"] = {
+		[1] = 4205,
 	},
-	["Salt Flats Scavenger"] = {
-		[1] = 10771,
+	["Paco"] = {
+		[1] = 12883,
 	},
-	["Rargot"] = {
-		[1] = 10056,
+	["Makemage"] = {
+		[1] = 2690,
 	},
-	["Bertos"] = {
-		[1] = 8504,
+	["Guplazeely"] = {
+		[1] = 12052,
 	},
-	["Badabooms"] = {
-		[1] = 407,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Alleriar"] = {
+		[1] = 12416,
 	},
-	["Borusai"] = {
-		[1] = 3550,
+	["Skudaensham"] = {
+		[1] = 6837,
 	},
 	["Interrogator Vishas"] = {
 		[1] = 10576,
 	},
-	["Toxikoz"] = {
-		[1] = 12804,
+	["Momosunny"] = {
+		[1] = 9846,
 	},
-	["Nyhla"] = {
-		[1] = 12293,
+	["Shalomkitty"] = {
+		[1] = 3027,
 	},
 	["Bianjc"] = {
 		[1] = 4018,
 	},
-	["Spigg"] = {
-		[1] = 5494,
+	["Griboed"] = {
+		[1] = 12715,
 	},
 	["Dabyrie Laborer"] = {
 		[1] = 10355,
 	},
-	["Balalay"] = {
-		[1] = 7545,
+	["Streams"] = {
+		[1] = 8186,
 	},
-	["Vori"] = {
-		[1] = 168,
+	["Zombee"] = {
+		[1] = 2413,
 	},
-	["Roguegodxd"] = {
-		[1] = 4099,
+	["Haixiaoniuer"] = {
+		[1] = 7795,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Harnor"] = {
 		[1] = 9201,
@@ -43440,14 +43433,16 @@ DPSMateUser = {
 	["Blodig"] = {
 		[1] = 2120,
 	},
-	["Maxlansky"] = {
-		[1] = 9316,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 27,
+	["Isosceles"] = {
+		[1] = 10060,
 	},
-	["Thedudeabide"] = {
-		[1] = 7993,
+	["Fiftycement"] = {
+		[1] = 6867,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[7] = "German Noobs",
+		[8] = 13,
 	},
 	["Gaambit"] = {
 		[1] = 6294,
@@ -43467,32 +43462,32 @@ DPSMateUser = {
 	["Kuerchien"] = {
 		[1] = 3131,
 	},
-	["RANOOOOO"] = {
-		[1] = 9645,
+	["Naxam"] = {
+		[1] = 1593,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 60,
 	},
-	["Hildebrand"] = {
-		[1] = 13245,
+	["Kailas"] = {
+		[1] = 8857,
 	},
 	["Ficka"] = {
 		[1] = 6263,
 	},
-	["Evensen"] = {
-		[1] = 10202,
+	["Nilkan"] = {
+		[1] = 3215,
 	},
-	["Nasc"] = {
-		[1] = 835,
+	["Fakeskills"] = {
+		[1] = 13109,
 	},
-	["Alirisa"] = {
-		[1] = 9301,
+	["Jeffy"] = {
+		[1] = 11279,
 	},
-	["Dirath"] = {
-		[1] = 7267,
+	["Shakkstab"] = {
+		[1] = 9593,
 	},
-	["Miumiui"] = {
-		[1] = 5877,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 13,
+	["Slimhoof"] = {
+		[1] = 5977,
 	},
 	["Jibamaomao"] = {
 		[1] = 7847,
@@ -43509,29 +43504,26 @@ DPSMateUser = {
 	["Blackfathom Sea Witch"] = {
 		[1] = 8995,
 	},
-	["Zinf"] = {
-		[1] = 2573,
+	["Uglyasflul"] = {
+		[1] = 6879,
 	},
 	["Duder"] = {
 		[1] = 7512,
 	},
-	["Monoteta"] = {
-		[1] = 3924,
+	["Iolz"] = {
+		[1] = 4283,
 	},
-	["Forever"] = {
-		[1] = 991,
+	["Braznivik"] = {
+		[1] = 2371,
 	},
-	["Whipflash"] = {
-		[1] = 10039,
+	["Bazzcola"] = {
+		[1] = 12686,
 	},
-	["Reaz"] = {
-		[1] = 236,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 60,
+	["Ground"] = {
+		[1] = 1169,
 	},
-	["Ennie"] = {
-		[1] = 4552,
+	["Stet"] = {
+		[1] = 8881,
 	},
 	["Pikur"] = {
 		[1] = 4278,
@@ -43539,8 +43531,8 @@ DPSMateUser = {
 	["Newmothorax"] = {
 		[1] = 3664,
 	},
-	["Streams"] = {
-		[1] = 8186,
+	["Ridge Stalker"] = {
+		[1] = 12313,
 	},
 	["Haky"] = {
 		[1] = 5963,
@@ -43557,8 +43549,8 @@ DPSMateUser = {
 	["Marozoff"] = {
 		[1] = 4488,
 	},
-	["Isosceles"] = {
-		[1] = 10060,
+	["Setsuna"] = {
+		[1] = 4771,
 	},
 	["Karoka"] = {
 		[1] = 5758,
@@ -43566,16 +43558,18 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 10,
 	},
-	["Arivn"] = {
-		[1] = 10693,
+	["Baron Silverlaine"] = {
+		[1] = 8619,
 	},
-	["Melent"] = {
-		[1] = 3315,
+	["Yumeno"] = {
+		[1] = 7672,
 	},
-	["Eruadan"] = {
-		[1] = 13230,
-		[2] = "druid",
+	["Ripzer"] = {
+		[1] = 1931,
+		[2] = "rogue",
 		[3] = 1,
+		[4] = false,
+		[8] = 60,
 	},
 	["Mineralsmari"] = {
 		[1] = 2522,
@@ -43583,14 +43577,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Elhardyz"] = {
-		[1] = 84,
+	["Sapiomouris"] = {
+		[1] = 13205,
 	},
-	["Alundria"] = {
-		[1] = 6070,
+	["Magnifikater"] = {
+		[1] = 11485,
 	},
-	["Tickedatank"] = {
-		[1] = 10757,
+	["Dereinzige"] = {
+		[1] = 10627,
 	},
 	["Xdriver"] = {
 		[1] = 10142,
@@ -43598,14 +43592,14 @@ DPSMateUser = {
 	["Juicec"] = {
 		[1] = 2028,
 	},
-	["Sparkleshell Tortoise"] = {
-		[1] = 10785,
+	["Arindoar"] = {
+		[1] = 10148,
 	},
 	["Karryn"] = {
 		[1] = 5788,
 	},
-	["Eyeish"] = {
-		[1] = 5415,
+	["Xeiled"] = {
+		[1] = 4104,
 	},
 	["Sdfgdfsjhsdg"] = {
 		[1] = 2567,
@@ -43613,20 +43607,23 @@ DPSMateUser = {
 	["Sickly Gazelle"] = {
 		[1] = 5512,
 	},
-	["Darnammius"] = {
-		[1] = 3993,
+	["Kabanero"] = {
+		[1] = 11254,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 39,
 	},
-	["Acuzz"] = {
-		[1] = 9772,
+	["Summertale"] = {
+		[1] = 11564,
 	},
-	["Santerina"] = {
-		[1] = 9945,
+	["Clovilah"] = {
+		[1] = 12996,
 	},
-	["Beramount"] = {
-		[1] = 6221,
+	["Iml"] = {
+		[1] = 4126,
 	},
-	["Ridge Stalker"] = {
-		[1] = 12313,
+	["Gusterina"] = {
+		[1] = 5984,
 	},
 	["Mcloud"] = {
 		[1] = 10187,
@@ -43637,17 +43634,22 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 13,
 	},
-	["Arcanist Doan"] = {
-		[1] = 10596,
+	["Boomshakkala"] = {
+		[1] = 10354,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 33,
 	},
 	["Lotrael"] = {
 		[1] = 11898,
 	},
-	["Rawstealth"] = {
-		[1] = 6344,
+	["Plutwow"] = {
+		[1] = 6894,
 		[2] = "druid",
 		[3] = -1,
-		[8] = 15,
+		[4] = false,
+		[7] = "FEAR",
+		[8] = 16,
 	},
 	["koshka"] = {
 		[1] = 9302,
@@ -43661,14 +43663,14 @@ DPSMateUser = {
 	["Cninez"] = {
 		[1] = 1311,
 	},
-	["Syltmacka"] = {
-		[1] = 8668,
+	["Bao"] = {
+		[1] = 174,
 	},
 	["Irip"] = {
 		[1] = 11545,
 	},
-	["Infernia"] = {
-		[1] = 519,
+	["Bigplays"] = {
+		[1] = 516,
 	},
 	["Complication"] = {
 		[1] = 9784,
@@ -43682,46 +43684,41 @@ DPSMateUser = {
 	["Deckard"] = {
 		[1] = 603,
 	},
-	["Nileyo"] = {
-		[1] = 8560,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 13,
+	["Chraul"] = {
+		[1] = 10423,
 	},
 	["Ganswar"] = {
 		[1] = 7648,
 	},
-	["Tinhoso"] = {
-		[1] = 7156,
-		[4] = true,
-		[6] = 7155,
+	["Fels"] = {
+		[1] = 7686,
 	},
 	["Teadusz"] = {
 		[1] = 11299,
 	},
-	["Crudiel"] = {
-		[1] = 589,
+	["Neuromancerz"] = {
+		[1] = 10682,
 	},
 	["Scorched Basilisk"] = {
 		[1] = 8937,
 	},
-	["Iml"] = {
-		[1] = 4126,
+	["Zizizizizi"] = {
+		[1] = 12252,
 	},
-	["Yemu"] = {
-		[1] = 3659,
+	["Nozkk"] = {
+		[1] = 8247,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 21,
 	},
-	["Petsas"] = {
-		[1] = 6881,
+	["Biznip"] = {
+		[1] = 9040,
 	},
 	["Rho"] = {
 		[1] = 6729,
 	},
-	["Leitosa"] = {
-		[1] = 6980,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 11,
+	["Galen Goodward"] = {
+		[1] = 13332,
 	},
 	["Psyderp"] = {
 		[1] = 3448,
@@ -43729,52 +43726,52 @@ DPSMateUser = {
 	["Jonathanyork"] = {
 		[1] = 10689,
 	},
-	["Thenan"] = {
-		[1] = 12078,
+	["Seniorspooky"] = {
+		[1] = 8006,
 	},
-	["°Ïd"] = {
-		[1] = 1920,
-		[4] = true,
-		[6] = 1896,
+	["Mobis"] = {
+		[1] = 2369,
 	},
-	["Solreth"] = {
-		[1] = 12253,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 35,
+	["Stitch"] = {
+		[1] = 8845,
 	},
 	["Kho"] = {
 		[1] = 1870,
 	},
-	["Medlvh"] = {
-		[1] = 7013,
+	["Esperi"] = {
+		[1] = 6764,
+		[2] = "priest",
+		[3] = -1,
+		[4] = false,
+		[7] = "Clue",
+		[8] = 14,
 	},
-	["Hurrigan"] = {
-		[1] = 6995,
+	["Anyuer"] = {
+		[1] = 7692,
 	},
-	["Devore"] = {
-		[1] = 12947,
+	["Tozimirius"] = {
+		[1] = 2687,
 	},
-	["Wrathtail Myrmidon"] = {
-		[1] = 8990,
+	["Negrall"] = {
+		[1] = 3701,
 	},
 	["Akelarre"] = {
 		[1] = 9119,
 	},
-	["Hexmix"] = {
-		[1] = 7510,
+	["Korwus"] = {
+		[1] = 13383,
 	},
-	["Hilfiger"] = {
-		[1] = 8694,
+	["Kindraed"] = {
+		[1] = 3377,
 	},
-	["Dunan"] = {
-		[1] = 7294,
+	["Searing Totem II"] = {
+		[1] = 7073,
 	},
-	["Gollios"] = {
-		[1] = 5660,
+	["Superded"] = {
+		[1] = 4370,
 	},
-	["Motane"] = {
-		[1] = 12666,
+	["Powergloove"] = {
+		[1] = 9548,
 	},
 	["Spooge"] = {
 		[1] = 294,
@@ -43782,17 +43779,22 @@ DPSMateUser = {
 	["Koopasaurus"] = {
 		[1] = 7725,
 	},
-	["Fels"] = {
-		[1] = 7686,
+	["Phuugrym"] = {
+		[1] = 2514,
+		[4] = true,
+		[6] = 2513,
 	},
-	["XT:9"] = {
-		[1] = 8140,
+	["Reliqaury"] = {
+		[1] = 555,
 	},
-	["Royalslayer"] = {
-		[1] = 1726,
+	["Lurkkihunter"] = {
+		[1] = 5846,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Arakari"] = {
-		[1] = 9257,
+	["Shamanikys"] = {
+		[1] = 12124,
 	},
 	["Hikmahe"] = {
 		[1] = 8767,
@@ -43800,11 +43802,11 @@ DPSMateUser = {
 	["Searing Blade Warlock"] = {
 		[1] = 6353,
 	},
-	["Luffito"] = {
-		[1] = 9786,
+	["Pokemonchuk"] = {
+		[1] = 775,
 	},
-	["Neuromancerz"] = {
-		[1] = 10682,
+	["Rassmus"] = {
+		[1] = 8710,
 	},
 	["Setje"] = {
 		[1] = 426,
@@ -43818,35 +43820,43 @@ DPSMateUser = {
 	["Myhead"] = {
 		[1] = 3388,
 	},
-	["Memesirl"] = {
-		[1] = 2174,
+	["Pendrokar"] = {
+		[1] = 12087,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 30,
 	},
-	["Bigbravo"] = {
-		[1] = 8357,
+	["Extradip"] = {
+		[1] = 3250,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 1,
 	},
-	["Ihme"] = {
-		[1] = 3753,
+	["Frontala"] = {
+		[1] = 11374,
 	},
 	["Kougga"] = {
 		[1] = 10219,
 	},
-	["Sezabi"] = {
-		[1] = 12184,
+	["Orey"] = {
+		[1] = 9948,
 	},
-	["Yezzee"] = {
-		[1] = 413,
+	["Kesha"] = {
+		[1] = 1426,
+		[2] = "hunter",
+		[3] = 1,
+		[4] = false,
+		[5] = "Ïd",
+		[8] = 60,
 	},
-	["Tarkin"] = {
-		[1] = 6993,
+	["Snuffyou"] = {
+		[1] = 8007,
 	},
 	["Riddikulus"] = {
 		[1] = 8858,
 	},
-	["Efihl"] = {
-		[1] = 6097,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 13,
+	["Twentyjuan"] = {
+		[1] = 4539,
 	},
 	["Getonmalvl"] = {
 		[1] = 13269,
@@ -43854,58 +43864,58 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 34,
 	},
-	["Aboreshin"] = {
-		[1] = 6177,
-		[2] = "warlock",
+	["Gack"] = {
+		[1] = 4833,
+	},
+	["Oxidado"] = {
+		[1] = 3969,
+	},
+	["Kervian"] = {
+		[1] = 3409,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 12,
+		[8] = 3,
 	},
-	["Nivx"] = {
-		[1] = 8891,
+	["Oxokube"] = {
+		[1] = 7186,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 13,
 	},
-	["Resurrecthin"] = {
-		[1] = 5292,
+	["Purs"] = {
+		[1] = 11978,
 	},
-	["Azimeda"] = {
-		[1] = 12348,
+	["Stitched Horror"] = {
+		[1] = 2122,
 	},
-	["Undead Postman"] = {
-		[1] = 2132,
-	},
-	["Superded"] = {
-		[1] = 4370,
-	},
-	["Tozimirius"] = {
-		[1] = 2687,
+	["Tantepopsy"] = {
+		[1] = 3402,
 	},
 	["Znort"] = {
 		[1] = 12263,
 	},
-	["Sackjuice"] = {
-		[1] = 9450,
+	["Feai"] = {
+		[1] = 11907,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 30,
 	},
-	["Corrupted Mottled Boar"] = {
-		[1] = 8749,
+	["Catscantdps"] = {
+		[1] = 10118,
 	},
 	["Dogevi"] = {
 		[1] = 4590,
 	},
-	["Jeest"] = {
-		[1] = 3076,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 3,
+	["Hitchens"] = {
+		[1] = 907,
 	},
 	["Moosebreeder"] = {
 		[1] = 11400,
 		[2] = "paladin",
 		[3] = 1,
 	},
-	["Paraproxity"] = {
-		[1] = 10327,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 34,
+	["Nullfire"] = {
+		[1] = 6470,
 	},
 	["Boneflame"] = {
 		[1] = 11713,
@@ -43916,16 +43926,14 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 60,
 	},
-	["Nienna"] = {
-		[1] = 12308,
-		[2] = "hunter",
-		[3] = 1,
+	["Deeksi"] = {
+		[1] = 3893,
 	},
 	["Purulence"] = {
 		[1] = 10255,
 	},
-	["Bloodfury Slayer"] = {
-		[1] = 8193,
+	["Noxins"] = {
+		[1] = 9906,
 	},
 	["Far Seer Mok'thardin"] = {
 		[1] = 11851,
@@ -43933,11 +43941,11 @@ DPSMateUser = {
 	["Garganon"] = {
 		[1] = 11555,
 	},
-	["Immanuel"] = {
-		[1] = 10437,
+	["School of Fish"] = {
+		[1] = 9054,
 	},
-	["Whitrage"] = {
-		[1] = 12400,
+	["Capwne"] = {
+		[1] = 5391,
 	},
 	["Whibley"] = {
 		[1] = 12259,
@@ -43948,23 +43956,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 13,
 	},
-	["Grifftah"] = {
-		[1] = 2357,
+	["Bandzai"] = {
+		[1] = 10426,
 	},
-	["Spaztek"] = {
-		[1] = 3093,
+	["Jenjamji"] = {
+		[1] = 9284,
 	},
-	["Haukkasuo"] = {
-		[1] = 46,
+	["Belligerant"] = {
+		[1] = 7516,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 20,
 	},
-	["Healordiet"] = {
-		[1] = 11422,
+	["Famosi"] = {
+		[1] = 574,
 	},
-	["Lunl"] = {
-		[1] = 10964,
+	["Rhuumyn"] = {
+		[1] = 2099,
 	},
-	["Belman"] = {
-		[1] = 95,
+	["Laughing Sister"] = {
+		[1] = 8748,
 	},
 	["Ancient Core Hound"] = {
 		[1] = 953,
@@ -43975,82 +43986,76 @@ DPSMateUser = {
 	["Healsparker"] = {
 		[1] = 3899,
 	},
-	["Hitchens"] = {
-		[1] = 907,
+	["Hakkari Shadow Hunter"] = {
+		[1] = 352,
 	},
-	["Oxokube"] = {
-		[1] = 7186,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 13,
+	["Dunkmim"] = {
+		[1] = 4706,
 	},
-	["Shamaniaco"] = {
-		[1] = 5686,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 13,
+	["Laea"] = {
+		[1] = 4923,
 	},
-	["Galadourn"] = {
-		[1] = 12107,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 34,
+	["Zmile"] = {
+		[1] = 12706,
 	},
-	["Kathian"] = {
-		[1] = 4585,
+	["Darkwinjax"] = {
+		[1] = 830,
 	},
-	["Ezn"] = {
-		[1] = 1758,
+	["Oldschoolpvp"] = {
+		[1] = 617,
 	},
 	["Zepnam"] = {
 		[1] = 4631,
 	},
-	["Morkovkalock"] = {
-		[1] = 13252,
+	["Ragnarv"] = {
+		[1] = 4608,
+	},
+	["Zonie"] = {
+		[1] = 6908,
 		[2] = "warlock",
 		[3] = -1,
-		[8] = 60,
+		[8] = 15,
 	},
-	["Octaler"] = {
-		[1] = 6551,
-	},
-	["Deluxee"] = {
-		[1] = 10449,
-		[2] = "warrior",
+	["Paykoman"] = {
+		[1] = 7836,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 52,
+		[8] = 35,
 	},
-	["Csgolotto"] = {
-		[1] = 1923,
-		[2] = "warrior",
-		[3] = 1,
+	["Airplane"] = {
+		[1] = 7480,
+	},
+	["Steroids"] = {
+		[1] = 6533,
+	},
+	["Adsky"] = {
+		[1] = 10518,
+	},
+	["Jiangzemin"] = {
+		[1] = 7775,
+		[2] = "hunter",
+		[3] = -1,
 		[4] = false,
-		[7] = "Cash For Gold",
-		[8] = 60,
+		[5] = "Excited",
+		[8] = 14,
 	},
-	["Rilliralle"] = {
-		[1] = 11600,
+	["Qice"] = {
+		[1] = 13344,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 39,
 	},
-	["Duallit"] = {
-		[1] = 4511,
+	["Darkmasistr"] = {
+		[1] = 11888,
 	},
-	["Dorka"] = {
-		[1] = 12587,
+	["Leerys"] = {
+		[1] = 2309,
 	},
-	["Mainedutch"] = {
-		[1] = 1000,
+	["Amonymous"] = {
+		[1] = 7225,
 	},
-	["Blackened Basilisk"] = {
-		[1] = 8177,
-	},
-	["Mageboom"] = {
-		[1] = 3296,
-	},
-	["Larcodz"] = {
-		[1] = 11549,
-	},
-	["Razormane Stalker"] = {
-		[1] = 8318,
+	["Kathi"] = {
+		[1] = 538,
 	},
 	["Cryospasm"] = {
 		[1] = 2081,
@@ -44058,20 +44063,23 @@ DPSMateUser = {
 	["Deviate Dreadfang"] = {
 		[1] = 7532,
 	},
-	["Tiaotiaohu"] = {
-		[1] = 12320,
+	["Neofelix"] = {
+		[1] = 5038,
 	},
 	["Witchwing Harpy"] = {
 		[1] = 6515,
 	},
-	["Bandzai"] = {
-		[1] = 10426,
+	["Lilil"] = {
+		[1] = 1004,
 	},
-	["Feignlife"] = {
-		[1] = 5591,
+	["Raging Thunder Lizard"] = {
+		[1] = 12819,
 	},
-	["Sko"] = {
-		[1] = 3819,
+	["Gilrogg"] = {
+		[1] = 8246,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 24,
 	},
 	["Currentvalue"] = {
 		[1] = 4959,
@@ -44079,8 +44087,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Grimmshady"] = {
-		[1] = 10986,
+	["Boombank"] = {
+		[1] = 1378,
 	},
 	["Karrel Grayves"] = {
 		[1] = 3576,
@@ -44094,8 +44102,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 48,
 	},
-	["Aeson"] = {
-		[1] = 2181,
+	["Beni"] = {
+		[1] = 1618,
 	},
 	["Whatsthis"] = {
 		[1] = 11635,
@@ -44103,55 +44111,47 @@ DPSMateUser = {
 	["Fleischkase"] = {
 		[1] = 4489,
 	},
-	["Tarosh"] = {
-		[1] = 2353,
+	["Artwo"] = {
+		[1] = 5449,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Sorkkarauta"] = {
-		[1] = 4000,
+	["Kayna"] = {
+		[1] = 241,
 	},
 	["Sherias"] = {
 		[1] = 3267,
 	},
-	["Steroids"] = {
-		[1] = 6533,
+	["Hackebeil"] = {
+		[1] = 2013,
 	},
 	["Irokles"] = {
 		[1] = 8705,
 	},
-	["Baldosavini"] = {
-		[1] = 12300,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 16,
+	["Ravage"] = {
+		[1] = 2856,
 	},
 	["Chadgrey"] = {
 		[1] = 9486,
 	},
-	["Prizzle"] = {
-		[1] = 5618,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Crystale"] = {
+		[1] = 4735,
 	},
 	["Taniz"] = {
 		[1] = 12638,
 	},
-	["Celdran"] = {
-		[1] = 11754,
+	["Samail"] = {
+		[1] = 4233,
 	},
-	["Bolrock"] = {
-		[1] = 9509,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 32,
+	["Horrible"] = {
+		[1] = 7601,
 	},
-	["Kathi"] = {
-		[1] = 538,
+	["Damentis"] = {
+		[1] = 8270,
 	},
-	["Feelthefaint"] = {
-		[1] = 10357,
-		[2] = "rogue",
-		[3] = 1,
+	["Mankid"] = {
+		[1] = 2354,
 	},
 	["Irelialeona"] = {
 		[1] = 12215,
@@ -44165,8 +44165,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Kuprin"] = {
-		[1] = 12605,
+	["Doobz"] = {
+		[1] = 11519,
 	},
 	["Sunghoob"] = {
 		[1] = 13157,
@@ -44174,11 +44174,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 3,
 	},
-	["Qice"] = {
-		[1] = 13344,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 39,
+	["Propellerkek"] = {
+		[1] = 11733,
 	},
 	["Sdfwes"] = {
 		[1] = 3622,
@@ -44198,16 +44195,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 11,
 	},
-	["Swaby"] = {
-		[1] = 8260,
-		[2] = "rogue",
-		[3] = 1,
+	["Exlza"] = {
+		[1] = 11518,
 	},
 	["Obsidian Destroyer"] = {
 		[1] = 875,
 	},
-	["Ravage"] = {
-		[1] = 2856,
+	["Trupper"] = {
+		[1] = 3039,
 	},
 	["Venture Co"] = {
 		[1] = 6771,
@@ -44224,8 +44219,8 @@ DPSMateUser = {
 	["Son of Cenarius"] = {
 		[1] = 8230,
 	},
-	["Wildhuntz"] = {
-		[1] = 8130,
+	["Dmstud"] = {
+		[1] = 2638,
 	},
 	["Bigbowie"] = {
 		[1] = 12307,
@@ -44233,26 +44228,22 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 16,
 	},
-	["Nocontrol"] = {
-		[1] = 3557,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 2,
+	["Evilemil"] = {
+		[1] = 154,
 	},
 	["Yaznik"] = {
 		[1] = 5316,
 	},
-	["Sickkness"] = {
-		[1] = 7997,
+	["Firebuddy"] = {
+		[1] = 4302,
 	},
-	["Putinswife"] = {
-		[1] = 2273,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 60,
+	["Fakeyoux"] = {
+		[1] = 11247,
+		[2] = "warlock",
+		[3] = 1,
 	},
-	["Earthborer"] = {
-		[1] = 6110,
+	["Necho"] = {
+		[1] = 6226,
 	},
 	["Liom"] = {
 		[1] = 1224,
@@ -44260,32 +44251,38 @@ DPSMateUser = {
 	["Deviate Guardian"] = {
 		[1] = 7517,
 	},
-	["Chodestevens"] = {
-		[1] = 5806,
+	["Mcnatty"] = {
+		[1] = 216,
 	},
-	["Hysagi"] = {
-		[1] = 2437,
+	["Lazpep"] = {
+		[1] = 5081,
 	},
-	["Markuus"] = {
-		[1] = 7036,
+	["Kircaqt"] = {
+		[1] = 10753,
 	},
-	["Doobz"] = {
-		[1] = 11519,
+	["Merzul"] = {
+		[1] = 9022,
 	},
-	["Zerco"] = {
-		[1] = 10952,
+	["Foerenka"] = {
+		[1] = 2001,
 	},
 	["Mcjaraxxus"] = {
 		[1] = 3118,
 	},
-	["Elghin"] = {
-		[1] = 12235,
+	["Andewan"] = {
+		[1] = 11667,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 35,
 	},
 	["luchador"] = {
 		[1] = 12783,
 	},
-	["Armored Scorpid"] = {
-		[1] = 5612,
+	["Meteore"] = {
+		[1] = 13320,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 26,
 	},
 	["petsas"] = {
 		[1] = 6882,
@@ -44307,37 +44304,38 @@ DPSMateUser = {
 	["Pororo"] = {
 		[1] = 5499,
 	},
-	["Piptendo"] = {
-		[1] = 6307,
+	["Chaneyh"] = {
+		[1] = 4094,
 	},
-	["Heltaz"] = {
-		[1] = 5955,
+	["Stepfordeath"] = {
+		[1] = 186,
 	},
-	["Paladinkoru"] = {
-		[1] = 1778,
+	["Ultio"] = {
+		[1] = 7990,
 	},
-	["Lok Orcbane"] = {
-		[1] = 8316,
+	["Lupeh"] = {
+		[1] = 11621,
 	},
 	["Celtaz"] = {
 		[1] = 7926,
 	},
-	["Corteez"] = {
-		[1] = 6698,
-		[2] = "rogue",
-		[3] = -1,
-		[4] = false,
-		[7] = "Crucial Focus",
-		[8] = 11,
+	["Frostinbiebe"] = {
+		[1] = 13113,
 	},
-	["Jadoba"] = {
-		[1] = 10901,
+	["Hajamas"] = {
+		[1] = 4441,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 1,
 	},
 	["Hatz√º"] = {
 		[1] = 2481,
 	},
-	["Blindlight Muckdweller"] = {
-		[1] = 9001,
+	["Zgulysses"] = {
+		[1] = 3086,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
 	},
 	["Dankmoist"] = {
 		[1] = 5045,
@@ -44357,35 +44355,44 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 23,
 	},
-	["Crazyshuno"] = {
-		[1] = 8756,
+	["Pet"] = {
+		[1] = 4841,
+		[4] = true,
+		[6] = 12881,
 	},
-	["Spawny"] = {
-		[1] = 5596,
+	["Dew Elite"] = {
+		[1] = 1604,
 	},
 	["Trumpcard"] = {
 		[1] = 13009,
 	},
-	["Zespera"] = {
-		[1] = 13133,
+	["Dark Touched Warrior"] = {
+		[1] = 2338,
 	},
-	["Shaftbolts"] = {
-		[1] = 13177,
+	["Kacou"] = {
+		[1] = 3987,
 	},
-	["Arbralest"] = {
-		[1] = 9843,
+	["Kremlin"] = {
+		[1] = 6676,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 17,
 	},
 	["Kyky"] = {
 		[1] = 6573,
 	},
-	["kuja"] = {
-		[1] = 12146,
+	["Nubrianir"] = {
+		[1] = 9058,
 	},
-	["Kircaqt"] = {
-		[1] = 10753,
+	["Maliced"] = {
+		[1] = 7441,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[8] = 23,
 	},
-	["Enyalus"] = {
-		[1] = 12077,
+	["Zanibarr"] = {
+		[1] = 1293,
 	},
 	["Abbadonbr"] = {
 		[1] = 6293,
@@ -44408,24 +44415,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 2,
 	},
-	["Fyllhund"] = {
-		[1] = 11605,
+	["Taurensoul"] = {
+		[1] = 5616,
 	},
-	["Zheyp"] = {
-		[1] = 3547,
+	["Reportmyteam"] = {
+		[1] = 8841,
 	},
 	["Wanlash"] = {
 		[1] = 9045,
 	},
-	["Wrathfmabh"] = {
-		[1] = 1921,
-		[2] = "warrior",
-		[3] = 1,
-		[4] = false,
-		[8] = 60,
+	["Zilpep"] = {
+		[1] = 6214,
 	},
-	["Snore"] = {
-		[1] = 886,
+	["Kruella"] = {
+		[1] = 5667,
 	},
 	["Kanzaki"] = {
 		[1] = 5434,
@@ -44433,27 +44436,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Dew Elite"] = {
-		[1] = 1604,
+	["Hordeheadthr"] = {
+		[1] = 1187,
 	},
-	["Rastamon"] = {
-		[1] = 10276,
+	["Seedo"] = {
+		[1] = 5161,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 11,
 	},
-	["Rotwin"] = {
-		[1] = 7373,
+	["Captain Fairmount"] = {
+		[1] = 7869,
 	},
-	["Emynence"] = {
-		[1] = 7259,
+	["Twilight Runner"] = {
+		[1] = 8228,
 	},
 	["Kongore"] = {
 		[1] = 7127,
 	},
-	["Maliced"] = {
-		[1] = 7441,
-		[2] = "rogue",
+	["Johnlockk"] = {
+		[1] = 3719,
+		[2] = "warlock",
 		[3] = -1,
-		[4] = false,
-		[8] = 23,
+		[8] = 28,
 	},
 	["Xccdabull"] = {
 		[1] = 2612,
@@ -44464,8 +44469,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 2,
 	},
-	["Mequis"] = {
-		[1] = 5025,
+	["Affenjunge"] = {
+		[1] = 10496,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 31,
 	},
 	["Skilgrom"] = {
 		[1] = 10722,
@@ -44482,47 +44490,52 @@ DPSMateUser = {
 	["Lileibiubiu"] = {
 		[1] = 12005,
 	},
-	["Saliz"] = {
-		[1] = 7084,
+	["Flamebeard"] = {
+		[1] = 495,
 	},
-	["Bristleback Thornweaver"] = {
-		[1] = 7100,
+	["Dontb"] = {
+		[1] = 4335,
 	},
-	["Zhorhn"] = {
-		[1] = 8266,
+	["Tyzzler"] = {
+		[1] = 7157,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 14,
 	},
 	["Impotento"] = {
 		[1] = 2051,
 	},
-	["Vooxkcld"] = {
-		[1] = 4722,
+	["Skeletal Guardian"] = {
+		[1] = 2124,
 	},
-	["Marnu"] = {
-		[1] = 7746,
+	["Aztal"] = {
+		[1] = 5096,
 	},
 	["Maix"] = {
 		[1] = 6478,
 	},
-	["Sruufum"] = {
-		[1] = 1438,
+	["Ahltas"] = {
+		[1] = 11384,
+		[2] = "paladin",
+		[3] = 1,
 	},
-	["Hadesu"] = {
-		[1] = 8530,
-		[2] = "warrior",
+	["Shprict"] = {
+		[1] = 11301,
+	},
+	["Grenka Bloodscreech"] = {
+		[1] = 9697,
+	},
+	["Presumption"] = {
+		[1] = 7195,
+		[2] = "hunter",
 		[3] = -1,
-		[8] = 26,
+		[8] = 25,
 	},
-	["Steadyaim"] = {
-		[1] = 10956,
-	},
-	["Deathfreakz"] = {
-		[1] = 488,
-	},
-	["Fusketa"] = {
-		[1] = 7842,
-		[2] = "mage",
+	["Holow"] = {
+		[1] = 5422,
+		[2] = "priest",
 		[3] = -1,
-		[8] = 33,
+		[8] = 60,
 	},
 	["Niraf"] = {
 		[1] = 6290,
@@ -44536,14 +44549,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 4,
 	},
-	["Tehmainframe"] = {
-		[1] = 7554,
+	["Shttr"] = {
+		[1] = 9170,
 	},
-	["Battis"] = {
-		[1] = 5382,
+	["Overnb"] = {
+		[1] = 12777,
 	},
-	["Markawasi"] = {
-		[1] = 7704,
+	["Molokovozz"] = {
+		[1] = 11942,
 	},
 	["Daoge"] = {
 		[1] = 7659,
@@ -44551,28 +44564,23 @@ DPSMateUser = {
 	["Stonard"] = {
 		[1] = 13338,
 	},
-	["Raffy"] = {
-		[1] = 4171,
+	["Fallenroot Shadowstalker"] = {
+		[1] = 8998,
 	},
-	["Nuttyy"] = {
-		[1] = 9972,
+	["Bloodtalon Taillasher"] = {
+		[1] = 5820,
 	},
-	["Kesha"] = {
-		[1] = 1426,
-		[2] = "hunter",
-		[3] = 1,
-		[4] = false,
-		[5] = "Ïd",
-		[8] = 60,
+	["Jollyr"] = {
+		[1] = 7179,
 	},
-	["Cenarion Vindicator"] = {
-		[1] = 10164,
+	["Shambling Horror"] = {
+		[1] = 5395,
 	},
-	["Yoshkj"] = {
-		[1] = 9585,
+	["Houzukiyuuno"] = {
+		[1] = 13292,
 	},
-	["Spiritripper"] = {
-		[1] = 4821,
+	["Chorot"] = {
+		[1] = 8712,
 	},
 	["Meiijn"] = {
 		[1] = 10665,
@@ -44580,8 +44588,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 31,
 	},
-	["Mozike"] = {
-		[1] = 12275,
+	["Ragezhu"] = {
+		[1] = 12381,
 	},
 	["Tetsupax"] = {
 		[1] = 12975,
@@ -44605,23 +44613,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 25,
 	},
-	["Torbjorne"] = {
-		[1] = 7490,
+	["Scofieldx"] = {
+		[1] = 13306,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 29,
 	},
-	["Joukahain"] = {
-		[1] = 187,
+	["Hotham"] = {
+		[1] = 8669,
 	},
-	["Ateey"] = {
-		[1] = 5835,
+	["Stranglethorn Tiger"] = {
+		[1] = 11193,
 	},
-	["Crackit"] = {
-		[1] = 3559,
+	["Finalflashx"] = {
+		[1] = 1573,
 	},
 	["Fey"] = {
 		[1] = 1151,
 	},
-	["Shttr"] = {
-		[1] = 9170,
+	["Eimxz"] = {
+		[1] = 11807,
 	},
 	["Sereon"] = {
 		[1] = 11127,
@@ -44629,8 +44640,11 @@ DPSMateUser = {
 	["Or'Kalar"] = {
 		[1] = 12445,
 	},
-	["Alvyna"] = {
-		[1] = 7657,
+	["Zlonxy"] = {
+		[1] = 12453,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 39,
 	},
 	["Blackbride"] = {
 		[1] = 12764,
@@ -44638,89 +44652,89 @@ DPSMateUser = {
 	["Belzazt"] = {
 		[1] = 842,
 	},
-	["Chiman"] = {
-		[1] = 4520,
+	["Ephius"] = {
+		[1] = 10386,
 	},
-	["Grenka Bloodscreech"] = {
-		[1] = 9697,
+	["Bloodmage Thalnos"] = {
+		[1] = 10581,
 	},
-	["Zorkha"] = {
-		[1] = 12960,
+	["Elementus"] = {
+		[1] = 1540,
 	},
-	["Ragezhu"] = {
-		[1] = 12381,
+	["Lockdan"] = {
+		[1] = 3779,
 	},
-	["Veign"] = {
-		[1] = 2098,
+	["Zeeria"] = {
+		[1] = 7430,
 	},
-	["Hulking Gritjaw Basilisk"] = {
-		[1] = 12822,
+	["Naratus"] = {
+		[1] = 7132,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 17,
 	},
-	["Stranglethorn Tigress"] = {
-		[1] = 11160,
+	["Defuqiaokeli"] = {
+		[1] = 12668,
 	},
 	["Sarcas"] = {
 		[1] = 12797,
 	},
-	["Thunderbeat"] = {
-		[1] = 2346,
+	["Agric"] = {
+		[1] = 5710,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 20,
 	},
-	["Krusifix"] = {
-		[1] = 675,
+	["Perci"] = {
+		[1] = 3950,
 	},
-	["Mssh"] = {
-		[1] = 6570,
+	["Skrokketroll"] = {
+		[1] = 524,
 	},
-	["Chorot"] = {
-		[1] = 8712,
+	["Xuningll"] = {
+		[1] = 10684,
 	},
 	["Plunkhoon"] = {
 		[1] = 249,
 	},
-	["Seneks"] = {
-		[1] = 3605,
+	["Sultras"] = {
+		[1] = 5658,
 	},
-	["Larzful"] = {
-		[1] = 11153,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 50,
+	["Venture Co. Mechanic"] = {
+		[1] = 11651,
 	},
-	["Prlest"] = {
-		[1] = 1053,
+	["Gobtai"] = {
+		[1] = 4448,
 	},
-	["Grglmrgl"] = {
-		[1] = 5277,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 11,
+	["Zos"] = {
+		[1] = 12866,
 	},
-	["Lustmorde"] = {
-		[1] = 9982,
+	["Xayko"] = {
+		[1] = 8682,
 	},
-	["Snake"] = {
-		[1] = 328,
+	["Bowseason"] = {
+		[1] = 8381,
 	},
-	["Queuestalgia"] = {
-		[1] = 6164,
+	["Nigezz"] = {
+		[1] = 3678,
 	},
-	["Austinnb"] = {
-		[1] = 7796,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 34,
+	["Jackraven"] = {
+		[1] = 8842,
 	},
 	["Renaud"] = {
 		[1] = 1649,
 	},
-	["Piesehunter"] = {
-		[1] = 7598,
+	["Sorcerertony"] = {
+		[1] = 4626,
 	},
-	["Qppa"] = {
-		[1] = 11760,
+	["Athelia"] = {
+		[1] = 1637,
+		[2] = "paladin",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Lockout"] = {
-		[1] = 1172,
+	["Montayn"] = {
+		[1] = 6085,
 	},
 	["Overlord"] = {
 		[1] = 6704,
@@ -44731,8 +44745,11 @@ DPSMateUser = {
 	["Qiraj Sentinel"] = {
 		[1] = 1562,
 	},
-	["Gobtai"] = {
-		[1] = 4448,
+	["Pepina"] = {
+		[1] = 11191,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 33,
 	},
 	["Zozulya"] = {
 		[1] = 1409,
@@ -44741,26 +44758,26 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 60,
 	},
-	["Splinter"] = {
-		[1] = 3589,
+	["Hoolymoly"] = {
+		[1] = 11181,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 34,
 	},
-	["Noboru the Cudgel"] = {
-		[1] = 13345,
+	["Shprotik"] = {
+		[1] = 12619,
 	},
-	["Longclaw"] = {
-		[1] = 7566,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 20,
+	["Haricotmagik"] = {
+		[1] = 4937,
 	},
 	["Eridas"] = {
 		[1] = 6680,
 	},
-	["Chuugaraka"] = {
-		[1] = 8299,
+	["Joulukuu"] = {
+		[1] = 11482,
 	},
-	["Aijiaxue"] = {
-		[1] = 12362,
+	["Padish"] = {
+		[1] = 7734,
 	},
 	["Diabetic"] = {
 		[1] = 5116,
@@ -44771,44 +44788,38 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Nokgup"] = {
-		[1] = 7917,
+	["Birdhome"] = {
+		[1] = 10280,
 	},
-	["Sarrowind"] = {
-		[1] = 2078,
+	["Grimboo"] = {
+		[1] = 5486,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Ultimo"] = {
-		[1] = 234,
+	["Infexius"] = {
+		[1] = 3197,
 	},
-	["Guzaa"] = {
-		[1] = 6138,
+	["Szynszyll"] = {
+		[1] = 4424,
 	},
-	["Roxylin"] = {
-		[1] = 2006,
+	["Haramage"] = {
+		[1] = 5098,
 	},
 	["Deathlink"] = {
 		[1] = 9510,
 	},
-	["EUdirtbag"] = {
-		[1] = 7379,
+	["Qrsnzx"] = {
+		[1] = 3437,
 	},
-	["Vajumuh"] = {
-		[1] = 2823,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 60,
+	["Prairie Wolf Alpha"] = {
+		[1] = 6575,
 	},
-	["Swagspeare"] = {
-		[1] = 9616,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 30,
+	["Gudfader"] = {
+		[1] = 11562,
 	},
-	["Pepina"] = {
-		[1] = 11191,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 33,
+	["Ragged Scavenger"] = {
+		[1] = 3240,
 	},
 	["Zanggrave"] = {
 		[1] = 9642,
@@ -44816,71 +44827,74 @@ DPSMateUser = {
 	["Rinzwind"] = {
 		[1] = 11841,
 	},
-	["Icyfingaz"] = {
-		[1] = 13364,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 2,
-	},
-	["Blackkusa"] = {
-		[1] = 4744,
-	},
-	["Meningitis"] = {
-		[1] = 4046,
-	},
-	["Trolina"] = {
-		[1] = 1391,
-	},
-	["Sargarth"] = {
-		[1] = 5560,
-	},
-	["Rejuvenator"] = {
-		[1] = 4498,
-	},
-	["Sylvania"] = {
-		[1] = 5648,
-	},
-	["Chapkins"] = {
-		[1] = 7552,
-	},
-	["Lolv"] = {
-		[1] = 1961,
-	},
-	["Qrsnzx"] = {
-		[1] = 3437,
-	},
-	["Shatterhoof"] = {
-		[1] = 11385,
-	},
-	["Magda"] = {
-		[1] = 463,
-	},
-	["Metalblink"] = {
-		[1] = 4207,
-	},
-	["Alleriar"] = {
-		[1] = 12416,
-	},
-	["Akicha"] = {
-		[1] = 2187,
-	},
-	["Wailing Guardsman"] = {
-		[1] = 8617,
-	},
-	["Burger"] = {
-		[1] = 11208,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 34,
+	["Rowzy"] = {
+		[1] = 3173,
 	},
 	["Thealderman"] = {
 		[1] = 5287,
 	},
+	["Meningitis"] = {
+		[1] = 4046,
+	},
+	["Lairon"] = {
+		[1] = 9081,
+	},
+	["Gejseks"] = {
+		[1] = 151,
+	},
+	["Rejuvenator"] = {
+		[1] = 4498,
+	},
+	["Narky"] = {
+		[1] = 5897,
+	},
+	["Doireana"] = {
+		[1] = 2729,
+	},
+	["Djbuddyfox"] = {
+		[1] = 9581,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 32,
+	},
+	["Vonob"] = {
+		[1] = 208,
+	},
+	["Shatterhoof"] = {
+		[1] = 11385,
+	},
+	["Zeduce"] = {
+		[1] = 7976,
+	},
+	["Zanji"] = {
+		[1] = 677,
+	},
+	["Lnq"] = {
+		[1] = 4077,
+	},
+	["Fanyin"] = {
+		[1] = 8460,
+	},
+	["Ghostdw"] = {
+		[1] = 9641,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 32,
+	},
+	["HARAM"] = {
+		[1] = 6872,
+	},
+	["ONDius"] = {
+		[1] = 12265,
+	},
 	["Qcy"] = {
 		[1] = 500,
 	},
-	["Syick"] = {
-		[1] = 12279,
+	["Brainlock"] = {
+		[1] = 5171,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 9,
 	},
 	["Verbatim"] = {
 		[1] = 11363,
@@ -44888,14 +44902,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Galeinge"] = {
-		[1] = 8203,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 23,
+	["Willemgrast"] = {
+		[1] = 3447,
 	},
-	["Chiroc"] = {
-		[1] = 3005,
+	["Wargons"] = {
+		[1] = 11538,
 	},
 	["Boolossus"] = {
 		[1] = 856,
@@ -44906,19 +44917,26 @@ DPSMateUser = {
 	["Abradoolf"] = {
 		[1] = 5577,
 	},
-	["Taikojatar"] = {
-		[1] = 10939,
-		[2] = "mage",
+	["Catul"] = {
+		[1] = 2861,
+	},
+	["Bigbuddy"] = {
+		[1] = 9084,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Creuzebek"] = {
+		[1] = 10041,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 23,
+	},
+	["Vanpoop"] = {
+		[1] = 2702,
+		[2] = "rogue",
 		[3] = 1,
-	},
-	["Hdmi"] = {
-		[1] = 440,
-	},
-	["Danwan"] = {
-		[1] = 2257,
-	},
-	["Vj"] = {
-		[1] = 7463,
+		[8] = 60,
 	},
 	["Auraless"] = {
 		[1] = 2804,
@@ -44935,8 +44953,8 @@ DPSMateUser = {
 	["Rackit"] = {
 		[1] = 6931,
 	},
-	["Zibe"] = {
-		[1] = 11008,
+	["Magemon"] = {
+		[1] = 1132,
 	},
 	["Spiidkill"] = {
 		[1] = 7564,
@@ -44945,44 +44963,44 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 24,
 	},
-	["Colek"] = {
-		[1] = 244,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 60,
+	["Rulmir"] = {
+		[1] = 3657,
 	},
 	["Dejvyd"] = {
 		[1] = 933,
 	},
-	["Itaa"] = {
-		[1] = 3703,
+	["Farroshgan"] = {
+		[1] = 6569,
 	},
 	["Darkmandible"] = {
 		[1] = 5346,
 	},
-	["Laruen"] = {
-		[1] = 12618,
+	["Amble"] = {
+		[1] = 9640,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 27,
 	},
 	["Riathe"] = {
 		[1] = 12614,
 	},
-	["Jenbonbeurre"] = {
-		[1] = 8059,
+	["Methodic"] = {
+		[1] = 11622,
 	},
-	["Drutestone"] = {
-		[1] = 8136,
+	["Schwart"] = {
+		[1] = 4796,
 	},
 	["Sektorh"] = {
 		[1] = 13084,
 	},
-	["Galgrimm"] = {
-		[1] = 7774,
+	["Hecurtain"] = {
+		[1] = 12663,
 	},
-	["Vinushka"] = {
-		[1] = 7574,
+	["Subvert"] = {
+		[1] = 1879,
 	},
-	["Anubisath Guardian"] = {
-		[1] = 879,
+	["Dstalkerk"] = {
+		[1] = 9341,
 	},
 	["Scelus"] = {
 		[1] = 8851,
@@ -44993,11 +45011,14 @@ DPSMateUser = {
 	["Klathkrit"] = {
 		[1] = 10958,
 	},
-	["Rulmir"] = {
-		[1] = 3657,
+	["Kolkar Mauler"] = {
+		[1] = 12849,
 	},
-	["Siyl"] = {
-		[1] = 5973,
+	["Ravers"] = {
+		[1] = 8563,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 27,
 	},
 	["Pande"] = {
 		[1] = 10138,
@@ -45011,14 +45032,14 @@ DPSMateUser = {
 	["Silverwing Sentinel"] = {
 		[1] = 8726,
 	},
-	["Vitbyo"] = {
-		[1] = 4118,
+	["Warnoxx"] = {
+		[1] = 6628,
 	},
-	["Mitsuha"] = {
-		[1] = 7627,
+	["Baaliisu"] = {
+		[1] = 2627,
 	},
-	["Ophelila"] = {
-		[1] = 430,
+	["Javiery"] = {
+		[1] = 4222,
 	},
 	["Djakomo"] = {
 		[1] = 13361,
@@ -45029,35 +45050,26 @@ DPSMateUser = {
 	["Galak Assassin"] = {
 		[1] = 9689,
 	},
-	["Thrassan"] = {
-		[1] = 10809,
+	["Moskusox"] = {
+		[1] = 4907,
 		[2] = "druid",
 		[3] = -1,
-		[8] = 30,
+		[8] = 5,
 	},
-	["Yestalrius"] = {
-		[1] = 119,
+	["Leoric"] = {
+		[1] = 9528,
 	},
-	["Rottyx"] = {
-		[1] = 114,
-		[2] = "hunter",
-		[3] = -1,
-		[4] = false,
-		[5] = "nariNeko",
-		[7] = "F U N",
-		[8] = 60,
+	["Fukhed"] = {
+		[1] = 5473,
 	},
 	["Silithid Creeper Egg"] = {
 		[1] = 7354,
 	},
-	["Spookykid"] = {
-		[1] = 5702,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 10,
+	["Depalma"] = {
+		[1] = 11607,
 	},
-	["Goodwar"] = {
-		[1] = 9340,
+	["Lost One Fisherman"] = {
+		[1] = 13327,
 	},
 	["Rumbling Exile"] = {
 		[1] = 12081,
@@ -45068,14 +45080,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 19,
 	},
-	["Makzazt"] = {
-		[1] = 7930,
+	["Aiitem"] = {
+		[1] = 10278,
 	},
-	["Soswit"] = {
-		[1] = 3228,
+	["Wewlaad"] = {
+		[1] = 2506,
 	},
-	["Maeve"] = {
-		[1] = 6439,
+	["Littledworf"] = {
+		[1] = 11661,
 	},
 	["Luxovious"] = {
 		[1] = 4600,
@@ -45092,50 +45104,47 @@ DPSMateUser = {
 	["Fakuu"] = {
 		[1] = 9946,
 	},
-	["Sifmuna"] = {
-		[1] = 2718,
+	["Lykingspro"] = {
+		[1] = 2060,
 	},
-	["Alistale"] = {
-		[1] = 6388,
+	["Amglolz"] = {
+		[1] = 6566,
 	},
-	["Crazix"] = {
-		[1] = 5520,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 12,
+	["Zuuye"] = {
+		[1] = 1203,
 	},
-	["Hezzlich"] = {
-		[1] = 9855,
+	["Synchrotron"] = {
+		[1] = 6153,
 	},
-	["Foolcat"] = {
-		[1] = 12328,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Micay"] = {
+		[1] = 1774,
 	},
 	["Hyziks"] = {
 		[1] = 5733,
 	},
-	["Blackmula"] = {
-		[1] = 6305,
+	["Uniikki"] = {
+		[1] = 5935,
 	},
-	["Trump"] = {
-		[1] = 11404,
+	["Satisakki"] = {
+		[1] = 7893,
 	},
 	["Chinesefara"] = {
 		[1] = 501,
 	},
-	["Burning Ravager"] = {
-		[1] = 8191,
+	["Evamaria"] = {
+		[1] = 9591,
 	},
-	["Smirkish"] = {
-		[1] = 10892,
+	["Nixonprime"] = {
+		[1] = 6920,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 15,
 	},
-	["Pizzalover"] = {
-		[1] = 9504,
+	["Zhevrarunner"] = {
+		[1] = 5734,
 	},
-	["Crimrock"] = {
-		[1] = 8488,
+	["Wtfhunters"] = {
+		[1] = 6189,
 	},
 	["Borgean"] = {
 		[1] = 8391,
@@ -45150,53 +45159,59 @@ DPSMateUser = {
 	["Pieninieks"] = {
 		[1] = 6741,
 	},
-	["Kmen"] = {
-		[1] = 10013,
-		[2] = "shaman",
+	["Juremaxx"] = {
+		[1] = 3775,
+	},
+	["Harzok"] = {
+		[1] = 6258,
+	},
+	["Barvhug"] = {
+		[1] = 6911,
+	},
+	["Elevenwolf"] = {
+		[1] = 6108,
+	},
+	["Bonespear"] = {
+		[1] = 4615,
+	},
+	["Sophrenix"] = {
+		[1] = 5674,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 22,
+		[8] = 14,
 	},
-	["Listentotool"] = {
-		[1] = 10543,
-	},
-	["Deicider"] = {
-		[1] = 233,
-	},
-	["Littledworf"] = {
-		[1] = 11661,
-	},
-	["Kikedaddyto"] = {
-		[1] = 6936,
-	},
-	["Amglolz"] = {
-		[1] = 6566,
-	},
-	["Oldmiu"] = {
-		[1] = 7568,
+	["Banato"] = {
+		[1] = 6056,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 18,
 	},
 	["Paintrains"] = {
 		[1] = 7985,
 	},
-	["Elregath"] = {
-		[1] = 3906,
+	["Jackeo"] = {
+		[1] = 7636,
 	},
-	["Canal Frenzy"] = {
-		[1] = 876,
+	["Fylla"] = {
+		[1] = 12756,
 	},
-	["Jjff"] = {
-		[1] = 2188,
+	["Bezerkergt"] = {
+		[1] = 13274,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 40,
 	},
-	["Whiskyonice"] = {
-		[1] = 3135,
+	["Wind Howler"] = {
+		[1] = 9361,
 	},
-	["Uniikki"] = {
-		[1] = 5935,
+	["Reflectio"] = {
+		[1] = 11265,
 	},
-	["Satisakki"] = {
-		[1] = 7893,
+	["Wsglord"] = {
+		[1] = 302,
 	},
-	["Evamaria"] = {
-		[1] = 9591,
+	["Syko"] = {
+		[1] = 8197,
 	},
 	["Tolwin"] = {
 		[1] = 10618,
@@ -45204,44 +45219,46 @@ DPSMateUser = {
 	["Spetsn"] = {
 		[1] = 2088,
 	},
-	["Ragny"] = {
-		[1] = 13179,
+	["Solofro"] = {
+		[1] = 6230,
 	},
-	["Razormane Warfrenzy"] = {
-		[1] = 9223,
+	["Kankero"] = {
+		[1] = 9643,
 	},
-	["Moonz"] = {
-		[1] = 8375,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 25,
+	["Laughingmumu"] = {
+		[1] = 10231,
 	},
 	["Suboren"] = {
 		[1] = 5228,
 	},
-	["BlankName"] = {
-		[1] = 12376,
+	["Saadnes"] = {
+		[1] = 8840,
 	},
 	["Salt Flats Vulture"] = {
 		[1] = 10820,
 	},
-	["Bokalbo"] = {
-		[1] = 1173,
+	["Breezedance"] = {
+		[1] = 7691,
 	},
 	["Gnomorelife"] = {
 		[1] = 5164,
 	},
-	["Saervek"] = {
-		[1] = 5521,
+	["Nalaa"] = {
+		[1] = 2482,
+	},
+	["Magecurse"] = {
+		[1] = 5409,
+		[2] = "mage",
+		[3] = -1,
+		[4] = false,
+		[7] = "NFU YOUNG GUARD",
+		[8] = 27,
+	},
+	["Sophas"] = {
+		[1] = 9698,
 		[2] = "druid",
 		[3] = -1,
-		[8] = 14,
-	},
-	["Sheens"] = {
-		[1] = 1571,
-	},
-	["Isdeudoado"] = {
-		[1] = 3826,
+		[8] = 27,
 	},
 	["Magimelker"] = {
 		[1] = 13285,
@@ -45249,8 +45266,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 30,
 	},
-	["Caug"] = {
-		[1] = 11786,
+	["Mayze"] = {
+		[1] = 8121,
 	},
 	["Navahoo"] = {
 		[1] = 7967,
@@ -45261,26 +45278,26 @@ DPSMateUser = {
 	["Hatecorelul"] = {
 		[1] = 7461,
 	},
-	["Arcage"] = {
-		[1] = 11035,
+	["Limar"] = {
+		[1] = 10052,
 	},
-	["Gurubashi Warrior"] = {
-		[1] = 381,
+	["Justforfunny"] = {
+		[1] = 10030,
 	},
-	["Aristomortus"] = {
-		[1] = 1017,
+	["Asshu"] = {
+		[1] = 11357,
 	},
-	["Qzell"] = {
-		[1] = 3742,
+	["Pirophe"] = {
+		[1] = 10186,
 	},
-	["Soyud"] = {
-		[1] = 10846,
+	["Jibbs"] = {
+		[1] = 12656,
 	},
-	["Solofro"] = {
-		[1] = 6230,
+	["Mosttwo"] = {
+		[1] = 7651,
 	},
-	["Capotasto"] = {
-		[1] = 12792,
+	["Vildiur"] = {
+		[1] = 3986,
 	},
 	["Cearn"] = {
 		[1] = 10735,
@@ -45288,11 +45305,11 @@ DPSMateUser = {
 	["Triasmond"] = {
 		[1] = 2918,
 	},
-	["Breezedance"] = {
-		[1] = 7691,
+	["Arrowdnyamic"] = {
+		[1] = 6187,
 	},
-	["Anudoranador"] = {
-		[1] = 3812,
+	["Fearn"] = {
+		[1] = 4995,
 	},
 	["Gallipette"] = {
 		[1] = 13003,
@@ -45306,8 +45323,8 @@ DPSMateUser = {
 	["Maisel"] = {
 		[1] = 9733,
 	},
-	["Redbringer"] = {
-		[1] = 12249,
+	["Hive'Zara Sandstalker"] = {
+		[1] = 882,
 	},
 	["Mixah"] = {
 		[1] = 10664,
@@ -45318,22 +45335,18 @@ DPSMateUser = {
 	["Miifka"] = {
 		[1] = 10427,
 	},
-	["Nerzoule"] = {
-		[1] = 6374,
+	["Premoo"] = {
+		[1] = 5456,
 	},
-	["Skygem"] = {
-		[1] = 5335,
-		[2] = "rogue",
+	["Horrysheet"] = {
+		[1] = 3666,
+		[2] = "warlock",
 		[3] = -1,
 		[4] = false,
-		[8] = 11,
+		[8] = 1,
 	},
-	["Elendo"] = {
-		[1] = 8151,
-		[2] = "shaman",
-		[3] = -1,
-		[4] = false,
-		[8] = 24,
+	["Paae"] = {
+		[1] = 2182,
 	},
 	["Nyne"] = {
 		[1] = 16,
@@ -45346,17 +45359,20 @@ DPSMateUser = {
 	["Xinity"] = {
 		[1] = 2264,
 	},
-	["Doublegold"] = {
-		[1] = 9961,
+	["Greenas"] = {
+		[1] = 5305,
 	},
-	["Jibbs"] = {
-		[1] = 12656,
+	["Zqsm"] = {
+		[1] = 9994,
 	},
-	["Razorgore the Untamed"] = {
-		[1] = 1078,
+	["Ezarek"] = {
+		[1] = 6827,
 	},
-	["Cwor"] = {
-		[1] = 4620,
+	["Steaknife"] = {
+		[1] = 7307,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 19,
 	},
 	["Innominate"] = {
 		[1] = 4837,
@@ -45364,20 +45380,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 9,
 	},
-	["Khry"] = {
-		[1] = 6438,
+	["Zornik"] = {
+		[1] = 4799,
 	},
-	["Alekskan"] = {
-		[1] = 3698,
-	},
-	["Gengge"] = {
-		[1] = 12326,
-		[2] = "warrior",
+	["Mangemort"] = {
+		[1] = 8283,
+		[2] = "warlock",
 		[3] = -1,
-		[8] = 60,
+		[8] = 20,
 	},
-	["Arrowdnyamic"] = {
-		[1] = 6187,
+	["Bramholdt"] = {
+		[1] = 6262,
+	},
+	["Krawnzkick"] = {
+		[1] = 2468,
 	},
 	["Alcaponech"] = {
 		[1] = 7924,
@@ -45385,12 +45401,14 @@ DPSMateUser = {
 	["Shakra"] = {
 		[1] = 7406,
 	},
-	["Horrysheet"] = {
-		[1] = 3666,
+	["Pap"] = {
+		[1] = 12881,
 		[2] = "warlock",
 		[3] = -1,
 		[4] = false,
-		[8] = 1,
+		[5] = "Pet",
+		[7] = "Communist Party",
+		[8] = 33,
 	},
 	["Kuptog"] = {
 		[1] = 6173,
@@ -45398,11 +45416,8 @@ DPSMateUser = {
 	["Graz'tast"] = {
 		[1] = 12506,
 	},
-	["Ziph"] = {
-		[1] = 7165,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 18,
+	["Boulderfist Magus"] = {
+		[1] = 12161,
 	},
 	["Juggernautt"] = {
 		[1] = 11093,
@@ -45410,20 +45425,20 @@ DPSMateUser = {
 	["Twilight Loreseeker"] = {
 		[1] = 9006,
 	},
-	["Loistina"] = {
-		[1] = 2757,
+	["Noctro"] = {
+		[1] = 4613,
 	},
 	["Mafiota"] = {
 		[1] = 2034,
 	},
-	["Purs"] = {
-		[1] = 11978,
+	["Latanga"] = {
+		[1] = 11742,
 	},
-	["Mackjack"] = {
-		[1] = 8855,
+	["Fertei"] = {
+		[1] = 6644,
 	},
-	["Deceives"] = {
-		[1] = 10886,
+	["Bhag'thera"] = {
+		[1] = 11897,
 	},
 	["Emperor Vek'nilash"] = {
 		[1] = 2588,
@@ -45431,8 +45446,8 @@ DPSMateUser = {
 	["Kurinnaxx"] = {
 		[1] = 871,
 	},
-	["Spiritmouse"] = {
-		[1] = 12934,
+	["Zennie"] = {
+		[1] = 4739,
 	},
 	["Gazrog"] = {
 		[1] = 7001,
@@ -45449,71 +45464,68 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 13,
 	},
-	["Papizzle"] = {
-		[1] = 9895,
+	["Tradesnake"] = {
+		[1] = 2190,
 	},
-	["Pap"] = {
-		[1] = 12881,
-		[2] = "warlock",
+	["Humlemaggie"] = {
+		[1] = 3102,
+	},
+	["Korobe"] = {
+		[1] = 6799,
+		[2] = "druid",
 		[3] = -1,
-		[4] = false,
-		[5] = "Pet",
-		[7] = "Communist Party",
-		[8] = 33,
+		[8] = 17,
 	},
-	["Pelvatronis"] = {
-		[1] = 7223,
+	["Lerssiperse"] = {
+		[1] = 10997,
 	},
-	["Kozeh"] = {
-		[1] = 7883,
-		[2] = "priest",
+	["Crach"] = {
+		[1] = 7176,
+	},
+	["Steveaoki"] = {
+		[1] = 11406,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 60,
-	},
-	["Grysh"] = {
-		[1] = 13148,
-	},
-	["Bankhoz"] = {
-		[1] = 8706,
+		[8] = 36,
 	},
 	["Elderwarrior"] = {
 		[1] = 9573,
 	},
-	["Avelade"] = {
-		[1] = 79,
+	["Brachan"] = {
+		[1] = 8725,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 17,
 	},
-	["Scarlet Zealot"] = {
-		[1] = 5044,
+	["Interrop"] = {
+		[1] = 10545,
 	},
-	["Peppr"] = {
-		[1] = 1624,
+	["Ohkillem"] = {
+		[1] = 1659,
 	},
-	["Danksmite"] = {
-		[1] = 5945,
+	["Dotitup"] = {
+		[1] = 7385,
 	},
 	["Silencett"] = {
 		[1] = 7763,
 	},
-	["Bhag'thera"] = {
-		[1] = 11897,
+	["Kroe"] = {
+		[1] = 12662,
 	},
 	["putupleg"] = {
 		[1] = 7821,
 	},
-	["Kcolock"] = {
-		[1] = 13201,
+	["Greater Thunderhawk"] = {
+		[1] = 8056,
 	},
 	["Banjotooie"] = {
 		[1] = 2681,
 	},
-	["Difection"] = {
-		[1] = 13336,
-		[2] = "priest",
-		[3] = 1,
-		[8] = 41,
+	["Veim"] = {
+		[1] = 1592,
 	},
-	["Rmoss"] = {
-		[1] = 2927,
+	["Cassyx"] = {
+		[1] = 9059,
 	},
 	["Tokez"] = {
 		[1] = 442,
@@ -45522,35 +45534,41 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 60,
 	},
-	["Termaire"] = {
-		[1] = 6163,
+	["Wdaye"] = {
+		[1] = 11958,
 	},
 	["Ghamoo-ra"] = {
 		[1] = 8996,
 	},
-	["Faqboi"] = {
-		[1] = 3278,
+	["Hulkules"] = {
+		[1] = 12603,
 	},
-	["Beine"] = {
-		[1] = 8255,
+	["Slayermage"] = {
+		[1] = 11182,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 30,
 	},
-	["Paperbag"] = {
-		[1] = 2816,
+	["Bigbadjonn"] = {
+		[1] = 5855,
 	},
 	["Vertel"] = {
 		[1] = 13046,
 	},
-	["Abajub"] = {
-		[1] = 4770,
+	["Simi"] = {
+		[1] = 9954,
 	},
 	["Tacoriffic"] = {
 		[1] = 6058,
 	},
-	["Adsky"] = {
-		[1] = 10518,
+	["Batak"] = {
+		[1] = 11136,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Onlyhehexd"] = {
-		[1] = 9337,
+	["Perrier"] = {
+		[1] = 94,
 	},
 	["Thundercatz"] = {
 		[1] = 9830,
@@ -45561,26 +45579,26 @@ DPSMateUser = {
 	["Skullsplitter Axe Thrower"] = {
 		[1] = 11901,
 	},
-	["Richardo"] = {
-		[1] = 80,
+	["Dib"] = {
+		[1] = 3338,
 	},
-	["Felspec"] = {
-		[1] = 791,
+	["Vanaroth"] = {
+		[1] = 5252,
 	},
-	["Shamanica"] = {
-		[1] = 5641,
+	["Nyonblack"] = {
+		[1] = 3522,
 	},
 	["Turneround"] = {
 		[1] = 718,
 	},
-	["Denouement"] = {
-		[1] = 1622,
+	["Garrot"] = {
+		[1] = 5304,
 	},
-	["Flippoflappo"] = {
-		[1] = 9446,
+	["Painshreder"] = {
+		[1] = 4241,
 	},
-	["Gadfly"] = {
-		[1] = 7670,
+	["Tebrex"] = {
+		[1] = 5389,
 	},
 	["Pipnam"] = {
 		[1] = 3732,
@@ -45591,17 +45609,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 22,
 	},
-	["Priks"] = {
-		[1] = 3026,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 1,
+	["Gorsk"] = {
+		[1] = 10524,
 	},
-	["Greater Thunderhawk"] = {
-		[1] = 8056,
+	["Pharmademic"] = {
+		[1] = 8795,
 	},
-	["Fireman"] = {
-		[1] = 4994,
+	["Master Elemental Shaper Krixix"] = {
+		[1] = 1096,
 	},
 	["Hhun"] = {
 		[1] = 4244,
@@ -45609,11 +45624,8 @@ DPSMateUser = {
 	["Fambaa"] = {
 		[1] = 6758,
 	},
-	["Kaidasd"] = {
-		[1] = 2434,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 60,
+	["Lockmanganga"] = {
+		[1] = 3655,
 	},
 	["Dorading"] = {
 		[1] = 13277,
@@ -45627,20 +45639,20 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 4,
 	},
-	["Cbblh"] = {
-		[1] = 7753,
+	["Vampiresi"] = {
+		[1] = 4538,
 	},
 	["Freewind"] = {
 		[1] = 9631,
 	},
-	["Boulderfist Mauler"] = {
-		[1] = 12440,
+	["Wilma"] = {
+		[1] = 10058,
 	},
-	["Interhill"] = {
-		[1] = 11542,
+	["Harassing"] = {
+		[1] = 13226,
 	},
-	["Firewfire"] = {
-		[1] = 2696,
+	["Bloodscalp Axe Thrower"] = {
+		[1] = 11023,
 	},
 	["Valinis"] = {
 		[1] = 4282,
@@ -45648,8 +45660,8 @@ DPSMateUser = {
 	["Krasnyz"] = {
 		[1] = 6184,
 	},
-	["Kokopo"] = {
-		[1] = 9740,
+	["Gerinie"] = {
+		[1] = 1339,
 	},
 	["Zpitz"] = {
 		[1] = 3815,
@@ -45663,8 +45675,8 @@ DPSMateUser = {
 	["Sykelol"] = {
 		[1] = 12346,
 	},
-	["Painshreder"] = {
-		[1] = 4241,
+	["Dirt Mound"] = {
+		[1] = 2600,
 	},
 	["Beltal"] = {
 		[1] = 6149,
@@ -45672,41 +45684,43 @@ DPSMateUser = {
 	["Jokersad"] = {
 		[1] = 13008,
 	},
-	["Nezjol"] = {
-		[1] = 1013,
+	["Insanity"] = {
+		[1] = 5134,
 	},
 	["Repeatz"] = {
 		[1] = 6430,
 	},
-	["Stoneclaw"] = {
-		[1] = 6490,
+	["Pvedps"] = {
+		[1] = 1230,
 	},
-	["Gottastay"] = {
-		[1] = 131,
+	["Muhammed"] = {
+		[1] = 4269,
 	},
 	["Zedikawa"] = {
 		[1] = 834,
 	},
-	["Lockmanganga"] = {
-		[1] = 3655,
+	["Grug"] = {
+		[1] = 786,
 	},
 	["Bezumnoezlo"] = {
 		[1] = 6059,
 	},
-	["Triiks"] = {
-		[1] = 7174,
+	["Endrim"] = {
+		[1] = 10314,
 	},
-	["Auaua"] = {
-		[1] = 9992,
+	["Demonicsnake"] = {
+		[1] = 404,
 	},
-	["Lilwyte"] = {
-		[1] = 10352,
+	["Thauriel"] = {
+		[1] = 1917,
+		[2] = "hunter",
+		[3] = 1,
+		[4] = false,
+		[7] = "Blutdurst",
+		[8] = 60,
 	},
-	["Artefakt"] = {
-		[1] = 5697,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 13,
+	["Menothus"] = {
+		[1] = 11211,
 	},
 	["Andrasil"] = {
 		[1] = 13048,
@@ -45723,47 +45737,41 @@ DPSMateUser = {
 	["Razzashi Skitterer"] = {
 		[1] = 336,
 	},
-	["Casanovababy"] = {
-		[1] = 11056,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 38,
+	["Syndicate Magus"] = {
+		[1] = 12480,
 	},
-	["Levitra"] = {
-		[1] = 10534,
+	["Fjart"] = {
+		[1] = 5914,
 	},
-	["Cubatazo"] = {
-		[1] = 8205,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 23,
+	["Amitabbha"] = {
+		[1] = 3872,
 	},
-	["Johones"] = {
-		[1] = 5392,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 12,
+	["Mesa Buzzard"] = {
+		[1] = 10505,
 	},
-	["Tauntd"] = {
-		[1] = 622,
+	["Leall"] = {
+		[1] = 9905,
 	},
-	["Szen"] = {
-		[1] = 8256,
+	["Dioder"] = {
+		[1] = 5809,
 	},
 	["Ecstasyshock"] = {
 		[1] = 8901,
 	},
-	["Pesterhide Snarler"] = {
-		[1] = 9652,
+	["Bristleback Hunter"] = {
+		[1] = 7091,
 	},
-	["Grug"] = {
-		[1] = 786,
+	["Zeitenwende"] = {
+		[1] = 4440,
 	},
-	["Analitik"] = {
-		[1] = 13101,
+	["Spinxie"] = {
+		[1] = 9624,
+		[2] = "priest",
+		[3] = 1,
+		[8] = 41,
 	},
-	["Systra"] = {
-		[1] = 3172,
+	["Zag'nak"] = {
+		[1] = 10340,
 	},
 	["Formatic"] = {
 		[1] = 5309,
@@ -45771,17 +45779,17 @@ DPSMateUser = {
 	["Prospector Khazgorm"] = {
 		[1] = 9258,
 	},
-	["Fjart"] = {
-		[1] = 5914,
+	["Chinaa"] = {
+		[1] = 8945,
 	},
-	["Drmeakin"] = {
-		[1] = 9599,
+	["Stromgarde Troll Hunter"] = {
+		[1] = 12432,
 	},
-	["Bigbritches"] = {
-		[1] = 7404,
+	["Xserie"] = {
+		[1] = 3367,
 	},
-	["Crab"] = {
-		[1] = 5789,
+	["Blackmula"] = {
+		[1] = 6305,
 	},
 	["Traagrom"] = {
 		[1] = 507,
@@ -45792,32 +45800,41 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 4,
 	},
-	["Darksweat"] = {
-		[1] = 7666,
+	["Grummel"] = {
+		[1] = 11647,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 31,
 	},
-	["Flodinepve"] = {
-		[1] = 78,
+	["Iil"] = {
+		[1] = 11223,
 	},
 	["Gnun"] = {
 		[1] = 4919,
 	},
-	["Zag'nak"] = {
-		[1] = 10340,
+	["Hurucan"] = {
+		[1] = 10259,
 	},
-	["Darvulia"] = {
-		[1] = 7591,
+	["Syndicate Saboteur"] = {
+		[1] = 10615,
 	},
-	["Mangup"] = {
-		[1] = 10539,
-	},
-	["Habibix"] = {
-		[1] = 2878,
+	["Iloveclt"] = {
+		[1] = 1602,
 		[2] = "rogue",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Hottamale"] = {
-		[1] = 12571,
+	["Joak"] = {
+		[1] = 12682,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Exxecutioner"] = {
+		[1] = 4925,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 9,
 	},
 	["Highlife"] = {
 		[1] = 4978,
@@ -45825,11 +45842,8 @@ DPSMateUser = {
 	["Stanford"] = {
 		[1] = 7653,
 	},
-	["Xenaos"] = {
-		[1] = 3527,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 5,
+	["Healyourbutt"] = {
+		[1] = 6036,
 	},
 	["Hecklefang Snarler"] = {
 		[1] = 6007,
@@ -45837,32 +45851,35 @@ DPSMateUser = {
 	["Hobble"] = {
 		[1] = 7778,
 	},
-	["Schibbzx"] = {
-		[1] = 6816,
+	["Jappakazul"] = {
+		[1] = 8347,
 	},
-	["Pirophe"] = {
-		[1] = 10186,
+	["Pwnmeister"] = {
+		[1] = 6748,
 	},
 	["Badmind"] = {
 		[1] = 11927,
 	},
-	["Leonehe"] = {
-		[1] = 1805,
+	["Mustery"] = {
+		[1] = 11574,
 	},
-	["Crozzo"] = {
-		[1] = 8076,
+	["Scalding Elemental"] = {
+		[1] = 9299,
 	},
-	["Dros"] = {
-		[1] = 8660,
+	["Sampthechamp"] = {
+		[1] = 8202,
 	},
-	["Brockes"] = {
-		[1] = 7612,
+	["Chichiko"] = {
+		[1] = 12921,
 	},
 	["Whisp"] = {
 		[1] = 11306,
 	},
-	["Bigdambush"] = {
-		[1] = 7224,
+	["Bolsamierda"] = {
+		[1] = 8190,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 28,
 	},
 	["Ceane"] = {
 		[1] = 9039,
@@ -45879,41 +45896,49 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 35,
 	},
-	["Jappakazul"] = {
-		[1] = 8347,
+	["Mullra"] = {
+		[1] = 1423,
+		[2] = "warrior",
+		[3] = 1,
+		[4] = false,
+		[7] = "Project Dream",
+		[8] = 60,
 	},
 	["Lebreu"] = {
 		[1] = 8371,
 	},
-	["Huntertusk"] = {
-		[1] = 1243,
+	["Manticore"] = {
+		[1] = 10431,
 	},
-	["Moroncool"] = {
-		[1] = 12383,
+	["Itsagthang"] = {
+		[1] = 2291,
 	},
-	["Turboe"] = {
-		[1] = 1615,
+	["Yuroichi"] = {
+		[1] = 12621,
 	},
-	["Cowerboy"] = {
-		[1] = 7569,
-	},
-	["Thisman"] = {
-		[1] = 855,
+	["Nessiima"] = {
+		[1] = 5326,
 		[2] = "warrior",
 		[3] = -1,
-		[8] = 60,
+		[4] = false,
+		[8] = 11,
 	},
-	["Adioni"] = {
-		[1] = 11045,
+	["Swarlock"] = {
+		[1] = 5017,
 	},
-	["Shibilay"] = {
-		[1] = 6195,
+	["Klugy"] = {
+		[1] = 6510,
 	},
-	["Scalding Elemental"] = {
-		[1] = 9299,
+	["Nosx"] = {
+		[1] = 4902,
+		[2] = "warrior",
+		[3] = 1,
 	},
-	["Mc"] = {
-		[1] = 9881,
+	["Razzh"] = {
+		[1] = 3770,
+	},
+	["Giuliani"] = {
+		[1] = 8754,
 	},
 	["Scorpid Dunestalker"] = {
 		[1] = 2615,
@@ -45924,8 +45949,8 @@ DPSMateUser = {
 	["Sadgasm"] = {
 		[1] = 2262,
 	},
-	["Zimomo"] = {
-		[1] = 11003,
+	["Dotfgt"] = {
+		[1] = 2162,
 	},
 	["Lisha"] = {
 		[1] = 12069,
@@ -45936,34 +45961,26 @@ DPSMateUser = {
 	["Nidedie"] = {
 		[1] = 10002,
 	},
-	["Gearslime"] = {
-		[1] = 5329,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 10,
+	["Ekta"] = {
+		[1] = 7305,
 	},
-	["Nosx"] = {
-		[1] = 4902,
-		[2] = "warrior",
-		[3] = 1,
+	["Giant Moss Creeper"] = {
+		[1] = 10223,
 	},
-	["Klugy"] = {
-		[1] = 6510,
+	["Tigrax"] = {
+		[1] = 8864,
 	},
 	["Krak"] = {
 		[1] = 1829,
 	},
-	["Msforyaaizk"] = {
-		[1] = 1487,
+	["Cryptik"] = {
+		[1] = 7597,
 	},
-	["Iloveclt"] = {
-		[1] = 1602,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Dros"] = {
+		[1] = 8660,
 	},
-	["Dotfgt"] = {
-		[1] = 2162,
+	["Oceome"] = {
+		[1] = 11613,
 	},
 	["Dread Flyer"] = {
 		[1] = 12853,
@@ -45971,38 +45988,32 @@ DPSMateUser = {
 	["Gudlan"] = {
 		[1] = 1582,
 	},
-	["Aux"] = {
-		[1] = 2635,
+	["Southsea Cannoneer"] = {
+		[1] = 7301,
 	},
-	["Stoggi"] = {
-		[1] = 4452,
+	["Whitesilence"] = {
+		[1] = 8417,
 	},
-	["Finafear"] = {
-		[1] = 3545,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 6,
+	["Galgrimm"] = {
+		[1] = 7774,
 	},
-	["Warriorex"] = {
-		[1] = 6890,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 12,
+	["Hata"] = {
+		[1] = 1388,
 	},
-	["Tigrax"] = {
-		[1] = 8864,
+	["Nohost"] = {
+		[1] = 7245,
 	},
 	["Dxuan"] = {
 		[1] = 12276,
 	},
-	["Bmmaster"] = {
-		[1] = 1384,
+	["Verog the Dervish"] = {
+		[1] = 7782,
 	},
 	["Reinraus"] = {
 		[1] = 12531,
 	},
-	["Rogueshka"] = {
-		[1] = 657,
+	["Krisoe"] = {
+		[1] = 4450,
 	},
 	["Tibing"] = {
 		[1] = 12645,
@@ -46010,8 +46021,8 @@ DPSMateUser = {
 	["Dudulike"] = {
 		[1] = 6018,
 	},
-	["Djzates"] = {
-		[1] = 13198,
+	["Shtoorman"] = {
+		[1] = 3958,
 	},
 	["Oykb"] = {
 		[1] = 12299,
@@ -46022,20 +46033,20 @@ DPSMateUser = {
 	["Barrens Giraffe"] = {
 		[1] = 6528,
 	},
-	["Stillalive"] = {
-		[1] = 6397,
-	},
-	["Narwal"] = {
-		[1] = 10126,
-	},
-	["Ravinos"] = {
-		[1] = 7433,
-	},
-	["Salfe"] = {
-		[1] = 3186,
-		[2] = "warlock",
+	["Doombasher"] = {
+		[1] = 11819,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 2,
+		[8] = 36,
+	},
+	["Arkimonday"] = {
+		[1] = 2842,
+	},
+	["Papapalol"] = {
+		[1] = 7544,
+	},
+	["Metric"] = {
+		[1] = 1533,
 	},
 	["Boblicious"] = {
 		[1] = 8747,
@@ -46043,11 +46054,11 @@ DPSMateUser = {
 	["Eregos"] = {
 		[1] = 3202,
 	},
-	["Nlsha"] = {
-		[1] = 2030,
+	["Lord Azrethoc"] = {
+		[1] = 12894,
 	},
-	["Wishme"] = {
-		[1] = 5325,
+	["Swine"] = {
+		[1] = 8757,
 	},
 	["Huntzero"] = {
 		[1] = 10831,
@@ -46055,22 +46066,20 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 32,
 	},
-	["Rorin"] = {
-		[1] = 976,
-	},
-	["Kheis"] = {
-		[1] = 4565,
-		[2] = "warlock",
-		[3] = -1,
-		[4] = false,
-		[5] = "Bellop",
-		[8] = 4,
-	},
-	["Kiovsky"] = {
-		[1] = 13303,
-		[2] = "paladin",
+	["Qrith"] = {
+		[1] = 13280,
+		[2] = "warrior",
 		[3] = 1,
-		[8] = 24,
+		[8] = 35,
+	},
+	["Sorin"] = {
+		[1] = 3070,
+	},
+	["Priks"] = {
+		[1] = 3026,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 1,
 	},
 	["Dergunator"] = {
 		[1] = 12918,
@@ -46084,35 +46093,37 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 27,
 	},
-	["Switchyy"] = {
-		[1] = 1267,
+	["Gimmeflag"] = {
+		[1] = 1992,
 	},
-	["Garmitua"] = {
-		[1] = 5286,
+	["Ghoul Ravener"] = {
+		[1] = 2144,
 	},
 	["Ivosanader"] = {
 		[1] = 2157,
 	},
-	["Verog the Dervish"] = {
-		[1] = 7782,
+	["Haxer"] = {
+		[1] = 1636,
 	},
-	["Fallenroot Rogue"] = {
-		[1] = 8983,
+	["Classe"] = {
+		[1] = 910,
 	},
-	["Gangly"] = {
-		[1] = 8457,
-	},
-	["Monkeypubes"] = {
-		[1] = 2763,
-	},
-	["Xasu"] = {
-		[1] = 9622,
-		[2] = "warrior",
+	["Plastekan"] = {
+		[1] = 5640,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 29,
+		[8] = 60,
 	},
-	["Matoni"] = {
-		[1] = 8454,
+	["Abatog"] = {
+		[1] = 1484,
+		[4] = true,
+		[6] = 1481,
+	},
+	["Lxzx"] = {
+		[1] = 12948,
+	},
+	["Xoroth"] = {
+		[1] = 3581,
 	},
 	["Paulpin"] = {
 		[1] = 6094,
@@ -46120,8 +46131,13 @@ DPSMateUser = {
 	["Zigzagdave"] = {
 		[1] = 8306,
 	},
-	["Mylanlan"] = {
-		[1] = 5021,
+	["Azurecore"] = {
+		[1] = 6270,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[7] = "lol and wow",
+		[8] = 20,
 	},
 	["Dnts"] = {
 		[1] = 5489,
@@ -46132,20 +46148,20 @@ DPSMateUser = {
 	["Mogsteri"] = {
 		[1] = 8788,
 	},
-	["Noilliz"] = {
-		[1] = 5160,
+	["Battle Chicken"] = {
+		[1] = 11369,
 	},
 	["Macblac"] = {
 		[1] = 11859,
 	},
-	["Jimb"] = {
-		[1] = 12762,
+	["Gleeman"] = {
+		[1] = 7567,
 	},
-	["Cadetkanker"] = {
-		[1] = 393,
+	["Smitta"] = {
+		[1] = 7014,
 	},
-	["Meandmymage"] = {
-		[1] = 3814,
+	["Singling"] = {
+		[1] = 7585,
 	},
 	["Zuzkar"] = {
 		[1] = 11936,
@@ -46153,17 +46169,17 @@ DPSMateUser = {
 	["Skeis"] = {
 		[1] = 9927,
 	},
-	["Nausea"] = {
-		[1] = 9149,
-		[2] = "rogue",
+	["Aezzen"] = {
+		[1] = 2769,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 24,
+		[8] = 23,
 	},
 	["Acehuntsman"] = {
 		[1] = 11931,
 	},
-	["Haxer"] = {
-		[1] = 1636,
+	["Hahype"] = {
+		[1] = 9099,
 	},
 	["Granji"] = {
 		[1] = 2672,
@@ -46174,23 +46190,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Okudnik"] = {
-		[1] = 3754,
+	["Samuwow"] = {
+		[1] = 11521,
 	},
-	["Singling"] = {
-		[1] = 7585,
+	["Monoteta"] = {
+		[1] = 3924,
 	},
-	["Heymi"] = {
-		[1] = 3225,
+	["Sneakybones"] = {
+		[1] = 10136,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 30,
 	},
-	["Impregnator"] = {
-		[1] = 5751,
+	["Niudadada"] = {
+		[1] = 7693,
 	},
-	["Karasuna"] = {
-		[1] = 10963,
+	["Mode"] = {
+		[1] = 8594,
 	},
-	["Rivalit"] = {
-		[1] = 2296,
+	["Hoggelreim"] = {
+		[1] = 11232,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 32,
 	},
 	["Narezator"] = {
 		[1] = 943,
@@ -46200,76 +46222,90 @@ DPSMateUser = {
 		[7] = "RUSSIAN BEAR",
 		[8] = 60,
 	},
-	["Roninm"] = {
-		[1] = 13288,
+	["Raampagee"] = {
+		[1] = 9242,
+		[2] = "warrior",
+		[3] = -1,
+		[4] = false,
+		[7] = "BandiTos RU",
+		[8] = 21,
 	},
-	["Hahype"] = {
-		[1] = 9099,
+	["Mustasch"] = {
+		[1] = 768,
 	},
-	["Kehle"] = {
-		[1] = 1165,
+	["Maniton"] = {
+		[1] = 9719,
 	},
-	["Ponyjuice"] = {
-		[1] = 10407,
+	["Os"] = {
+		[1] = 10213,
 	},
 	["Iceblackte"] = {
 		[1] = 7895,
 	},
-	["Gurness"] = {
-		[1] = 8057,
-	},
-	["Biomancy"] = {
-		[1] = 579,
-		[2] = "priest",
+	["Somali"] = {
+		[1] = 10875,
+		[2] = "druid",
 		[3] = -1,
-		[8] = 60,
+		[8] = 11,
+	},
+	["Domlan"] = {
+		[1] = 1777,
 	},
 	["Clav"] = {
 		[1] = 5525,
 	},
-	["Snovavdele"] = {
-		[1] = 12664,
+	["Razjah"] = {
+		[1] = 12177,
 	},
 	["Maitokahvi"] = {
 		[1] = 12396,
 	},
-	["Ashirlenet"] = {
-		[1] = 133,
+	["Reery"] = {
+		[1] = 7393,
 	},
-	["Woledegeguai"] = {
-		[1] = 2091,
+	["R√•ttangustav"] = {
+		[1] = 605,
 	},
-	["Niudadada"] = {
-		[1] = 7693,
+	["Monkeypubes"] = {
+		[1] = 2763,
 	},
-	["Superlean"] = {
-		[1] = 8048,
+	["Goatdestroy"] = {
+		[1] = 5736,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 17,
 	},
-	["Haobaqi"] = {
-		[1] = 12391,
+	["Yozzshura"] = {
+		[1] = 5804,
 	},
-	["Mode"] = {
-		[1] = 8594,
+	["Graoch"] = {
+		[1] = 7269,
 	},
-	["Kolkar Marauder"] = {
-		[1] = 6670,
+	["Snaxo"] = {
+		[1] = 12669,
 	},
-	["Mutated Venture Co. Drone"] = {
-		[1] = 7955,
+	["Pwndmachine"] = {
+		[1] = 5163,
 	},
-	["Scarlet Scout"] = {
-		[1] = 10562,
+	["Hale"] = {
+		[1] = 1850,
 	},
-	["Krisoe"] = {
-		[1] = 4450,
+	["Klathgore"] = {
+		[1] = 6772,
 	},
-	["Alinary"] = {
-		[1] = 10582,
-		[2] = "rogue",
-		[3] = 1,
+	["Toby"] = {
+		[1] = 8315,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[7] = "Deathly Hallows",
+		[8] = 22,
 	},
-	["Mesmart"] = {
-		[1] = 9132,
+	["Maquthree"] = {
+		[1] = 4108,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 4,
 	},
 	["Sruudym"] = {
 		[1] = 522,
@@ -46277,17 +46313,17 @@ DPSMateUser = {
 	["Zigloz"] = {
 		[1] = 3504,
 	},
-	["Quehecut"] = {
-		[1] = 5177,
+	["Autismo"] = {
+		[1] = 6850,
 	},
 	["Ketan"] = {
 		[1] = 10405,
 	},
-	["Theddy"] = {
-		[1] = 9275,
+	["Zhangong"] = {
+		[1] = 11811,
 	},
-	["Geemo"] = {
-		[1] = 7851,
+	["Highkick"] = {
+		[1] = 8120,
 	},
 	["Elegigglexd"] = {
 		[1] = 2891,
@@ -46304,17 +46340,17 @@ DPSMateUser = {
 	["Felwhisper"] = {
 		[1] = 10916,
 	},
-	["Cv"] = {
-		[1] = 3942,
+	["Soulcry"] = {
+		[1] = 12389,
 	},
-	["yewude"] = {
-		[1] = 6926,
-	},
-	["Gevorik"] = {
-		[1] = 11366,
-		[2] = "warrior",
+	["Paoka"] = {
+		[1] = 9142,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 36,
+		[8] = 45,
+	},
+	["Xary"] = {
+		[1] = 255,
 	},
 	["Olomew"] = {
 		[1] = 2777,
@@ -46325,29 +46361,32 @@ DPSMateUser = {
 	["Bombomb"] = {
 		[1] = 4011,
 	},
-	["Dalleballe"] = {
-		[1] = 7316,
-		[2] = "druid",
+	["Grigh"] = {
+		[1] = 9074,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 13,
+		[8] = 35,
 	},
-	["R√•ttangustav"] = {
-		[1] = 605,
+	["Stellavirgin"] = {
+		[1] = 1963,
 	},
-	["Stickan"] = {
-		[1] = 11939,
+	["Silass"] = {
+		[1] = 6147,
 	},
-	["Lesser Rock Elemental"] = {
-		[1] = 12318,
+	["Forkjuice"] = {
+		[1] = 7122,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 22,
 	},
 	["Bbthivilol"] = {
 		[1] = 11883,
 	},
-	["Vatnik"] = {
-		[1] = 2678,
+	["Atlask"] = {
+		[1] = 3524,
 	},
-	["Kfbewhjbfewk"] = {
-		[1] = 2792,
+	["Bruxobr"] = {
+		[1] = 3080,
 	},
 	["Devouring Ectoplasm"] = {
 		[1] = 7067,
@@ -46358,79 +46397,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 5,
 	},
-	["Lmaolululu"] = {
-		[1] = 120,
+	["Koksu"] = {
+		[1] = 1109,
 	},
-	["Dooze"] = {
-		[1] = 13122,
-	},
-	["Myrde"] = {
-		[1] = 9219,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 23,
-	},
-	["Grigh"] = {
-		[1] = 9074,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 35,
-	},
-	["Minera"] = {
-		[1] = 9171,
-	},
-	["Xokmoon"] = {
-		[1] = 6341,
-	},
-	["Aip"] = {
-		[1] = 1270,
-	},
-	["Gonk"] = {
-		[1] = 6476,
-	},
-	["Drupii"] = {
-		[1] = 8153,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 31,
-	},
-	["Rock Stalker"] = {
-		[1] = 2617,
-	},
-	["Stellavirgin"] = {
-		[1] = 1963,
-	},
-	["Gehennas"] = {
-		[1] = 961,
-	},
-	["Donkye"] = {
-		[1] = 1997,
-	},
-	["Fullon"] = {
-		[1] = 9491,
-	},
-	["Musclejacked"] = {
-		[1] = 6321,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[7] = "Big D club",
-		[8] = 21,
-	},
-	["Emilete"] = {
-		[1] = 12385,
-	},
-	["Shabbyceecee"] = {
-		[1] = 10362,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 36,
-	},
-	["Atlask"] = {
-		[1] = 3524,
-	},
-	["Fillefod"] = {
-		[1] = 8415,
+	["Wowerror"] = {
+		[1] = 1211,
 	},
 	["Leilanes"] = {
 		[1] = 3174,
@@ -46439,8 +46410,68 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 2,
 	},
-	["Dirtbreath"] = {
-		[1] = 10050,
+	["Luckeybear"] = {
+		[1] = 13001,
+	},
+	["Whiiny"] = {
+		[1] = 10175,
+	},
+	["Xokmoon"] = {
+		[1] = 6341,
+	},
+	["Jahba"] = {
+		[1] = 6577,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 39,
+	},
+	["Gonk"] = {
+		[1] = 6476,
+	},
+	["Drone"] = {
+		[1] = 13334,
+	},
+	["Linova"] = {
+		[1] = 12013,
+	},
+	["Surox"] = {
+		[1] = 4682,
+	},
+	["Gehennas"] = {
+		[1] = 961,
+	},
+	["Bichez"] = {
+		[1] = 1968,
+	},
+	["Fullon"] = {
+		[1] = 9491,
+	},
+	["Motorhead"] = {
+		[1] = 2553,
+	},
+	["Saxobeat"] = {
+		[1] = 7191,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 20,
+	},
+	["Haydut"] = {
+		[1] = 8128,
+	},
+	["Windearth"] = {
+		[1] = 11444,
+	},
+	["Fillefod"] = {
+		[1] = 8415,
+	},
+	["Baltharen"] = {
+		[1] = 3345,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 7,
+	},
+	["Spoouch"] = {
+		[1] = 13129,
 	},
 	["Stormhide"] = {
 		[1] = 9227,
@@ -46451,11 +46482,11 @@ DPSMateUser = {
 	["Phuudym"] = {
 		[1] = 1639,
 	},
-	["Ioo"] = {
-		[1] = 1285,
+	["Nogavanus"] = {
+		[1] = 13233,
 	},
-	["Roxynp"] = {
-		[1] = 1687,
+	["Thuzin"] = {
+		[1] = 3735,
 	},
 	["Daynar"] = {
 		[1] = 5629,
@@ -46469,58 +46500,53 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 9,
 	},
-	["Taikuriz"] = {
-		[1] = 9304,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 28,
+	["Rockwing Gargoyle"] = {
+		[1] = 2141,
 	},
-	["Dibbuk"] = {
-		[1] = 11503,
+	["Sookeer"] = {
+		[1] = 3778,
 	},
 	["Rung"] = {
 		[1] = 12585,
 	},
-	["Nhoz"] = {
-		[1] = 2485,
-		[2] = "warlock",
+	["Murcx"] = {
+		[1] = 3890,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 60,
+		[4] = false,
+		[8] = 24,
 	},
 	["Grayap"] = {
 		[1] = 5139,
 		[4] = true,
 		[6] = 5138,
 	},
-	["Cone"] = {
-		[1] = 5594,
+	["Jeremix"] = {
+		[1] = 9,
 	},
-	["Saxobeat"] = {
-		[1] = 7191,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 20,
+	["Wachipan"] = {
+		[1] = 1368,
 	},
-	["Jubrai"] = {
-		[1] = 6185,
+	["Congobank"] = {
+		[1] = 11594,
 	},
 	["Guidan"] = {
 		[1] = 2183,
 	},
-	["Windearth"] = {
-		[1] = 11444,
+	["Vono"] = {
+		[1] = 175,
 	},
-	["Clouzi"] = {
-		[1] = 7563,
+	["Arkanos"] = {
+		[1] = 3677,
 	},
-	["Reckbomb"] = {
-		[1] = 1056,
+	["Mcscofield"] = {
+		[1] = 12038,
 	},
 	["Tyranis Malem"] = {
 		[1] = 12828,
 	},
-	["Haunted Servitor"] = {
-		[1] = 8613,
+	["Rock Stalker"] = {
+		[1] = 2617,
 	},
 	["Yakisobadon"] = {
 		[1] = 7321,
@@ -46528,14 +46554,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 17,
 	},
-	["Changeover"] = {
-		[1] = 4984,
+	["Oasis Snapjaw"] = {
+		[1] = 6665,
 	},
-	["Zynch"] = {
-		[1] = 3101,
+	["Nyteterrors"] = {
+		[1] = 13030,
 	},
-	["Sergeibarov"] = {
-		[1] = 11712,
+	["Thulnak"] = {
+		[1] = 7386,
 	},
 	["Libbie"] = {
 		[1] = 739,
@@ -46543,32 +46569,29 @@ DPSMateUser = {
 	["Elx"] = {
 		[1] = 1669,
 	},
-	["Nska"] = {
-		[1] = 4802,
+	["Ifindyou"] = {
+		[1] = 3059,
 	},
 	["Areliaa"] = {
 		[1] = 2068,
 	},
-	["Shredmachine"] = {
-		[1] = 2475,
+	["Aldaur"] = {
+		[1] = 3129,
 	},
-	["linux"] = {
-		[1] = 8348,
+	["Heycooper"] = {
+		[1] = 11973,
 	},
-	["Extony"] = {
-		[1] = 10453,
+	["Ridge Stalker Patriarch"] = {
+		[1] = 13229,
+	},
+	["Alfix"] = {
+		[1] = 3769,
+	},
+	["Kosepus"] = {
+		[1] = 10546,
 		[2] = "rogue",
 		[3] = -1,
-		[8] = 60,
-	},
-	["Juremaxx"] = {
-		[1] = 3775,
-	},
-	["Aceaceace"] = {
-		[1] = 11831,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 31,
+		[8] = 20,
 	},
 	["Barrow"] = {
 		[1] = 13319,
@@ -46586,17 +46609,14 @@ DPSMateUser = {
 	["Froobascoop"] = {
 		[1] = 5293,
 	},
-	["Frostynipps"] = {
-		[1] = 533,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Fuzzilapt"] = {
+		[1] = 3419,
 	},
 	["Swagycow"] = {
 		[1] = 9849,
 	},
-	["Mopi"] = {
-		[1] = 7595,
+	["Yurhor"] = {
+		[1] = 3825,
 	},
 	["Astamarr"] = {
 		[1] = 3513,
@@ -46604,49 +46624,61 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 30,
 	},
-	["Kilingly"] = {
-		[1] = 7592,
+	["Venth"] = {
+		[1] = 8570,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 14,
 	},
 	["Txdo"] = {
 		[1] = 10144,
 	},
-	["Cmonen"] = {
-		[1] = 9796,
-		[2] = "mage",
-		[3] = 1,
+	["Jinjiil"] = {
+		[1] = 9241,
+		[2] = "hunter",
+		[3] = -1,
+		[4] = false,
+		[5] = "Manncica",
+		[7] = "Remember the Scrubwell",
+		[8] = 27,
 	},
-	["Celkau"] = {
-		[1] = 8926,
+	["Bambuk"] = {
+		[1] = 6206,
 	},
-	["Chongxin"] = {
-		[1] = 2957,
+	["Hathdok"] = {
+		[1] = 7171,
+		[4] = true,
+		[6] = 7170,
 	},
-	["Oasis Snapjaw"] = {
-		[1] = 6665,
+	["Coffeefreak"] = {
+		[1] = 4075,
 	},
 	["Devilz"] = {
 		[1] = 1184,
 	},
-	["Keepw"] = {
-		[1] = 371,
+	["Brahtac"] = {
+		[1] = 3913,
 	},
 	["Dyrgost"] = {
 		[1] = 3873,
 	},
-	["Sleeby"] = {
-		[1] = 12264,
+	["Haylea"] = {
+		[1] = 11714,
 	},
-	["Fuzzilapt"] = {
-		[1] = 3419,
+	["Hoodlych"] = {
+		[1] = 7952,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 25,
 	},
-	["Lockdandload"] = {
-		[1] = 5627,
+	["Yiggi"] = {
+		[1] = 10384,
 	},
-	["Ayakashi"] = {
-		[1] = 1893,
+	["Qdscx"] = {
+		[1] = 8388,
 	},
-	["Fmg"] = {
-		[1] = 8876,
+	["Fu"] = {
+		[1] = 5748,
 	},
 	["Chaosyosh"] = {
 		[1] = 3926,
@@ -46654,59 +46686,59 @@ DPSMateUser = {
 	["Ilililililil"] = {
 		[1] = 4323,
 	},
-	["Azorce"] = {
-		[1] = 4115,
+	["Spinboxer"] = {
+		[1] = 3211,
 	},
-	["Taintbraids"] = {
-		[1] = 12680,
+	["Djkj"] = {
+		[1] = 11761,
 	},
-	["Lonestrider"] = {
-		[1] = 11269,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 37,
+	["Silvermane Stalker"] = {
+		[1] = 1611,
 	},
 	["Shhwoowp"] = {
 		[1] = 5962,
 	},
-	["Paddo"] = {
-		[1] = 9460,
+	["Denladenus"] = {
+		[1] = 11272,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 33,
 	},
-	["Haylea"] = {
-		[1] = 11714,
+	["Thysta"] = {
+		[1] = 11817,
 	},
-	["Tocarius"] = {
-		[1] = 6009,
+	["Fizu"] = {
+		[1] = 7790,
 	},
 	["Friendlyface"] = {
 		[1] = 2717,
 	},
-	["Spinboxer"] = {
-		[1] = 3211,
-	},
-	["Kalothos"] = {
-		[1] = 4166,
-	},
-	["Hathgron"] = {
-		[1] = 7680,
-	},
-	["Nefridyum"] = {
-		[1] = 1508,
+	["Padryyn"] = {
+		[1] = 2277,
 		[2] = "mage",
-		[3] = -1,
-		[8] = 23,
+		[3] = 1,
+		[8] = 60,
+	},
+	["Xetoz"] = {
+		[1] = 752,
+	},
+	["Simowarr"] = {
+		[1] = 406,
+	},
+	["Rezidentevil"] = {
+		[1] = 7478,
 	},
 	["Avemachete"] = {
 		[1] = 3774,
 	},
-	["Buratino"] = {
-		[1] = 5352,
+	["Misoj"] = {
+		[1] = 6818,
 	},
-	["Eskmo"] = {
-		[1] = 6675,
-		[2] = "shaman",
+	["Moonsand"] = {
+		[1] = 9485,
+		[2] = "druid",
 		[3] = -1,
-		[8] = 20,
+		[8] = 42,
 	},
 	["Zanpakoji"] = {
 		[1] = 13185,
@@ -46720,20 +46752,20 @@ DPSMateUser = {
 	["Cresting Exile"] = {
 		[1] = 12072,
 	},
-	["Beyondbeef"] = {
-		[1] = 10342,
+	["Minoriteten"] = {
+		[1] = 11816,
 	},
-	["Jakgup"] = {
-		[1] = 4977,
+	["Valkyrieinin"] = {
+		[1] = 13186,
 	},
-	["Easyhood"] = {
-		[1] = 11887,
+	["Yenrut"] = {
+		[1] = 6015,
 	},
-	["Mymitrol"] = {
-		[1] = 4318,
+	["Stinkbeer"] = {
+		[1] = 12868,
 	},
-	["Igenigen"] = {
-		[1] = 3676,
+	["Siecy"] = {
+		[1] = 10079,
 	},
 	["Yrken"] = {
 		[1] = 1924,
@@ -46744,14 +46776,11 @@ DPSMateUser = {
 	["Devotchka"] = {
 		[1] = 621,
 	},
-	["Booty Bay Bruiser"] = {
-		[1] = 10945,
-	},
-	["Griefmeister"] = {
-		[1] = 4467,
-	},
-	["Vekniss Hive Crawler"] = {
-		[1] = 2591,
+	["Styggo"] = {
+		[1] = 11426,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 32,
 	},
 	["Allaprima"] = {
 		[1] = 10662,
@@ -46759,17 +46788,23 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 37,
 	},
+	["Tootiming"] = {
+		[1] = 3734,
+	},
+	["Kentakongo"] = {
+		[1] = 12652,
+	},
 	["Murkgill Forager"] = {
 		[1] = 11779,
 	},
-	["Burning Blade Felsworn"] = {
-		[1] = 12826,
+	["Whissara"] = {
+		[1] = 2849,
 	},
-	["Necromantic"] = {
-		[1] = 9492,
+	["Jiliuss"] = {
+		[1] = 4235,
 	},
-	["Kolkar Battle Lord"] = {
-		[1] = 12847,
+	["Krakmoth"] = {
+		[1] = 6792,
 	},
 	["Grimple"] = {
 		[1] = 1722,
@@ -46780,8 +46815,8 @@ DPSMateUser = {
 	["Dondrogo"] = {
 		[1] = 12518,
 	},
-	["Syhlas"] = {
-		[1] = 4746,
+	["Zsarkot"] = {
+		[1] = 4991,
 	},
 	["Trialdruid"] = {
 		[1] = 2267,
@@ -46789,50 +46824,47 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Gurthuk"] = {
-		[1] = 6396,
+	["Thundering Boulderkin"] = {
+		[1] = 9728,
 	},
-	["Vharr"] = {
-		[1] = 11246,
+	["Piritoimii"] = {
+		[1] = 10895,
 	},
 	["Filli"] = {
 		[1] = 1190,
 	},
-	["Jackdawn"] = {
-		[1] = 13042,
+	["Knoxfall"] = {
+		[1] = 5240,
 	},
 	["Ulafron"] = {
 		[1] = 9540,
 	},
-	["Tripaloski"] = {
-		[1] = 8077,
+	["Morphzz"] = {
+		[1] = 8951,
 	},
 	["Rileyreid"] = {
 		[1] = 8132,
 	},
-	["Slayermage"] = {
-		[1] = 11182,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 30,
+	["Scarlet Augur"] = {
+		[1] = 10587,
 	},
-	["Imadorable"] = {
-		[1] = 5034,
-		[2] = "mage",
+	["Tristanu"] = {
+		[1] = 6166,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 5,
+		[8] = 15,
 	},
-	["Interrop"] = {
-		[1] = 10545,
+	["Yahonti"] = {
+		[1] = 478,
 	},
-	["Instabilis"] = {
-		[1] = 7852,
+	["Sartura"] = {
+		[1] = 2587,
 	},
-	["Tartog"] = {
-		[1] = 5016,
+	["Kaptenalex"] = {
+		[1] = 6910,
 	},
-	["Thogkrast"] = {
-		[1] = 5685,
+	["Gasjews"] = {
+		[1] = 5301,
 	},
 	["Meallia"] = {
 		[1] = 11349,
@@ -46843,41 +46875,44 @@ DPSMateUser = {
 	["dehsukgo"] = {
 		[1] = 2031,
 	},
-	["Oxsana"] = {
-		[1] = 10401,
+	["Freener"] = {
+		[1] = 11881,
 	},
 	["Chewy"] = {
 		[1] = 551,
 	},
-	["Indoel"] = {
-		[1] = 10406,
+	["Hogger"] = {
+		[1] = 10680,
 	},
 	["Gashnak"] = {
 		[1] = 1902,
 	},
-	["Csontix"] = {
-		[1] = 3231,
+	["Slayzer"] = {
+		[1] = 11220,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 38,
 	},
-	["Dawedaf"] = {
-		[1] = 12,
+	["Turbostreak"] = {
+		[1] = 296,
 	},
 	["Sika"] = {
 		[1] = 2727,
 	},
-	["Lockherup"] = {
-		[1] = 5502,
+	["Odman"] = {
+		[1] = 7588,
 	},
-	["Raath"] = {
-		[1] = 9335,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 34,
+	["Rafert"] = {
+		[1] = 5123,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 19,
 	},
 	["Rahttaht"] = {
 		[1] = 6813,
 	},
-	["Mothafucka"] = {
-		[1] = 8988,
+	["Ornery Plainstrider"] = {
+		[1] = 6003,
 	},
 	["Sarma"] = {
 		[1] = 5244,
@@ -46891,32 +46926,32 @@ DPSMateUser = {
 	["Undeadwarr"] = {
 		[1] = 447,
 	},
-	["Obsidian Eradicator"] = {
-		[1] = 2577,
+	["Marma"] = {
+		[1] = 11445,
 	},
-	["Soulboost"] = {
-		[1] = 12907,
-		[2] = "rogue",
-		[3] = 1,
-		[8] = 34,
+	["Bobbybone"] = {
+		[1] = 13202,
 	},
-	["Rafert"] = {
-		[1] = 5123,
-		[2] = "rogue",
+	["Piglo"] = {
+		[1] = 5138,
+		[2] = "warlock",
 		[3] = -1,
-		[8] = 19,
+		[4] = false,
+		[5] = "Grayap",
+		[7] = "WE",
+		[8] = 8,
 	},
-	["Krilla"] = {
-		[1] = 10887,
+	["Herculeez"] = {
+		[1] = 9805,
 	},
-	["Iso"] = {
-		[1] = 1629,
+	["Exanimo"] = {
+		[1] = 4259,
 	},
 	["Dghdgdg"] = {
 		[1] = 1394,
 	},
-	["Weenny"] = {
-		[1] = 13139,
+	["Keure"] = {
+		[1] = 3255,
 	},
 	["Woshuoyes"] = {
 		[1] = 10706,
@@ -46927,11 +46962,8 @@ DPSMateUser = {
 	["Terzi"] = {
 		[1] = 1387,
 	},
-	["Epix"] = {
-		[1] = 4627,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 4,
+	["Gogger Stonepounder"] = {
+		[1] = 8275,
 	},
 	["Lokees"] = {
 		[1] = 9592,
@@ -46939,11 +46971,14 @@ DPSMateUser = {
 	["Kiberra"] = {
 		[1] = 1800,
 	},
-	["Milo"] = {
-		[1] = 7421,
+	["Tagas"] = {
+		[1] = 4212,
 	},
-	["Keure"] = {
-		[1] = 3255,
+	["Rolfos"] = {
+		[1] = 11115,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Shadowdz"] = {
 		[1] = 5866,
@@ -46951,18 +46986,15 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 5,
 	},
-	["Crimsonrouze"] = {
-		[1] = 11466,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 40,
+	["Shamefully"] = {
+		[1] = 12691,
 	},
 	["Lvx"] = {
 		[1] = 7963,
 	},
-	["Kosturko"] = {
-		[1] = 2229,
-		[2] = "rogue",
+	["Rensi"] = {
+		[1] = 2452,
+		[2] = "shaman",
 		[3] = -1,
 		[8] = 60,
 	},
@@ -46972,32 +47004,32 @@ DPSMateUser = {
 	["Wodouliyouta"] = {
 		[1] = 3900,
 	},
-	["Kavalera"] = {
-		[1] = 11860,
+	["Varga"] = {
+		[1] = 1600,
 	},
 	["Marhot"] = {
 		[1] = 6063,
 	},
-	["Rolfos"] = {
-		[1] = 11115,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 60,
+	["Syncedx"] = {
+		[1] = 9704,
 	},
 	["Daiensha"] = {
 		[1] = 1400,
 	},
-	["Shadezor"] = {
-		[1] = 12676,
+	["Deathyee"] = {
+		[1] = 1315,
 	},
 	["Grassmonkey"] = {
 		[1] = 7502,
 	},
-	["Thrasher"] = {
-		[1] = 7921,
+	["Afrael"] = {
+		[1] = 6842,
 	},
-	["Fusa"] = {
-		[1] = 13170,
+	["Filett"] = {
+		[1] = 1745,
+		[2] = "mage",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Grumdosh"] = {
 		[1] = 9068,
@@ -47008,23 +47040,26 @@ DPSMateUser = {
 	["Mirkfallon Dryad"] = {
 		[1] = 8236,
 	},
-	["Viktorin"] = {
-		[1] = 4617,
+	["Darkfive"] = {
+		[1] = 204,
 	},
-	["Ultramanjack"] = {
-		[1] = 5813,
+	["Dracarys"] = {
+		[1] = 505,
 	},
-	["Searing Totem III"] = {
-		[1] = 10516,
-	},
-	["Sygrid"] = {
-		[1] = 11470,
+	["Heyokay"] = {
+		[1] = 4035,
 		[2] = "warrior",
-		[3] = 1,
-		[8] = 41,
+		[3] = -1,
+		[8] = 38,
 	},
-	["XDDDDDDDDDDD"] = {
-		[1] = 9023,
+	["Thundaga"] = {
+		[1] = 2786,
+	},
+	["Brussell"] = {
+		[1] = 11692,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 37,
 	},
 	["Fistpump"] = {
 		[1] = 441,
@@ -47035,8 +47070,11 @@ DPSMateUser = {
 	["Kro"] = {
 		[1] = 9111,
 	},
-	["Deviate Stinglash"] = {
-		[1] = 7506,
+	["Jeanecolo"] = {
+		[1] = 11370,
+		[2] = "druid",
+		[3] = 1,
+		[8] = 39,
 	},
 	["Lugash"] = {
 		[1] = 9086,
@@ -47050,107 +47088,100 @@ DPSMateUser = {
 	["Ahairymuslim"] = {
 		[1] = 9269,
 	},
-	["Yoka"] = {
-		[1] = 25,
+	["Kcohs"] = {
+		[1] = 1999,
 	},
 	["Firesworn"] = {
 		[1] = 964,
 	},
-	["Grimthyk"] = {
-		[1] = 6302,
+	["Link"] = {
+		[1] = 11618,
 	},
-	["Agolosis"] = {
-		[1] = 7023,
+	["Edwardi"] = {
+		[1] = 13038,
 	},
-	["Feai"] = {
-		[1] = 11907,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 30,
+	["Esdesu"] = {
+		[1] = 11695,
 	},
-	["Daddydrool"] = {
-		[1] = 5095,
+	["Marassiopi"] = {
+		[1] = 804,
 	},
-	["Vandrammon"] = {
-		[1] = 5192,
-		[2] = "warlock",
+	["Pink"] = {
+		[1] = 598,
+	},
+	["Saltstone Basilisk"] = {
+		[1] = 10786,
+	},
+	["Powersaver"] = {
+		[1] = 10536,
+		[2] = "hunter",
 		[3] = -1,
-		[8] = 26,
+		[8] = 31,
 	},
-	["Discop"] = {
-		[1] = 2732,
+	["Interrobang"] = {
+		[1] = 9664,
 	},
-	["Wurstig"] = {
-		[1] = 1059,
-		[2] = "paladin",
-		[3] = 1,
-		[8] = 60,
+	["Soka"] = {
+		[1] = 3837,
 	},
-	["Token"] = {
-		[1] = 6137,
+	["Kissas"] = {
+		[1] = 1256,
 	},
-	["Aeoshi"] = {
-		[1] = 11415,
-	},
-	["Supahtroopah"] = {
-		[1] = 10204,
-	},
-	["Teebao"] = {
-		[1] = 3760,
+	["Zynch"] = {
+		[1] = 3101,
 	},
 	["Terror"] = {
 		[1] = 5498,
 	},
-	["Abernathy"] = {
-		[1] = 7012,
+	["Hysteriacn"] = {
+		[1] = 7922,
 	},
 	["Bowheads"] = {
 		[1] = 4191,
 	},
-	["Menaron"] = {
-		[1] = 7143,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 19,
+	["Frosttitute"] = {
+		[1] = 9261,
 	},
 	["Hikikomori"] = {
 		[1] = 4493,
 	},
-	["Ducalion"] = {
-		[1] = 946,
+	["Rsto"] = {
+		[1] = 10143,
 	},
-	["Brewsko"] = {
-		[1] = 12967,
+	["Montrey"] = {
+		[1] = 2195,
 	},
 	["Braheim"] = {
 		[1] = 8041,
 	},
-	["Jetrel"] = {
-		[1] = 3864,
+	["Piprai"] = {
+		[1] = 3948,
+		[4] = true,
+		[6] = 2965,
 	},
-	["Hysteriacn"] = {
-		[1] = 7922,
-	},
-	["Qqdaren"] = {
-		[1] = 12392,
+	["Dodgeydave"] = {
+		[1] = 10781,
 	},
 	["Faraa"] = {
 		[1] = 2351,
 	},
+	["Juk'grave"] = {
+		[1] = 4987,
+	},
 	["Stanikurvo"] = {
 		[1] = 10108,
 	},
-	["Mahowk"] = {
-		[1] = 11113,
+	["Bjorck"] = {
+		[1] = 10429,
 	},
-	["Taylonn"] = {
-		[1] = 11015,
+	["Theboneless"] = {
+		[1] = 8034,
 	},
 	["Erix"] = {
 		[1] = 4325,
 	},
-	["Throwinbolts"] = {
-		[1] = 838,
+	["Dunzo"] = {
+		[1] = 9666,
 	},
 	["Radayada"] = {
 		[1] = 213,
@@ -47158,58 +47189,54 @@ DPSMateUser = {
 	["Heiseyoumoa"] = {
 		[1] = 4436,
 	},
-	["Euphan"] = {
-		[1] = 4475,
+	["Unas"] = {
+		[1] = 8326,
 	},
-	["Dizqo"] = {
-		[1] = 5020,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 6,
+	["Skinth"] = {
+		[1] = 9607,
 	},
-	["Dems"] = {
-		[1] = 1063,
+	["Amenofus"] = {
+		[1] = 9743,
 	},
-	["Cryx"] = {
-		[1] = 7202,
+	["Eixz"] = {
+		[1] = 8359,
 	},
-	["Uhhokehtuu"] = {
-		[1] = 9431,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 24,
+	["Barbeque"] = {
+		[1] = 1680,
 	},
-	["Danariel"] = {
-		[1] = 2297,
-		[2] = "warlock",
-		[3] = 1,
-		[4] = false,
-		[5] = "",
-		[8] = 60,
+	["Firekeeper"] = {
+		[1] = 2780,
 	},
 	["Deferno"] = {
 		[1] = 4594,
 	},
-	["Observation"] = {
-		[1] = 7207,
+	["Jynnerso"] = {
+		[1] = 7708,
 	},
 	["FutanariNeko"] = {
 		[1] = 110,
 	},
-	["Unas"] = {
-		[1] = 8326,
+	["Rasdfers"] = {
+		[1] = 12298,
+		[2] = "warlock",
+		[3] = 1,
+		[8] = 15,
 	},
-	["Asphyxy"] = {
-		[1] = 6333,
-		[2] = "rogue",
+	["Jeps"] = {
+		[1] = 5903,
+	},
+	["Etoss"] = {
+		[1] = 6863,
+		[2] = "warlock",
 		[3] = -1,
 		[8] = 12,
 	},
-	["Buldren"] = {
-		[1] = 5600,
-	},
-	["Febaz"] = {
-		[1] = 10004,
+	["Enteryx"] = {
+		[1] = 1940,
+		[2] = "warrior",
+		[3] = 1,
+		[4] = false,
+		[8] = 60,
 	},
 	["Labbidu"] = {
 		[1] = 11910,
@@ -47217,8 +47244,8 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 33,
 	},
-	["dog"] = {
-		[1] = 623,
+	["Febaz"] = {
+		[1] = 10004,
 	},
 	["Youcanthide"] = {
 		[1] = 8919,
@@ -47234,40 +47261,43 @@ DPSMateUser = {
 	["Revyl"] = {
 		[1] = 10922,
 	},
-	["Krigareen"] = {
-		[1] = 6432,
+	["Evrron"] = {
+		[1] = 7740,
 	},
-	["Renergy"] = {
-		[1] = 1819,
+	["Slutzlock"] = {
+		[1] = 1948,
 	},
-	["Sicarus"] = {
-		[1] = 7275,
+	["Matoni"] = {
+		[1] = 8454,
 	},
-	["Preyar"] = {
-		[1] = 12046,
+	["Weider"] = {
+		[1] = 11464,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 44,
 	},
 	["Nazax"] = {
 		[1] = 2520,
 	},
-	["Cindory"] = {
-		[1] = 11741,
-	},
-	["Nadeo"] = {
-		[1] = 12583,
-	},
-	["Tabularasa"] = {
-		[1] = 5585,
-	},
-	["Yssgood"] = {
-		[1] = 9734,
-		[2] = "hunter",
+	["Grautper"] = {
+		[1] = 12878,
+		[2] = "rogue",
 		[3] = 1,
 	},
-	["Frogo"] = {
-		[1] = 13238,
+	["David Trias"] = {
+		[1] = 4236,
 	},
-	["Yumaster"] = {
-		[1] = 9267,
+	["Embalming Slime"] = {
+		[1] = 2742,
+	},
+	["Jestas"] = {
+		[1] = 4456,
+	},
+	["Skelna"] = {
+		[1] = 11732,
+	},
+	["Babycomeon"] = {
+		[1] = 10679,
 	},
 	["Halobox"] = {
 		[1] = 4192,
@@ -47281,8 +47311,8 @@ DPSMateUser = {
 	["Undomiel"] = {
 		[1] = 2326,
 	},
-	["Ddvill"] = {
-		[1] = 2032,
+	["Zinkzink"] = {
+		[1] = 7423,
 	},
 	["Gulron"] = {
 		[1] = 10019,
@@ -47290,26 +47320,25 @@ DPSMateUser = {
 	["Cistarobota"] = {
 		[1] = 12021,
 	},
-	["Windom"] = {
-		[1] = 5882,
-		[2] = "druid",
-		[3] = -1,
+	["Markudjicko"] = {
+		[1] = 5387,
+	},
+	["Tocarius"] = {
+		[1] = 6009,
+	},
+	["Gzhukov"] = {
+		[1] = 1434,
+		[2] = "rogue",
+		[3] = 1,
+		[4] = false,
+		[7] = "Oprah Windfury",
 		[8] = 60,
-	},
-	["Finskentwo"] = {
-		[1] = 5825,
-	},
-	["Battlemourne"] = {
-		[1] = 4031,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 5,
 	},
 	["Ashthebest"] = {
 		[1] = 2528,
 	},
-	["Kraxkalle"] = {
-		[1] = 5859,
+	["Dqdomrazz"] = {
+		[1] = 6614,
 	},
 	["Kerzulac"] = {
 		[1] = 9038,
@@ -47320,32 +47349,38 @@ DPSMateUser = {
 	["Urbaines"] = {
 		[1] = 11125,
 	},
-	["Emplics"] = {
-		[1] = 2929,
+	["Finskentwo"] = {
+		[1] = 5825,
 	},
-	["Kaben"] = {
-		[1] = 5828,
+	["Thren"] = {
+		[1] = 2315,
 	},
-	["Fraudle"] = {
-		[1] = 4308,
+	["Daniel Ulfman"] = {
+		[1] = 3566,
 	},
-	["Whirlwind Stormwalker"] = {
-		[1] = 12823,
+	["Jonnsnow"] = {
+		[1] = 7865,
 	},
-	["Sleggefett"] = {
-		[1] = 10894,
+	["Wentylotor"] = {
+		[1] = 6508,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 17,
 	},
-	["Dhashara"] = {
-		[1] = 1655,
+	["Thisismeat"] = {
+		[1] = 5998,
 		[2] = "druid",
-		[3] = 1,
-		[8] = 60,
+		[3] = -1,
+		[8] = 42,
 	},
 	["Veldorath"] = {
 		[1] = 6130,
 	},
-	["Ashenvale Outrunner"] = {
-		[1] = 8383,
+	["Soshaku"] = {
+		[1] = 1474,
+		[2] = "warrior",
+		[3] = 1,
+		[8] = 60,
 	},
 	["Marsoe"] = {
 		[1] = 3715,
@@ -47353,20 +47388,20 @@ DPSMateUser = {
 	["Rabbleravvle"] = {
 		[1] = 719,
 	},
-	["Mckee"] = {
-		[1] = 10899,
+	["Pungent"] = {
+		[1] = 13066,
 	},
-	["Turbosmisk"] = {
-		[1] = 9152,
+	["Arantisimus"] = {
+		[1] = 4425,
 	},
-	["Sway"] = {
-		[1] = 11864,
+	["Gordinay"] = {
+		[1] = 7843,
 	},
-	["Kegadin"] = {
-		[1] = 4289,
+	["Dodson"] = {
+		[1] = 2908,
 	},
-	["Toxinia"] = {
-		[1] = 12532,
+	["Zomboner"] = {
+		[1] = 844,
 	},
 	["Earthquake"] = {
 		[1] = 7789,
@@ -47374,41 +47409,40 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 16,
 	},
-	["Zerstiren"] = {
-		[1] = 529,
+	["Apenkcheech"] = {
+		[1] = 10038,
 	},
 	["Pyto"] = {
 		[1] = 4229,
 	},
-	["Sceram"] = {
-		[1] = 10929,
+	["Ishadye"] = {
+		[1] = 5944,
 	},
-	["Stimulantka"] = {
-		[1] = 1668,
-		[2] = "warrior",
-		[3] = 1,
-		[8] = 60,
+	["Hebebe"] = {
+		[1] = 4337,
 	},
-	["Tscunami"] = {
-		[1] = 451,
+	["Hanyou"] = {
+		[1] = 1862,
 	},
-	["Myrdun"] = {
-		[1] = 5394,
+	["Slitherblade Naga"] = {
+		[1] = 12874,
 	},
-	["Limar"] = {
-		[1] = 10052,
+	["Lenijah"] = {
+		[1] = 12119,
 	},
 	["Jael"] = {
 		[1] = 3055,
 	},
-	["Every"] = {
-		[1] = 5207,
+	["Hordes"] = {
+		[1] = 6060,
 	},
 	["Blackfirexz"] = {
 		[1] = 48,
 	},
-	["Timbawood"] = {
-		[1] = 2053,
+	["Zeptik"] = {
+		[1] = 4647,
+		[4] = true,
+		[6] = 4097,
 	},
 	["Tylic"] = {
 		[1] = 11326,
@@ -47416,32 +47450,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Borboriska"] = {
-		[1] = 6541,
+	["Fankriss the Unyielding"] = {
+		[1] = 2592,
 	},
 	["Funwithfire"] = {
 		[1] = 8480,
 	},
-	["Poisoncloud"] = {
-		[1] = 4123,
+	["Soils"] = {
+		[1] = 5206,
 	},
-	["Qiraji Champion"] = {
-		[1] = 2597,
+	["Citymee"] = {
+		[1] = 13077,
 	},
-	["Foello"] = {
-		[1] = 3855,
+	["Mortecerta"] = {
+		[1] = 9137,
 	},
-	["Felzver"] = {
-		[1] = 6681,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 13,
+	["Taideaika"] = {
+		[1] = 4612,
 	},
 	["Blacksmith Verringtan"] = {
 		[1] = 10163,
 	},
-	["Samuwow"] = {
-		[1] = 11521,
+	["Walarys"] = {
+		[1] = 3024,
 	},
 	["Ikonfuziy"] = {
 		[1] = 11148,
@@ -47462,11 +47493,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 18,
 	},
-	["Belroc"] = {
-		[1] = 9158,
+	["Bathoria"] = {
+		[1] = 6721,
 	},
-	["Snikefaen"] = {
-		[1] = 3693,
+	["Teilc"] = {
+		[1] = 7319,
 	},
 	["Sen"] = {
 		[1] = 11633,
@@ -47486,44 +47517,41 @@ DPSMateUser = {
 	["Undedrouge"] = {
 		[1] = 4023,
 	},
+	["Letrox"] = {
+		[1] = 9949,
+	},
+	["Old Serra'kis"] = {
+		[1] = 9013,
+	},
 	["Exkiller"] = {
 		[1] = 13106,
 	},
-	["Neris"] = {
-		[1] = 607,
+	["Gymteacher"] = {
+		[1] = 1506,
 	},
-	["Sawky"] = {
-		[1] = 9524,
-		[2] = "priest",
+	["Bocy"] = {
+		[1] = 415,
+	},
+	["Kardanik"] = {
+		[1] = 6921,
+	},
+	["Quaggan"] = {
+		[1] = 8927,
+		[2] = "druid",
 		[3] = -1,
-		[8] = 43,
+		[8] = 10,
 	},
-	["Zekn"] = {
-		[1] = 6765,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 12,
-	},
-	["Fontall"] = {
-		[1] = 11020,
-	},
-	["Autismo"] = {
-		[1] = 6850,
-	},
-	["Colbornn"] = {
-		[1] = 11029,
-	},
-	["Aherbooze"] = {
-		[1] = 268,
+	["Pitiles"] = {
+		[1] = 11073,
 		[2] = "warrior",
 		[3] = 1,
-		[8] = 60,
+		[8] = 38,
 	},
 	["Drenax"] = {
 		[1] = 6084,
 	},
-	["Saiber"] = {
-		[1] = 12488,
+	["Muton"] = {
+		[1] = 6902,
 	},
 	["Shrekmatador"] = {
 		[1] = 5026,
@@ -47531,47 +47559,218 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 1,
 	},
-	["Sannia"] = {
-		[1] = 1544,
+	["Norrg"] = {
+		[1] = 2167,
 	},
 	["Murloc Forager"] = {
 		[1] = 8091,
 	},
-	["Calbe"] = {
-		[1] = 3008,
+	["Gurubashi Bat Rider"] = {
+		[1] = 321,
 	},
-	["Pyris"] = {
-		[1] = 11739,
+	["Dwarfzor"] = {
+		[1] = 1685,
 	},
-	["Hulkkerrigan"] = {
-		[1] = 7905,
+	["Nng"] = {
+		[1] = 6336,
 	},
-	["Takamori"] = {
-		[1] = 13191,
+	["Punksnotdead"] = {
+		[1] = 6956,
+		[2] = "priest",
+		[3] = 1,
 	},
-	["Scabeyathrax"] = {
-		[1] = 3133,
+	["Duracislove"] = {
+		[1] = 7123,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 22,
 	},
 	["Serne"] = {
 		[1] = 4392,
 	},
-	["Kardanik"] = {
-		[1] = 6921,
+	["Deathsreturn"] = {
+		[1] = 10522,
 	},
-	["Gotya"] = {
-		[1] = 10687,
+	["Megalomaniac"] = {
+		[1] = 7600,
 	},
 	["Death Talon Wyrmguard"] = {
 		[1] = 1091,
 	},
-	["Wintersolsti"] = {
-		[1] = 6481,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 13,
+	["Monean"] = {
+		[1] = 11509,
 	},
 	["Pichael"] = {
 		[1] = 12938,
+	},
+	["Janvanhalst"] = {
+		[1] = 11387,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 36,
+	},
+	["Imhelladumb"] = {
+		[1] = 6568,
+	},
+	["Loove"] = {
+		[1] = 13302,
+		[2] = "rogue",
+		[3] = 1,
+		[8] = 23,
+	},
+	["Yiluxiangbei"] = {
+		[1] = 10991,
+	},
+	["Mengqi"] = {
+		[1] = 2272,
+	},
+	["Kule"] = {
+		[1] = 10839,
+	},
+	["Mefitis"] = {
+		[1] = 8164,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 20,
+	},
+	["Krautboy"] = {
+		[1] = 2396,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Deathclown"] = {
+		[1] = 10698,
+	},
+	["Shamurai"] = {
+		[1] = 741,
+	},
+	["Induss"] = {
+		[1] = 4879,
+	},
+	["Zestus"] = {
+		[1] = 9647,
+	},
+	["Hysel"] = {
+		[1] = 7194,
+	},
+	["Core Hound"] = {
+		[1] = 957,
+	},
+	["Operaator"] = {
+		[1] = 3699,
+	},
+	["Xarthor"] = {
+		[1] = 12456,
+	},
+	["Lockhead"] = {
+		[1] = 1895,
+	},
+	["Akompli"] = {
+		[1] = 2443,
+	},
+	["Frostyflames"] = {
+		[1] = 12659,
+	},
+	["Stevlins"] = {
+		[1] = 8807,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Visnushka"] = {
+		[1] = 5541,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 12,
+	},
+	["Sosister"] = {
+		[1] = 1796,
+	},
+	["Troque"] = {
+		[1] = 11096,
+	},
+	["Skimmy"] = {
+		[1] = 13140,
+	},
+	["iana"] = {
+		[1] = 1919,
+		[4] = true,
+		[6] = 1914,
+	},
+	["Reckzoning"] = {
+		[1] = 1978,
+	},
+	["Celya"] = {
+		[1] = 642,
+	},
+	["Toxicfunk"] = {
+		[1] = 5058,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[7] = "Immortal Outlaws",
+		[8] = 25,
+	},
+	["Arcear"] = {
+		[1] = 10705,
+	},
+	["Owatanka"] = {
+		[1] = 9168,
+	},
+	["Radii"] = {
+		[1] = 10751,
+	},
+	["Qhte"] = {
+		[1] = 13006,
+	},
+	["Kneetogroin"] = {
+		[1] = 4854,
+	},
+	["Zengshuai"] = {
+		[1] = 12230,
+	},
+	["Vedus"] = {
+		[1] = 9978,
+	},
+	["Fsdfsefewf"] = {
+		[1] = 4227,
+	},
+	["Deedrah"] = {
+		[1] = 8960,
+	},
+	["Syndicate Sentry"] = {
+		[1] = 10611,
+	},
+	["Buickspecial"] = {
+		[1] = 10408,
+	},
+	["Haiznberg"] = {
+		[1] = 12982,
+	},
+	["Windshear Geomancer"] = {
+		[1] = 8159,
+	},
+	["Gharak"] = {
+		[1] = 10284,
+	},
+	["Madrace"] = {
+		[1] = 3463,
+	},
+	["Superpuper"] = {
+		[1] = 6784,
+	},
+	["Fearitup"] = {
+		[1] = 7380,
+	},
+	["Ormgore"] = {
+		[1] = 5194,
+	},
+	["Saka"] = {
+		[1] = 12089,
+		[2] = "hunter",
+		[3] = 1,
+		[8] = 30,
 	},
 	["Thrive"] = {
 		[1] = 5327,
@@ -47581,171 +47780,11 @@ DPSMateUser = {
 		[7] = "Harambe",
 		[8] = 10,
 	},
-	["Imhelladumb"] = {
-		[1] = 6568,
-	},
-	["Azaobei"] = {
-		[1] = 12121,
-	},
-	["Viscidus"] = {
-		[1] = 2595,
-	},
-	["Mengqi"] = {
-		[1] = 2272,
-	},
-	["Humdrum"] = {
-		[1] = 10696,
-	},
-	["Mefitis"] = {
-		[1] = 8164,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 20,
-	},
-	["Breestole"] = {
-		[1] = 3970,
-	},
-	["Deathclown"] = {
-		[1] = 10698,
-	},
-	["Shamurai"] = {
-		[1] = 741,
-	},
-	["Fungeye"] = {
-		[1] = 8535,
-	},
-	["Imperio"] = {
-		[1] = 6033,
-	},
-	["Wiederkehrer"] = {
-		[1] = 10022,
-	},
-	["Krautboy"] = {
-		[1] = 2396,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
-	},
-	["Torrien"] = {
-		[1] = 3364,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 1,
-	},
-	["Faygard"] = {
-		[1] = 13036,
-	},
-	["Core Hound"] = {
-		[1] = 957,
-	},
-	["Akompli"] = {
-		[1] = 2443,
-	},
-	["Giraffe"] = {
-		[1] = 4666,
-	},
-	["Zombieland"] = {
-		[1] = 12700,
-	},
-	["Mumindalen"] = {
-		[1] = 12496,
-		[2] = "mage",
-		[3] = 1,
-		[8] = 35,
-	},
-	["Sosister"] = {
-		[1] = 1796,
-	},
-	["Troque"] = {
-		[1] = 11096,
-	},
-	["Bezdna"] = {
-		[1] = 5766,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 13,
-	},
-	["Zana"] = {
-		[1] = 1750,
-	},
-	["Frostyflames"] = {
-		[1] = 12659,
-	},
-	["Celya"] = {
-		[1] = 642,
-	},
-	["Bullboss"] = {
-		[1] = 7150,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 19,
-	},
-	["Prestjevel"] = {
-		[1] = 783,
-	},
-	["Owatanka"] = {
-		[1] = 9168,
-	},
-	["Lostari"] = {
-		[1] = 12624,
-	},
-	["Datrohan"] = {
-		[1] = 2086,
-	},
-	["Kneetogroin"] = {
-		[1] = 4854,
-	},
-	["Zengshuai"] = {
-		[1] = 12230,
-	},
-	["Luckeybear"] = {
-		[1] = 13001,
-	},
-	["Idemker"] = {
-		[1] = 3104,
+	["Chakotay"] = {
+		[1] = 12906,
 		[2] = "rogue",
-		[3] = -1,
-		[4] = false,
-		[8] = 7,
-	},
-	["Sangra"] = {
-		[1] = 7615,
-	},
-	["Syndicate Sentry"] = {
-		[1] = 10611,
-	},
-	["Buickspecial"] = {
-		[1] = 10408,
-	},
-	["Dommeil"] = {
-		[1] = 13132,
-	},
-	["Windshear Geomancer"] = {
-		[1] = 8159,
-	},
-	["Ezhun"] = {
-		[1] = 6739,
-	},
-	["Dormrac"] = {
-		[1] = 979,
-	},
-	["Dustbelcher Ogre"] = {
-		[1] = 13232,
-	},
-	["Gorzish"] = {
-		[1] = 8290,
-	},
-	["Ormgore"] = {
-		[1] = 5194,
-	},
-	["Caretaker Alaric"] = {
-		[1] = 12510,
-	},
-	["Haiznberg"] = {
-		[1] = 12982,
-	},
-	["Deep Pool Threshfin"] = {
-		[1] = 9010,
+		[3] = 1,
+		[8] = 37,
 	},
 	["Sterohyde"] = {
 		[1] = 8119,
@@ -47753,20 +47792,20 @@ DPSMateUser = {
 	["Waka"] = {
 		[1] = 4250,
 	},
-	["xiuxiu"] = {
-		[1] = 11471,
+	["Tbaws"] = {
+		[1] = 1133,
 	},
-	["Actea"] = {
-		[1] = 11286,
-		[2] = "hunter",
-		[3] = 1,
-		[8] = 17,
+	["Shredz"] = {
+		[1] = 11588,
 	},
-	["Grillwarlock"] = {
-		[1] = 6300,
+	["Sendrake"] = {
+		[1] = 5737,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 10,
 	},
-	["Stephen Bhartec"] = {
-		[1] = 3574,
+	["Qsw"] = {
+		[1] = 12250,
 	},
 	["Colur"] = {
 		[1] = 10332,
@@ -47777,11 +47816,8 @@ DPSMateUser = {
 	["Ironmouse"] = {
 		[1] = 12203,
 	},
-	["Kurtok"] = {
-		[1] = 5849,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 15,
+	["Czaaghun"] = {
+		[1] = 437,
 	},
 	["Atalok"] = {
 		[1] = 4497,
@@ -47789,80 +47825,65 @@ DPSMateUser = {
 	["Shalize"] = {
 		[1] = 1225,
 	},
-	["Drible"] = {
-		[1] = 7061,
-		[2] = "shaman",
+	["Phibb"] = {
+		[1] = 5537,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 19,
+		[8] = 20,
 	},
-	["Helloyaboi"] = {
-		[1] = 837,
+	["Agraviel"] = {
+		[1] = 1785,
 	},
 	["Linhellfront"] = {
 		[1] = 9212,
 	},
-	["Valerdia"] = {
-		[1] = 1864,
+	["Verthm"] = {
+		[1] = 10975,
 	},
-	["Angrybaron"] = {
-		[1] = 5513,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 12,
+	["Grace of Air Totem II"] = {
+		[1] = 1088,
 	},
-	["Choko"] = {
-		[1] = 6893,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 15,
+	["Schmalensee"] = {
+		[1] = 13033,
 	},
 	["Oberstklink"] = {
 		[1] = 7211,
 	},
-	["Ensabano"] = {
-		[1] = 9997,
+	["Thassarian"] = {
+		[1] = 4730,
 	},
-	["Xaxi"] = {
-		[1] = 11869,
+	["Bagistrike"] = {
+		[1] = 3497,
 	},
-	["Cocu"] = {
-		[1] = 1933,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Casaras"] = {
+		[1] = 4037,
 	},
-	["Zynos"] = {
-		[1] = 8985,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 20,
+	["Cow"] = {
+		[1] = 10512,
 	},
-	["Instantdeath"] = {
-		[1] = 2946,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 60,
+	["Bigtonk"] = {
+		[1] = 178,
 	},
 	["Lawinn"] = {
 		[1] = 402,
 	},
-	["Wandwandwand"] = {
-		[1] = 10530,
+	["Tclgamesbr"] = {
+		[1] = 5212,
 	},
-	["Jibbow"] = {
-		[1] = 6229,
+	["Senthella"] = {
+		[1] = 708,
 	},
-	["Pelulkin"] = {
-		[1] = 7236,
+	["Visionz"] = {
+		[1] = 2669,
 	},
 	["Znx"] = {
 		[1] = 2056,
 	},
-	["Sookeer"] = {
-		[1] = 3778,
+	["Huzong"] = {
+		[1] = 9975,
 	},
-	["Mianwo"] = {
-		[1] = 13040,
+	["Babnik"] = {
+		[1] = 11295,
 	},
 	["Mysticalftw"] = {
 		[1] = 3210,
@@ -47870,8 +47891,8 @@ DPSMateUser = {
 	["Karluff"] = {
 		[1] = 4491,
 	},
-	["Death Talon Overseer"] = {
-		[1] = 1090,
+	["Forsaken Dark Stalker"] = {
+		[1] = 8389,
 	},
 	["Healing Ward IV"] = {
 		[1] = 9239,
@@ -47904,14 +47925,11 @@ DPSMateUser = {
 	["Soekie"] = {
 		[1] = 12001,
 	},
-	["Feelsmitchel"] = {
-		[1] = 12833,
-		[2] = "warlock",
-		[3] = 1,
-		[8] = 34,
+	["Carolwheezer"] = {
+		[1] = 11963,
 	},
-	["Undertale"] = {
-		[1] = 4697,
+	["Clainik"] = {
+		[1] = 12674,
 	},
 	["Qqhunter"] = {
 		[1] = 10487,
@@ -47919,8 +47937,8 @@ DPSMateUser = {
 	["Plexx"] = {
 		[1] = 4116,
 	},
-	["Feshi"] = {
-		[1] = 12034,
+	["Timetokill"] = {
+		[1] = 10725,
 	},
 	["Darkeye Bonecaster"] = {
 		[1] = 5176,
@@ -47928,35 +47946,35 @@ DPSMateUser = {
 	["Philoxg"] = {
 		[1] = 6032,
 	},
-	["Xmils"] = {
-		[1] = 2666,
+	["Luchard"] = {
+		[1] = 2256,
 	},
-	["CBblHKA"] = {
-		[1] = 7759,
+	["Sadx"] = {
+		[1] = 12636,
 	},
-	["Tusiak"] = {
-		[1] = 7660,
+	["Pakana"] = {
+		[1] = 12932,
 	},
-	["Magma"] = {
-		[1] = 282,
+	["Dreadless"] = {
+		[1] = 11243,
 	},
-	["Slitherblade Razortail"] = {
-		[1] = 12888,
-	},
-	["Prle"] = {
-		[1] = 9427,
-	},
-	["Liily"] = {
-		[1] = 11039,
-		[2] = "druid",
+	["Dualmatrix"] = {
+		[1] = 4106,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 32,
+		[8] = 5,
 	},
-	["Wolf Master Nandos"] = {
-		[1] = 8634,
+	["Alutard"] = {
+		[1] = 2964,
 	},
-	["Yungjezus"] = {
-		[1] = 246,
+	["Dotstyle"] = {
+		[1] = 10047,
+	},
+	["Pulanda"] = {
+		[1] = 8921,
+	},
+	["Nagiibatar"] = {
+		[1] = 8476,
 	},
 	["Likwidatorek"] = {
 		[1] = 9064,
@@ -47973,68 +47991,71 @@ DPSMateUser = {
 		[3] = 1,
 		[8] = 34,
 	},
-	["Diabloeu"] = {
-		[1] = 11484,
+	["Nagger"] = {
+		[1] = 2675,
 	},
-	["Darlandim"] = {
-		[1] = 10321,
-	},
-	["Rekra"] = {
-		[1] = 13264,
-	},
-	["Elwen"] = {
-		[1] = 1334,
-	},
-	["Alpowell"] = {
-		[1] = 8532,
-	},
-	["Bigpete"] = {
-		[1] = 156,
+	["Prisma"] = {
+		[1] = 2114,
 	},
 	["Dustbelcher Brute"] = {
 		[1] = 13231,
 	},
+	["Elwen"] = {
+		[1] = 1334,
+	},
+	["Pehpow"] = {
+		[1] = 10644,
+	},
+	["Melanom"] = {
+		[1] = 4026,
+	},
+	["Whitecrowacr"] = {
+		[1] = 4247,
+	},
 	["Nawtnawt"] = {
 		[1] = 7358,
 	},
-	["Hggan"] = {
-		[1] = 10784,
+	["Stuffywizard"] = {
+		[1] = 13025,
+	},
+	["Cowthingy"] = {
+		[1] = 6485,
 		[2] = "shaman",
 		[3] = -1,
-		[8] = 34,
+		[8] = 12,
 	},
-	["Severed Keeper"] = {
-		[1] = 9797,
-	},
-	["Nagger"] = {
-		[1] = 2675,
+	["Pelulkin"] = {
+		[1] = 7236,
 	},
 	["Ophaniel"] = {
 		[1] = 6089,
 	},
-	["Vizkid"] = {
-		[1] = 5931,
+	["Kassii"] = {
+		[1] = 11213,
 	},
 	["Madje"] = {
 		[1] = 13315,
 	},
-	["Getezlo"] = {
-		[1] = 10712,
+	["Thamud"] = {
+		[1] = 2645,
 	},
 	["Jarquia"] = {
 		[1] = 13356,
 	},
-	["Dimir"] = {
-		[1] = 2651,
+	["Tuiguiguug"] = {
+		[1] = 2059,
 	},
 	["Linogoth"] = {
 		[1] = 5683,
 	},
-	["Soeazily"] = {
-		[1] = 7630,
+	["Outcider"] = {
+		[1] = 6048,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 24,
 	},
-	["Chopsuey"] = {
-		[1] = 7658,
+	["Kane"] = {
+		[1] = 7446,
 	},
 	["Karin"] = {
 		[1] = 2576,
@@ -48045,60 +48066,56 @@ DPSMateUser = {
 	["Haor"] = {
 		[1] = 6588,
 	},
-	["Yakuzaz"] = {
-		[1] = 8126,
+	["Krattz"] = {
+		[1] = 5778,
 	},
-	["Hustleweight"] = {
-		[1] = 11360,
+	["Morefuz"] = {
+		[1] = 12008,
 	},
-	["Nuggeets"] = {
-		[1] = 8065,
-		[2] = "mage",
-		[3] = -1,
-		[4] = false,
-		[8] = 17,
+	["Dotturd"] = {
+		[1] = 6750,
 	},
-	["Antipater"] = {
-		[1] = 1244,
+	["Maromeg"] = {
+		[1] = 10741,
 	},
-	["Shredz"] = {
-		[1] = 11588,
+	["Thogkrast"] = {
+		[1] = 5685,
 	},
 	["Meatmang"] = {
 		[1] = 10551,
 	},
-	["Ocbjin"] = {
-		[1] = 2486,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Shoxie"] = {
+		[1] = 11798,
 	},
-	["Vmjv"] = {
-		[1] = 3477,
+	["Pizrot"] = {
+		[1] = 3248,
 	},
-	["Bloodraver"] = {
-		[1] = 12772,
+	["Yaonieyige"] = {
+		[1] = 5060,
 	},
-	["Tonkdonk"] = {
-		[1] = 9932,
+	["Ohgan"] = {
+		[1] = 349,
 	},
 	["Peebshotgf"] = {
 		[1] = 1274,
 	},
-	["Motuelious"] = {
-		[1] = 3792,
+	["Wowwhing"] = {
+		[1] = 4006,
 	},
-	["Shinronu"] = {
-		[1] = 3840,
+	["Bubss"] = {
+		[1] = 11765,
 	},
-	["Hindaril"] = {
-		[1] = 4053,
+	["Whiskeylime"] = {
+		[1] = 11187,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 35,
 	},
-	["Paladinlee"] = {
-		[1] = 1972,
+	["Mutanus the Devourer's Naralex"] = {
+		[1] = 7543,
 	},
-	["Icastfear"] = {
-		[1] = 2857,
+	["Wimbo"] = {
+		[1] = 2944,
 	},
 	["Shulu"] = {
 		[1] = 1476,
@@ -48112,39 +48129,41 @@ DPSMateUser = {
 	["Paulhenri"] = {
 		[1] = 12045,
 	},
-	["Boar"] = {
-		[1] = 5,
-		[4] = true,
-		[6] = 506,
+	["Crypt Crawler"] = {
+		[1] = 2148,
 	},
-	["Jasts"] = {
-		[1] = 919,
+	["Otherstory"] = {
+		[1] = 11762,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 38,
 	},
-	["Yanhua"] = {
-		[1] = 7584,
+	["Cooldude"] = {
+		[1] = 7028,
 	},
-	["Shamcheg"] = {
-		[1] = 9435,
+	["Exstro"] = {
+		[1] = 12515,
 	},
-	["Joselucho"] = {
-		[1] = 7483,
+	["Skype"] = {
+		[1] = 3282,
 	},
 	["Zaphara"] = {
 		[1] = 3720,
 	},
-	["Buzzard"] = {
-		[1] = 12411,
+	["Karfagenka"] = {
+		[1] = 8478,
 	},
-	["Taideaika"] = {
-		[1] = 4612,
+	["Zybaster"] = {
+		[1] = 7733,
 	},
 }
 DPSMateAbility = {
-	[""] = {
-		[1] = 706,
+	["Head Crack"] = {
+		[1] = 695,
+		[2] = "Magic",
 	},
-	["Seal of the Crusader"] = {
-		[1] = 128,
+	["Swiftmend"] = {
+		[1] = 555,
 	},
 	["Shadow Word: Pain"] = {
 		[1] = 91,
@@ -48154,22 +48173,21 @@ DPSMateAbility = {
 		[1] = 572,
 		[3] = "holy",
 	},
-	["Backhand"] = {
-		[1] = 859,
+	["Tetanus"] = {
+		[1] = 843,
 	},
 	["Stoneskin"] = {
 		[1] = 770,
 	},
-	["Frostbite"] = {
-		[1] = 493,
-		[2] = "Magic",
+	["Surprise Attack"] = {
+		[1] = 999,
+		[2] = "Rank 1",
 	},
 	["Mithril Shield Spike"] = {
 		[1] = 886,
 	},
-	["Insect Swarm(Periodic)"] = {
-		[1] = 315,
-		[3] = "nature",
+	["Heroic Strike"] = {
+		[1] = 76,
 	},
 	["Melt Armor"] = {
 		[1] = 472,
@@ -48178,8 +48196,8 @@ DPSMateAbility = {
 	["Frost Resistance"] = {
 		[1] = 531,
 	},
-	["Dampen Magic"] = {
-		[1] = 136,
+	["Cannibalize(Periodic)"] = {
+		[1] = 798,
 	},
 	["Sinister Strike"] = {
 		[1] = 167,
@@ -48190,9 +48208,10 @@ DPSMateAbility = {
 	["Frenzied Rage"] = {
 		[1] = 952,
 	},
-	["Holy Smite"] = {
-		[1] = 860,
-		[3] = "holy",
+	["Fireball"] = {
+		[1] = 7,
+		[2] = "Rank 4",
+		[3] = "fire",
 	},
 	["Arcane Intellect"] = {
 		[1] = 101,
@@ -48210,9 +48229,8 @@ DPSMateAbility = {
 		[1] = 1057,
 		[2] = "Rank 5",
 	},
-	["Scorpid Sting"] = {
-		[1] = 523,
-		[2] = "Magic",
+	["Shield Block"] = {
+		[1] = 196,
 	},
 	["Summon Infernals"] = {
 		[1] = 715,
@@ -48260,9 +48278,8 @@ DPSMateAbility = {
 	["Rapid Healing"] = {
 		[1] = 725,
 	},
-	["Demoralizing Roar"] = {
-		[1] = 610,
-		[2] = "Magic",
+	["Spirit"] = {
+		[1] = 132,
 	},
 	["Mark of Nature"] = {
 		[1] = 581,
@@ -48279,11 +48296,12 @@ DPSMateAbility = {
 	["Concussion Blow"] = {
 		[1] = 278,
 	},
-	["Healing Draught"] = {
-		[1] = 678,
+	["Touch of Weakness"] = {
+		[1] = 582,
+		[3] = "shadow",
 	},
-	["Enlarge"] = {
-		[1] = 937,
+	["The Furious Storm"] = {
+		[1] = 192,
 	},
 	["Reflection"] = {
 		[1] = 424,
@@ -48291,8 +48309,8 @@ DPSMateAbility = {
 	["Lucifron"] = {
 		[1] = 449,
 	},
-	["Growing Flames(Periodic)"] = {
-		[1] = 522,
+	["Detonation"] = {
+		[1] = 1007,
 		[3] = "fire",
 	},
 	["Fireball Volley"] = {
@@ -48302,23 +48320,23 @@ DPSMateAbility = {
 	["Improved Concussive Shot"] = {
 		[1] = 648,
 	},
-	["Deep Wound"] = {
-		[1] = 71,
-		[2] = "Rank 2",
+	["Crystal Gaze"] = {
+		[1] = 1013,
+		[2] = "Magic",
 	},
 	["Summon Charger"] = {
 		[1] = 37,
 	},
-	["Blessing of Light"] = {
-		[1] = 125,
+	["Demon Armor"] = {
+		[1] = 9,
 	},
-	["Brood Power: Blue"] = {
-		[1] = 540,
+	["Charge"] = {
+		[1] = 242,
 		[2] = "Magic",
-		[3] = "frost",
 	},
-	["Earthborer Acid"] = {
-		[1] = 834,
+	["Thundercrash"] = {
+		[1] = 408,
+		[3] = "nature",
 	},
 	["Songflower Serenade"] = {
 		[1] = 841,
@@ -48346,8 +48364,8 @@ DPSMateAbility = {
 		[1] = 270,
 		[2] = "Magic",
 	},
-	["Lesser Healing Wave critically"] = {
-		[1] = 989,
+	["Shield Wall"] = {
+		[1] = 178,
 	},
 	["Sundering Cleave"] = {
 		[1] = 398,
@@ -48367,9 +48385,8 @@ DPSMateAbility = {
 		[1] = 416,
 		[3] = "fire",
 	},
-	["Recently Bandaged"] = {
-		[1] = 576,
-		[2] = "Disease",
+	["Fatal Bite"] = {
+		[1] = 868,
 	},
 	["Grace of Air"] = {
 		[1] = 521,
@@ -48386,8 +48403,9 @@ DPSMateAbility = {
 	["Ignite Flesh"] = {
 		[1] = 709,
 	},
-	["The Burrower's Shell"] = {
-		[1] = 565,
+	["Thunderstomp"] = {
+		[1] = 1047,
+		[3] = "nature",
 	},
 	["Prayer of Fortitude"] = {
 		[1] = 131,
@@ -48411,8 +48429,8 @@ DPSMateAbility = {
 		[1] = 1001,
 		[3] = "nature",
 	},
-	["Whirling Barrage"] = {
-		[1] = 969,
+	["Lesser Healing Wave"] = {
+		[1] = 106,
 	},
 	["Health Funnel"] = {
 		[1] = 787,
@@ -48430,15 +48448,15 @@ DPSMateAbility = {
 		[1] = 672,
 		[3] = "holy",
 	},
-	["Freezing Trap Effect"] = {
-		[1] = 248,
-		[2] = "Magic",
+	["Purify"] = {
+		[1] = 1000,
 	},
-	["Flesh Rot(Periodic)"] = {
-		[1] = 774,
+	["Blessing of Sacrifice"] = {
+		[1] = 609,
+		[3] = "frost",
 	},
-	["Greater Healthstone"] = {
-		[1] = 707,
+	["Seduction"] = {
+		[1] = 504,
 	},
 	["Elemental Devastation"] = {
 		[1] = 720,
@@ -48461,9 +48479,8 @@ DPSMateAbility = {
 	["Head Rush"] = {
 		[1] = 567,
 	},
-	["Ancient Dread"] = {
-		[1] = 468,
-		[2] = "Magic",
+	["Elixir of the Giants"] = {
+		[1] = 856,
 	},
 	["Bellowing Roar"] = {
 		[1] = 223,
@@ -48473,15 +48490,14 @@ DPSMateAbility = {
 		[1] = 500,
 		[3] = "fire",
 	},
-	["Commanding Shout"] = {
-		[1] = 518,
+	["Armor"] = {
+		[1] = 110,
 	},
 	["Amplify Curse"] = {
 		[1] = 571,
 	},
-	["Vampiric Embrace"] = {
-		[1] = 90,
-		[2] = "Curse",
+	["Frost Armor"] = {
+		[1] = 135,
 	},
 	["Lash"] = {
 		[1] = 831,
@@ -48490,12 +48506,13 @@ DPSMateAbility = {
 	["Judgement of Light"] = {
 		[1] = 593,
 	},
-	["Tendon Rip"] = {
-		[1] = 872,
-		[2] = "Rank 5",
+	["Entangle"] = {
+		[1] = 739,
+		[2] = "Magic",
 	},
-	["Concentration Aura"] = {
-		[1] = 99,
+	["Grasping Vines"] = {
+		[1] = 879,
+		[2] = "Magic",
 	},
 	["Dash"] = {
 		[1] = 364,
@@ -48503,31 +48520,30 @@ DPSMateAbility = {
 	["Anti-Magic Shield"] = {
 		[1] = 264,
 	},
-	["Diseased Slime"] = {
-		[1] = 911,
-		[2] = "Disease",
+	["Bash"] = {
+		[1] = 589,
+		[2] = "Magic",
 	},
 	["Soul Burn(Periodic)"] = {
 		[1] = 444,
 		[3] = "fire",
 	},
-	["Holy Strength"] = {
-		[1] = 231,
+	["Corrosive Acid(Periodic)"] = {
+		[1] = 535,
+		[3] = "nature",
 	},
 	["Bloodrage"] = {
 		[1] = 72,
 	},
-	["Brood Power: Bronze"] = {
-		[1] = 713,
-		[2] = "Magic",
-		[3] = "arcane",
+	["Mend Pet"] = {
+		[1] = 126,
 	},
 	["Muscle Tear"] = {
 		[1] = 816,
 	},
-	["Flame Spike(Periodic)"] = {
-		[1] = 1004,
-		[3] = "fire",
+	["Curse of Exhaustion"] = {
+		[1] = 677,
+		[2] = "Curse",
 	},
 	["Noxious Catalyst"] = {
 		[1] = 813,
@@ -48551,20 +48567,21 @@ DPSMateAbility = {
 		[2] = "Poison",
 		[3] = "nature",
 	},
-	["Noggenfogger Elixir"] = {
-		[1] = 34,
+	["Slumber"] = {
+		[1] = 873,
 	},
 	["Consecration"] = {
 		[1] = 494,
 	},
-	["The Green Tower"] = {
-		[1] = 1056,
+	["Berserker Stance"] = {
+		[1] = 41,
 	},
 	["Arugal's Curse"] = {
 		[1] = 930,
 	},
-	["Far Sight"] = {
-		[1] = 682,
+	["Fear"] = {
+		[1] = 357,
+		[2] = "Magic",
 	},
 	["Howl of Terror"] = {
 		[1] = 399,
@@ -48586,9 +48603,8 @@ DPSMateAbility = {
 		[1] = 359,
 		[3] = "shadow",
 	},
-	["Rupture"] = {
-		[1] = 375,
-		[2] = "Poison",
+	["Brood Affliction: Blue"] = {
+		[1] = 533,
 	},
 	["Stormstrike"] = {
 		[1] = 168,
@@ -48641,8 +48657,8 @@ DPSMateAbility = {
 		[1] = 948,
 		[3] = "nature",
 	},
-	["Track Undead"] = {
-		[1] = 912,
+	["Expose Armor"] = {
+		[1] = 517,
 	},
 	["Whipper Root Tuber"] = {
 		[1] = 1041,
@@ -48674,12 +48690,11 @@ DPSMateAbility = {
 	["Renew"] = {
 		[1] = 13,
 	},
-	["Eyes of the Beast"] = {
-		[1] = 838,
+	["Ephemeral Power"] = {
+		[1] = 431,
 	},
-	["Brood Affliction: Red(Periodic)"] = {
-		[1] = 537,
-		[3] = "fire",
+	["Shadow Ward"] = {
+		[1] = 327,
 	},
 	["Torment"] = {
 		[1] = 573,
@@ -48703,8 +48718,8 @@ DPSMateAbility = {
 	["Tiger's Fury"] = {
 		[1] = 597,
 	},
-	["Drain Soul"] = {
-		[1] = 753,
+	["Shadow Resistance Aura"] = {
+		[1] = 149,
 	},
 	["Strength of Earth"] = {
 		[1] = 401,
@@ -48747,9 +48762,8 @@ DPSMateAbility = {
 		[1] = 584,
 		[2] = "Magic",
 	},
-	["Intercept Stun"] = {
-		[1] = 297,
-		[2] = "Curse",
+	["Threatening Growl"] = {
+		[1] = 958,
 	},
 	["Blessing of the Black Book"] = {
 		[1] = 61,
@@ -48810,9 +48824,8 @@ DPSMateAbility = {
 		[1] = 874,
 		[2] = "Poison",
 	},
-	["Solid Dynamite"] = {
-		[1] = 1011,
-		[3] = "fire",
+	["Track Elementals"] = {
+		[1] = 1045,
 	},
 	["Silverwing Flag"] = {
 		[1] = 625,
@@ -48870,9 +48883,8 @@ DPSMateAbility = {
 	["Stormcaller's Wrath"] = {
 		[1] = 603,
 	},
-	["Bomb"] = {
-		[1] = 506,
-		[3] = "fire",
+	["Bonespike"] = {
+		[1] = 638,
 	},
 	["Gnomish Rocket Boots"] = {
 		[1] = 660,
@@ -48932,9 +48944,9 @@ DPSMateAbility = {
 	["Piercing Shot"] = {
 		[1] = 992,
 	},
-	["Conflagrate"] = {
-		[1] = 501,
-		[3] = "fire",
+	["Arcane Shot"] = {
+		[1] = 26,
+		[3] = "arcane",
 	},
 	["Track Beasts"] = {
 		[1] = 824,
@@ -48950,11 +48962,13 @@ DPSMateAbility = {
 	["Purity"] = {
 		[1] = 973,
 	},
-	["Chains of Ice"] = {
-		[1] = 614,
+	["Hellfire(Periodic)"] = {
+		[1] = 218,
+		[3] = "fire",
 	},
-	["Consume Flesh"] = {
-		[1] = 1002,
+	["Acid Volley"] = {
+		[1] = 771,
+		[2] = "Magic",
 	},
 	["Glimpse of Madness"] = {
 		[1] = 674,
@@ -48966,9 +48980,9 @@ DPSMateAbility = {
 	["Distract"] = {
 		[1] = 953,
 	},
-	["Magma Spit"] = {
-		[1] = 453,
-		[3] = "fire",
+	["Mind-numbing Poison"] = {
+		[1] = 1018,
+		[2] = "Poison",
 	},
 	["Mind Control"] = {
 		[1] = 776,
@@ -49015,11 +49029,13 @@ DPSMateAbility = {
 		[1] = 1015,
 		[3] = "fire",
 	},
-	["Fear Ward"] = {
-		[1] = 350,
+	["Chain Lightning"] = {
+		[1] = 38,
+		[3] = "nature",
 	},
-	["Defensive Stance"] = {
-		[1] = 93,
+	["Flame Spike"] = {
+		[1] = 1003,
+		[3] = "fire",
 	},
 	["Infected Bite(Periodic)"] = {
 		[1] = 249,
@@ -49069,8 +49085,8 @@ DPSMateAbility = {
 		[1] = 752,
 		[3] = "nature",
 	},
-	["Consume Shadows"] = {
-		[1] = 631,
+	["First Aid(Periodic)"] = {
+		[1] = 809,
 	},
 	["Goblin Rocket Boots"] = {
 		[1] = 386,
@@ -49078,8 +49094,8 @@ DPSMateAbility = {
 	["Tranquility"] = {
 		[1] = 348,
 	},
-	["Netherwind Focus"] = {
-		[1] = 779,
+	["Agamaggan's Strength"] = {
+		[1] = 849,
 	},
 	["Flame Lash"] = {
 		[1] = 173,
@@ -49096,9 +49112,8 @@ DPSMateAbility = {
 		[1] = 598,
 		[2] = "Magic",
 	},
-	["Holy Fire"] = {
-		[1] = 272,
-		[3] = "holy",
+	["Trample"] = {
+		[1] = 395,
 	},
 	["Drain Soul(Periodic)"] = {
 		[1] = 754,
@@ -49116,8 +49131,8 @@ DPSMateAbility = {
 		[2] = "Magic",
 		[3] = "nature",
 	},
-	["Retaliation"] = {
-		[1] = 269,
+	["Curse of Recklessness"] = {
+		[1] = 908,
 	},
 	["Evocation"] = {
 		[1] = 220,
@@ -49129,8 +49144,8 @@ DPSMateAbility = {
 	["Brain Damage"] = {
 		[1] = 982,
 	},
-	["Aimed Shot"] = {
-		[1] = 239,
+	["Windfury Weapon"] = {
+		[1] = 429,
 	},
 	["Inferno"] = {
 		[1] = 482,
@@ -49170,8 +49185,8 @@ DPSMateAbility = {
 		[1] = 541,
 		[3] = "shadow",
 	},
-	["Unending Breath"] = {
-		[1] = 313,
+	["Scorpid Poison"] = {
+		[1] = 512,
 	},
 	["Inferno Effect"] = {
 		[1] = 789,
@@ -49187,10 +49202,9 @@ DPSMateAbility = {
 	["Cripple"] = {
 		[1] = 700,
 	},
-	["Frostbolt Volley"] = {
-		[1] = 951,
-		[2] = "Magic",
-		[3] = "frost",
+	["Throw Dynamite"] = {
+		[1] = 900,
+		[3] = "fire",
 	},
 	["Death Coil"] = {
 		[1] = 50,
@@ -49209,9 +49223,9 @@ DPSMateAbility = {
 	["Summon Felsteed"] = {
 		[1] = 323,
 	},
-	["Demoralizing Shout"] = {
-		[1] = 255,
-		[2] = "Rank 5",
+	["Consecration(Periodic)"] = {
+		[1] = 495,
+		[3] = "holy",
 	},
 	["Ancient Despair"] = {
 		[1] = 460,
@@ -49462,9 +49476,9 @@ DPSMateAbility = {
 		[1] = 497,
 		[3] = "holy",
 	},
-	["Bile Vomit(Periodic)"] = {
-		[1] = 758,
-		[3] = "nature",
+	["Judgement of the Crusader"] = {
+		[1] = 492,
+		[2] = "Magic",
 	},
 	["Berserker Rage"] = {
 		[1] = 77,
@@ -49473,22 +49487,24 @@ DPSMateAbility = {
 		[1] = 496,
 		[2] = "Magic",
 	},
-	["Serpent Form"] = {
-		[1] = 870,
+	["Fiery Weapon"] = {
+		[1] = 986,
+		[3] = "fire",
 	},
 	["Delusions of Jin'do"] = {
 		[1] = 304,
 		[2] = "Curse",
 	},
-	["Strike"] = {
-		[1] = 462,
+	["Poison Charge"] = {
+		[1] = 768,
+		[2] = "Poison",
 	},
 	["Raptor Strike"] = {
 		[1] = 519,
 	},
-	["Piercing Shadow"] = {
-		[1] = 680,
-		[2] = "Curse",
+	["Blind"] = {
+		[1] = 563,
+		[2] = "Poison",
 	},
 	["Track Humanoids"] = {
 		[1] = 346,
@@ -49499,8 +49515,9 @@ DPSMateAbility = {
 	["Flesh Rot"] = {
 		[1] = 773,
 	},
-	["Stealth"] = {
-		[1] = 47,
+	["Noxious Poison"] = {
+		[1] = 736,
+		[2] = "Magic",
 	},
 	["Restore Mana"] = {
 		[1] = 221,
@@ -49512,8 +49529,9 @@ DPSMateAbility = {
 		[1] = 39,
 		[3] = "fire",
 	},
-	["Surge"] = {
-		[1] = 439,
+	["Intimidating Roar"] = {
+		[1] = 235,
+		[2] = "Magic",
 	},
 	["Purge"] = {
 		[1] = 410,
@@ -49554,8 +49572,8 @@ DPSMateAbility = {
 	["Biletoad Infection"] = {
 		[1] = 880,
 	},
-	["Judgement of Justice"] = {
-		[1] = 651,
+	["Furor"] = {
+		[1] = 115,
 	},
 	["Pounce Bleed"] = {
 		[1] = 785,
@@ -49567,12 +49585,14 @@ DPSMateAbility = {
 		[1] = 443,
 		[2] = "Magic",
 	},
-	["Aspect of the Hawk"] = {
-		[1] = 1,
-	},
-	["Serpent Sting"] = {
-		[1] = 261,
+	["Poison"] = {
+		[1] = 268,
 		[2] = "Poison",
+	},
+	["Flame Shock"] = {
+		[1] = 232,
+		[2] = "Magic",
+		[3] = "fire",
 	},
 	["Metamorphosis Rune"] = {
 		[1] = 679,
@@ -49605,8 +49625,8 @@ DPSMateAbility = {
 	["Travel Form"] = {
 		[1] = 105,
 	},
-	["Nature's Swiftness"] = {
-		[1] = 155,
+	["Amplify Magic"] = {
+		[1] = 118,
 	},
 	["Cause Insanity"] = {
 		[1] = 731,
@@ -49649,8 +49669,9 @@ DPSMateAbility = {
 	["Heal"] = {
 		[1] = 81,
 	},
-	["Summon Warhorse"] = {
-		[1] = 393,
+	["Whirling Trip"] = {
+		[1] = 250,
+		[2] = "Magic",
 	},
 	["Shadowmeld"] = {
 		[1] = 369,
@@ -49705,8 +49726,8 @@ DPSMateAbility = {
 	["Minor Healthstone"] = {
 		[1] = 722,
 	},
-	["Renew(Periodic)"] = {
-		[1] = 17,
+	["Drain Mana"] = {
+		[1] = 1039,
 	},
 	["Revenge"] = {
 		[1] = 197,
@@ -49766,23 +49787,23 @@ DPSMateAbility = {
 	["Mend Pet(Periodic)"] = {
 		[1] = 127,
 	},
-	["Sleep"] = {
-		[1] = 871,
-		[2] = "Magic",
+	["Intellect"] = {
+		[1] = 133,
 	},
 	["Corrupted Intellect"] = {
 		[1] = 936,
 	},
-	["Inner Focus"] = {
-		[1] = 322,
+	["Garrote"] = {
+		[1] = 374,
+		[2] = "Rank 5",
 	},
 	["Blizzard(Periodic)"] = {
 		[1] = 253,
 		[3] = "frost",
 	},
-	["Living Bomb"] = {
-		[1] = 480,
-		[2] = "Magic",
+	["Arcane Bolt"] = {
+		[1] = 684,
+		[3] = "arcane",
 	},
 	["Involuntary Transformation"] = {
 		[1] = 543,
@@ -49811,15 +49832,16 @@ DPSMateAbility = {
 	["Garrote(Periodic)"] = {
 		[1] = 376,
 	},
-	["Immolation Trap Effect"] = {
-		[1] = 664,
+	["Polymorph: Pig"] = {
+		[1] = 784,
 	},
 	["Deadly Poison(Periodic)"] = {
 		[1] = 964,
 		[3] = "nature",
 	},
-	["Prowl"] = {
-		[1] = 366,
+	["Instant Poison VI"] = {
+		[1] = 186,
+		[3] = "nature",
 	},
 	["Health Funnel(Periodic)"] = {
 		[1] = 788,
@@ -49834,8 +49856,9 @@ DPSMateAbility = {
 	["Massive Tremor"] = {
 		[1] = 466,
 	},
-	["Growl"] = {
-		[1] = 274,
+	["Shoot"] = {
+		[1] = 226,
+		[3] = "shadow",
 	},
 	["Scarlet Illusion"] = {
 		[1] = 823,
@@ -49848,8 +49871,8 @@ DPSMateAbility = {
 		[1] = 1034,
 		[2] = "Poison",
 	},
-	["Disengage"] = {
-		[1] = 902,
+	["Diamond Flask(Periodic)"] = {
+		[1] = 1066,
 	},
 	["Cone of Fire"] = {
 		[1] = 471,
@@ -49867,8 +49890,9 @@ DPSMateAbility = {
 	["Bottle of Poison"] = {
 		[1] = 508,
 	},
-	["Burst of Energy"] = {
-		[1] = 169,
+	["Shock"] = {
+		[1] = 905,
+		[3] = "nature",
 	},
 	["Feint"] = {
 		[1] = 532,
@@ -49909,9 +49933,10 @@ DPSMateAbility = {
 	["Butcher Drain"] = {
 		[1] = 921,
 	},
-	["Mithril Frag Bomb"] = {
-		[1] = 1027,
-		[3] = "fire",
+	["Shadowburn"] = {
+		[1] = 57,
+		[2] = "Magic",
+		[3] = "shadow",
 	},
 	["Pyroclast Barrage"] = {
 		[1] = 473,
@@ -49933,12 +49958,11 @@ DPSMateAbility = {
 	["Cure Poison"] = {
 		[1] = 898,
 	},
-	["Speed"] = {
-		[1] = 594,
+	["Howling Rage"] = {
+		[1] = 923,
 	},
-	["Slow"] = {
-		[1] = 946,
-		[2] = "Magic",
+	["Healing Wave critically"] = {
+		[1] = 990,
 	},
 	["Crusader's Wrath"] = {
 		[1] = 653,
@@ -49988,8 +50012,9 @@ DPSMateAbility = {
 		[1] = 627,
 		[2] = "Magic",
 	},
-	["Agility"] = {
-		[1] = 328,
+	["Pyroblast"] = {
+		[1] = 407,
+		[3] = "fire",
 	},
 	["Clearcasting"] = {
 		[1] = 10,
@@ -50069,9 +50094,8 @@ DPSMateAbility = {
 		[1] = 240,
 		[3] = "arcane",
 	},
-	["Puncture"] = {
-		[1] = 943,
-		[2] = "Rank 1",
+	["Curse of Thorns"] = {
+		[1] = 1052,
 	},
 	["Divine Protection"] = {
 		[1] = 362,
@@ -50091,9 +50115,8 @@ DPSMateAbility = {
 		[1] = 12,
 		[3] = "shadow",
 	},
-	["Magma Totem"] = {
-		[1] = 212,
-		[3] = "fire",
+	["Ashenvale Outrunner Sneak"] = {
+		[1] = 910,
 	},
 	["Claw"] = {
 		[1] = 507,
@@ -50110,8 +50133,8 @@ DPSMateAbility = {
 		[1] = 777,
 		[3] = "holy",
 	},
-	["Suffering"] = {
-		[1] = 998,
+	["Grounding Totem Effect"] = {
+		[1] = 525,
 	},
 	["Pyroclast Barrage(Periodic)"] = {
 		[1] = 475,
@@ -50128,8 +50151,8 @@ DPSMateAbility = {
 		[1] = 744,
 		[2] = "Magic",
 	},
-	["Rain of Fire"] = {
-		[1] = 463,
+	["Thorns"] = {
+		[1] = 159,
 	},
 	["Encasing Webs"] = {
 		[1] = 693,
@@ -50138,13 +50161,12 @@ DPSMateAbility = {
 	["Ghost Wolf"] = {
 		[1] = 332,
 	},
-	["Earthbind"] = {
-		[1] = 524,
-		[2] = "Magic",
+	["Fade"] = {
+		[1] = 119,
 	},
-	["Venom Spit(Periodic)"] = {
-		[1] = 265,
-		[3] = "nature",
+	["Wavering Will"] = {
+		[1] = 915,
+		[2] = "Magic",
 	},
 	["Touch of Zanzil"] = {
 		[1] = 893,
@@ -50154,9 +50176,8 @@ DPSMateAbility = {
 		[1] = 411,
 		[3] = "nature",
 	},
-	["Dazed"] = {
-		[1] = 216,
-		[2] = "Poison",
+	["Longsight"] = {
+		[1] = 1030,
 	},
 	["Instant Poison III"] = {
 		[1] = 1006,
@@ -50177,12 +50198,12 @@ DPSMateAbility = {
 		[1] = 1014,
 		[3] = "arcane",
 	},
-	["Instant Poison IV"] = {
-		[1] = 1033,
-		[3] = "nature",
+	["Ghost"] = {
+		[1] = 291,
+		[2] = "Poison",
 	},
-	["Blade Flurry"] = {
-		[1] = 435,
+	["Gnomish Death Ray(Periodic)"] = {
+		[1] = 560,
 	},
 	["Winter's Chill"] = {
 		[1] = 18,
@@ -50221,8 +50242,8 @@ DPSMateAbility = {
 		[1] = 418,
 		[2] = "Magic",
 	},
-	["Flip Out"] = {
-		[1] = 957,
+	["Razorhide"] = {
+		[1] = 852,
 	},
 	["Touch of Shadow"] = {
 		[1] = 314,
@@ -50250,8 +50271,8 @@ DPSMateAbility = {
 		[1] = 286,
 		[3] = "nature",
 	},
-	["Banshee Curse"] = {
-		[1] = 703,
+	["Righteous Fury"] = {
+		[1] = 345,
 	},
 	["Bloodfang"] = {
 		[1] = 183,
@@ -50263,8 +50284,9 @@ DPSMateAbility = {
 	["Pounce"] = {
 		[1] = 778,
 	},
-	["Greater Intellect"] = {
-		[1] = 764,
+	["Cadaver Worms(Periodic)"] = {
+		[1] = 687,
+		[3] = "shadow",
 	},
 	["Thrash"] = {
 		[1] = 1049,
@@ -50292,16 +50314,15 @@ DPSMateAbility = {
 	["Stormstout"] = {
 		[1] = 896,
 	},
-	["First Aid"] = {
-		[1] = 807,
+	["Shadow Word: Pain(Periodic)"] = {
+		[1] = 94,
+		[3] = "shadow",
 	},
-	["Intimidation"] = {
-		[1] = 659,
-		[2] = "Rank 5",
+	["Major Healthstone"] = {
+		[1] = 56,
 	},
-	["Magma Splash(Periodic)"] = {
-		[1] = 485,
-		[3] = "fire",
+	["Polymorph: Turtle"] = {
+		[1] = 642,
 	},
 	["Impending Doom"] = {
 		[1] = 448,
@@ -50340,40 +50361,38 @@ DPSMateAbility = {
 	["Demon Skin"] = {
 		[1] = 137,
 	},
-	["Frost Burn"] = {
-		[1] = 538,
-		[3] = "frost",
+	["Scorch"] = {
+		[1] = 35,
+		[3] = "fire",
 	},
-	["Incite Flames"] = {
-		[1] = 476,
-		[2] = "Magic",
+	["Cat Form"] = {
+		[1] = 116,
 	},
-	["Lightning Cloud(Periodic)"] = {
-		[1] = 839,
-		[3] = "nature",
+	["Demoralizing Shout"] = {
+		[1] = 255,
+		[2] = "Rank 5",
 	},
 	["Deep Wound(Periodic)"] = {
 		[1] = 69,
 	},
-	["Gift of Life"] = {
-		[1] = 579,
+	["Fanatic Blade"] = {
+		[1] = 827,
 	},
 	["Holy Strike"] = {
 		[1] = 995,
 		[3] = "holy",
 	},
-	["Siphon Blessing"] = {
-		[1] = 716,
-		[2] = "Magic",
+	["Blood Craze(Periodic)"] = {
+		[1] = 552,
 	},
-	["Gouge"] = {
-		[1] = 176,
+	["Arcane Elixir"] = {
+		[1] = 151,
 	},
 	["Inspiration"] = {
 		[1] = 82,
 	},
-	["Tidal Charm"] = {
-		[1] = 657,
+	["Pick Pocket"] = {
+		[1] = 808,
 	},
 	["Blessing of Salvation"] = {
 		[1] = 190,
@@ -50394,20 +50413,20 @@ DPSMateAbility = {
 	["Fire Resistance Aura"] = {
 		[1] = 124,
 	},
-	["Screech"] = {
-		[1] = 663,
-		[2] = "Magic",
+	["Deadly Poison IV"] = {
+		[1] = 391,
 	},
-	["Fire Ward"] = {
-		[1] = 341,
+	["Forked Lightning"] = {
+		[1] = 947,
+		[3] = "nature",
 	},
 	["Faerie Fire"] = {
 		[1] = 596,
 		[2] = "Magic",
 	},
-	["Throw Dynamite"] = {
-		[1] = 900,
-		[3] = "fire",
+	["Shadowguard"] = {
+		[1] = 978,
+		[3] = "shadow",
 	},
 	["Lucifron's Curse"] = {
 		[1] = 451,
@@ -50419,8 +50438,9 @@ DPSMateAbility = {
 	["Frenzy"] = {
 		[1] = 458,
 	},
-	["Starfire Stun"] = {
-		[1] = 649,
+	["Weakened Soul"] = {
+		[1] = 24,
+		[2] = "Curse",
 	},
 	["Warrior's Wrath"] = {
 		[1] = 202,
@@ -50428,8 +50448,8 @@ DPSMateAbility = {
 	["Mind Vision"] = {
 		[1] = 561,
 	},
-	["Pounce Bleed(Periodic)"] = {
-		[1] = 632,
+	["Brood Affliction: Bronze"] = {
+		[1] = 539,
 	},
 	["Rough Copper Bomb"] = {
 		[1] = 988,
@@ -50437,27 +50457,26 @@ DPSMateAbility = {
 	["Improved Hamstring"] = {
 		[1] = 647,
 	},
-	["Recklessness"] = {
-		[1] = 414,
+	["Shadow Reflector"] = {
+		[1] = 381,
 	},
 	["Knock Away"] = {
 		[1] = 237,
 	},
-	["Deadly Poison IV(Periodic)"] = {
-		[1] = 392,
-		[3] = "nature",
+	["Fire Ward"] = {
+		[1] = 341,
 	},
 	["Curse of the Elements"] = {
 		[1] = 650,
 	},
-	["Flee"] = {
-		[1] = 600,
+	["Aimed Shot"] = {
+		[1] = 239,
 	},
 	["Moonkin Form"] = {
 		[1] = 308,
 	},
-	["Ink Spray"] = {
-		[1] = 1065,
+	["Greater Polymorph"] = {
+		[1] = 529,
 		[2] = "Magic",
 	},
 	["Fel Energy"] = {
@@ -50477,16 +50496,15 @@ DPSMateAbility = {
 	["Fel Domination"] = {
 		[1] = 58,
 	},
-	["Warsong Flag"] = {
-		[1] = 612,
+	["Battle Shout"] = {
+		[1] = 59,
 	},
 	["Fel Stamina(Periodic)"] = {
 		[1] = 325,
 	},
-	["Poison Bolt Volley"] = {
-		[1] = 281,
-		[2] = "Poison",
-		[3] = "nature",
+	["Tail Lash"] = {
+		[1] = 544,
+		[2] = "Magic",
 	},
 	["Frost Blast"] = {
 		[1] = 980,
@@ -50495,28 +50513,29 @@ DPSMateAbility = {
 	["Kick"] = {
 		[1] = 189,
 	},
-	["Toxic Spit"] = {
-		[1] = 876,
-		[3] = "nature",
+	["Flee"] = {
+		[1] = 600,
 	},
-	["Curse of Recklessness"] = {
-		[1] = 908,
+	["Rapid Fire"] = {
+		[1] = 27,
 	},
-	["Aspect of the Monkey"] = {
-		[1] = 549,
+	["Growing Flames"] = {
+		[1] = 520,
+		[2] = "Magic",
 	},
-	["Agamaggan's Agility"] = {
-		[1] = 850,
+	["Netherwind Focus"] = {
+		[1] = 779,
 	},
 	["Holy Light"] = {
 		[1] = 89,
 	},
-	["Sonic Burst"] = {
-		[1] = 259,
-		[2] = "Magic",
+	["Fire Shield Effect II"] = {
+		[1] = 907,
+		[3] = "fire",
 	},
-	["Healing Wave"] = {
-		[1] = 103,
+	["Rain of Fire(Periodic)"] = {
+		[1] = 465,
+		[3] = "fire",
 	},
 	["Blizzard"] = {
 		[1] = 254,
@@ -50541,51 +50560,45 @@ DPSMateAbility = {
 	["Rend(Periodic)"] = {
 		[1] = 78,
 	},
-	["Fanatic Blade"] = {
-		[1] = 827,
+	["Consume Shadows"] = {
+		[1] = 631,
 	},
-	["Vicious Bite"] = {
-		[1] = 939,
+	["Agamaggan's Agility"] = {
+		[1] = 850,
 	},
 	["Devour Magic"] = {
 		[1] = 1026,
 	},
-	["Deadly Poison"] = {
-		[1] = 963,
-		[2] = "Poison",
+	["Restore Energy"] = {
+		[1] = 895,
 	},
-	["Poison Cloud"] = {
-		[1] = 276,
-		[2] = "Poison",
+	["Chains of Ice"] = {
+		[1] = 614,
 	},
-	["Flame Spike"] = {
-		[1] = 1003,
-		[3] = "fire",
+	["Defensive Stance"] = {
+		[1] = 93,
 	},
-	["Frost Resistance Aura"] = {
-		[1] = 330,
+	["Bladestorm"] = {
+		[1] = 1063,
+	},
+	["Perception"] = {
+		[1] = 371,
+	},
+	["Improved Blocking"] = {
+		[1] = 825,
 	},
 	["Forbearance"] = {
 		[1] = 363,
 		[2] = "Rank 1",
 	},
-	["Improved Blocking"] = {
-		[1] = 825,
-	},
-	["Screams of the Past"] = {
-		[1] = 919,
-		[2] = "Magic",
-	},
 	["Frenzy Effect"] = {
 		[1] = 668,
 	},
-	["Disease Cloud"] = {
-		[1] = 690,
-		[3] = "nature",
+	["Battle Fury"] = {
+		[1] = 903,
 	},
-	["Fire Shield Effect II"] = {
-		[1] = 907,
-		[3] = "fire",
+	["Prayer of Healing"] = {
+		[1] = 142,
 	},
 	["Psychic Scream"] = {
 		[1] = 97,
@@ -50594,8 +50607,8 @@ DPSMateAbility = {
 	["Eagle Eye"] = {
 		[1] = 669,
 	},
-	["Rain of Fire(Periodic)"] = {
-		[1] = 465,
+	["Magma Spit"] = {
+		[1] = 453,
 		[3] = "fire",
 	},
 	["Befuddlement"] = {
@@ -50605,70 +50618,68 @@ DPSMateAbility = {
 	["Power Word: Fortitude"] = {
 		[1] = 15,
 	},
-	["Soul Tap"] = {
-		[1] = 699,
-		[2] = "Magic",
-		[3] = "shadow",
+	["Fear Ward"] = {
+		[1] = 350,
 	},
 	["Curse of Mending"] = {
 		[1] = 829,
 		[2] = "Curse",
 	},
-	["Mind-numbing Poison"] = {
-		[1] = 1018,
-		[2] = "Poison",
+	["Uppercut"] = {
+		[1] = 394,
 	},
-	["Whirling Trip"] = {
-		[1] = 250,
-		[2] = "Magic",
+	["Parasitic Serpent"] = {
+		[1] = 275,
 	},
-	["Royal Guard's Knockback"] = {
-		[1] = 732,
+	["Disease Cloud"] = {
+		[1] = 690,
+		[3] = "nature",
 	},
-	["Slowing Poison"] = {
-		[1] = 846,
-		[2] = "Poison",
+	["Shield Slam"] = {
+		[1] = 199,
 	},
-	["Curse of Doom"] = {
-		[1] = 655,
+	["Recklessness"] = {
+		[1] = 414,
 	},
-	["Aspect of the Wild"] = {
-		[1] = 370,
+	["Consume Flesh"] = {
+		[1] = 1002,
 	},
-	["Arcane Brilliance"] = {
-		[1] = 156,
+	["Frost Resistance Aura"] = {
+		[1] = 330,
 	},
 	["Hammer of Wrath"] = {
 		[1] = 564,
 		[3] = "holy",
 	},
-	["Scorpid Poison"] = {
-		[1] = 512,
+	["Greater Invisibility"] = {
+		[1] = 689,
 	},
-	["Elemental Vulnerability"] = {
-		[1] = 658,
+	["Conflagrate"] = {
+		[1] = 501,
+		[3] = "fire",
 	},
 	["Hand of Justice"] = {
 		[1] = 885,
 	},
-	["Polymorph: Turtle"] = {
-		[1] = 642,
+	["Magma Splash(Periodic)"] = {
+		[1] = 485,
+		[3] = "fire",
 	},
 	["Invigorate"] = {
 		[1] = 377,
 	},
-	["Fade"] = {
-		[1] = 119,
+	["Siphon Blessing"] = {
+		[1] = 716,
+		[2] = "Magic",
 	},
 	["Health II"] = {
 		[1] = 1042,
 	},
-	["Head Crack"] = {
-		[1] = 695,
-		[2] = "Magic",
+	[""] = {
+		[1] = 706,
 	},
-	["Swiftmend"] = {
-		[1] = 555,
+	["Seal of the Crusader"] = {
+		[1] = 128,
 	},
 	["Inner Fire"] = {
 		[1] = 31,
@@ -50677,35 +50688,31 @@ DPSMateAbility = {
 		[1] = 296,
 		[2] = "Magic",
 	},
-	["Corrosive Acid Breath"] = {
-		[1] = 643,
-		[2] = "Magic",
-		[3] = "nature",
+	["Kiss of the Spider"] = {
+		[1] = 160,
 	},
 	["Rip"] = {
 		[1] = 932,
 	},
-	["Judgement of the Crusader"] = {
-		[1] = 492,
-		[2] = "Magic",
+	["Bile Vomit(Periodic)"] = {
+		[1] = 758,
+		[3] = "nature",
 	},
-	["Tetanus"] = {
-		[1] = 843,
+	["Backhand"] = {
+		[1] = 859,
 	},
 	["Rumsey Rum"] = {
 		[1] = 1016,
 	},
-	["Drain Life"] = {
-		[1] = 11,
-		[2] = "Magic",
-		[3] = "shadow",
+	["Revenge Stun"] = {
+		[1] = 578,
 	},
 	["Elixir of the Mongoose"] = {
 		[1] = 837,
 	},
-	["Surprise Attack"] = {
-		[1] = 999,
-		[2] = "Rank 1",
+	["Frostbite"] = {
+		[1] = 493,
+		[2] = "Magic",
 	},
 	["Seal of Justice"] = {
 		[1] = 368,
@@ -50713,32 +50720,31 @@ DPSMateAbility = {
 	["Throw"] = {
 		[1] = 241,
 	},
-	["Fiery Weapon"] = {
-		[1] = 986,
-		[3] = "fire",
+	["Serpent Form"] = {
+		[1] = 870,
 	},
-	["Heroic Strike"] = {
-		[1] = 76,
+	["Insect Swarm(Periodic)"] = {
+		[1] = 315,
+		[3] = "nature",
 	},
-	["Poison Charge"] = {
-		[1] = 768,
-		[2] = "Poison",
+	["Strike"] = {
+		[1] = 462,
 	},
-	["Blind"] = {
-		[1] = 563,
-		[2] = "Poison",
+	["Piercing Shadow"] = {
+		[1] = 680,
+		[2] = "Curse",
 	},
 	["Spirit of Zandalar"] = {
 		[1] = 310,
 	},
-	["Diamond Flask(Periodic)"] = {
-		[1] = 1066,
+	["Disengage"] = {
+		[1] = 902,
 	},
-	["Cannibalize(Periodic)"] = {
-		[1] = 798,
+	["Dampen Magic"] = {
+		[1] = 136,
 	},
-	["Rapid Fire"] = {
-		[1] = 27,
+	["Warsong Flag"] = {
+		[1] = 612,
 	},
 	["Maggot Slime"] = {
 		[1] = 195,
@@ -50746,36 +50752,37 @@ DPSMateAbility = {
 	["Armor of Faith"] = {
 		[1] = 562,
 	},
-	["Fire Vulnerability"] = {
-		[1] = 182,
+	["Digestive Acid(Periodic)"] = {
+		[1] = 751,
+		[3] = "nature",
 	},
-	["Lava"] = {
-		[1] = 438,
-		[3] = "fire",
+	["Drain Life"] = {
+		[1] = 11,
+		[2] = "Magic",
+		[3] = "shadow",
 	},
 	["Mortal Strike"] = {
 		[1] = 75,
 		[2] = "Magic",
 	},
-	["Noxious Poison"] = {
-		[1] = 736,
-		[2] = "Magic",
+	["Stealth"] = {
+		[1] = 47,
 	},
 	["Rend Flesh"] = {
 		[1] = 956,
 		[2] = "Curse",
 	},
-	["Fireball"] = {
-		[1] = 7,
-		[2] = "Rank 4",
+	["Holy Smite"] = {
+		[1] = 860,
+		[3] = "holy",
+	},
+	["Immolate"] = {
+		[1] = 326,
+		[2] = "Magic",
 		[3] = "fire",
 	},
-	["Lava Spout Totem"] = {
-		[1] = 975,
-		[3] = "fire",
-	},
-	["Redoubt"] = {
-		[1] = 498,
+	["Elemental Vulnerability"] = {
+		[1] = 658,
 	},
 	["Withering Heat"] = {
 		[1] = 469,
@@ -50784,22 +50791,23 @@ DPSMateAbility = {
 	["Hide"] = {
 		[1] = 1053,
 	},
-	["Localized Toxin(Periodic)"] = {
-		[1] = 875,
-		[3] = "nature",
+	["Flame Shock(Periodic)"] = {
+		[1] = 233,
+		[3] = "fire",
 	},
-	["Intimidating Roar"] = {
-		[1] = 235,
+	["Surge"] = {
+		[1] = 439,
+	},
+	["Scorpid Sting"] = {
+		[1] = 523,
 		[2] = "Magic",
-	},
-	["Shield Block"] = {
-		[1] = 196,
 	},
 	["Flash Heal"] = {
 		[1] = 148,
 	},
-	["Enrage"] = {
-		[1] = 158,
+	["Intimidation"] = {
+		[1] = 659,
+		[2] = "Rank 5",
 	},
 	["Creeping Plague"] = {
 		[1] = 427,
@@ -50816,50 +50824,51 @@ DPSMateAbility = {
 		[1] = 749,
 		[3] = "nature",
 	},
-	["Detect Greater Invisibility"] = {
-		[1] = 309,
+	["First Aid"] = {
+		[1] = 807,
 	},
-	["Forsaken Skills"] = {
-		[1] = 924,
+	["Venom Sting"] = {
+		[1] = 814,
+		[2] = "Poison",
+		[3] = "nature",
 	},
-	["Hellfire(Periodic)"] = {
-		[1] = 218,
-		[3] = "fire",
+	["Instant Poison II"] = {
+		[1] = 901,
+		[3] = "nature",
 	},
 	["Flash of Light"] = {
 		[1] = 62,
 	},
-	["Furor"] = {
-		[1] = 115,
+	["Judgement of Justice"] = {
+		[1] = 651,
 	},
-	["Fire Shot"] = {
-		[1] = 1009,
+	["Arcane Brilliance"] = {
+		[1] = 156,
 	},
-	["Poison"] = {
-		[1] = 268,
+	["Aspect of the Hawk"] = {
+		[1] = 1,
+	},
+	["Serpent Sting"] = {
+		[1] = 261,
 		[2] = "Poison",
 	},
-	["Flame Shock"] = {
-		[1] = 232,
-		[2] = "Magic",
+	["Bomb"] = {
+		[1] = 506,
 		[3] = "fire",
 	},
-	["Immune Charm/Fear/Polymorph"] = {
-		[1] = 1021,
+	["Deterrence"] = {
+		[1] = 546,
 	},
-	["Cure Disease"] = {
-		[1] = 866,
-	},
-	["Spirit"] = {
-		[1] = 132,
+	["Demoralizing Roar"] = {
+		[1] = 610,
+		[2] = "Magic",
 	},
 	["Itch"] = {
 		[1] = 397,
 		[2] = "Magic",
 	},
-	["Attack"] = {
-		[1] = 207,
-		[3] = "fire",
+	["Life Harvest"] = {
+		[1] = 806,
 	},
 	["Torch Toss(Periodic)"] = {
 		[1] = 959,
@@ -50868,19 +50877,17 @@ DPSMateAbility = {
 	["Faded"] = {
 		[1] = 645,
 	},
-	["Shackle Undead"] = {
-		[1] = 1060,
+	["Shadow Power"] = {
+		[1] = 723,
 	},
-	["Ignite Mana"] = {
-		[1] = 479,
-		[2] = "Magic",
-		[3] = "fire",
+	["Damage Absorb"] = {
+		[1] = 1032,
 	},
-	["Cower"] = {
-		[1] = 1024,
+	["Fire Shot"] = {
+		[1] = 1009,
 	},
-	["Mongoose Bite"] = {
-		[1] = 301,
+	["Blessing of Freedom"] = {
+		[1] = 68,
 	},
 	["Dismember"] = {
 		[1] = 425,
@@ -50888,28 +50895,30 @@ DPSMateAbility = {
 	["Battle Stance"] = {
 		[1] = 40,
 	},
-	["Forked Lightning"] = {
-		[1] = 947,
-		[3] = "nature",
+	["Redoubt"] = {
+		[1] = 498,
 	},
 	["Mocking Blow"] = {
 		[1] = 445,
 	},
-	["Flask of the Titans"] = {
-		[1] = 139,
+	["Slow"] = {
+		[1] = 946,
+		[2] = "Magic",
 	},
-	["Ferocious Bite"] = {
-		[1] = 606,
+	["Inner Focus"] = {
+		[1] = 322,
 	},
-	["Prayer of Healing"] = {
-		[1] = 142,
+	["Strength of Stone"] = {
+		[1] = 913,
 	},
-	["Dive"] = {
-		[1] = 985,
+	["Arcane Explosion"] = {
+		[1] = 219,
+		[3] = "arcane",
 	},
-	["Shadowguard"] = {
-		[1] = 978,
-		[3] = "shadow",
+	["Ignite Mana"] = {
+		[1] = 479,
+		[2] = "Magic",
+		[3] = "fire",
 	},
 	["Glyph of Deflection"] = {
 		[1] = 705,
@@ -50919,25 +50928,25 @@ DPSMateAbility = {
 		[2] = "Magic",
 		[3] = "fire",
 	},
-	["Amplify Magic"] = {
-		[1] = 118,
+	["Nature's Swiftness"] = {
+		[1] = 155,
 	},
-	["Trample"] = {
-		[1] = 395,
+	["Screams of the Past"] = {
+		[1] = 919,
+		[2] = "Magic",
 	},
-	["Touch of Weakness"] = {
-		[1] = 582,
-		[3] = "shadow",
+	["Healing Draught"] = {
+		[1] = 678,
 	},
-	["The Furious Storm"] = {
-		[1] = 192,
+	["Enlarge"] = {
+		[1] = 937,
 	},
-	["Fire Shield III"] = {
-		[1] = 1058,
+	["Solid Dynamite"] = {
+		[1] = 1011,
+		[3] = "fire",
 	},
-	["Holy Fire(Periodic)"] = {
-		[1] = 273,
-		[3] = "holy",
+	["Blade Flurry"] = {
+		[1] = 435,
 	},
 	["AutoAttack"] = {
 		[1] = 20,
@@ -50946,53 +50955,53 @@ DPSMateAbility = {
 		[1] = 165,
 		[3] = "nature",
 	},
-	["Shadow Reflector"] = {
-		[1] = 381,
+	["Flask of the Titans"] = {
+		[1] = 139,
 	},
-	["Shield Slam"] = {
-		[1] = 199,
+	["Improved Wing Clip"] = {
+		[1] = 667,
 	},
-	["Detonation"] = {
-		[1] = 1007,
+	["Growing Flames(Periodic)"] = {
+		[1] = 522,
 		[3] = "fire",
 	},
-	["Poison Bolt"] = {
-		[1] = 412,
+	["Ferocious Bite"] = {
+		[1] = 606,
+	},
+	["Deep Wound"] = {
+		[1] = 71,
+		[2] = "Rank 2",
+	},
+	["Instant Poison IV"] = {
+		[1] = 1033,
 		[3] = "nature",
 	},
-	["Crystal Gaze"] = {
-		[1] = 1013,
+	["Summon Warhorse"] = {
+		[1] = 393,
+	},
+	["Blessing of Light"] = {
+		[1] = 125,
+	},
+	["Thorns Aura"] = {
+		[1] = 970,
+	},
+	["Brood Power: Blue"] = {
+		[1] = 540,
 		[2] = "Magic",
+		[3] = "frost",
 	},
-	["Combustion"] = {
-		[1] = 171,
+	["Immolation Trap Effect"] = {
+		[1] = 664,
 	},
-	["Berserking"] = {
-		[1] = 8,
+	["Swim Speed"] = {
+		[1] = 1037,
 	},
-	["Demon Armor"] = {
-		[1] = 9,
+	["Earthborer Acid"] = {
+		[1] = 834,
 	},
-	["Blessing of Protection"] = {
-		[1] = 367,
-	},
-	["Charge"] = {
-		[1] = 242,
-		[2] = "Magic",
-	},
-	["Windfury Weapon"] = {
-		[1] = 429,
-	},
-	["Mortal Wound"] = {
-		[1] = 404,
-	},
-	["Thundercrash"] = {
-		[1] = 408,
-		[3] = "nature",
-	},
-	["Infected Wound"] = {
-		[1] = 719,
-		[2] = "Disease",
+	["Blood Tap"] = {
+		[1] = 918,
+		[3] = "shadow",
 	},
 	["Spell Vulnerability"] = {
 		[1] = 987,
@@ -51004,47 +51013,47 @@ DPSMateAbility = {
 	["Raptor Punch"] = {
 		[1] = 847,
 	},
-	["Chain Bolt"] = {
-		[1] = 972,
+	["Poison Bolt"] = {
+		[1] = 412,
 		[3] = "nature",
 	},
-	["Bite"] = {
-		[1] = 502,
+	["Rupture(Periodic)"] = {
+		[1] = 188,
 	},
-	["Rejuvenation"] = {
-		[1] = 111,
+	["Honorless Target"] = {
+		[1] = 954,
 	},
-	["Sap"] = {
-		[1] = 373,
-		[2] = "Rank 5",
+	["Dazed"] = {
+		[1] = 216,
+		[2] = "Poison",
 	},
-	["Drain Mana"] = {
-		[1] = 1039,
+	["Renew(Periodic)"] = {
+		[1] = 17,
 	},
 	["Immolation"] = {
 		[1] = 791,
 		[3] = "fire",
 	},
-	["Deadly Poison II(Periodic)"] = {
-		[1] = 1035,
+	["Capture Spirit(Periodic)"] = {
+		[1] = 1051,
+		[3] = "shadow",
+	},
+	["Chain Bolt"] = {
+		[1] = 972,
 		[3] = "nature",
 	},
-	["Seal of Righteousness"] = {
-		[1] = 88,
-		[3] = "holy",
+	["Lesser Healing Wave critically"] = {
+		[1] = 989,
 	},
-	["Shield Wall"] = {
-		[1] = 178,
+	["Well Fed"] = {
+		[1] = 765,
 	},
-	["Life Harvest"] = {
-		[1] = 806,
+	["Rain of Fire"] = {
+		[1] = 463,
 	},
-	["Growing Flames"] = {
-		[1] = 520,
-		[2] = "Magic",
-	},
-	["Fatal Bite"] = {
-		[1] = 868,
+	["Recently Bandaged"] = {
+		[1] = 576,
+		[2] = "Disease",
 	},
 	["Frost Nova"] = {
 		[1] = 215,
@@ -51054,112 +51063,116 @@ DPSMateAbility = {
 	["Diving Sweep"] = {
 		[1] = 922,
 	},
-	["Backstab"] = {
-		[1] = 49,
+	["Insect Swarm"] = {
+		[1] = 316,
+		[2] = "Magic",
 	},
-	["Howling Rage"] = {
-		[1] = 923,
+	["Speed"] = {
+		[1] = 594,
 	},
-	["Thunderstomp"] = {
-		[1] = 1047,
-		[3] = "nature",
+	["The Burrower's Shell"] = {
+		[1] = 565,
 	},
-	["Healing Potion critically"] = {
-		[1] = 884,
+	["Spirit of the Wind"] = {
+		[1] = 828,
 	},
-	["Warrior's Resolve"] = {
-		[1] = 70,
+	["Rejuvenation"] = {
+		[1] = 111,
 	},
-	["Intellect"] = {
-		[1] = 133,
+	["Sleep"] = {
+		[1] = 871,
+		[2] = "Magic",
 	},
 	["Conflagration"] = {
 		[1] = 456,
 		[2] = "Magic",
 		[3] = "fire",
 	},
-	["Ashenvale Outrunner Sneak"] = {
-		[1] = 910,
-	},
-	["Garrote"] = {
-		[1] = 374,
+	["Sap"] = {
+		[1] = 373,
 		[2] = "Rank 5",
 	},
-	["Rejuvenation(Periodic)"] = {
-		[1] = 138,
+	["Skullforge Brand"] = {
+		[1] = 601,
 	},
-	["Arcane Bolt"] = {
-		[1] = 684,
-		[3] = "arcane",
+	["Intercept Stun"] = {
+		[1] = 297,
+		[2] = "Curse",
 	},
-	["Lesser Healing Wave"] = {
-		[1] = 106,
+	["Living Bomb"] = {
+		[1] = 480,
+		[2] = "Magic",
+	},
+	["Whirling Barrage"] = {
+		[1] = 969,
+	},
+	["Aspect of the Wild"] = {
+		[1] = 370,
 	},
 	["Essence of the Red"] = {
 		[1] = 79,
 		[2] = "Magic",
 	},
-	["Restore Energy"] = {
-		[1] = 895,
+	["Freezing Trap Effect"] = {
+		[1] = 248,
+		[2] = "Magic",
 	},
-	["Purify"] = {
-		[1] = 1000,
+	["Drain Soul"] = {
+		[1] = 753,
+	},
+	["Flesh Rot(Periodic)"] = {
+		[1] = 774,
 	},
 	["Venom Shot"] = {
 		[1] = 848,
 		[3] = "nature",
 	},
-	["Blessing of Sacrifice"] = {
-		[1] = 609,
-		[3] = "frost",
+	["Greater Healthstone"] = {
+		[1] = 707,
 	},
-	["Polymorph"] = {
-		[1] = 267,
-		[2] = "Magic",
+	["Toxic Volley(Periodic)"] = {
+		[1] = 730,
+		[3] = "nature",
 	},
-	["Seduction"] = {
-		[1] = 504,
-	},
-	["Volley"] = {
-		[1] = 252,
-	},
-	["Detect Invisibility"] = {
-		[1] = 580,
+	["Suffering"] = {
+		[1] = 998,
 	},
 	["Major Spellstone"] = {
 		[1] = 724,
 	},
-	["Polymorph: Pig"] = {
-		[1] = 784,
+	["Chain Heal"] = {
+		[1] = 193,
 	},
-	["Swim Speed"] = {
-		[1] = 1037,
+	["Nature's Grasp"] = {
+		[1] = 489,
 	},
-	["Ephemeral Power"] = {
-		[1] = 431,
+	["Brood Affliction: Red(Periodic)"] = {
+		[1] = 537,
+		[3] = "fire",
 	},
-	["Focused Casting"] = {
-		[1] = 568,
+	["Rogue Armor Energize"] = {
+		[1] = 185,
 	},
 	["Blessing of Blackfathom"] = {
 		[1] = 227,
 	},
-	["Instant Poison VI"] = {
-		[1] = 186,
-		[3] = "nature",
+	["Prowl"] = {
+		[1] = 366,
 	},
-	["Winterfall Firewater"] = {
-		[1] = 390,
+	["Frostbolt Volley"] = {
+		[1] = 951,
+		[2] = "Magic",
+		[3] = "frost",
 	},
-	["Greater Invisibility"] = {
-		[1] = 689,
+	["Blood Pact"] = {
+		[1] = 86,
 	},
-	["Shoot"] = {
-		[1] = 226,
-		[3] = "shadow",
+	["Growl"] = {
+		[1] = 274,
 	},
-	["Elixir of the Giants"] = {
-		[1] = 856,
+	["Ancient Dread"] = {
+		[1] = 468,
+		[2] = "Magic",
 	},
 	["Cone of Cold"] = {
 		[1] = 184,
@@ -51172,33 +51185,32 @@ DPSMateAbility = {
 	["Taunt"] = {
 		[1] = 214,
 	},
-	["Armor"] = {
-		[1] = 110,
+	["Commanding Shout"] = {
+		[1] = 518,
 	},
-	["Holy Shield"] = {
-		[1] = 365,
+	["Divine Spirit"] = {
+		[1] = 30,
 	},
-	["Frost Armor"] = {
-		[1] = 135,
+	["Vampiric Embrace"] = {
+		[1] = 90,
+		[2] = "Curse",
 	},
 	["Holy Nova"] = {
 		[1] = 505,
 		[3] = "holy",
 	},
-	["Entangle"] = {
-		[1] = 739,
-		[2] = "Magic",
+	["Tendon Rip"] = {
+		[1] = 872,
+		[2] = "Rank 5",
 	},
-	["Grasping Vines"] = {
-		[1] = 879,
-		[2] = "Magic",
+	["Concentration Aura"] = {
+		[1] = 99,
 	},
-	["Tranquil Air"] = {
-		[1] = 526,
+	["Track Undead"] = {
+		[1] = 912,
 	},
-	["Shock"] = {
-		[1] = 905,
-		[3] = "nature",
+	["Burst of Energy"] = {
+		[1] = 169,
 	},
 	["Venom Spit"] = {
 		[1] = 262,
@@ -51215,37 +51227,38 @@ DPSMateAbility = {
 	["Seal of Light"] = {
 		[1] = 331,
 	},
-	["Bash"] = {
-		[1] = 589,
-		[2] = "Magic",
+	["Diseased Slime"] = {
+		[1] = 911,
+		[2] = "Disease",
 	},
 	["Lightning Cloud"] = {
 		[1] = 833,
 		[3] = "nature",
 	},
-	["Curse of Thorns"] = {
-		[1] = 1052,
+	["Puncture"] = {
+		[1] = 943,
+		[2] = "Rank 1",
 	},
 	["Ice Barrier"] = {
 		[1] = 102,
 	},
-	["Ground Stomp"] = {
-		[1] = 483,
+	["Evasion"] = {
+		[1] = 64,
+	},
+	["Holy Strength"] = {
+		[1] = 231,
+	},
+	["Brood Power: Bronze"] = {
+		[1] = 713,
 		[2] = "Magic",
+		[3] = "arcane",
 	},
-	["Corrosive Acid(Periodic)"] = {
-		[1] = 535,
-		[3] = "nature",
+	["Blessed Recovery(Periodic)"] = {
+		[1] = 321,
 	},
-	["Mend Pet"] = {
-		[1] = 126,
-	},
-	["Fire Nova"] = {
-		[1] = 198,
+	["Flametongue Attack"] = {
+		[1] = 194,
 		[3] = "fire",
-	},
-	["Grounding Totem Effect"] = {
-		[1] = 525,
 	},
 	["Thunderfury"] = {
 		[1] = 575,
@@ -51262,70 +51275,64 @@ DPSMateAbility = {
 		[1] = 509,
 		[3] = "nature",
 	},
-	["Scald"] = {
-		[1] = 962,
-		[2] = "Magic",
-		[3] = "fire",
+	["Sruufum"] = {
+		[1] = 616,
 	},
-	["Judgement of Wisdom"] = {
-		[1] = 681,
+	["Rupture"] = {
+		[1] = 375,
+		[2] = "Poison",
 	},
 	["Terrify"] = {
 		[1] = 878,
 		[2] = "Magic",
 	},
-	["Slime"] = {
-		[1] = 761,
-		[2] = "Magic",
+	["Agility"] = {
+		[1] = 328,
 	},
-	["Sap Might"] = {
-		[1] = 906,
-		[2] = "Magic",
+	["Banshee Curse"] = {
+		[1] = 703,
 	},
-	["Nimble Reflexes"] = {
-		[1] = 803,
+	["Far Sight"] = {
+		[1] = 682,
 	},
 	["Divine Shield"] = {
 		[1] = 388,
 	},
-	["Curse of Exhaustion"] = {
-		[1] = 677,
-		[2] = "Curse",
+	["Flame Spike(Periodic)"] = {
+		[1] = 1004,
+		[3] = "fire",
 	},
-	["Chromatic Resistance"] = {
-		[1] = 554,
+	["Power Infusion"] = {
+		[1] = 782,
 	},
-	["Blessed Recovery(Periodic)"] = {
-		[1] = 321,
+	["Cleave"] = {
+		[1] = 201,
 	},
 	["Auto Shot"] = {
 		[1] = 19,
 	},
-	["Wavering Will"] = {
-		[1] = 915,
-		[2] = "Magic",
+	["Venom Spit(Periodic)"] = {
+		[1] = 265,
+		[3] = "nature",
 	},
 	["Repentance"] = {
 		[1] = 558,
 	},
-	["Sruufum"] = {
-		[1] = 616,
+	["Judgement of Wisdom"] = {
+		[1] = 681,
 	},
-	["Shadowburn"] = {
-		[1] = 57,
-		[2] = "Magic",
-		[3] = "shadow",
+	["Mithril Frag Bomb"] = {
+		[1] = 1027,
+		[3] = "fire",
 	},
-	["Haunting Spirits"] = {
-		[1] = 917,
-		[2] = "Curse",
+	["The Green Tower"] = {
+		[1] = 1056,
 	},
-	["Terrifying Howl"] = {
-		[1] = 698,
-		[2] = "Curse",
+	["Enveloping Webs"] = {
+		[1] = 285,
 	},
-	["Razorhide"] = {
-		[1] = 852,
+	["Flip Out"] = {
+		[1] = 957,
 	},
 	["Maul"] = {
 		[1] = 607,
@@ -51337,12 +51344,11 @@ DPSMateAbility = {
 		[1] = 712,
 		[3] = "fire",
 	},
-	["Corrosive Acid"] = {
-		[1] = 534,
-		[2] = "Magic",
+	["Power Word: Shield"] = {
+		[1] = 33,
 	},
-	["Fist of Ragnaros"] = {
-		[1] = 461,
+	["Noggenfogger Elixir"] = {
+		[1] = 34,
 	},
 	["Siphon Life"] = {
 		[1] = 16,
@@ -51375,11 +51381,12 @@ DPSMateAbility = {
 		[1] = 721,
 		[3] = "nature",
 	},
-	["Slumber"] = {
-		[1] = 873,
+	["Fist of Ragnaros"] = {
+		[1] = 461,
 	},
-	["Power Word: Shield"] = {
-		[1] = 33,
+	["Corrosive Acid"] = {
+		[1] = 534,
+		[2] = "Magic",
 	},
 	["Head Butt"] = {
 		[1] = 1012,
@@ -51388,11 +51395,13 @@ DPSMateAbility = {
 	["Stealth Detection"] = {
 		[1] = 490,
 	},
-	["Enveloping Webs"] = {
-		[1] = 285,
+	["Terrifying Howl"] = {
+		[1] = 698,
+		[2] = "Curse",
 	},
-	["Berserker Stance"] = {
-		[1] = 41,
+	["Haunting Spirits"] = {
+		[1] = 917,
+		[2] = "Curse",
 	},
 	["Frost Breath"] = {
 		[1] = 1010,
@@ -51402,22 +51411,24 @@ DPSMateAbility = {
 		[1] = 44,
 		[2] = "Magic",
 	},
-	["Evasion"] = {
-		[1] = 64,
+	["Chromatic Resistance"] = {
+		[1] = 554,
 	},
-	["Fear"] = {
-		[1] = 357,
+	["Nimble Reflexes"] = {
+		[1] = 803,
+	},
+	["Sap Might"] = {
+		[1] = 906,
 		[2] = "Magic",
 	},
-	["Righteous Fury"] = {
-		[1] = 345,
+	["Slime"] = {
+		[1] = 761,
+		[2] = "Magic",
 	},
-	["Pyroblast"] = {
-		[1] = 407,
+	["Scald"] = {
+		[1] = 962,
+		[2] = "Magic",
 		[3] = "fire",
-	},
-	["Brood Affliction: Blue"] = {
-		[1] = 533,
 	},
 	["Riposte"] = {
 		[1] = 845,
@@ -51429,68 +51440,68 @@ DPSMateAbility = {
 	["Greater Blessing of Might"] = {
 		[1] = 43,
 	},
-	["Cleave"] = {
-		[1] = 201,
+	["Fire Nova"] = {
+		[1] = 198,
+		[3] = "fire",
 	},
-	["Expose Armor"] = {
-		[1] = 517,
+	["Lightning Cloud(Periodic)"] = {
+		[1] = 839,
+		[3] = "nature",
 	},
 	["Tail Sweep"] = {
 		[1] = 209,
 	},
-	["Power Infusion"] = {
-		[1] = 782,
+	["Tranquil Air"] = {
+		[1] = 526,
 	},
 	["Cursed Blade"] = {
 		[1] = 914,
 	},
-	["Flametongue Attack"] = {
-		[1] = 194,
-		[3] = "fire",
+	["Winterfall Firewater"] = {
+		[1] = 390,
 	},
-	["Honorless Target"] = {
-		[1] = 954,
+	["Holy Shield"] = {
+		[1] = 365,
 	},
 	["Counterspell - Silenced"] = {
 		[1] = 586,
 	},
-	["Rogue Armor Energize"] = {
-		[1] = 185,
-	},
-	["Blood Tap"] = {
-		[1] = 918,
-		[3] = "shadow",
+	["Focused Casting"] = {
+		[1] = 568,
 	},
 	["Soul Link"] = {
 		[1] = 4,
 		[3] = "nature",
 	},
-	["Toxic Volley(Periodic)"] = {
-		[1] = 730,
-		[3] = "nature",
+	["Seal of Righteousness"] = {
+		[1] = 88,
+		[3] = "holy",
 	},
-	["Shadow Ward"] = {
-		[1] = 327,
+	["Volley"] = {
+		[1] = 252,
+	},
+	["Detect Invisibility"] = {
+		[1] = 580,
 	},
 	["Strength of Ossirian"] = {
 		[1] = 421,
 	},
-	["Shadow Resistance Aura"] = {
-		[1] = 149,
+	["Polymorph"] = {
+		[1] = 267,
+		[2] = "Magic",
 	},
 	["Aspect of the Beast"] = {
 		[1] = 795,
 	},
-	["Corrosive Acid Breath(Periodic)"] = {
-		[1] = 644,
-		[3] = "nature",
+	["Rejuvenation(Periodic)"] = {
+		[1] = 138,
 	},
-	["Flamestrike(Periodic)"] = {
-		[1] = 295,
-		[3] = "fire",
+	["Dive"] = {
+		[1] = 985,
 	},
-	["Threatening Growl"] = {
-		[1] = 958,
+	["Incite Flames"] = {
+		[1] = 476,
+		[2] = "Magic",
 	},
 	["Swift Timber Wolf"] = {
 		[1] = 550,
@@ -51498,15 +51509,15 @@ DPSMateAbility = {
 	["Blessing of Might"] = {
 		[1] = 67,
 	},
-	["Capture Spirit(Periodic)"] = {
-		[1] = 1051,
-		[3] = "shadow",
+	["Corrosive Acid Breath(Periodic)"] = {
+		[1] = 644,
+		[3] = "nature",
 	},
 	["Relentless Strikes Effect"] = {
 		[1] = 52,
 	},
-	["Spirit of the Wind"] = {
-		[1] = 828,
+	["Healing Potion critically"] = {
+		[1] = 884,
 	},
 	["Lesser Healthstone critically"] = {
 		[1] = 991,
@@ -51514,15 +51525,15 @@ DPSMateAbility = {
 	["Brood Affliction: Red"] = {
 		[1] = 536,
 	},
-	["Insect Swarm"] = {
-		[1] = 316,
-		[2] = "Magic",
+	["Backstab"] = {
+		[1] = 49,
 	},
-	["Shadow Power"] = {
-		[1] = 723,
+	["Warrior's Resolve"] = {
+		[1] = 70,
 	},
-	["Thorns"] = {
-		[1] = 159,
+	["Lava Spout Totem"] = {
+		[1] = 975,
+		[3] = "fire",
 	},
 	["Shadow Storm"] = {
 		[1] = 728,
@@ -51531,61 +51542,60 @@ DPSMateAbility = {
 	["Sapta Sight"] = {
 		[1] = 888,
 	},
-	["Rupture(Periodic)"] = {
-		[1] = 188,
+	["Deadly Poison II(Periodic)"] = {
+		[1] = 1035,
+		[3] = "nature",
 	},
-	["Longsight"] = {
-		[1] = 1030,
+	["Infected Wound"] = {
+		[1] = 719,
+		[2] = "Disease",
 	},
 	["Curse of Weakness"] = {
 		[1] = 646,
 		[2] = "Curse",
 	},
-	["Instant Poison II"] = {
-		[1] = 901,
-		[3] = "nature",
+	["Mortal Wound"] = {
+		[1] = 404,
 	},
-	["Sanctuary"] = {
-		[1] = 1043,
-	},
-	["Nature's Grasp"] = {
-		[1] = 489,
-	},
-	["Immolate"] = {
-		[1] = 326,
+	["Screech"] = {
+		[1] = 663,
 		[2] = "Magic",
-		[3] = "fire",
+	},
+	["Bite"] = {
+		[1] = 502,
+	},
+	["Blessing of Protection"] = {
+		[1] = 367,
 	},
 	["Mace Stun Effect"] = {
 		[1] = 595,
 		[2] = "Magic",
 	},
-	["Chain Heal"] = {
-		[1] = 193,
+	["Combustion"] = {
+		[1] = 171,
 	},
-	["Revenge Stun"] = {
-		[1] = 578,
+	["Deadly Poison IV(Periodic)"] = {
+		[1] = 392,
+		[3] = "nature",
 	},
-	["Arcane Explosion"] = {
-		[1] = 219,
-		[3] = "arcane",
+	["Sanctuary"] = {
+		[1] = 1043,
 	},
-	["Gnomish Death Ray(Periodic)"] = {
-		[1] = 560,
+	["Tidal Charm"] = {
+		[1] = 657,
 	},
-	["Track Elementals"] = {
-		[1] = 1045,
+	["Holy Fire(Periodic)"] = {
+		[1] = 273,
+		[3] = "holy",
 	},
-	["Parasitic Serpent"] = {
-		[1] = 275,
+	["Fire Shield III"] = {
+		[1] = 1058,
 	},
-	["Breath"] = {
-		[1] = 222,
-		[3] = "fire",
+	["Cower"] = {
+		[1] = 1024,
 	},
-	["Firebolt"] = {
-		[1] = 162,
-		[3] = "fire",
+	["Eyes of the Beast"] = {
+		[1] = 838,
 	},
 	["Beast Lore"] = {
 		[1] = 1061,
@@ -51593,39 +51603,40 @@ DPSMateAbility = {
 	["Holy Power"] = {
 		[1] = 389,
 	},
-	["Battle Fury"] = {
-		[1] = 903,
+	["Immune Charm/Fear/Polymorph"] = {
+		[1] = 1021,
 	},
-	["Skullforge Brand"] = {
-		[1] = 601,
+	["Breath"] = {
+		[1] = 222,
+		[3] = "fire",
 	},
-	["Chain Lightning"] = {
-		[1] = 38,
-		[3] = "nature",
+	["Attack"] = {
+		[1] = 207,
+		[3] = "fire",
 	},
-	["Blessing of Freedom"] = {
-		[1] = 68,
+	["Mongoose Bite"] = {
+		[1] = 301,
 	},
 	["Cheap Shot"] = {
 		[1] = 46,
 		[2] = "Rank 2",
 	},
-	["Perception"] = {
-		[1] = 371,
+	["Deadly Poison"] = {
+		[1] = 963,
+		[2] = "Poison",
 	},
-	["Healing Wave critically"] = {
-		[1] = 990,
+	["Magma Totem"] = {
+		[1] = 212,
+		[3] = "fire",
 	},
-	["Cadaver Worms(Periodic)"] = {
-		[1] = 687,
-		[3] = "shadow",
+	["Healing Wave"] = {
+		[1] = 103,
 	},
-	["Deterrence"] = {
-		[1] = 546,
+	["Cure Disease"] = {
+		[1] = 866,
 	},
-	["Void Bolt"] = {
-		[1] = 928,
-		[3] = "shadow",
+	["Enrage"] = {
+		[1] = 158,
 	},
 	["Conflagration(Periodic)"] = {
 		[1] = 457,
@@ -51635,22 +51646,22 @@ DPSMateAbility = {
 		[1] = 743,
 		[2] = "Magic",
 	},
-	["Uppercut"] = {
-		[1] = 394,
+	["Detect Greater Invisibility"] = {
+		[1] = 309,
 	},
-	["Nightmare"] = {
-		[1] = 883,
+	["Ground Stomp"] = {
+		[1] = 483,
+		[2] = "Magic",
 	},
-	["Venom Sting"] = {
-		[1] = 814,
-		[2] = "Poison",
-		[3] = "nature",
+	["Forsaken Skills"] = {
+		[1] = 924,
 	},
-	["Well Fed"] = {
-		[1] = 765,
+	["Greater Intellect"] = {
+		[1] = 764,
 	},
-	["Bonespike"] = {
-		[1] = 638,
+	["Void Bolt"] = {
+		[1] = 928,
+		[3] = "shadow",
 	},
 	["Magma Shackles"] = {
 		[1] = 470,
@@ -51660,11 +51671,12 @@ DPSMateAbility = {
 		[1] = 810,
 		[3] = "arcane",
 	},
-	["Bladestorm"] = {
-		[1] = 1063,
+	["Localized Toxin(Periodic)"] = {
+		[1] = 875,
+		[3] = "nature",
 	},
-	["Dire Bear Form"] = {
-		[1] = 108,
+	["Pounce Bleed(Periodic)"] = {
+		[1] = 632,
 	},
 	["Eye Beam"] = {
 		[1] = 748,
@@ -51673,9 +51685,8 @@ DPSMateAbility = {
 	["Spirit Tap"] = {
 		[1] = 620,
 	},
-	["Digestive Acid(Periodic)"] = {
-		[1] = 751,
-		[3] = "nature",
+	["Fire Vulnerability"] = {
+		[1] = 182,
 	},
 	["Shred"] = {
 		[1] = 604,
@@ -51683,52 +51694,52 @@ DPSMateAbility = {
 	["Cannibalize"] = {
 		[1] = 797,
 	},
-	["Shadow Word: Pain(Periodic)"] = {
-		[1] = 94,
-		[3] = "shadow",
+	["Gouge"] = {
+		[1] = 176,
 	},
-	["Major Healthstone"] = {
-		[1] = 56,
+	["Earthbind"] = {
+		[1] = 524,
+		[2] = "Magic",
 	},
 	["Mangle(Periodic)"] = {
 		[1] = 487,
 	},
-	["Shield Bash"] = {
-		[1] = 179,
+	["Berserking"] = {
+		[1] = 8,
 	},
 	["Orb of Deception"] = {
 		[1] = 499,
 	},
-	["Ghost"] = {
-		[1] = 291,
+	["Shield Bash"] = {
+		[1] = 179,
+	},
+	["Curse of Doom"] = {
+		[1] = 655,
+	},
+	["Slowing Poison"] = {
+		[1] = 846,
 		[2] = "Poison",
 	},
-	["Blood Craze(Periodic)"] = {
-		[1] = 552,
+	["Royal Guard's Knockback"] = {
+		[1] = 732,
 	},
-	["Arcane Shot"] = {
-		[1] = 26,
-		[3] = "arcane",
-	},
-	["Acid Volley"] = {
-		[1] = 771,
-		[2] = "Magic",
-	},
-	["Damage Absorb"] = {
-		[1] = 1032,
+	["Dire Bear Form"] = {
+		[1] = 108,
 	},
 	["Greater Blessing of Wisdom"] = {
 		[1] = 112,
 	},
-	["Improved Wing Clip"] = {
-		[1] = 667,
+	["Soul Tap"] = {
+		[1] = 699,
+		[2] = "Magic",
+		[3] = "shadow",
 	},
 	["Healing Touch"] = {
 		[1] = 344,
 	},
-	["Weakened Soul"] = {
-		[1] = 24,
-		[2] = "Curse",
+	["Sonic Burst"] = {
+		[1] = 259,
+		[2] = "Magic",
 	},
 	["Curse of the Fallen Magram"] = {
 		[1] = 1059,
@@ -51739,11 +51750,11 @@ DPSMateAbility = {
 		[2] = "Rank 4",
 		[3] = "shadow",
 	},
-	["Strength of Stone"] = {
-		[1] = 913,
+	["Aspect of the Monkey"] = {
+		[1] = 549,
 	},
-	["Flame Shock(Periodic)"] = {
-		[1] = 233,
+	["Flamestrike(Periodic)"] = {
+		[1] = 295,
 		[3] = "fire",
 	},
 	["Berserker Charge"] = {
@@ -51759,30 +51770,35 @@ DPSMateAbility = {
 	["Viper Sting"] = {
 		[1] = 548,
 	},
-	["Brood Affliction: Bronze"] = {
-		[1] = 539,
+	["Vicious Bite"] = {
+		[1] = 939,
 	},
-	["First Aid(Periodic)"] = {
-		[1] = 809,
+	["Holy Fire"] = {
+		[1] = 272,
+		[3] = "holy",
 	},
-	["Deadly Poison IV"] = {
-		[1] = 391,
+	["Toxic Spit"] = {
+		[1] = 876,
+		[3] = "nature",
 	},
 	["Sneak"] = {
 		[1] = 867,
 	},
-	["Battle Shout"] = {
-		[1] = 59,
+	["Retaliation"] = {
+		[1] = 269,
 	},
-	["Tail Lash"] = {
-		[1] = 544,
+	["Poison Bolt Volley"] = {
+		[1] = 281,
+		[2] = "Poison",
+		[3] = "nature",
+	},
+	["Corrosive Acid Breath"] = {
+		[1] = 643,
 		[2] = "Magic",
+		[3] = "nature",
 	},
-	["Kiss of the Spider"] = {
-		[1] = 160,
-	},
-	["Greater Polymorph"] = {
-		[1] = 529,
+	["Ink Spray"] = {
+		[1] = 1065,
 		[2] = "Magic",
 	},
 	["Thundercrack"] = {
@@ -51797,38 +51813,40 @@ DPSMateAbility = {
 		[1] = 174,
 		[3] = "shadow",
 	},
-	["Pick Pocket"] = {
-		[1] = 808,
+	["Firebolt"] = {
+		[1] = 162,
+		[3] = "fire",
 	},
-	["Arcane Elixir"] = {
-		[1] = 151,
+	["Nightmare"] = {
+		[1] = 883,
 	},
 	["Acid Volley(Periodic)"] = {
 		[1] = 772,
 		[3] = "nature",
 	},
-	["Agamaggan's Strength"] = {
-		[1] = 849,
+	["Shackle Undead"] = {
+		[1] = 1060,
 	},
-	["Thorns Aura"] = {
-		[1] = 970,
+	["Unending Breath"] = {
+		[1] = 313,
 	},
-	["Blood Pact"] = {
-		[1] = 86,
+	["Poison Cloud"] = {
+		[1] = 276,
+		[2] = "Poison",
 	},
-	["Cat Form"] = {
-		[1] = 116,
-	},
-	["Consecration(Periodic)"] = {
-		[1] = 495,
-		[3] = "holy",
-	},
-	["Divine Spirit"] = {
-		[1] = 30,
-	},
-	["Scorch"] = {
-		[1] = 35,
+	["Lava"] = {
+		[1] = 438,
 		[3] = "fire",
+	},
+	["Starfire Stun"] = {
+		[1] = 649,
+	},
+	["Gift of Life"] = {
+		[1] = 579,
+	},
+	["Frost Burn"] = {
+		[1] = 538,
+		[3] = "frost",
 	},
 	["Bone Armor"] = {
 		[1] = 696,
@@ -51927,19 +51945,6 @@ DPSMateThreat = {
 DPSMateAurasGained = {
 	[1] = {
 		[13364] = {
-			[15] = {
-				[1] = {
-					[1] = 1,
-				},
-				[2] = {
-				},
-				[3] = {
-					[4] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
 			[135] = {
 				[1] = {
 					[1] = 1,
@@ -51957,19 +51962,6 @@ DPSMateAurasGained = {
 	},
 	[2] = {
 		[13364] = {
-			[15] = {
-				[1] = {
-					[1] = 1,
-				},
-				[2] = {
-				},
-				[3] = {
-					[4] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
 			[135] = {
 				[1] = {
 					[1] = 1,
@@ -52001,7 +51993,7 @@ DPSMateCombatTime = {
 DPSMateHistory = {
 	["EDDone"] = {
 	},
-	["DMGTaken"] = {
+	["Fails"] = {
 	},
 	["OHealing"] = {
 	},
@@ -52011,31 +52003,31 @@ DPSMateHistory = {
 	},
 	["EDTaken"] = {
 	},
-	["Interrupts"] = {
+	["CCBreaker"] = {
 	},
-	["Deaths"] = {
+	["Threat"] = {
 	},
 	["Dispels"] = {
 	},
 	["THealingTaken"] = {
 	},
-	["CCBreaker"] = {
-	},
-	["Fails"] = {
-	},
-	["THealing"] = {
-	},
-	["Threat"] = {
+	["EHealingTaken"] = {
 	},
 	["Auras"] = {
 	},
-	["Absorbs"] = {
+	["THealing"] = {
 	},
 	["OHealingTaken"] = {
 	},
+	["Absorbs"] = {
+	},
+	["Deaths"] = {
+	},
+	["DMGTaken"] = {
+	},
 	["DMGDone"] = {
 	},
-	["EHealingTaken"] = {
+	["Interrupts"] = {
 	},
 }
 DPSMateAttempts = {

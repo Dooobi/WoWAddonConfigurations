@@ -12,7 +12,7 @@ AtlasLootCharDB = {
 	["HidePanel"] = false,
 	["MinimapButtonRadius"] = 78,
 	["FirstTime"] = true,
-	["LastBoss"] = "RFDLadyF",
+	["LootlinkTT"] = false,
 	["PartialMatching"] = true,
 	["WishList"] = {
 		[1] = {
@@ -51,14 +51,14 @@ AtlasLootCharDB = {
 			[5] = "SMATrash|AtlasLootItems",
 		},
 	},
-	["LastSearchedText"] = "Speedsteel",
+	["MinimapButtonPosition"] = 187,
 	["EquipCompare"] = false,
 	["AllLinks"] = false,
 	["QuickLooks"] = {
 	},
 	["AtlasLootVersion"] = "40605",
-	["MinimapButtonPosition"] = 187,
+	["LastSearchedText"] = "Speedsteel",
 	["ItemSpam"] = true,
 	["MinimapButton"] = true,
-	["LootlinkTT"] = false,
+	["LastBoss"] = "RFDLadyF",
 }
