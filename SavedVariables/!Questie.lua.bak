@@ -1,0 +1,213 @@
+
+QuestieSeenQuests = {
+	[3388528800] = 0,
+	[3989126474] = 1,
+	[3043002304] = 1,
+	[1517467578] = 0,
+	[914142338] = 0,
+	[2303129178] = 0,
+	[2208421042] = 0,
+	[3846293312] = 1,
+	[4292059298] = 0,
+	[3785779498] = 0,
+	[2352886930] = 0,
+	[3464359170] = 0,
+	[2350133634] = 0,
+	[3767370266] = 0,
+	[2418198176] = 0,
+}
+QuestieTrackedQuests = {
+	[3785779498] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Raptor Head: 0/12",
+		},
+		["leaderboards"] = 1,
+		["questName"] = "Raptor Thieves",
+		["level"] = 13,
+		["tracked"] = false,
+	},
+	[1517467578] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Zhevra Hooves: 1/4",
+		},
+		["leaderboards"] = 1,
+		["questName"] = "The Zhevra",
+		["level"] = 13,
+		["tracked"] = true,
+		["arrowPoint"] = {
+			["hash"] = 1517467578,
+			["c"] = 1,
+			["dist"] = 207.1082307780583,
+			["yDelta"] = -155.6338959427598,
+			["xDelta"] = 136.6451963652425,
+			["y"] = 0.3532,
+			["x"] = 0.5427,
+			["title"] = "|cFFFFFF00[13] The Zhevra|r",
+			["z"] = 17,
+		},
+	},
+	[2208421042] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "event",
+			["desc"] = "Explore the waters of the Forgotten Pools",
+		},
+		["leaderboards"] = 1,
+		["questName"] = "The Forgotten Pools",
+		["level"] = 13,
+		["tracked"] = false,
+	},
+	[3388528800] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "monster",
+			["desc"] = "Bazzalan slain: 0/1",
+		},
+		["tracked"] = false,
+		["objective2"] = {
+			["notes"] = {
+			},
+			["type"] = "monster",
+			["desc"] = "Jergosh the Invoker slain: 0/1",
+		},
+		["questName"] = "Hidden Enemies",
+		["questTag"] = "Dungeon",
+		["leaderboards"] = 2,
+		["level"] = 16,
+	},
+	[2350133634] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Spells of Shadow: 0/1",
+		},
+		["tracked"] = false,
+		["objective2"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Incantations from the Nether: 0/1",
+		},
+		["questName"] = "The Power to Destroy...",
+		["questTag"] = "Dungeon",
+		["leaderboards"] = 2,
+		["level"] = 16,
+	},
+	[3464359170] = {
+		["tracked"] = false,
+		["questName"] = "Searching for the Lost Satchel",
+		["questTag"] = "Dungeon",
+		["leaderboards"] = 0,
+		["level"] = 16,
+	},
+	[2352886930] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Crossroads' Supply Crates: 0/1",
+		},
+		["leaderboards"] = 1,
+		["questName"] = "Supplies for the Crossroads",
+		["level"] = 14,
+		["tracked"] = false,
+	},
+	[2418198176] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Taragaman the Hungerer's Heart: 0/1",
+		},
+		["tracked"] = false,
+		["arrowPoint"] = {
+			["hash"] = 2418198176,
+			["c"] = 1,
+			["dist"] = 265.8776220983669,
+			["yDelta"] = 106.3075428775041,
+			["xDelta"] = 243.699848707441,
+			["y"] = 0.4877,
+			["x"] = 0.5301,
+			["title"] = "|cFFFF1A1A[16+] Slaying the Beast|r",
+			["z"] = 12,
+		},
+		["questName"] = "Slaying the Beast",
+		["questTag"] = "Dungeon",
+		["leaderboards"] = 1,
+		["level"] = 16,
+	},
+	[3767370266] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "monster",
+			["desc"] = "Ragefire Trogg slain: 0/8",
+		},
+		["tracked"] = false,
+		["objective2"] = {
+			["notes"] = {
+			},
+			["type"] = "monster",
+			["desc"] = "Ragefire Shaman slain: 0/8",
+		},
+		["questName"] = "Testing an Enemy's Strength",
+		["questTag"] = "Dungeon",
+		["leaderboards"] = 2,
+		["level"] = 15,
+	},
+	[914142338] = {
+		["tracked"] = false,
+		["isComplete"] = 1,
+		["questName"] = "Wharfmaster Dizzywig",
+		["leaderboards"] = 0,
+		["level"] = 11,
+	},
+	[2303129178] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Fungal Spores: 0/4",
+		},
+		["leaderboards"] = 1,
+		["questName"] = "Fungal Spores",
+		["level"] = 15,
+		["tracked"] = false,
+	},
+}
+QuestieConfig = {
+	["minLevelFilter"] = false,
+	["maxShowLevel"] = 3,
+	["getVersion"] = 3.3,
+	["alwaysShowDistance"] = false,
+	["boldColors"] = false,
+	["arrowEnabled"] = true,
+	["showMapAids"] = true,
+	["trackerEnabled"] = true,
+	["showProfessionQuests"] = false,
+	["minShowLevel"] = 5,
+	["alwaysShowQuests"] = true,
+	["resizeWorldmap"] = false,
+	["alwaysShowLevel"] = true,
+	["showTrackerHeader"] = false,
+	["trackerList"] = false,
+	["maxLevelFilter"] = false,
+}
+QuestieTrackerVariables = {
+	["position"] = {
+		["relativeTo"] = "UIParent",
+		["point"] = "LEFT",
+		["relativePoint"] = "LEFT",
+		["yOfs"] = 0,
+		["xOfs"] = 0,
+	},
+}

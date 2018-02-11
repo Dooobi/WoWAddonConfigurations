@@ -1,0 +1,4 @@
+MACRO 16777217 "CheapShotTrick" Ability_CheapShot
+/cast Cheap Shot
+/run ClearTarget()
+END
